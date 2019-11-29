@@ -32,19 +32,20 @@ diac = ('\u0330', '\u0303')
 
 def main():
     df = pd.read_csv(in_file, encoding='UTF-8')
-    df['matches'] = [None for i in range( len(df) )]
+    df['matches'] = [None for i in range(len(df))]
     
     total = len(df) - len(df)%10
 
     for index, row in df.iterrows():
-        if total // (index+1) in list( range(1,11) ):
+        if total / (index+1) in range(1,11):
             print(11 - 10 * ((index+1)/total))
         broad = row['ipa']
-        these_matches = get_matches(broad, df)
+        this_id = row['entry_id']
+        these_matches = get_matches(broad, df, this_id)
         df.loc[index, 'matches'] = these_matches
         
     add_bom(df)
-    df.to_csv(out_file)
+    df.to_csv(out_file, encoding='utf8', index=False)
 
 def ignore_null(f):
     def g(s, *args, **kwargs):
@@ -55,20 +56,23 @@ def ignore_null(f):
     return g
 
 @ignore_null    
-def get_matches(broad, df):
+def get_matches(broad, df, this_id):
     by_sylls = get_by_sylls(broad)
     matches = []
     for substr in by_sylls:
-        matches.extend(match_substr(substr, df))
+        matches.extend(match_substr(substr, df, this_id))
 
     return list( set(matches) ) # why cast once when you can do it twice?
     
-def match_substr(substr, df):
+def match_substr(substr, df, this_id):
     matches = []
     for index, row in df.iterrows():
+        ipa = row['ipa']
         headword = row['headword']
         eid = row['entry_id']
-        score = lev.get_distance(substr, headword, True)
+        if eid == this_id:
+            continue
+        score = lev.get_distance(substr, ipa, True)
         if score > 0.85:
             matches.append( (headword, eid, score) )
     return matches
@@ -98,7 +102,6 @@ def get_syllables(s):
     s=' '.join(s)
     out = []
     this_syll = ''
-    prev=''
     for i, char in enumerate(s):
         if char in vowels: #possible syllable boundary
             this_syll += char
@@ -117,7 +120,6 @@ def get_syllables(s):
             out[-1]+=char
         else:
             this_syll += char #base case
-        prev=char
     return out
 
 def add_bom(df):
