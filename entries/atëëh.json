@@ -1,0 +1,28 @@
+{
+  "headword": "atëëh",
+  "entry_id": "atëëh_7e4715cc-02ed-41de-b7e8-6d2b30d174cd",
+  "morph_type": "stem",
+  "pronunciation": "atə:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "16134e8b-c30e-4f5d-9ae5-02f30c6f29a6",
+      "pos": "v",
+      "gloss": {
+        "pt": "estar.caindo"
+      },
+      "def": {
+        "pt": "estar caindo (só árvore e galho)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

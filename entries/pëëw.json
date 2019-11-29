@@ -1,0 +1,25 @@
+{
+  "headword": "pëëw",
+  "entry_id": "pëëw_bc51e1f0-68ce-4051-b925-7b7eef2ce693",
+  "morph_type": "stem",
+  "pronunciation": "pə:w",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "4b0fb19d-e66c-483b-9ab8-4dc75471caf3",
+      "pos": "Noun",
+      "gloss": {
+        "en": "loincloth",
+        "pt": "tanga"
+      },
+      "def": {
+        "en": "loincloth",
+        "pt": "tanga; tapa-sexo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

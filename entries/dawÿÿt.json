@@ -1,0 +1,37 @@
+{
+  "headword": "dawÿÿt",
+  "entry_id": "dawëët_c3758ea2-d00a-4913-904a-8eee6d7c0ae1",
+  "morph_type": "stem",
+  "pronunciation": "daˈwǝ:ʔ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ],
+    [
+      "problem:  daˈwǝ:ʔ or dawˈɨ:ʔ",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "82cbb80d-ed11-47dc-9f68-af19cb7de65d",
+      "pos": "adv",
+      "gloss": {
+        "en": "far",
+        "pt": "longe"
+      },
+      "def": {
+        "en": "far",
+        "pt": "longe"
+      },
+      "reverse": null,
+      "note": [
+        "check spelling ëë/yy?",
+        "phonology"
+      ],
+      "var_of_sense": []
+    }
+  ]
+}

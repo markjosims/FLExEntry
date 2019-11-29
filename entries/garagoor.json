@@ -1,0 +1,30 @@
+{
+  "headword": "garagoor",
+  "entry_id": "garagoor_57e621a4-fa0b-4684-93a2-795b1b3fc912",
+  "morph_type": "stem",
+  "pronunciation": "k’aɾaʔˈk’o:rǝ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5dc99bde-963c-4cb5-bda3-85b9cb40187b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "throat",
+        "pt": "garganta"
+      },
+      "def": {
+        "en": "throat",
+        "pt": "garganta"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

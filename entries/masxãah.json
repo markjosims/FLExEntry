@@ -1,0 +1,26 @@
+{
+  "headword": "masxãah",
+  "entry_id": "masxãah_5ecd9230-e108-4922-aecb-9b7a921ae9b2",
+  "morph_type": "stem",
+  "pronunciation": "maʃã̰ːh",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c8403b45-cc68-47ac-9602-2b09017e0c40",
+      "pos": "Noun",
+      "gloss": {
+        "en": "pet"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

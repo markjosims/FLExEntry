@@ -1,0 +1,30 @@
+{
+  "headword": "awän",
+  "entry_id": "awän_16edbafa-9f23-4587-bd92-330bd1726f90",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈwʌdn",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b9e2ce71-7e64-4bc5-a0f2-5a4e97d81265",
+      "pos": "Noun",
+      "gloss": {
+        "en": "waterfall",
+        "pt": "cachoeira"
+      },
+      "def": {
+        "en": "waterfall; rapid",
+        "pt": "cachoeira"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

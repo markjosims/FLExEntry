@@ -1,0 +1,28 @@
+{
+  "headword": "hõõnh",
+  "entry_id": "hõõnh_42868451-c808-4d59-afa0-bd2bce2b61dc",
+  "morph_type": "stem",
+  "pronunciation": "hõ:ɲ",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 15",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b49180bf-eefb-4aa6-8293-79d90f0ee643",
+      "pos": "v",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

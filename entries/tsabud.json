@@ -1,0 +1,30 @@
+{
+  "headword": "tsabud",
+  "entry_id": "tsabud_a11cacd5-6a89-4610-a116-102feb4799f7",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fielnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "93baf37f-6deb-47a4-b509-4d183d5e9024",
+      "pos": "Noun",
+      "gloss": {
+        "en": "electric.eel",
+        "pt": "poraquê"
+      },
+      "def": {
+        "en": "electric.eel",
+        "pt": "poraquê"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

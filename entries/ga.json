@@ -1,0 +1,27 @@
+{
+  "headword": "ga",
+  "entry_id": "ga_3a3057b8-06f5-4c13-8074-15a199fc3bb5",
+  "morph_type": "stem",
+  "pronunciation": "ga",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "903adfbe-343b-4267-b1a1-10e5581a01b6",
+      "pos": "pre",
+      "gloss": {
+        "en": "inside.of",
+        "pt": "dentro"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

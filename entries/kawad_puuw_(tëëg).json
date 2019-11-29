@@ -1,0 +1,25 @@
+{
+  "headword": "kawad puuw (tëëg)",
+  "entry_id": "kawad puuw (tëëg)_083ca43d-56d8-4a51-98c4-4109ef14938b",
+  "morph_type": "phrase",
+  "pronunciation": "kawad̚ pu:w  tə:g̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c72b8439-5d2b-4279-bda9-8034d3430c1b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "kapok",
+        "pt": "sumaumeira"
+      },
+      "def": {
+        "en": "kapok",
+        "pt": "sumaumeira"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

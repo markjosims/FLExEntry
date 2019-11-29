@@ -1,0 +1,28 @@
+{
+  "headword": "adäk",
+  "entry_id": "adäk1_774abf52-37f4-472c-9e05-0d6566bafdfe",
+  "morph_type": "stem",
+  "pronunciation": "adʌk",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "e3697b1e-4f93-4ceb-ad0c-61c4a1dfff2d",
+      "pos": "v",
+      "gloss": {
+        "pt": "estar"
+      },
+      "def": {
+        "pt": "pendurado; estar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

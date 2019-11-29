@@ -1,0 +1,28 @@
+{
+  "headword": "wãã",
+  "entry_id": "wãã_173a9672-acc9-46fd-bfc1-a486ca2c20b6",
+  "morph_type": "stem",
+  "pronunciation": "wã:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c636c551-14df-4f20-859b-8bdd92d2d7c7",
+      "pos": "n",
+      "gloss": {
+        "pt": "grelo.de.buriti"
+      },
+      "def": {
+        "pt": "grelo de buriti"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

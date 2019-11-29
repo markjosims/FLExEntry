@@ -1,0 +1,28 @@
+{
+  "headword": "ahëm",
+  "entry_id": "ahëm_2233b178-4a4e-4474-b254-faec3afad8b2",
+  "morph_type": "stem",
+  "pronunciation": "ahəm",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a4aea16f-64e1-4bdc-8411-ad2ed5a6900c",
+      "pos": "v",
+      "gloss": {
+        "pt": "bater.vento"
+      },
+      "def": {
+        "pt": "bater vento; acenar com a mão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

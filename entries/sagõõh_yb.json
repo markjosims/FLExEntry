@@ -1,0 +1,30 @@
+{
+  "headword": "sagõõh yb",
+  "entry_id": "sagõõh yb_f083511e-addf-40a3-a079-eb13664e75e9",
+  "morph_type": "phrase",
+  "pronunciation": "ʃaʔkõ:h ʔɨb̚",
+  "variant": null,
+  "note": [
+    [
+      "lit. estrela-pai",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "7dcfdba2-85a0-4d7b-8c78-61ae089477d7",
+      "pos": "Noun",
+      "gloss": {
+        "en": "centipede",
+        "pt": "centopéia"
+      },
+      "def": {
+        "en": "centipede",
+        "pt": "centopéia"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

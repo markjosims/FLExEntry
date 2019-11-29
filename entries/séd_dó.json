@@ -1,0 +1,28 @@
+{
+  "headword": "séd dó",
+  "entry_id": "séd dó_dec64b24-27e5-4a0b-9b8d-4a7cb969f5b6",
+  "morph_type": "phrase",
+  "pronunciation": "ʃɛd dɔ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d403fd87-08d6-4339-91d7-48b0e305cb2c",
+      "pos": "adv",
+      "gloss": {
+        "pt": "muitos"
+      },
+      "def": {
+        "pt": "muitos"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

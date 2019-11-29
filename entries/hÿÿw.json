@@ -1,0 +1,25 @@
+{
+  "headword": "hÿÿw",
+  "entry_id": "hëëw/hyyw_e3e69eca-b141-4371-89c7-fb0f3deefb05",
+  "morph_type": "stem",
+  "pronunciation": "hə:w hɨ:w",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "3015ede9-223e-4b61-8d13-e3ee3cd7bfd9",
+      "pos": "Noun",
+      "gloss": {
+        "en": "white.fronted.capuchin",
+        "pt": "caiarara"
+      },
+      "def": {
+        "en": "White fronted capuchin",
+        "pt": "Caiarara"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "headword": "aj’oog",
+  "entry_id": "aj’oog_4eda5c75-4a85-49e4-b922-0ae5fbf34b5f",
+  "morph_type": "stem",
+  "pronunciation": "ʔajoʔog̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "782aa7e4-2f8a-444f-a532-bbad6310f3c0",
+      "pos": "Noun",
+      "gloss": {
+        "en": "giant.otter",
+        "pt": "ariranha"
+      },
+      "def": {
+        "en": "Giant Otter",
+        "pt": "ariranha"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

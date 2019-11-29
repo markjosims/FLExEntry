@@ -1,0 +1,26 @@
+{
+  "headword": "dʉ́ng",
+  "entry_id": "dʉ́ng_da019cd9-ee6c-4770-86c2-2894aa3e5733",
+  "morph_type": "stem",
+  "pronunciation": "dʌŋ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "32f40b45-9213-485c-9865-f67b353bb7fb",
+      "pos": "Verb",
+      "gloss": {
+        "en": "fall.unitary (sg?)"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

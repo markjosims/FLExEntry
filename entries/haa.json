@@ -1,0 +1,25 @@
+{
+  "headword": "haa",
+  "entry_id": "haa_6a83eb37-c1ab-4dc2-8210-1d9195abca43",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "3b8d05e1-1001-4095-b050-bf8168d107b1",
+      "pos": "pro",
+      "gloss": {
+        "en": "1sg.POSS.PL",
+        "pt": "1sg.POSS.PL"
+      },
+      "def": {
+        "en": "1st person possessive pronoun; plural possessed entity",
+        "pt": "pronome possessivo; 1 pessoa singular; possuido plural"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "hẽnh",
+  "entry_id": "hẽnh_63c8102a-b241-4712-a838-70b21b5a086e",
+  "morph_type": "stem",
+  "pronunciation": "hɛ̃ɲ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "84d82e2b-10a2-4d5b-bf3b-843910321938",
+      "pos": "posp",
+      "gloss": {
+        "pt": "locativo.contraste"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

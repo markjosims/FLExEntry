@@ -1,0 +1,30 @@
+{
+  "headword": "b’aa pëm",
+  "entry_id": "b’aa pëm_311ac980-0091-402a-b9f9-13163d494665",
+  "morph_type": "phrase",
+  "pronunciation": "baʔaʔ pǝbm",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "79d2e301-7bfd-4988-a779-174c6bb00c67",
+      "pos": "Noun",
+      "gloss": {
+        "en": "mushroom",
+        "pt": "cogumelo"
+      },
+      "def": {
+        "en": "mushroom",
+        "pt": "cogumelo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

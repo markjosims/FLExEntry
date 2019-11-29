@@ -1,0 +1,28 @@
+{
+  "headword": "hatsẽs",
+  "entry_id": "hatsẽs_12db76ea-c8ac-4f15-89a5-0229f5a6c28b",
+  "morph_type": "stem",
+  "pronunciation": "haɟɛ̃ʃ",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 10",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "24591e08-6e9a-4017-823b-a34774d951a7",
+      "pos": "v?",
+      "gloss": {
+        "pt": "espirrar?"
+      },
+      "def": {
+        "pt": "espirrar?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

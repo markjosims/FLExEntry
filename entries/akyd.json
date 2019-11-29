@@ -1,0 +1,28 @@
+{
+  "headword": "akyd",
+  "entry_id": "akyd_12fe21f8-bb0e-4ae4-b9d8-6a5754cbcb92",
+  "morph_type": "stem",
+  "pronunciation": "akɨd",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 15",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "880998ae-bfd2-4d3d-86d3-d0dde93b5c51",
+      "pos": "v?",
+      "gloss": {
+        "pt": "subir.árvore?"
+      },
+      "def": {
+        "pt": "subir.árvore?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

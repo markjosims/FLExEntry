@@ -1,0 +1,28 @@
+{
+  "headword": "tsebé",
+  "entry_id": "tsebé_35ae34bc-cad7-4025-a65c-496e623e57cf",
+  "morph_type": "stem",
+  "pronunciation": "ɟebɛ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "80399299-65ed-4736-a370-954faf01dad7",
+      "pos": "v",
+      "gloss": {
+        "pt": "alegre"
+      },
+      "def": {
+        "pt": "alegre"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

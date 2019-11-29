@@ -1,0 +1,26 @@
+{
+  "headword": "kaat",
+  "entry_id": "kaat3_f725bf08-256e-40b3-9475-6bbf23806316",
+  "morph_type": "stem",
+  "pronunciation": "kaːt",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990; Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "2e80dc55-4409-4848-9147-f500dc87416a",
+      "pos": "Noun",
+      "gloss": {
+        "en": "aunt"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

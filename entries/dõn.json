@@ -1,0 +1,30 @@
+{
+  "headword": "dõn",
+  "entry_id": "dõn_f8aa9537-e5b1-447e-b490-141ff2218678",
+  "morph_type": "stem",
+  "pronunciation": "dõn",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "eecdf965-0dfa-439b-9d66-bc36ac5865bb",
+      "pos": "n",
+      "gloss": {
+        "en": "hummingbird.big",
+        "pt": "beija.flor.grande"
+      },
+      "def": {
+        "en": "hummigbird (spec. big)",
+        "pt": "beija flor (esp. grande)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

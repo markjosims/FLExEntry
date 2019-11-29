@@ -1,0 +1,28 @@
+{
+  "headword": "tame tame",
+  "entry_id": "tame tame_007e8774-ab6b-4f2a-b53a-64b144453ab0",
+  "morph_type": "phrase",
+  "pronunciation": "tame tame",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a0d825d5-a0ae-402d-8201-6805e39cad0b",
+      "pos": "n",
+      "gloss": {
+        "pt": "árvore.sp"
+      },
+      "def": {
+        "pt": "esp. de árvore; tinta para pintar s cuias de casca dessa árvore"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

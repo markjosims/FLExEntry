@@ -1,0 +1,28 @@
+{
+  "headword": "tarabʹiir",
+  "entry_id": "tarabʹiir_0f63a383-1083-460b-8cde-add3326cf317",
+  "morph_type": "stem",
+  "pronunciation": "taɾabḭ:ɾ",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 3",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a5b82222-a737-4e50-89de-da16ef801861",
+      "pos": "n",
+      "gloss": {
+        "pt": "do.gapó"
+      },
+      "def": {
+        "pt": "esp. de manioca (do gapó)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

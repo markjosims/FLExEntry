@@ -1,0 +1,30 @@
+{
+  "headword": "tat'aah",
+  "entry_id": "tat&apos;aah_73df0f03-b64d-4afc-a11b-8558da89c891",
+  "morph_type": "stem",
+  "pronunciation": "tataʔah",
+  "variant": null,
+  "note": [
+    [
+      "great-grandson= tatat'aah",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "28c9eda7-a205-4e1f-8803-3608776f3a4c",
+      "pos": "Noun",
+      "gloss": {
+        "en": "grandson",
+        "pt": "neto"
+      },
+      "def": {
+        "en": "grandson",
+        "pt": "neto"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

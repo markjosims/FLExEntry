@@ -1,0 +1,28 @@
+{
+  "headword": "badoh",
+  "entry_id": "badoh_d512d2a8-ef7d-4a6c-9ee5-e0b11c89a6aa",
+  "morph_type": "stem",
+  "pronunciation": "badoh",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "27dd22f2-e058-4027-8ca4-434506629029",
+      "pos": "v",
+      "gloss": {
+        "pt": "não.ter"
+      },
+      "def": {
+        "pt": "não existir; não ter"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

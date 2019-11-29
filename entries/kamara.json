@@ -1,0 +1,25 @@
+{
+  "headword": "kamara",
+  "entry_id": "kamara_af85b9e0-1a4c-4e8f-8374-b9591d91f1fc",
+  "morph_type": "stem",
+  "pronunciation": "kabmãɾaʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "78f7de6c-c116-4da4-8294-89b1ce719807",
+      "pos": "Noun",
+      "gloss": {
+        "en": "termite",
+        "pt": "cupim"
+      },
+      "def": {
+        "en": "termite",
+        "pt": "cupim"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

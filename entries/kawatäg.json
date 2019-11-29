@@ -1,0 +1,25 @@
+{
+  "headword": "kawatäg",
+  "entry_id": "kawatäg_41aec77a-d380-4b9c-8389-8ca9c55826f6",
+  "morph_type": "stem",
+  "pronunciation": "kawatʌg̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "657465a3-bc4a-4209-974c-7a28d5cadc63",
+      "pos": "Noun",
+      "gloss": {
+        "en": "pottery.tree",
+        "pt": "caraipe"
+      },
+      "def": {
+        "en": "pottery tree",
+        "pt": "caraipe"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

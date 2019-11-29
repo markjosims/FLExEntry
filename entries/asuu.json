@@ -1,0 +1,28 @@
+{
+  "headword": "asuu",
+  "entry_id": "asuu_844f59f2-271d-44ac-98c6-25f13b1b75cf",
+  "morph_type": "stem",
+  "pronunciation": "aʃu:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c53f2fbb-8c11-46bf-980a-49a8c5d51bd7",
+      "pos": "v",
+      "gloss": {
+        "pt": "costurar"
+      },
+      "def": {
+        "pt": "costurar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

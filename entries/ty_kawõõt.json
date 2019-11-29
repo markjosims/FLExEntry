@@ -1,0 +1,28 @@
+{
+  "headword": "ty kawõõt",
+  "entry_id": "ty kawõõt_c9573917-f207-4d1c-b308-940b99075dc7",
+  "morph_type": "phrase",
+  "pronunciation": "tɨ kawõ:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c3128923-308c-455c-b2c9-3876c59ac537",
+      "pos": "v",
+      "gloss": {
+        "pt": "virar.olhos"
+      },
+      "def": {
+        "pt": "virar os olhos para olhar para rás"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "wɨk",
+  "entry_id": "wɨk_ae9733f8-5392-4f65-9a45-e0b93ea9affd",
+  "morph_type": "stem",
+  "pronunciation": "wɨk",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "300346bc-99e6-48dc-a4e9-aa192268039c",
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.heavy"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

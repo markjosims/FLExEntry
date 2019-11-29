@@ -1,0 +1,28 @@
+{
+  "headword": "buuj",
+  "entry_id": "buuj_54613d00-08ea-44ed-b996-59610ba3cac6",
+  "morph_type": "stem",
+  "pronunciation": "bu:j",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1dc2b52c-0251-466e-a1c1-ef2df999a24c",
+      "pos": "n",
+      "gloss": {
+        "pt": "feitiço"
+      },
+      "def": {
+        "pt": "feitiço"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

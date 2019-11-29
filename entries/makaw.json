@@ -1,0 +1,25 @@
+{
+  "headword": "makaw",
+  "entry_id": "makaw_b24906ef-a2ca-4269-ba43-42bf64eb4f27",
+  "morph_type": "stem",
+  "pronunciation": "mãkaw",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "dbfa060e-6355-4b31-bfc6-7fcc4b3756ef",
+      "pos": "Noun",
+      "gloss": {
+        "en": "gun",
+        "pt": "espingarda"
+      },
+      "def": {
+        "en": "gun",
+        "pt": "espingarda; fusil"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "headword": "ajuuj",
+  "entry_id": "ajuuj_c636872d-4da0-470d-930a-3449077f4643",
+  "morph_type": "stem",
+  "pronunciation": "aˈju:j",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "abf4734a-c5e3-4c9b-b4bf-daef551444aa",
+      "pos": "Noun",
+      "gloss": {
+        "en": "ant (spec.)",
+        "pt": "formiga (esp.)"
+      },
+      "def": {
+        "en": "ant (black; does not bite)",
+        "pt": "formiga (preta; não ferra)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

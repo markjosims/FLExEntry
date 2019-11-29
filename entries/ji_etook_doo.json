@@ -1,0 +1,30 @@
+{
+  "headword": "ji etook doo",
+  "entry_id": "ji etook doo_c1ddf700-e8d5-4369-a3ea-1e2cd3593151",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ ʔeto:k̚ do:ʔ",
+  "variant": null,
+  "note": [
+    [
+      "v. etook [pilar]",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "78afa6f4-9915-4e6d-9e46-e39ad3b58ca2",
+      "pos": "Noun",
+      "gloss": {
+        "en": "pestle",
+        "pt": "mão.de.pilão"
+      },
+      "def": {
+        "en": "pestle",
+        "pt": "mão de pilão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

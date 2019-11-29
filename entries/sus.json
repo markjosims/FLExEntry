@@ -1,0 +1,26 @@
+{
+  "headword": "sus",
+  "entry_id": "sus_3202a661-7935-4b2c-8a56-eee0585ad265",
+  "morph_type": "stem",
+  "pronunciation": "ʃuʃ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3a2bf46f-772c-4af4-8cf4-9c12bf26ef00",
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.dirty"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

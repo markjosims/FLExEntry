@@ -1,0 +1,25 @@
+{
+  "headword": "taats",
+  "entry_id": "taats_06fa1be1-fd07-4e5b-8efb-4684de883e8e",
+  "morph_type": "stem",
+  "pronunciation": "ta:ɟ̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "0bcbba71-1078-42e3-b6dc-dc251e2d8e8e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "small.drum",
+        "pt": "tambor"
+      },
+      "def": {
+        "en": "drum (small)",
+        "pt": "tambor"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

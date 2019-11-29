@@ -1,0 +1,30 @@
+{
+  "headword": "wabu",
+  "entry_id": "wabu_84cbb199-70f7-4c20-a174-1eeec4c14225",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "2fa64abe-8789-4608-b11c-6673593a90a2",
+      "pos": "n",
+      "gloss": {
+        "en": "pirarucu.fish",
+        "pt": "pirarucu"
+      },
+      "def": {
+        "en": "pirarucu fish",
+        "pt": "pirarucu"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

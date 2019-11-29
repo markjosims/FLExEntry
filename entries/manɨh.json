@@ -1,0 +1,26 @@
+{
+  "headword": "manɨh",
+  "entry_id": "manɨh_59b15e4a-d1a6-4c95-a8b5-4554b63a4cf8",
+  "morph_type": "stem",
+  "pronunciation": "manɨh",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0ac6008a-f953-448f-ade2-b00e79a69d60",
+      "pos": "manɨh",
+      "gloss": {
+        "en": "NEG"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

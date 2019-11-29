@@ -1,0 +1,28 @@
+{
+  "headword": "nu gasõõm",
+  "entry_id": "nu gasõõm_48dbda2f-b218-4d64-8db6-bd9b505c63ce",
+  "morph_type": "phrase",
+  "pronunciation": "nu gaʃõ:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6766b1ba-9d1c-4cda-b8d5-639662560974",
+      "pos": "v",
+      "gloss": {
+        "pt": "cabeça.apontada"
+      },
+      "def": {
+        "pt": "ter uma cabeça/chapéu apontada"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

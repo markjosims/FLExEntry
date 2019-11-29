@@ -1,0 +1,30 @@
+{
+  "headword": "gatsi",
+  "entry_id": "gatsi_29ca677d-a77a-474a-9262-92c3f2d2c95c",
+  "morph_type": "stem",
+  "pronunciation": "k’aˈɉiʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "097cba48-5a3b-43b6-9b56-37d8060efb00",
+      "pos": "Verb",
+      "gloss": {
+        "en": "squeeze",
+        "pt": "espremer"
+      },
+      "def": {
+        "en": "squeeze",
+        "pt": "espremer"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

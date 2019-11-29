@@ -1,0 +1,28 @@
+{
+  "headword": "padëëk",
+  "entry_id": "padëëk2_c5a1d925-6abb-4768-b075-d78b9ce0ee53",
+  "morph_type": "stem",
+  "pronunciation": "padə:k",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "996be76d-d27f-4c52-972f-368f85e36642",
+      "pos": "v p",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "pendurado; compl; to be"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "headword": "majoor",
+  "entry_id": "majoor_c276c6b7-c47e-43a9-a101-732c26dbba0d",
+  "morph_type": "stem",
+  "pronunciation": "mãjo:ɾᵊ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "9b7058c1-6c0d-4e6f-b310-176ad6fc0dd1",
+      "pos": "Noun",
+      "gloss": {
+        "en": "bead",
+        "pt": "miçanga"
+      },
+      "def": {
+        "en": "bead",
+        "pt": "miçanga"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

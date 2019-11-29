@@ -1,0 +1,28 @@
+{
+  "headword": "basooh",
+  "entry_id": "basooh2_c72d9c5c-d8fc-4c06-9f6d-f9ef9f262f1a",
+  "morph_type": "stem",
+  "pronunciation": "baʃo:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6297fa39-ffb5-4112-aceb-197bc34c59f5",
+      "pos": "n",
+      "gloss": {
+        "pt": "odor.da.transpiração"
+      },
+      "def": {
+        "pt": "odor da transpiração debaixo as axilas"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

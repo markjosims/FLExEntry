@@ -1,0 +1,25 @@
+{
+  "headword": "dén",
+  "entry_id": "dén_a34486b3-8510-4e08-b3a3-222244121a73",
+  "morph_type": "stem",
+  "pronunciation": "dɛdn",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "85079af8-aff3-4871-a735-d2c5e92c2349",
+      "pos": "Noun",
+      "gloss": {
+        "en": "flea",
+        "pt": "pulga"
+      },
+      "def": {
+        "en": "small flea; foot bug",
+        "pt": "pulga pequena; bicho-do-pé"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

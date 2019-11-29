@@ -1,0 +1,28 @@
+{
+  "headword": "tä nyy",
+  "entry_id": "tä nyy_d81ab449-4825-4c3d-868e-da12f084ab35",
+  "morph_type": "phrase",
+  "pronunciation": "tʌ nɨ:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "28b93402-207f-4897-bcc9-bc03eac8c7f2",
+      "pos": "n",
+      "gloss": {
+        "pt": "isca"
+      },
+      "def": {
+        "pt": "isca"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

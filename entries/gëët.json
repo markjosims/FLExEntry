@@ -1,0 +1,28 @@
+{
+  "headword": "gëët",
+  "entry_id": "gëët_80dd9aea-7e89-4714-a295-f1bddb8ebdda",
+  "morph_type": "stem",
+  "pronunciation": "gə:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3f036fac-b519-4356-8dd9-1eea00075b41",
+      "pos": "v",
+      "gloss": {
+        "pt": "apertar"
+      },
+      "def": {
+        "pt": "apertar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

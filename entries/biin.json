@@ -1,0 +1,26 @@
+{
+  "headword": "biin",
+  "entry_id": "biin3_e6e5bae8-d2ad-412e-b701-c994681eb9d5",
+  "morph_type": "stem",
+  "pronunciation": "biːn",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "15d49ce0-f774-48d7-9c2d-781886f6881d",
+      "pos": "Verb",
+      "gloss": {
+        "en": "treat n.i."
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

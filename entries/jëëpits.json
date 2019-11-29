@@ -1,0 +1,34 @@
+{
+  "headword": "jëëpits",
+  "entry_id": "jëëpits_eb704e72-9f60-4593-a8e4-b26a718a0183",
+  "morph_type": "stem",
+  "pronunciation": "jǝ:piɉ˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ],
+    [
+      "problem: jǝ:piɉ˺ or jǝ:pǝ:ɉ˺",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a18af3d6-d2b1-4fc0-aa21-f677209d5d19",
+      "pos": "adj?",
+      "gloss": {
+        "en": "yellow",
+        "pt": "amarelo"
+      },
+      "def": {
+        "en": "yellow",
+        "pt": "amarelo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "wób",
+  "entry_id": "wób_7fe65044-e9d0-4f98-b4ba-d4a27fd13172",
+  "morph_type": "stem",
+  "pronunciation": "wɔb",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c151d1cc-266b-4c08-9a1e-86bf232ecbe0",
+      "pos": "n p",
+      "gloss": {
+        "pt": "outros"
+      },
+      "def": {
+        "pt": "outros; uns"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

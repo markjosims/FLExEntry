@@ -1,0 +1,25 @@
+{
+  "headword": "jaw’ëëj yb",
+  "entry_id": "jaw’ëëj yb_d4cdd465-b55a-4bd7-8f21-2ceac090d175",
+  "morph_type": "phrase",
+  "pronunciation": "jawəʔəj ʔɨb̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "ab9ad476-f6b1-45ed-ae99-e665b17d239b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "white.fronted.spider.monkey",
+        "pt": "macaco .aranha"
+      },
+      "def": {
+        "en": "White-fronted spider monkey",
+        "pt": "macaco aranha; coatá; quatá"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

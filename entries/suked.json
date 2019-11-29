@@ -1,0 +1,30 @@
+{
+  "headword": "suked",
+  "entry_id": "suked_bd59b4dc-a884-4239-8082-4a8024871370",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1c4ff100-5751-4a42-8911-3f08864bb84d",
+      "pos": "Noun",
+      "gloss": {
+        "en": "toucan",
+        "pt": "tukano"
+      },
+      "def": {
+        "en": "toucan",
+        "pt": "tukano"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

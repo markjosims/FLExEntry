@@ -1,0 +1,30 @@
+{
+  "headword": "jook",
+  "entry_id": "jook1_20a62f2e-7271-429e-8256-71a0acc42b6d",
+  "morph_type": "stem",
+  "pronunciation": "jo:k˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "4d203bd3-3f0f-4b32-ab99-b512db4caacf",
+      "pos": "Noun",
+      "gloss": {
+        "en": "spear",
+        "pt": "lança"
+      },
+      "def": {
+        "en": "spear",
+        "pt": "lança"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

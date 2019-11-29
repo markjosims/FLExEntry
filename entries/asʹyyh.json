@@ -1,0 +1,28 @@
+{
+  "headword": "asʹyyh",
+  "entry_id": "asʹyyh_c75f7d44-6fb0-498b-9a97-862dd984bf7b",
+  "morph_type": "stem",
+  "pronunciation": "aʃɨ̰:h",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 3",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "90acd1dc-2c3b-4e1a-9e64-6d57612c8598",
+      "pos": "v?",
+      "gloss": {
+        "pt": "estar.sem.comida(?)"
+      },
+      "def": {
+        "pt": "estar sem comida (?)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

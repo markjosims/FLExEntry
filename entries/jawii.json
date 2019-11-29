@@ -1,0 +1,30 @@
+{
+  "headword": "jawii",
+  "entry_id": "jawii_a2ec988a-b045-49a0-8f4c-f240b2ebbe7d",
+  "morph_type": "stem",
+  "pronunciation": "jaʔˈwi:ʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "25e8d112-6ab9-4a75-ad19-cf3922cb1bea",
+      "pos": "n",
+      "gloss": {
+        "en": "grass",
+        "pt": "capim"
+      },
+      "def": {
+        "en": "grass",
+        "pt": "capim"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "edʹuuk",
+  "entry_id": "edʹuuk_1613de5c-4b41-4bc5-bfa4-7a967ead6a11",
+  "morph_type": "stem",
+  "pronunciation": "edṵ:k",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b986d563-6ca9-49bc-8bcc-867155a5b0e9",
+      "pos": "v",
+      "gloss": {
+        "pt": "pescar"
+      },
+      "def": {
+        "pt": "pescar com arpão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

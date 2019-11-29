@@ -1,0 +1,34 @@
+{
+  "headword": "tyyg",
+  "entry_id": "tyyg_aa58bcaf-dbda-4802-ad73-a4a3d2881445",
+  "morph_type": "stem",
+  "pronunciation": "tɨ:g",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ],
+    [
+      "problem:  tɨ:g or tǝ:g?",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6183cf2d-10a2-4e00-b5c6-5be7784feb1c",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fire",
+        "pt": "fogo"
+      },
+      "def": {
+        "en": "fire",
+        "pt": "fogo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

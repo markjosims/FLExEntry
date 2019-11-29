@@ -1,0 +1,30 @@
+{
+  "headword": "kasẽẽt",
+  "entry_id": "kasẽẽt_9ccc8900-65aa-408d-a918-f8282939f9b9",
+  "morph_type": "stem",
+  "pronunciation": "kaˈʃẽ:t˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "de8a5987-7c8e-4ab1-a9fa-afd1d4df7948",
+      "pos": "v",
+      "gloss": {
+        "en": "tear",
+        "pt": "rasgar"
+      },
+      "def": {
+        "en": "tear",
+        "pt": "rasgar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

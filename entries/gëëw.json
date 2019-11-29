@@ -1,0 +1,28 @@
+{
+  "headword": "gëëw",
+  "entry_id": "gëëw_70fc9c7c-beca-459a-a973-51d3d66e4ec4",
+  "morph_type": "stem",
+  "pronunciation": "gə:w",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0564e6eb-e843-4847-8845-9a7bbca7197e",
+      "pos": "n",
+      "gloss": {
+        "pt": "roça"
+      },
+      "def": {
+        "pt": "roça"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

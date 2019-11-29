@@ -1,0 +1,45 @@
+{
+  "headword": "mooh",
+  "entry_id": "mooh1_f3b52f1a-d90c-47a3-a82e-0f14c1209ae3",
+  "morph_type": "stem",
+  "pronunciation": "mɔ̃:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "221e6436-7db1-4f75-9fca-2ed8b869232e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "hand",
+        "pt": "mão"
+      },
+      "def": {
+        "en": "hand",
+        "pt": "mão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    },
+    {
+      "sense_id": "5476275b-a9c8-40f2-ad43-5657776bb111",
+      "pos": "Noun",
+      "gloss": {
+        "en": "tributary",
+        "pt": "afluente"
+      },
+      "def": {
+        "en": "tributary",
+        "pt": "afluente"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

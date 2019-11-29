@@ -1,0 +1,30 @@
+{
+  "headword": "nag’aad",
+  "entry_id": "nag’aad_a2653c1c-526b-4da1-aaeb-c2f393797942",
+  "morph_type": "stem",
+  "pronunciation": "nãʔk’aʔad˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "44a8503d-b792-47fe-9d9f-64d99e2033c5",
+      "pos": "Noun",
+      "gloss": {
+        "en": "tongue",
+        "pt": "língua"
+      },
+      "def": {
+        "en": "tongue",
+        "pt": "língua"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

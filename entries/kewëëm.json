@@ -1,0 +1,25 @@
+{
+  "headword": "kewëëm",
+  "entry_id": "kewëëm_4dcaecdc-f430-42e3-8fe0-3845200ac299",
+  "morph_type": "stem",
+  "pronunciation": "kewə:bm",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "e52b5899-cc5a-49fd-8c0a-2157199edfcb",
+      "pos": "Noun",
+      "gloss": {
+        "en": "flute",
+        "pt": "flauta"
+      },
+      "def": {
+        "en": "flute made from walking-palm wood",
+        "pt": "flauta de paxiuba"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "harʹëëng",
+  "entry_id": "harʹëëng_acb44c41-79ab-4a47-b9b0-40038d45c8bf",
+  "morph_type": "stem",
+  "pronunciation": "haɾə̰:ŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "63362b5e-44b9-463a-b7f1-960efbdedfa8",
+      "pos": "n",
+      "gloss": {
+        "pt": "caça"
+      },
+      "def": {
+        "pt": "caça"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "matëëh",
+  "entry_id": "matëëh_e7e8d396-6ffd-46a2-9c45-2ba9d806df54",
+  "morph_type": "stem",
+  "pronunciation": "matə:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "03c77401-7d29-449e-8690-79b696621935",
+      "pos": "v",
+      "gloss": {
+        "pt": "dobrar"
+      },
+      "def": {
+        "pt": "dobrar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "headword": "apëëh",
+  "entry_id": "apëëh_6a9e3b06-de1f-422d-a058-053dfc248b66",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈpǝ:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9e115803-4f5c-4b6a-8e46-1329d406801f",
+      "pos": "adj?",
+      "gloss": {
+        "en": "green",
+        "pt": "verde"
+      },
+      "def": {
+        "en": "green",
+        "pt": "verde"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

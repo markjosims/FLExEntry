@@ -1,0 +1,28 @@
+{
+  "headword": "akëë",
+  "entry_id": "akëë_46f2c675-ccd1-4908-8693-cea8ae7dc035",
+  "morph_type": "stem",
+  "pronunciation": "akə:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cb6d47ba-3006-458d-8367-cf3bcadcd4ed",
+      "pos": "v",
+      "gloss": {
+        "pt": "enterrado"
+      },
+      "def": {
+        "pt": "enterrado; fixado dentro de; ixado em"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

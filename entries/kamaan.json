@@ -1,0 +1,25 @@
+{
+  "headword": "kamaan",
+  "entry_id": "kamaan2_4c767ee3-2527-4c05-a5f7-bbcb94db1b59",
+  "morph_type": "stem",
+  "pronunciation": "kabmã:n",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "ceb7d321-08c0-4bfe-9c0f-c4e1561234e4",
+      "pos": "Noun",
+      "gloss": {
+        "en": "bean",
+        "pt": "feijão"
+      },
+      "def": {
+        "en": "bean",
+        "pt": "feijão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

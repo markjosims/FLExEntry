@@ -1,0 +1,28 @@
+{
+  "headword": "hadoo",
+  "entry_id": "hadoo_91228118-6e36-4bb1-8876-c6ca8cf2491d",
+  "morph_type": "stem",
+  "pronunciation": "hado:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5394f9cf-abdc-4e3e-a300-29ef95af4cd3",
+      "pos": "v",
+      "gloss": {
+        "pt": "ser.igual"
+      },
+      "def": {
+        "pt": "ser igual; ser como"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

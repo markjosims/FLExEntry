@@ -1,0 +1,25 @@
+{
+  "headword": "ji hewoonh",
+  "entry_id": "ji hewoonh_4854a607-ca5c-4691-85c2-15ce76dd6da1",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ hewo:ɟɲ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "cfa05186-d96a-4e0d-9a1b-455de773ffa4",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fence",
+        "pt": "cerca"
+      },
+      "def": {
+        "en": "fence; palisade",
+        "pt": "cerca"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

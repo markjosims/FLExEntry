@@ -1,0 +1,28 @@
+{
+  "headword": "hẽ",
+  "entry_id": "hẽ2_3bf2f3c2-3b71-4c02-9a24-b506631eabbb",
+  "morph_type": "stem",
+  "pronunciation": "hɛ̃",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "62285e6e-c5d7-4c31-a345-f82637101376",
+      "pos": "suf",
+      "gloss": {
+        "pt": "ADV"
+      },
+      "def": {
+        "pt": "sufixo adverbial"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

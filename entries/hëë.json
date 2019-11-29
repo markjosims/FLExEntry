@@ -1,0 +1,25 @@
+{
+  "headword": "hëë",
+  "entry_id": "hëë_91665d7c-02fc-42cc-ac63-c3b81b7f4576",
+  "morph_type": "stem",
+  "pronunciation": "hə:ʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "71a5b21a-e60f-4da7-8ef6-034055f3a638",
+      "pos": "Noun",
+      "gloss": {
+        "en": "paddle",
+        "pt": "remo"
+      },
+      "def": {
+        "en": "paddle; oar",
+        "pt": "remo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

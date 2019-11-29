@@ -1,0 +1,39 @@
+{
+  "headword": "sawyk",
+  "entry_id": "sawyk_4639249a-4c4d-48ec-92ad-2cda852204b8",
+  "morph_type": "root",
+  "pronunciation": "ʃaˈwɨk˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "06828f55-93eb-4a3a-9427-3a116cbdfc2b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "kapok",
+        "pt": "sumaumeira"
+      },
+      "def": {
+        "en": "kapok",
+        "pt": "sumaumeira"
+      },
+      "reverse": [
+        [
+          "sumaumeira",
+          "pt"
+        ],
+        [
+          "kapok",
+          "en"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "headword": "asooh",
+  "entry_id": "asooh_045c762b-0b2e-4233-a013-7e921270d050",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈʃo:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "49d89e7e-ca3b-4eaf-970c-5112be5fc622",
+      "pos": "v",
+      "gloss": {
+        "en": "sit",
+        "pt": "sentar"
+      },
+      "def": {
+        "en": "sit",
+        "pt": "sentar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

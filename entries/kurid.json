@@ -1,0 +1,30 @@
+{
+  "headword": "kurid",
+  "entry_id": "kurid_f2e1c000-9369-44af-abbb-74551674cbcf",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b6a35499-1a28-4e89-98ad-3a850f8b828a",
+      "pos": "Noun",
+      "gloss": {
+        "en": "speckled.catfish",
+        "pt": "surubim"
+      },
+      "def": {
+        "en": "speckled catfish",
+        "pt": "surubim"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

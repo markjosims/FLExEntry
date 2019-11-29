@@ -1,0 +1,29 @@
+{
+  "headword": "ỹỹh",
+  "entry_id": "ỹỹh_b5117bd5-2007-42dc-8931-e60f4bb08b70",
+  "morph_type": "stem",
+  "pronunciation": "ʔɨ̃:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Weir 1984; Barbosa 2005",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "100f0c7d-1293-4388-92a5-114850f3136e",
+      "pos": "pro",
+      "gloss": {
+        "en": "1sg",
+        "pt": "1sg"
+      },
+      "def": {
+        "pt": "eu; 1s"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

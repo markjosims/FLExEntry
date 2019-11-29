@@ -1,0 +1,33 @@
+{
+  "headword": "tsäng",
+  "entry_id": "tsäng_c466f8d0-c63e-4dce-83d9-8000648a6ee9",
+  "morph_type": "stem",
+  "pronunciation": "tʃ’ǝgŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cc9f34a8-de79-4840-9302-2b6a98a2c2e8",
+      "pos": "n",
+      "gloss": {
+        "en": "clay",
+        "pt": "barro"
+      },
+      "def": {
+        "en": "clay",
+        "pt": "barro"
+      },
+      "reverse": null,
+      "note": [
+        "barro para casa/panela",
+        "semantics"
+      ],
+      "var_of_sense": []
+    }
+  ]
+}

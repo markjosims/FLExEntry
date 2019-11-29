@@ -1,0 +1,28 @@
+{
+  "headword": "sʹoow",
+  "entry_id": "sʹoow_6a95cdaa-7d5e-4688-95a3-6ecb4731f4a4",
+  "morph_type": "stem",
+  "pronunciation": "ʃo̰:w",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "06856efc-d5ef-4167-b89d-65ae48cca0fe",
+      "pos": "n",
+      "gloss": {
+        "pt": "sarabatana"
+      },
+      "def": {
+        "pt": "sarabatana"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

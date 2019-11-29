@@ -1,0 +1,28 @@
+{
+  "headword": "esëëp",
+  "entry_id": "esëëp_05a5fb56-de84-4139-bc8e-7b040c572e59",
+  "morph_type": "stem",
+  "pronunciation": "eʃə:p",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "18d91980-ef6d-425a-b7ca-30734e93614f",
+      "pos": "v",
+      "gloss": {
+        "pt": "custar"
+      },
+      "def": {
+        "pt": "custar; durar muito"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

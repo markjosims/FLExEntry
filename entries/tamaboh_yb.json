@@ -1,0 +1,25 @@
+{
+  "headword": "tamaboh yb",
+  "entry_id": "tamaboh yb_270da235-1ba8-4e2a-9f22-3c8a70b55cfa",
+  "morph_type": "phrase",
+  "pronunciation": "tabmãboh ʔɨb̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c885426e-5fbe-48a4-8b7b-731f2c04eccc",
+      "pos": "Noun",
+      "gloss": {
+        "en": "large.drum",
+        "pt": "tambor.grande"
+      },
+      "def": {
+        "en": "drum (large signal)",
+        "pt": "tambor grande"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

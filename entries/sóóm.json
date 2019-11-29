@@ -1,0 +1,26 @@
+{
+  "headword": "sóóm",
+  "entry_id": "sóóm_fd2f84a4-1299-4c5e-92f2-d44f1681cf10",
+  "morph_type": "stem",
+  "pronunciation": "ʃɔːm",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "24ffb224-5e5e-4e0d-bf93-cf66125bee6a",
+      "pos": "Verb",
+      "gloss": {
+        "en": "shout.with.blowgun"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

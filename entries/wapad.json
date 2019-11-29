@@ -1,0 +1,21 @@
+{
+  "headword": "wapad",
+  "entry_id": "wapad_6d1f39e4-a447-4cba-b3ff-b4b8f1eed9ae",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "00044171-b90b-4bf3-a830-42baef578fee",
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de peixe"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

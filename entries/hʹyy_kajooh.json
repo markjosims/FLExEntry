@@ -1,0 +1,28 @@
+{
+  "headword": "hʹyy kajooh",
+  "entry_id": "hʹyy kajooh_305bdebc-1de9-499b-9aed-bb68341fa1ab",
+  "morph_type": "phrase",
+  "pronunciation": "hɨ̰: kajo:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "01b184a8-ee9b-4f84-85b6-ae1dcafd9c1f",
+      "pos": "v",
+      "gloss": {
+        "pt": "estar.com.prisa"
+      },
+      "def": {
+        "pt": "estar com prisa"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

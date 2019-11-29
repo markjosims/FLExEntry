@@ -1,0 +1,28 @@
+{
+  "headword": "esoos",
+  "entry_id": "esoos_add3968e-1af1-48bc-8f56-5f24adf3025e",
+  "morph_type": "stem",
+  "pronunciation": "eʃo:ʃ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9d55ea25-4021-4c97-af55-30c6c927c056",
+      "pos": "v",
+      "gloss": {
+        "pt": "procurar"
+      },
+      "def": {
+        "pt": "procurar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

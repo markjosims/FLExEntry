@@ -1,0 +1,26 @@
+{
+  "headword": "txõom",
+  "entry_id": "txõom_65668337-e2b9-496c-80a9-264d9e8e24a1",
+  "morph_type": "stem",
+  "pronunciation": "tõ̰ːm",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c08a0ee3-d0fa-4909-8004-ace71f51e34b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "panacu"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

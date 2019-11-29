@@ -1,0 +1,28 @@
+{
+  "headword": "pʹeets hẽ",
+  "entry_id": "pʹeets hẽ_ec73ec5a-97dd-47c9-8c8c-1d937b51073f",
+  "morph_type": "phrase",
+  "pronunciation": "pḛ:ɟ hɛ̃",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "697195e9-d0b8-46a2-b4e4-7eee1f116ed7",
+      "pos": "adv",
+      "gloss": {
+        "pt": "perto"
+      },
+      "def": {
+        "pt": "perto"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

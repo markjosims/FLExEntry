@@ -1,0 +1,28 @@
+{
+  "headword": "du doo",
+  "entry_id": "du doo_00f0ad34-5134-4419-9827-2e04360e87e0",
+  "morph_type": "phrase",
+  "pronunciation": "du do:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1040d54b-f002-4f07-826d-01add3578cf8",
+      "pos": "v",
+      "gloss": {
+        "pt": "começar"
+      },
+      "def": {
+        "pt": "começar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

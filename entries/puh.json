@@ -1,0 +1,28 @@
+{
+  "headword": "puh",
+  "entry_id": "puh2_e25be93c-0c6b-462c-8c1d-846391d9cb7d",
+  "morph_type": "stem",
+  "pronunciation": "puh",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c01d2c33-5d01-4010-bd0e-43ed951120a0",
+      "pos": "n",
+      "gloss": {
+        "pt": "peixe.sp"
+      },
+      "def": {
+        "pt": "esp. de peixe"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

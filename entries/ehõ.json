@@ -1,0 +1,28 @@
+{
+  "headword": "ehõ",
+  "entry_id": "ehõ2_e8d832f6-e4fc-46b0-89fb-c0b872c4030e",
+  "morph_type": "stem",
+  "pronunciation": "ehõ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bf184f6a-a427-4cf4-832a-1021b02ff1d0",
+      "pos": "v p",
+      "gloss": {
+        "pt": "amarrar"
+      },
+      "def": {
+        "pt": "amarrar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

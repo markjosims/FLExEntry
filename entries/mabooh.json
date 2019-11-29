@@ -1,0 +1,28 @@
+{
+  "headword": "mabooh",
+  "entry_id": "mabooh_d4cd0f8d-7eb6-444d-988a-892e659baad6",
+  "morph_type": "stem",
+  "pronunciation": "mabo:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5880c48b-d253-4be0-a14f-a560270d41b1",
+      "pos": "n",
+      "gloss": {
+        "pt": "planta.sp"
+      },
+      "def": {
+        "pt": "esp. de planta"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

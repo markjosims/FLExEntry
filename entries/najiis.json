@@ -1,0 +1,28 @@
+{
+  "headword": "najiis",
+  "entry_id": "najiis_7c288356-e6a0-4e2b-8f29-8c7cc96675d9",
+  "morph_type": "stem",
+  "pronunciation": "naji:ʃ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "e288c784-25c6-4c91-990a-7e62b6229a0f",
+      "pos": "n",
+      "gloss": {
+        "pt": "colega"
+      },
+      "def": {
+        "pt": "colega"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

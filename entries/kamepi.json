@@ -1,0 +1,39 @@
+{
+  "headword": "kamepi",
+  "entry_id": "kamepi_6426627c-3e6d-4182-be13-42d60e931451",
+  "morph_type": "stem",
+  "pronunciation": "kameʔpiʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "03808f65-9607-4b84-8285-b770c68cfa6b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "inga",
+        "pt": "ingá"
+      },
+      "def": {
+        "en": "inga",
+        "pt": "inga"
+      },
+      "reverse": [
+        [
+          "inga",
+          "pt"
+        ],
+        [
+          "inga",
+          "en"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

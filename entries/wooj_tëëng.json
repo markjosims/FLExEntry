@@ -1,0 +1,25 @@
+{
+  "headword": "wooj tëëng",
+  "entry_id": "wooj tëëng_2daa9d38-6b7b-445d-bc18-22dc00b53dde",
+  "morph_type": "phrase",
+  "pronunciation": "wo:j tə:gŋ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "4d198acd-edc7-4a2d-9898-32c571d63b3b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "shelf",
+        "pt": "jirau"
+      },
+      "def": {
+        "en": "grid of sticks for smoking meat or placing objects (shelf)",
+        "pt": "jirau"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "baros",
+  "entry_id": "baros_075922fd-9874-48ce-8813-f6705117c88d",
+  "morph_type": "stem",
+  "pronunciation": "baɾoʃ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "8e4c82e7-7bad-4968-96c6-675114c274a2",
+      "pos": "v",
+      "gloss": {
+        "pt": "aguado"
+      },
+      "def": {
+        "pt": "aguado"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

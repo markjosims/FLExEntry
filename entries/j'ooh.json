@@ -1,0 +1,23 @@
+{
+  "headword": "j'ooh",
+  "entry_id": "j&apos;ooh_ff2984bb-c88c-4390-b49c-de234bf22ec5",
+  "morph_type": "stem",
+  "pronunciation": "joʔoh",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "b0db2efd-e199-42a1-969e-94d3131b1479",
+      "pos": "Noun",
+      "gloss": {
+        "en": "gen.affine"
+      },
+      "def": {
+        "en": "cross-cousin (or; generic affine?)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

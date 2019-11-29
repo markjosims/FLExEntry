@@ -1,0 +1,28 @@
+{
+  "headword": "kataa",
+  "entry_id": "kataa_0885df11-e1f7-4582-8731-d877f55fbab7",
+  "morph_type": "stem",
+  "pronunciation": "kata:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cd962a77-92e5-4f64-8d18-27b4f9b75d40",
+      "pos": "v",
+      "gloss": {
+        "pt": "encontrar-se"
+      },
+      "def": {
+        "pt": "encontar-se"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

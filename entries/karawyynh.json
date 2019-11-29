@@ -1,0 +1,39 @@
+{
+  "headword": "karawyynh",
+  "entry_id": "karawyynh_0e539cb5-a78b-455b-87f2-4fde1344448a",
+  "morph_type": "root",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c8087b0a-6d12-4c1a-8fa8-ad6bc18e9a88",
+      "pos": "Noun",
+      "gloss": {
+        "en": "genipap",
+        "pt": "genipapo"
+      },
+      "def": {
+        "en": "genipap",
+        "pt": "genipapo"
+      },
+      "reverse": [
+        [
+          "genipap",
+          "en"
+        ],
+        [
+          "genipapo",
+          "pt"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

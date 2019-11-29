@@ -1,0 +1,26 @@
+{
+  "headword": "gʉ́",
+  "entry_id": "gʉ́_462c2514-97e8-4299-94e0-5e36b5c1ab3f",
+  "morph_type": "stem",
+  "pronunciation": "gʌʔ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "88a2695a-b53d-4cf6-936f-8d4ffb99ff56",
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.in.hammock"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

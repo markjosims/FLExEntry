@@ -1,0 +1,25 @@
+{
+  "headword": "ji gamehỹỹ doo",
+  "entry_id": "ji gamehỹỹ doo_636377d7-1beb-43af-9847-12601662d920",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ k'abmẽhɨ̃:ʔ do:ʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "59adeee2-ffc6-4aa2-8150-a8bf2a6b92d4",
+      "pos": "Noun",
+      "gloss": {
+        "en": "flute",
+        "pt": "flauta"
+      },
+      "def": {
+        "en": "flute (in general)",
+        "pt": "fluta (em geral)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

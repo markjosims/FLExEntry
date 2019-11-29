@@ -1,0 +1,28 @@
+{
+  "headword": "hadʹyyt hẽ",
+  "entry_id": "hadʹyyt hẽ_f4a7e747-1632-4a49-9a51-80aae93ecc2a",
+  "morph_type": "phrase",
+  "pronunciation": "hadɨ̰:t hɛ̃",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5270d80a-4139-4e17-8951-c397a91cb703",
+      "pos": "adv",
+      "gloss": {
+        "pt": "sempre"
+      },
+      "def": {
+        "pt": "sempre; tempo todo; somente"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

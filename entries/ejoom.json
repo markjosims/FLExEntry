@@ -1,0 +1,30 @@
+{
+  "headword": "ejoom",
+  "entry_id": "ejoom_6619529f-3c74-4534-9c94-58b32e97e01a",
+  "morph_type": "stem",
+  "pronunciation": "ʔeʔjo:bm",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9b21b6d8-442d-409d-bc46-ae2c18f0cd84",
+      "pos": "Verb",
+      "gloss": {
+        "en": "plant",
+        "pt": "plantar"
+      },
+      "def": {
+        "en": "plant",
+        "pt": "plantar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

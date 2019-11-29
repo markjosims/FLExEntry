@@ -1,0 +1,28 @@
+{
+  "headword": "takʹëp",
+  "entry_id": "takʹëp_713254c9-c9a3-408e-89d8-f85183abb1e8",
+  "morph_type": "stem",
+  "pronunciation": "takə̰p",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "e51b5395-a1b4-44d8-84cd-019a3371d037",
+      "pos": "adv",
+      "gloss": {
+        "pt": "INTS"
+      },
+      "def": {
+        "pt": "intensificador"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

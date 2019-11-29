@@ -1,0 +1,28 @@
+{
+  "headword": "noo gasʹaas",
+  "entry_id": "noo gasʹaas_d401b78b-b150-4992-8cd2-064c1842603b",
+  "morph_type": "phrase",
+  "pronunciation": "no: gaʃa̰:ʃ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1ec2db2b-7969-4b48-aa67-c849aa347849",
+      "pos": "v",
+      "gloss": {
+        "pt": "ter.sapinho"
+      },
+      "def": {
+        "pt": "ter sapinho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "kabëë",
+  "entry_id": "kabëë_1cd66356-7a6f-4152-b323-ad2a5c5aabae",
+  "morph_type": "stem",
+  "pronunciation": "kabə:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "36fbdbda-1ed2-467b-bd58-07e8fc91c667",
+      "pos": "v",
+      "gloss": {
+        "pt": "balançar.na.rede"
+      },
+      "def": {
+        "pt": "balançar na rede"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

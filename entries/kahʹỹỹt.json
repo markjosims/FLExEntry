@@ -1,0 +1,28 @@
+{
+  "headword": "kahʹỹỹt",
+  "entry_id": "kahʹỹỹt_ea2fe099-2a0c-4037-8cc3-845740fe5a85",
+  "morph_type": "stem",
+  "pronunciation": "kahɨ̰̃:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "686421e5-a67a-4a6c-a0b1-0f5a4ce97378",
+      "pos": "v",
+      "gloss": {
+        "pt": "mudar-se"
+      },
+      "def": {
+        "pt": "mudar-se"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

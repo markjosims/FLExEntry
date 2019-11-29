@@ -1,0 +1,25 @@
+{
+  "headword": "ji metyy doo",
+  "entry_id": "ji metyy doo_bb981eb0-8686-4579-88a8-2fd9c910caa5",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ mẽtɨ:ʔ do:ʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "d561a8e1-eb42-4813-8765-62894a516bc3",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fishing.line",
+        "pt": "linha.de.pesca"
+      },
+      "def": {
+        "en": "fishing line",
+        "pt": "linha de pesca"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

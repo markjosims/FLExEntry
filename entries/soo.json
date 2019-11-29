@@ -1,0 +1,26 @@
+{
+  "headword": "soo",
+  "entry_id": "soo1_8d4ce206-887a-448d-a7db-8239d7cbeccf",
+  "morph_type": "stem",
+  "pronunciation": "ʃo:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "10c3e729-69b1-41ac-b7bb-5c81a0eee289",
+      "pos": "n",
+      "gloss": {
+        "pt": "páss.sp"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

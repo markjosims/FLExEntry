@@ -1,0 +1,30 @@
+{
+  "headword": "hëëj",
+  "entry_id": "hëëj_d8cd3b39-bb36-4332-b938-a6f4b9560376",
+  "morph_type": "stem",
+  "pronunciation": "hǝ:j",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3e07042d-6ad2-4334-a9dd-65ffa7f1cc5f",
+      "pos": "n",
+      "gloss": {
+        "en": "forest",
+        "pt": "mato"
+      },
+      "def": {
+        "en": "forest",
+        "pt": "mato"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

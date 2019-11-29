@@ -1,0 +1,30 @@
+{
+  "headword": "tób",
+  "entry_id": "tób_8e356cef-e3f2-4646-8e11-7c62d369a9fd",
+  "morph_type": "stem",
+  "pronunciation": "tɔb˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a3f474ed-1984-4273-8fb6-9d990568bbc3",
+      "pos": "n",
+      "gloss": {
+        "en": "house",
+        "pt": "casa"
+      },
+      "def": {
+        "en": "house",
+        "pt": "casa"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

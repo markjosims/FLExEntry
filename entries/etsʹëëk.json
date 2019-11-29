@@ -1,0 +1,30 @@
+{
+  "headword": "etsʹëëk",
+  "entry_id": "etsʹëëk_1975647d-1f5d-470e-93b1-509b4f0e1773",
+  "morph_type": "stem",
+  "pronunciation": "ʔeˈɉ’ǝʔǝk˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c987cc54-829f-4cd0-a31f-7adf3b7383cb",
+      "pos": "v",
+      "gloss": {
+        "en": "steal",
+        "pt": "roubar"
+      },
+      "def": {
+        "en": "steal",
+        "pt": "roubar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "jxɨɨt",
+  "entry_id": "jxɨɨt_5433c61f-5cd9-4e4b-a03d-7eacb676ef0e",
+  "morph_type": "stem",
+  "pronunciation": "jɨ̰ːt",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3d209f75-cf18-4375-9a39-ecdcb0114c3a",
+      "pos": "Verb",
+      "gloss": {
+        "en": "wash"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "etʹẽẽh",
+  "entry_id": "etʹẽẽh_4197a191-56a9-4b31-a19b-7db11ecd7571",
+  "morph_type": "stem",
+  "pronunciation": "etḛ̃:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "16ea75bd-34bc-4cde-9c54-17f1298a64d9",
+      "pos": "v",
+      "gloss": {
+        "pt": "bater.em.metal"
+      },
+      "def": {
+        "pt": "bater em metal (por exemplo batendo cano de espingarda)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "tatók",
+  "entry_id": "tatók_543193f1-37f9-46ea-8153-ae2c27968997",
+  "morph_type": "stem",
+  "pronunciation": "tatɔk",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "043cdce8-0f4d-4929-b6ad-c47e75810f38",
+      "pos": "v",
+      "gloss": {
+        "pt": "picar"
+      },
+      "def": {
+        "pt": "bater; picar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

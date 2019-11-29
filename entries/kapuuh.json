@@ -1,0 +1,30 @@
+{
+  "headword": "kapuuh",
+  "entry_id": "kapuuh_e90c36ba-3868-47da-8357-f8826991dcad",
+  "morph_type": "stem",
+  "pronunciation": "kaˈpu:h",
+  "variant": null,
+  "note": [
+    [
+      "Fielnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1e96cb4e-b745-4527-bb7c-e7f3780dcf62",
+      "pos": "Verb",
+      "gloss": {
+        "en": "fly",
+        "pt": "voar"
+      },
+      "def": {
+        "en": "fly",
+        "pt": "voar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "jadatok",
+  "entry_id": "jadatok_822037e0-e6c9-4f26-b81f-c14857de83fb",
+  "morph_type": "stem",
+  "pronunciation": "jadatok",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b1175a2d-aa4a-4330-b39f-fa0a408497a5",
+      "pos": "v",
+      "gloss": {
+        "pt": "inclinado"
+      },
+      "def": {
+        "pt": "inclinado (árvore ou pessoa)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "headword": "sawasaab",
+  "entry_id": "sawasaab _3aea6fec-8942-4caf-ab01-a448e89efaa0",
+  "morph_type": "stem",
+  "pronunciation": "ʃawaˈʃa:b˺",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "83d91993-9d85-4caf-a5cc-3b4a6de77067",
+      "pos": "v",
+      "gloss": {
+        "en": "thin",
+        "pt": "fino"
+      },
+      "def": {
+        "en": "thin",
+        "pt": "fino"
+      },
+      "reverse": null,
+      "note": [
+        "for humans?",
+        "semantics"
+      ],
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "headword": "p’eets hẽ",
+  "entry_id": "p’eets hẽ_861f321d-8e0a-420b-ade0-944ee4181915",
+  "morph_type": "phrase",
+  "pronunciation": "peʔeɉ hẽʔ]",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "91dcc3b9-cc81-41c9-b099-8363fbeba894",
+      "pos": null,
+      "gloss": {
+        "en": "close",
+        "pt": "perto"
+      },
+      "def": {
+        "en": "close",
+        "pt": "perto"
+      },
+      "reverse": null,
+      "note": [
+        "Fieldnotes Epps/Obert; 2018",
+        "bibliography"
+      ],
+      "var_of_sense": []
+    },
+    {
+      "sense_id": "b4de4d74-e91d-4833-b897-de1c99703bd9",
+      "pos": null,
+      "gloss": {
+        "en": "almost",
+        "pt": "quase"
+      },
+      "def": {
+        "en": "almost",
+        "pt": "quase"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

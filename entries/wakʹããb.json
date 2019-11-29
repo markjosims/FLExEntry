@@ -1,0 +1,28 @@
+{
+  "headword": "wakʹããb",
+  "entry_id": "wakʹããb_cf26659f-f581-4ec4-917d-f7b2a3a9ec61",
+  "morph_type": "stem",
+  "pronunciation": "wakã̰:b",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1ab6285d-23e9-45e5-a7cc-1500226c8600",
+      "pos": "n",
+      "gloss": {
+        "pt": "pertences"
+      },
+      "def": {
+        "pt": "pertences"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

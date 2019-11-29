@@ -1,0 +1,30 @@
+{
+  "headword": "sanajooh",
+  "entry_id": "sanajooh_cf70f282-1827-4664-bc8f-4edb4e054802",
+  "morph_type": "stem",
+  "pronunciation": "ʃanaˈjo:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "021df01d-d0a7-4133-a0a5-947c172aed27",
+      "pos": "Noun",
+      "gloss": {
+        "en": "spider",
+        "pt": "aranha"
+      },
+      "def": {
+        "en": "spider (generic)",
+        "pt": "aranha (generico)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

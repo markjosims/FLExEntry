@@ -1,0 +1,28 @@
+{
+  "headword": "pʹooh",
+  "entry_id": "pʹooh_273cba08-0c9f-4d9f-94d9-781b09b51113",
+  "morph_type": "stem",
+  "pronunciation": "po̰:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "342e53f6-409d-440d-a08f-0915cce2e678",
+      "pos": "n",
+      "gloss": {
+        "pt": "pimenta"
+      },
+      "def": {
+        "pt": "pimenta"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "headword": "patug",
+  "entry_id": "patug2_c1f04c5c-89ef-403c-988f-4236d1de4a15",
+  "morph_type": "stem",
+  "pronunciation": "patug̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "26c894d3-bb0d-41f6-9e29-5a2ee36f6773",
+      "pos": "Noun",
+      "gloss": {
+        "en": "husband",
+        "pt": "esposo"
+      },
+      "def": {
+        "en": "husband",
+        "pt": "esposo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

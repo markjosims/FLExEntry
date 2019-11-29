@@ -1,0 +1,28 @@
+{
+  "headword": "awʹyyt",
+  "entry_id": "awʹyyt_28c22592-67e2-46c3-98ea-6d35223f6419",
+  "morph_type": "stem",
+  "pronunciation": "awɨ̰:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0f54e79a-55e6-42a4-8d23-a909fd2bb52f",
+      "pos": "v",
+      "gloss": {
+        "pt": "encontrar"
+      },
+      "def": {
+        "pt": "encontrar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

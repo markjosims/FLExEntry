@@ -1,0 +1,28 @@
+{
+  "headword": "gëëbã",
+  "entry_id": "gëëbã_8f10f39a-ec63-481b-9f21-33a2727a45b9",
+  "morph_type": "stem",
+  "pronunciation": "gə:bã",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 16",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "effb7c71-559d-46ab-8522-7f609a9c5f3c",
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

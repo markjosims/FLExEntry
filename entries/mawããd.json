@@ -1,0 +1,25 @@
+{
+  "headword": "mawããd",
+  "entry_id": "mawããd2_7c72d834-34e1-47a5-bc92-25a7e106455a",
+  "morph_type": "stem",
+  "pronunciation": "mãwã:d̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "f9e315ae-5729-4044-afd9-f6017857d66c",
+      "pos": "Noun",
+      "gloss": {
+        "en": "pineapple",
+        "pt": "abacaxi"
+      },
+      "def": {
+        "en": "pineapple",
+        "pt": "abacaxi"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

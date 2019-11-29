@@ -1,0 +1,26 @@
+{
+  "headword": "kayah",
+  "entry_id": "kayah_384cf412-8cb1-41f6-b481-a718b693ffdc",
+  "morph_type": "stem",
+  "pronunciation": "kajah",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d77f95a1-7fb5-4d01-8bb9-fcdac0f24568",
+      "pos": "adv?",
+      "gloss": {
+        "en": "slowly"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "headword": "säg",
+  "entry_id": "säg1_6a527141-817f-4a53-a47f-032cdbde864b",
+  "morph_type": "stem",
+  "pronunciation": "ʃʌg˺",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c6d673f5-e38f-4384-b4b2-792ed449efaa",
+      "pos": "adj",
+      "gloss": {
+        "en": "old",
+        "pt": "velho"
+      },
+      "def": {
+        "en": "old",
+        "pt": "velho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

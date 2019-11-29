@@ -1,0 +1,25 @@
+{
+  "headword": "boog",
+  "entry_id": "boog2_7c1c3595-e291-4ae3-aa7e-c1ca57c2fd9b",
+  "morph_type": "stem",
+  "pronunciation": "bo:g̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "2434d692-3364-4b1a-a592-886cbdca0ffb",
+      "pos": "Noun",
+      "gloss": {
+        "en": "bitter.manioc",
+        "pt": "mandioca"
+      },
+      "def": {
+        "en": "manioc (bitter)",
+        "pt": "mandioca"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

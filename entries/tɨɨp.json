@@ -1,0 +1,26 @@
+{
+  "headword": "tɨɨp",
+  "entry_id": "tɨɨp_13f20b79-cfed-486c-8791-fb295eb27377",
+  "morph_type": "stem",
+  "pronunciation": "tɨːp",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c2076cad-81e1-4e98-8ec1-9cb00525e238",
+      "pos": "Verb",
+      "gloss": {
+        "en": "lay.egg"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

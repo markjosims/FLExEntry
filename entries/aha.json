@@ -1,0 +1,28 @@
+{
+  "headword": "aha",
+  "entry_id": "aha_7b0d5ed4-7e8a-427a-a07d-90a64f3094db",
+  "morph_type": "stem",
+  "pronunciation": "aha",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "75f04d15-d086-4211-9772-1a28fe91ff37",
+      "pos": "v",
+      "gloss": {
+        "pt": "tirar.comida"
+      },
+      "def": {
+        "pt": "tirar comida; não liquida da anela (com cuia; concha; olher; etc.)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

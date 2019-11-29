@@ -1,0 +1,30 @@
+{
+  "headword": "hawak",
+  "entry_id": "hawak_406031f7-243a-44df-ad13-e42e19e06c4c",
+  "morph_type": "stem",
+  "pronunciation": "haˈwak˺",
+  "variant": null,
+  "note": [
+    [
+      "Fiednotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9a35ebb1-3ebd-4a9a-a1ee-fe8ee45c1ee7",
+      "pos": "adj?",
+      "gloss": {
+        "en": "white",
+        "pt": "branco"
+      },
+      "def": {
+        "en": "white",
+        "pt": "branco"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

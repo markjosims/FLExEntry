@@ -1,0 +1,30 @@
+{
+  "headword": "kawewʹaam",
+  "entry_id": "kawewʹaam_f6a8428b-b48d-4651-ac4d-28fa4ca4aafc",
+  "morph_type": "stem",
+  "pronunciation": "kaweʔ`waʔabm",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "daf94fd2-a6da-4158-8b50-c554d3d9cd7b",
+      "pos": "v",
+      "gloss": {
+        "en": "smile",
+        "pt": "rir"
+      },
+      "def": {
+        "en": "smile",
+        "pt": "rir"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

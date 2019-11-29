@@ -1,0 +1,30 @@
+{
+  "headword": "tyyw",
+  "entry_id": "tyyw_87e0c426-d593-4ca1-8704-61dc46d5dc73",
+  "morph_type": "stem",
+  "pronunciation": "tɨ:w",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1dd45883-bae0-4b41-aa55-2236df1eb368",
+      "pos": "Noun",
+      "gloss": {
+        "en": "trail",
+        "pt": "caminho"
+      },
+      "def": {
+        "en": "trail",
+        "pt": "caminho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "ahyk",
+  "entry_id": "ahyk1_19582167-dacf-4d9e-8112-341aec945697",
+  "morph_type": "stem",
+  "pronunciation": "ahɨk",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "edaa2fe3-4960-4bab-925d-b9cc58a4932a",
+      "pos": "v",
+      "gloss": {
+        "pt": "baixar"
+      },
+      "def": {
+        "pt": "baixar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

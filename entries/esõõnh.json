@@ -1,0 +1,28 @@
+{
+  "headword": "esõõnh",
+  "entry_id": "esõõnh_e7932464-4a1c-406d-9424-b009ca00ab40",
+  "morph_type": "stem",
+  "pronunciation": "eʃõ:ɲ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "237b528b-7ef8-44c8-9738-2355398685e4",
+      "pos": "v",
+      "gloss": {
+        "pt": "torrar"
+      },
+      "def": {
+        "pt": "torrar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "headword": "sawyym",
+  "entry_id": "sawyym_ee869356-dc53-4210-9fa0-608972e8e311",
+  "morph_type": "stem",
+  "pronunciation": "ʃaˈwɨ:bm",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "de1b80ce-c0a1-4ca7-b1cd-85f08ce75416",
+      "pos": "Noun",
+      "gloss": {
+        "en": "black.palm",
+        "pt": "bacaba"
+      },
+      "def": {
+        "en": "black palm",
+        "pt": "bacaba"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

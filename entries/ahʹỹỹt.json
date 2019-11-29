@@ -1,0 +1,28 @@
+{
+  "headword": "ahʹỹỹt",
+  "entry_id": "ahʹỹỹt_bc76a4f6-6266-4537-88b9-2837a102a9e1",
+  "morph_type": "stem",
+  "pronunciation": "ahɨ̰̃:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f05b96d8-0301-4197-a9db-640ec80f477a",
+      "pos": "v",
+      "gloss": {
+        "pt": "mudar"
+      },
+      "def": {
+        "pt": "mudar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

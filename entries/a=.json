@@ -1,0 +1,28 @@
+{
+  "headword": "a=",
+  "entry_id": "a=_98d55498-71bc-4897-9198-3842f5c02b2f",
+  "morph_type": "proclitic",
+  "pronunciation": "ʔa",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Weir 1984",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c918bbb6-bb97-4ac6-8b02-0e1553b1f487",
+      "pos": "pro",
+      "gloss": {
+        "pt": "2sg.POSS"
+      },
+      "def": {
+        "pt": "2sg possessivo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

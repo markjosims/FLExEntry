@@ -1,0 +1,28 @@
+{
+  "headword": "gagããm",
+  "entry_id": "gagããm_9586128d-3a48-4a17-8edb-6ba1b01ee47d",
+  "morph_type": "stem",
+  "pronunciation": "gagã:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cd2f91cd-cfee-4d62-899c-5b7f35a7c2fb",
+      "pos": "v",
+      "gloss": {
+        "pt": "listrado.com.anéis"
+      },
+      "def": {
+        "pt": "ser listrado perpendicularmente em forma de anel)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

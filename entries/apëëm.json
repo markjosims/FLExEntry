@@ -1,0 +1,28 @@
+{
+  "headword": "apëëm",
+  "entry_id": "apëëm_7e41cce1-029f-43d8-9624-51e60ee383a2",
+  "morph_type": "stem",
+  "pronunciation": "apə:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "66506917-c97c-4e7b-8070-11ff24f9304a",
+      "pos": "v",
+      "gloss": {
+        "pt": "bater"
+      },
+      "def": {
+        "pt": "bater com instrumento"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

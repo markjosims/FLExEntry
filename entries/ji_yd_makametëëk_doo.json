@@ -1,0 +1,25 @@
+{
+  "headword": "ji yd makametëëk doo",
+  "entry_id": "ji yd makametëëk doo_d46a034f-0c4b-45be-a0e2-6eb34d95ab3b",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ ʔɨd̚ mãkabmẽtə:k̚ do:ʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c3db2917-c255-4eae-94d3-52993e397baf",
+      "pos": "Noun",
+      "gloss": {
+        "en": "school",
+        "pt": "escola"
+      },
+      "def": {
+        "en": "school",
+        "pt": "escola"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

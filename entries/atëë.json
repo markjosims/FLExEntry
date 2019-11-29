@@ -1,0 +1,26 @@
+{
+  "headword": "atëë",
+  "entry_id": "atëë_0d9d214a-224c-47c4-8261-fdf54959927e",
+  "morph_type": "stem",
+  "pronunciation": "atə:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "2903a35a-dc21-4dd6-a722-910e841f93f6",
+      "pos": "v",
+      "gloss": {
+        "pt": "estar.no.fogo"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

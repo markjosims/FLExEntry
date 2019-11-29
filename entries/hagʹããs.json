@@ -1,0 +1,28 @@
+{
+  "headword": "hagʹããs",
+  "entry_id": "hagʹããs_4d9901f6-f587-460a-86b1-a99f9948abda",
+  "morph_type": "stem",
+  "pronunciation": "hagã̰:ʃ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cdfdd8d7-d617-4885-a0ec-0561acbddad1",
+      "pos": "v",
+      "gloss": {
+        "pt": "cuidar"
+      },
+      "def": {
+        "pt": "cuidar; olhar; tomar conta de"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

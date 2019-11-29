@@ -1,0 +1,34 @@
+{
+  "headword": "j’aah tyd",
+  "entry_id": "j’aah tyd_38868053-3860-4b0c-a196-31868da6d09f",
+  "morph_type": "phrase",
+  "pronunciation": "jaʔah tɨd˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ],
+    [
+      "(ta) j’aah tyd",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0a18fae4-f308-447d-a40d-7f39d3cfecdd",
+      "pos": null,
+      "gloss": {
+        "en": "intestines",
+        "pt": "intestino"
+      },
+      "def": {
+        "en": "intestines",
+        "pt": "intestino"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

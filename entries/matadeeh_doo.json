@@ -1,0 +1,25 @@
+{
+  "headword": "matadeeh doo",
+  "entry_id": "matadeeh doo_fd50f769-044b-4495-ada5-d35df21409b8",
+  "morph_type": "phrase",
+  "pronunciation": "mãtade:h do:ʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "54f6aad2-e7ad-4f86-adb3-376354799375",
+      "pos": "Noun",
+      "gloss": {
+        "en": "rattle",
+        "pt": "chocalho"
+      },
+      "def": {
+        "en": "rattle",
+        "pt": "chocalho [NOT marico]"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

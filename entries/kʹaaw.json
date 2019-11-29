@@ -1,0 +1,28 @@
+{
+  "headword": "kʹaaw",
+  "entry_id": "kʹaaw_8aae375a-cd2c-4685-85d4-10982a359288",
+  "morph_type": "stem",
+  "pronunciation": "ka̰:w",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0232ee51-f686-4845-b786-4fd08f2d420e",
+      "pos": "n?",
+      "gloss": {
+        "pt": "gavião.sp"
+      },
+      "def": {
+        "pt": "esp de gavião?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

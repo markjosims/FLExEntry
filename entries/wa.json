@@ -1,0 +1,28 @@
+{
+  "headword": "wa",
+  "entry_id": "wa_e58b4b2e-785b-436d-b8c1-c5e899be438f",
+  "morph_type": "stem",
+  "pronunciation": "wa",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 10",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bd30568e-2a09-43fa-be56-2706adc5f73d",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

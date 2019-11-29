@@ -1,0 +1,28 @@
+{
+  "headword": "kedʹaas",
+  "entry_id": "kedʹaas_e2551ae2-7094-4445-98e6-3f71b7b4f191",
+  "morph_type": "stem",
+  "pronunciation": "keda̰:ʃ",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 6 f. 'edas' (bater) e par. 'ky' (?)",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "507cb411-04ca-4375-bd17-a8f3fc831f5a",
+      "pos": "v?",
+      "gloss": {
+        "pt": "bater?"
+      },
+      "def": {
+        "pt": "bater?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "headword": "patsëë",
+  "entry_id": "patsëë_f975debe-d1b6-4a5a-94a8-562e89f3b5a6",
+  "morph_type": "stem",
+  "pronunciation": "paɟə:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ],
+    [
+      "cf. atón para s.",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "960aad04-742e-41a6-a845-681f676d1253",
+      "pos": "v",
+      "gloss": {
+        "pt": "levar(?)"
+      },
+      "def": {
+        "pt": "ter mais de um objeto na mão p obj)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

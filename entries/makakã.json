@@ -1,0 +1,28 @@
+{
+  "headword": "makakã",
+  "entry_id": "makakã_b0ac6299-fc0a-4e7d-a667-2d0f766f4d63",
+  "morph_type": "stem",
+  "pronunciation": "makakã",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6465d925-e64d-448e-9c2c-3fee41eeca93",
+      "pos": "n",
+      "gloss": {
+        "pt": "calango.venenoso.sp"
+      },
+      "def": {
+        "pt": "esp. de calango venenoso"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

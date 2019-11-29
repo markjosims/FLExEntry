@@ -1,0 +1,25 @@
+{
+  "headword": "baras’ĩĩnh",
+  "entry_id": "baras’ĩĩnh_8a137ae8-04bc-445f-a244-e594703fa289",
+  "morph_type": "stem",
+  "pronunciation": "baɾaʃĩʔĩɲ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "1c81b13b-ad17-4d36-8f42-8fcf339c823e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "yurupari",
+        "pt": "yurupari"
+      },
+      "def": {
+        "en": "yurupari; jurupari (or any flutes forbidden to women)",
+        "pt": "yurupari; jurupari (ou qualquer flauta que se proibe às mulheres)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

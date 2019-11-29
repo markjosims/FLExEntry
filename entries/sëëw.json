@@ -1,0 +1,25 @@
+{
+  "headword": "sëëw",
+  "entry_id": "sëëw_7c511834-586a-456c-884a-02fda6ccd6aa",
+  "morph_type": "stem",
+  "pronunciation": "ʃə:w",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "5ccc7fd8-e6aa-432b-b538-67270ef1447d",
+      "pos": "Noun",
+      "gloss": {
+        "en": "shaman",
+        "pt": "xaman"
+      },
+      "def": {
+        "en": "shaman",
+        "pt": "xaman; pajé; feiticeiro"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

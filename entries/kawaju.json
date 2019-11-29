@@ -1,0 +1,28 @@
+{
+  "headword": "kawaju",
+  "entry_id": "kawaju_ae0b82e4-6370-4005-8fc5-a9af47f703c1",
+  "morph_type": "stem",
+  "pronunciation": "kawaju",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0dcf1d83-0e4a-4003-aa0c-b9d0076e306d",
+      "pos": "n",
+      "gloss": {
+        "pt": "cesto.tipo"
+      },
+      "def": {
+        "pt": "tipo de cesto"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "kasʹuut",
+  "entry_id": "kasʹuut_8f5945ef-1d1b-4b9e-8534-3cf3147fa009",
+  "morph_type": "stem",
+  "pronunciation": "kaʃṵ:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "74b8b567-2fbc-49cb-a9c5-c6fceb662737",
+      "pos": "v",
+      "gloss": {
+        "pt": "sofrer.miséria"
+      },
+      "def": {
+        "pt": "sofrer miséria; sofrer pobreza"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

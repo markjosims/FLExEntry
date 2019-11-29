@@ -1,0 +1,25 @@
+{
+  "headword": "waroor",
+  "entry_id": "waroor_310a012a-5389-45b6-ac33-6975f863c15f",
+  "morph_type": "stem",
+  "pronunciation": "waɾo:ɾᵊ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "ee444718-1be5-4be0-a9d0-4313d0a7a7c8",
+      "pos": "Noun",
+      "gloss": {
+        "en": "snail",
+        "pt": "caracol"
+      },
+      "def": {
+        "en": "snail",
+        "pt": "caracol"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "ajãn",
+  "entry_id": "ajãn_542c8377-02d7-46b2-a5d5-238ce60994a9",
+  "morph_type": "stem",
+  "pronunciation": "ajãn",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "94752aa3-6cac-44de-8142-28dfde28d1a7",
+      "pos": "n",
+      "gloss": {
+        "pt": "bebê.antes.de.nascer feto?)"
+      },
+      "def": {
+        "pt": "bebê antes de nascer"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

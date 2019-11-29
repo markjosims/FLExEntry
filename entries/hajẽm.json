@@ -1,0 +1,28 @@
+{
+  "headword": "hajẽm",
+  "entry_id": "hajẽm_651f8cf6-18b6-4b11-9e4c-ef83d23e51d8",
+  "morph_type": "stem",
+  "pronunciation": "hajɛ̃m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "390ec086-40fc-48fd-a775-fa235d5583eb",
+      "pos": "v",
+      "gloss": {
+        "pt": "discutir"
+      },
+      "def": {
+        "pt": "ralhar; discutir; esculhambar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

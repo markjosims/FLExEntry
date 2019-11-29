@@ -1,0 +1,30 @@
+{
+  "headword": "kawajad yb",
+  "entry_id": "kawajad yb_5091ec77-fa23-40f8-af80-3083c2a9ebea",
+  "morph_type": "phrase",
+  "pronunciation": "kawajad̚ ʔɨb̚",
+  "variant": null,
+  "note": [
+    [
+      "lit. veado-pai",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "11943bf0-f2ef-4470-8902-485d421ff84a",
+      "pos": "Noun",
+      "gloss": {
+        "en": "horse",
+        "pt": "cavalho"
+      },
+      "def": {
+        "en": "horse",
+        "pt": "cavalho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

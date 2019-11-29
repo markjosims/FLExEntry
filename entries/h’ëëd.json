@@ -1,0 +1,30 @@
+{
+  "headword": "h’ëëd",
+  "entry_id": "h’ëëd_025fec92-6af8-4d61-8544-bdb0e0362545",
+  "morph_type": "stem",
+  "pronunciation": "hǝʔǝd˺",
+  "variant": null,
+  "note": [
+    [
+      "Fiednotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "82d7231c-5f51-4860-90b3-f2da90deba51",
+      "pos": "Question particle",
+      "gloss": {
+        "en": "what",
+        "pt": "que"
+      },
+      "def": {
+        "en": "what",
+        "pt": "que"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

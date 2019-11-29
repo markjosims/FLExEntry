@@ -1,0 +1,25 @@
+{
+  "headword": "dejëp doo sapanang",
+  "entry_id": "dejëp doo sapanang_ce7f36f4-c947-4f55-a671-bca112964da8",
+  "morph_type": "phrase",
+  "pronunciation": "dejəp̚ do:ʔ ʃapadnãŋ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c00a85c6-ec83-40fc-bce5-fb19c87c2477",
+      "pos": "Noun",
+      "gloss": {
+        "en": "afterworld",
+        "pt": "terra.dos.mortos"
+      },
+      "def": {
+        "en": "afterworld; land of the dead; “heaven”",
+        "pt": "terra dos mortos"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

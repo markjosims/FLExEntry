@@ -1,0 +1,28 @@
+{
+  "headword": "tyng",
+  "entry_id": "tyng_1ca2ceb7-661e-409f-8ba9-0beae1fb5929",
+  "morph_type": "stem",
+  "pronunciation": "tɨŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c9a3c10b-6b24-4630-9530-07df88a2fd2b",
+      "pos": "n",
+      "gloss": {
+        "pt": "banco"
+      },
+      "def": {
+        "pt": "banco; mesa; soporte"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

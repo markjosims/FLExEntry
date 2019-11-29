@@ -1,0 +1,26 @@
+{
+  "headword": "doo",
+  "entry_id": "doo3_b37dc192-f0fc-4fc4-acf9-e4423cdd81e1",
+  "morph_type": "stem",
+  "pronunciation": "doːʔ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d8980f14-df9f-4bb5-a4e1-1fe2d1545f63",
+      "pos": "Verb",
+      "gloss": {
+        "en": "take"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "ahʹũũm",
+  "entry_id": "ahʹũũm_7101b90d-ca9a-4580-9d2a-d92b4ebe63d7",
+  "morph_type": "stem",
+  "pronunciation": "ahṵ̃:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "472c2165-859a-4acf-aca2-e864bd6380d2",
+      "pos": "v p",
+      "gloss": {
+        "pt": "subir.rio"
+      },
+      "def": {
+        "pt": "ir; subir o rio"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

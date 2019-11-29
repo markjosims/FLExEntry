@@ -1,0 +1,25 @@
+{
+  "headword": "gasoom",
+  "entry_id": "gasoom1_4cbf1e75-3511-49fe-a915-2400ecd03edc",
+  "morph_type": "stem",
+  "pronunciation": "k'aʃo:bm",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "0a4d3991-1a11-4d6e-a225-eb8266d10cf6",
+      "pos": "Noun",
+      "gloss": {
+        "en": "angleworm",
+        "pt": "minhoca"
+      },
+      "def": {
+        "en": "angleworm",
+        "pt": "minhoca"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

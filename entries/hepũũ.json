@@ -1,0 +1,28 @@
+{
+  "headword": "hepũũ",
+  "entry_id": "hepũũ_ef03e002-08aa-40c2-9509-41327e679084",
+  "morph_type": "stem",
+  "pronunciation": "hepũ:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "8b859c8e-4f06-4162-904c-0b3d029ad246",
+      "pos": "v",
+      "gloss": {
+        "pt": "grande"
+      },
+      "def": {
+        "pt": "grande"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "du gahõõh",
+  "entry_id": "du gahõõh_80c7e610-2b7f-4a71-adf4-08f48dd3968c",
+  "morph_type": "phrase",
+  "pronunciation": "du gahõ:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "51bc5acc-97f9-433f-b777-5a771ad5549d",
+      "pos": "v",
+      "gloss": {
+        "pt": "fazer.fogo.embaixo"
+      },
+      "def": {
+        "pt": "fazer fogo em baixo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

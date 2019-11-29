@@ -1,0 +1,28 @@
+{
+  "headword": "hõm",
+  "entry_id": "hõm_4a712cc3-64f7-4370-a697-8992d4110af5",
+  "morph_type": "root",
+  "pronunciation": "hõm",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 7",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f8004460-d3fe-4c66-bf50-ba9eba0950ee",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

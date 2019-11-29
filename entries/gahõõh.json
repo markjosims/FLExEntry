@@ -1,0 +1,28 @@
+{
+  "headword": "gahõõh",
+  "entry_id": "gahõõh_e0491dc8-f388-4a44-b49f-9a41f3b1e52a",
+  "morph_type": "stem",
+  "pronunciation": "gahõ:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "e319da77-1fc1-4adb-91d9-61a158dc0da8",
+      "pos": "v",
+      "gloss": {
+        "pt": "fazer.fogo"
+      },
+      "def": {
+        "pt": "fazer fogo; soprando"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "bʹëëp",
+  "entry_id": "bʹëëp_61864f59-37ff-4169-92dc-b8034e5db3e3",
+  "morph_type": "stem",
+  "pronunciation": "bə̰:p",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f1c818c6-44a5-4e92-ae12-4bebeb71ac8c",
+      "pos": "adv",
+      "gloss": {
+        "pt": "para.cá"
+      },
+      "def": {
+        "pt": "para cá"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

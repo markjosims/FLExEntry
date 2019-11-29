@@ -1,0 +1,28 @@
+{
+  "headword": "hʹooh",
+  "entry_id": "hʹooh_cdd344c3-6d2f-4e37-b2a3-cf9d784437f7",
+  "morph_type": "stem",
+  "pronunciation": "ho̰:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bcb81019-a9e2-487c-a95d-81fc3143d276",
+      "pos": "n",
+      "gloss": {
+        "pt": "canoa"
+      },
+      "def": {
+        "pt": "canoa"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

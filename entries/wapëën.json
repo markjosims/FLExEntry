@@ -1,0 +1,30 @@
+{
+  "headword": "wapëën",
+  "entry_id": "wapëën_8a904b9a-c1a7-49ff-aeea-a5390a5181f6",
+  "morph_type": "stem",
+  "pronunciation": "waˈpǝ:dn",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "00b261d7-dcc3-4ead-a393-e6216cc86b5a",
+      "pos": "Verb",
+      "gloss": {
+        "en": "turn.around",
+        "pt": "virar"
+      },
+      "def": {
+        "en": "turn around",
+        "pt": "virar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

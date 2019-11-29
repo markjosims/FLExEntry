@@ -1,0 +1,28 @@
+{
+  "headword": "nu sawʹaak",
+  "entry_id": "nu sawʹaak_977412f9-7590-45ca-9916-9fae2e70aaba",
+  "morph_type": "phrase",
+  "pronunciation": "nu ʃawa̰:k",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9cfe8232-c3c5-435e-8c6e-2780b0bc1008",
+      "pos": "v",
+      "gloss": {
+        "pt": "cabelo.louro"
+      },
+      "def": {
+        "pt": "(ter?) cabelo louro ou branco"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

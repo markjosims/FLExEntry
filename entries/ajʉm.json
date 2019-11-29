@@ -1,0 +1,26 @@
+{
+  "headword": "ajʉm",
+  "entry_id": "ajʉm_e532759c-75f9-441c-967d-f4322a5dd35c",
+  "morph_type": "stem",
+  "pronunciation": "ʔajəm",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5bcced76-5457-4249-9dbe-b8dd15796b4f",
+      "pos": "Adverb",
+      "gloss": {
+        "en": "at.night"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

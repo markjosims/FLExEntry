@@ -1,0 +1,39 @@
+{
+  "headword": "pëëd",
+  "entry_id": "pëëd_575e234e-0e14-44a8-a947-b90d4f165f7b",
+  "morph_type": "root",
+  "pronunciation": "pǝ:d˺",
+  "variant": null,
+  "note": [
+    [
+      "Fielnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6dbc31e9-a0e9-4739-93fa-9cc1d31ce07f",
+      "pos": "Noun",
+      "gloss": {
+        "en": "cunuri",
+        "pt": "cunuri"
+      },
+      "def": {
+        "en": "cunuri",
+        "pt": "cunuri"
+      },
+      "reverse": [
+        [
+          "cunuri",
+          "pt"
+        ],
+        [
+          "cunuri",
+          "en"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

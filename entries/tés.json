@@ -1,0 +1,26 @@
+{
+  "headword": "tés",
+  "entry_id": "tés_2d3bbcbd-7d0b-4b91-a31b-949a65801bb4",
+  "morph_type": "stem",
+  "pronunciation": "tɛʃ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "95862617-887e-477c-98ca-9b7502d2a00b",
+      "pos": "Verb",
+      "gloss": {
+        "en": "hurt"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

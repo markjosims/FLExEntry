@@ -1,0 +1,26 @@
+{
+  "headword": "lxood",
+  "entry_id": "lxood_6014263a-2bf5-4bc5-9ea3-0189c7dd05cb",
+  "morph_type": "stem",
+  "pronunciation": "ɾo̰ːd",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6bcd1618-330d-451b-86ee-adb48a38e4e3",
+      "pos": "Verb",
+      "gloss": {
+        "en": "speak n.i."
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "byy",
+  "entry_id": "byy_f9c7c3ad-da4f-4387-9548-a0bbcc776ce5",
+  "morph_type": "stem",
+  "pronunciation": "bɨ:",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 13 omo 'Wajats Byy' (embora se screva 'Wajats Bëëh' no ortuguês)",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ef46cc30-1d90-4327-8cdf-98a0d991376e",
+      "pos": "n?",
+      "gloss": {
+        "pt": "nome dum lugar?"
+      },
+      "def": {
+        "pt": "nome dum lugar?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

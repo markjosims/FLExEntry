@@ -1,0 +1,25 @@
+{
+  "headword": "tsiw",
+  "entry_id": "tsiw_d6f851ea-76b0-4c5d-a0a5-24e88039b1b9",
+  "morph_type": "stem",
+  "pronunciation": "tʃ'iw",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "b1b0ad84-6b77-44ef-b51d-4e759fdded91",
+      "pos": "Noun",
+      "gloss": {
+        "en": "cicada.sp",
+        "pt": "cigarra.sp"
+      },
+      "def": {
+        "en": "cicada species",
+        "pt": "tipo de cigarra"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

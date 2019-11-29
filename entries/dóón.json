@@ -1,0 +1,26 @@
+{
+  "headword": "dóón",
+  "entry_id": "dóón_0872e55d-b5b9-4180-a82a-db40318848d5",
+  "morph_type": "stem",
+  "pronunciation": "dɔːn",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "daa9b5d2-cb3b-43ed-9e12-bc80b1f2e5ae",
+      "pos": "Verb",
+      "gloss": {
+        "en": "sup.with.finger"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

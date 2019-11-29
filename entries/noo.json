@@ -1,0 +1,28 @@
+{
+  "headword": "noo",
+  "entry_id": "noo_fd121132-52a5-48ea-bd08-47e6db5af53b",
+  "morph_type": "root",
+  "pronunciation": "no:",
+  "variant": null,
+  "note": [
+    [
+      "aparece em frente a muitos verbos em cartilha 4",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3cf869fa-9f12-4d60-af32-0530c32fce8a",
+      "pos": "pre",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

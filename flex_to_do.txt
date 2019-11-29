@@ -1,0 +1,3 @@
+* removed all entries w/ no data in headword field
+* a number of duplicates are present
+* export to .lift, then detect for (near) duplicates, print out to .csv

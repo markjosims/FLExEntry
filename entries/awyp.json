@@ -1,0 +1,34 @@
+{
+  "headword": "awyp",
+  "entry_id": "awyp_c03f1cde-a2d3-4391-b4fb-7570ba1cd909",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈwɨp˺",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ],
+    [
+      "check noun status",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cc0a093c-aad2-425b-a4e7-8fde32d15024",
+      "pos": "v",
+      "gloss": {
+        "en": "make.lightning",
+        "pt": "relampejar"
+      },
+      "def": {
+        "en": "make.lightning",
+        "pt": "relampejar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

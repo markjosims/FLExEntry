@@ -1,0 +1,25 @@
+{
+  "headword": "tawarẽẽh",
+  "entry_id": "tawarẽẽh2_642a50b2-2f1f-4a04-9d77-79bea7e1cdc9",
+  "morph_type": "stem",
+  "pronunciation": "tawaɾẽ:h",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "579fef20-d3db-4917-9707-515f7b490869",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fly",
+        "pt": "mosca"
+      },
+      "def": {
+        "en": "fly",
+        "pt": "mosca"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

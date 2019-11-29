@@ -1,0 +1,30 @@
+{
+  "headword": "egës",
+  "entry_id": "egës_61488996-6900-4ab7-8a68-cd73cc594136",
+  "morph_type": "stem",
+  "pronunciation": "ʔeˈk’ǝʃ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bffe5448-964f-41ec-bb99-4026e208b2a5",
+      "pos": "Verb",
+      "gloss": {
+        "en": "bite",
+        "pt": "morder"
+      },
+      "def": {
+        "en": "bite",
+        "pt": "morder"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

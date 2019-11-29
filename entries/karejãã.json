@@ -1,0 +1,28 @@
+{
+  "headword": "karejãã",
+  "entry_id": "karejãã_d51e3f98-6b8f-4c4a-a358-4c5ac370c8a7",
+  "morph_type": "stem",
+  "pronunciation": "kaɾejã:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "4ff5f1a6-3c81-4f93-bbe9-59ee9ec8b72a",
+      "pos": "v",
+      "gloss": {
+        "pt": "estragar-se"
+      },
+      "def": {
+        "pt": "estragar-se; envenenar-se"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

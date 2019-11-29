@@ -1,0 +1,28 @@
+{
+  "headword": "herʹoot",
+  "entry_id": "herʹoot_d42677cf-1d23-49c3-b1ed-1d7c4b59b99c",
+  "morph_type": "stem",
+  "pronunciation": "eɾo̰:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "4fa64b65-6c56-41ec-8d5b-fc6912a436ac",
+      "pos": "v",
+      "gloss": {
+        "pt": "falar"
+      },
+      "def": {
+        "pt": "falar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

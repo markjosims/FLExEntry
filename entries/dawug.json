@@ -1,0 +1,21 @@
+{
+  "headword": "dawug",
+  "entry_id": "dawug1_ac591af6-0795-4611-a12b-d1011e5600b1",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "a7bd6b88-c9ce-4b22-a227-8ad7e1b0ea09",
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de macaco"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

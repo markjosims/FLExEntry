@@ -1,0 +1,28 @@
+{
+  "headword": "og",
+  "entry_id": "og_0494a7fa-d8da-4ac0-91c0-9a9720cc9179",
+  "morph_type": "stem",
+  "pronunciation": "og",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 3; ortografia não certa",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9590b51f-1870-494d-872b-0b8ee8932571",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

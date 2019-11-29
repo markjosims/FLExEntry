@@ -1,0 +1,26 @@
+{
+  "headword": "sahõnh",
+  "entry_id": "sahõnh_a1ab4219-36f5-430c-a606-58f9e05fbf5d",
+  "morph_type": "stem",
+  "pronunciation": "ʃahõɲ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "47f25ff7-6c5b-48a8-90bf-80071db11447",
+      "pos": "n? pro?",
+      "gloss": {
+        "en": "all"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

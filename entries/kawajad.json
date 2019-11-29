@@ -1,0 +1,30 @@
+{
+  "headword": "kawajad",
+  "entry_id": "kawajad1_f97b2e7e-498c-44ee-bd8b-e78d47d7c9c5",
+  "morph_type": "stem",
+  "pronunciation": "kawaˈjad˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d16e427b-e254-444c-b67d-839a724e75c1",
+      "pos": "n",
+      "gloss": {
+        "en": "deer",
+        "pt": "veado"
+      },
+      "def": {
+        "en": "deer",
+        "pt": "veado"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

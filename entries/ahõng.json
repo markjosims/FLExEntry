@@ -1,0 +1,28 @@
+{
+  "headword": "ahõng",
+  "entry_id": "ahõng_5eceaf57-d989-4dc1-9a1f-72045734eeed",
+  "morph_type": "stem",
+  "pronunciation": "ahõŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "448e8a67-7498-47a0-9b57-d6950350b087",
+      "pos": "v",
+      "gloss": {
+        "pt": "maduro"
+      },
+      "def": {
+        "pt": "maduro"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "karõnh",
+  "entry_id": "karõnh_95ddf4af-ee8c-44db-bddf-51f729601920",
+  "morph_type": "stem",
+  "pronunciation": "kaɾõɲ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "81276a1e-afb6-45ec-a799-463577b96f9b",
+      "pos": "v",
+      "gloss": {
+        "pt": "ziguezague"
+      },
+      "def": {
+        "pt": "ziguezague"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "yʉ́k",
+  "entry_id": "yʉ́k_8ea98caa-1b27-401e-bea3-7d9728cb33e4",
+  "morph_type": "stem",
+  "pronunciation": "jʌk",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f1837912-357f-46ea-b0f5-83c00e1c9023",
+      "pos": "Verb",
+      "gloss": {
+        "en": "fall.multiple (pl?)"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

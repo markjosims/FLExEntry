@@ -1,0 +1,30 @@
+{
+  "headword": "noo keham",
+  "entry_id": "noo keham_0456f9ea-7465-48e4-9c8e-0237e472be1c",
+  "morph_type": "phrase",
+  "pronunciation": "nɔ̃:keʔˈhabm",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "67813880-b0ef-4e72-8cc0-55dda9bf5e6f",
+      "pos": "Verb",
+      "gloss": {
+        "en": "yawn",
+        "pt": "bocejar"
+      },
+      "def": {
+        "en": "yawn",
+        "pt": "bocejar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "headword": "kããn s’ëëb",
+  "entry_id": "kããn s’ëëb_a88957b3-2fb8-4636-9c28-fc547cc51306",
+  "morph_type": "phrase",
+  "pronunciation": "kã:n ʃəʔəb̚",
+  "variant": null,
+  "note": [
+    [
+      "lit. cana feito",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f035b45c-778c-47e1-b960-a5c5268c0195",
+      "pos": "Noun",
+      "gloss": {
+        "en": "sugar",
+        "pt": "açucar"
+      },
+      "def": {
+        "en": "sugar; sugar cane",
+        "pt": "açucar (de cana)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

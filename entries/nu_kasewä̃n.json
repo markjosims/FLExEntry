@@ -1,0 +1,28 @@
+{
+  "headword": "nu kasewä̃n",
+  "entry_id": "nu kasewä̃n_703eb3cb-7eb8-40b3-a918-1577508e601d",
+  "morph_type": "phrase",
+  "pronunciation": "nu kaʃewʌ̃n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "55d7c82e-f85a-4179-960d-a5f463c4a251",
+      "pos": "v",
+      "gloss": {
+        "pt": "sacudir.cabeça"
+      },
+      "def": {
+        "pt": "sacudir a cabeça depois de omar banho; esquivar-se"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "hegãã",
+  "entry_id": "hegãã_42931715-9a8f-4865-830c-5c56430ab5a6",
+  "morph_type": "stem",
+  "pronunciation": "hegã:",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; licão 14",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d921a3d7-8633-41bd-a115-4c3c4eb18724",
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

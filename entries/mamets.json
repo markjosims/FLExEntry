@@ -1,0 +1,28 @@
+{
+  "headword": "mamets",
+  "entry_id": "mamets_1a267230-fb27-4cf5-b2e1-0ba438da4a70",
+  "morph_type": "stem",
+  "pronunciation": "mameɟ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "227bbe98-e800-43d7-9785-c7cc771c892c",
+      "pos": "n op",
+      "gloss": {
+        "pt": "cara"
+      },
+      "def": {
+        "pt": "rosto; cara"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

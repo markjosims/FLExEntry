@@ -1,0 +1,21 @@
+{
+  "headword": "badɯːk",
+  "entry_id": "badɯːk_ec4b457c-f57d-40da-9afc-1a28497674a0",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "dbc3000b-d9ac-4f5e-9d81-e67c404f95cc",
+      "pos": "Verb",
+      "gloss": {
+        "en": "socar terra"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

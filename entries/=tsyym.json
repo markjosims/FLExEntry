@@ -1,0 +1,30 @@
+{
+  "headword": "=tsyym",
+  "entry_id": "=tsyym_c1e709fa-6d3b-4ad6-b4aa-725e949fa179",
+  "morph_type": "stem",
+  "pronunciation": "tʃ’ɨ:bm",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5959e1f7-66f6-4b2e-a04b-005053e9df1a",
+      "pos": "Noun",
+      "gloss": {
+        "en": "leg",
+        "pt": "perna"
+      },
+      "def": {
+        "en": "leg (foot until tigh)",
+        "pt": "perna (pé até coxa)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "headword": "sõts",
+  "entry_id": "sõts_bda18a4b-25b2-46d9-a02e-8c971679f674",
+  "morph_type": "stem",
+  "pronunciation": "ʃõɟ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "75c5f829-6e42-43df-8ede-9a45fd543f60",
+      "pos": "n",
+      "gloss": {
+        "pt": "gafanhoto.sp"
+      },
+      "def": {
+        "pt": "esp. de gafanhoto"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

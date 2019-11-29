@@ -1,0 +1,26 @@
+{
+  "headword": "nɨng",
+  "entry_id": "nɨng2_330d0834-a31f-4580-8c8c-cbd71bf686ab",
+  "morph_type": "stem",
+  "pronunciation": "nɨŋ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3a98b7ec-cc98-47f2-93f7-51cdce1288a4",
+      "pos": "Verb",
+      "gloss": {
+        "en": "exist"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

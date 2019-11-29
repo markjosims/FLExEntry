@@ -1,0 +1,28 @@
+{
+  "headword": "karasee",
+  "entry_id": "karasee1_bbead827-d2c2-4ae6-b7d5-bcfcf27ce44a",
+  "morph_type": "stem",
+  "pronunciation": "kaɾaʃe:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cad29c1d-b5eb-4580-99ff-8a4e5dc15a9d",
+      "pos": "n",
+      "gloss": {
+        "pt": "sobrinho/a"
+      },
+      "def": {
+        "pt": "sobrinho; sobrinha"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

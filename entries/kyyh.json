@@ -1,0 +1,28 @@
+{
+  "headword": "kyyh",
+  "entry_id": "kyyh_abaed6a6-acab-4bad-9909-83f48cf3c884",
+  "morph_type": "stem",
+  "pronunciation": "kɨ:h",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lições 5  13",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c20b16fb-880d-4de4-aa1c-8ecbe9fd00d1",
+      "pos": "v?",
+      "gloss": {
+        "pt": "fazer.som?"
+      },
+      "def": {
+        "pt": "fazer.som?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

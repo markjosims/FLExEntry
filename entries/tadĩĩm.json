@@ -1,0 +1,28 @@
+{
+  "headword": "tadĩĩm",
+  "entry_id": "tadĩĩm_adc251b9-6b3a-4d1d-adbc-d83d8fa8fcdb",
+  "morph_type": "stem",
+  "pronunciation": "tadĩ:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "e95687d3-d51a-4218-aed8-28ea4e3cf780",
+      "pos": "v",
+      "gloss": {
+        "pt": "exugar"
+      },
+      "def": {
+        "pt": "exugar; esfregar com a mão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "headword": "hebyng",
+  "entry_id": "hebyng_10ea8764-3f35-4c12-b0fa-45c072085373",
+  "morph_type": "stem",
+  "pronunciation": "heʔˈbɨgŋ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a55cb9af-ae77-4d37-be9b-21ca0a24233d",
+      "pos": "Verb",
+      "gloss": {
+        "en": "ashamed",
+        "pt": "estar.envergonhado"
+      },
+      "def": {
+        "en": "ashamed",
+        "pt": "estar.envergonhado"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ]
+}
