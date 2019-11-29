@@ -23,7 +23,7 @@ in_file = "ipa_conv_output.csv"
 out_file = "headword_matches.csv"
 
 in_file = 'flexicon.csv'
-with open('CharConversions.json', encoding='utf8') as f:
+with open('CharConversions.json', encoding='UTF-8') as f:
     char_conversions = json.load(f)
     
 vowels = char_conversions['__vowels']
@@ -32,17 +32,27 @@ clitics = char_conversions['__clitics']
 diac = ('\u0330', '\u0303')
 
 def main():
-    df = pd.read_csv(in_file)
+    df = pd.read_csv(in_file, encoding='UTF-8')
     df['matches'] = [None for i in range( len(df) )]
     
     for index, row in df.iterrows():
         lemma = row['headword']
+        print(lemma)
         these_matches = get_matches(lemma, df)
         df.loc[index, 'matches'] = these_matches
         
     add_bom(df)
     df.to_csv(out_file)
-    
+
+def ignore_null(f):
+    def g(s, *args, **kwargs):
+        if not s:
+            return None
+        else:
+            return f(s, *args, **kwargs)
+    return g
+
+@ignore_null    
 def get_matches(lemma, df):
     by_sylls = get_by_sylls(lemma)
     matches = []
@@ -75,6 +85,7 @@ def get_by_sylls(s):
 
 # partitions word into syllables
 # returns list of strings, each string a single syllable
+@ignore_null
 def get_syllables(s):
     # force consistent spacing
     s=[x.strip() for x in s.split()]
@@ -92,6 +103,7 @@ def get_syllables(s):
             out.append(this_syll)
             this_syll='' #reset syllable
         elif char == ' ': #definite syllable boundary
+            assert out, s + ':::' + this_syll
             if prev in cons:
                 out[-1]+=this_syll
             this_syll=''
@@ -122,3 +134,4 @@ def add_bom(df):
 
 if __name__ == '__main__':
     main()
+
