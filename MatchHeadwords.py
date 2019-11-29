@@ -22,7 +22,6 @@ for ss in sim_strs:
 in_file = "ipa_conv_output.csv"
 out_file = "headword_matches.csv"
 
-in_file = 'flexicon.csv'
 with open('CharConversions.json', encoding='UTF-8') as f:
     char_conversions = json.load(f)
     
@@ -35,10 +34,13 @@ def main():
     df = pd.read_csv(in_file, encoding='UTF-8')
     df['matches'] = [None for i in range( len(df) )]
     
+    total = len(df) - len(df)%10
+
     for index, row in df.iterrows():
-        lemma = row['headword']
-        print(lemma)
-        these_matches = get_matches(lemma, df)
+        if total // (index+1) in range(1,11):
+            print(11 - 10 * ((index+1)/total))
+        broad = row['ipa']
+        these_matches = get_matches(broad, df)
         df.loc[index, 'matches'] = these_matches
         
     add_bom(df)
@@ -53,8 +55,8 @@ def ignore_null(f):
     return g
 
 @ignore_null    
-def get_matches(lemma, df):
-    by_sylls = get_by_sylls(lemma)
+def get_matches(broad, df):
+    by_sylls = get_by_sylls(broad)
     matches = []
     for substr in by_sylls:
         matches.extend(match_substr(substr, df))
@@ -102,11 +104,6 @@ def get_syllables(s):
             this_syll += char
             out.append(this_syll)
             this_syll='' #reset syllable
-        elif char == ' ': #definite syllable boundary
-            assert out, s + ':::' + this_syll
-            if prev in cons:
-                out[-1]+=this_syll
-            this_syll=''
         elif char not in vowels and (char == ' ' or i == len(s)-1):
             #add morpheme-final consonants to previous syllable
             if not out:
