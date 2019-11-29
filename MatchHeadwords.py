@@ -37,7 +37,7 @@ def main():
     total = len(df) - len(df)%10
 
     for index, row in df.iterrows():
-        if total // (index+1) in range(1,11):
+        if total // (index+1) in list( range(1,11) ):
             print(11 - 10 * ((index+1)/total))
         broad = row['ipa']
         these_matches = get_matches(broad, df)
