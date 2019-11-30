@@ -2,6 +2,14 @@
 """
 Created on Fri Nov 29 12:13:52 2019
 
+This program is O(n^2) for a file with 13k lines
+Not to mention that each word is divided into syllables,
+and that the edit_distance algorithm is run on every
+substring compared.
+So it's like O( ((s^3)*13,000)^2 ),
+where s is the length of a string from a row in in_file.
+Don't run it if you expect results in less than an hour.
+
 @author: Mark
 """
 
@@ -47,6 +55,8 @@ def main():
     add_bom(df)
     df.to_csv(out_file, encoding='utf8', index=False)
 
+# don't call inner funct if first arg is null
+# (returns False when cast to bool)
 def ignore_null(f):
     def g(s, *args, **kwargs):
         if not s:
@@ -55,7 +65,11 @@ def ignore_null(f):
             return f(s, *args, **kwargs)
     return g
 
-@ignore_null    
+# splits broad transcription into chunks based on syllables
+# see get_by_sylls for more info
+# looks for matches for each substring
+# returns list of all unique matches
+@ignore_null
 def get_matches(broad, df, this_id):
     by_sylls = get_by_sylls(broad)
     matches = []
@@ -64,6 +78,8 @@ def get_matches(broad, df, this_id):
 
     return list( set(matches) ) # why cast once when you can do it twice?
     
+# looks for all high scoring matches for this substring among other lemmata
+# in the lexicon
 def match_substr(substr, df, this_id):
     matches = []
     for index, row in df.iterrows():
@@ -122,6 +138,9 @@ def get_syllables(s):
             this_syll += char #base case
     return out
 
+# adds utf-16 bom to first colname of dataframe
+# because excel is stupid and expects a utf-16 bom
+# in a utf-8 file
 def add_bom(df):
     cols = df.columns
     first_col = cols[0]

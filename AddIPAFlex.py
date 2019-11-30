@@ -7,8 +7,6 @@ Created on Mon Nov 18 19:53:55 2019
 
 import pandas as pd
 import json
-from ReadNadebFlex import orth_to_work, phonet_to_phonem
-from FormatNadebMartins import format_martins, lev
 #from ast import literal_eval # uncomment if need to read column data as 
 # native python types
 
