@@ -72,16 +72,16 @@ def ignore_null(f):
 @ignore_null
 def get_matches(broad, df, this_id):
     by_sylls = get_by_sylls(broad)
-    matches = []
+    matches = {}
     for substr in by_sylls:
-        matches.extend(match_substr(substr, df, this_id))
+        matches.update(match_substr(substr, df, this_id))
 
-    return list( set(matches) ) # why cast once when you can do it twice?
+    return [(k, v[0], v[1]) for k, v in matches.items()]
     
 # looks for all high scoring matches for this substring among other lemmata
 # in the lexicon
 def match_substr(substr, df, this_id):
-    matches = []
+    matches = {}
     for index, row in df.iterrows():
         ipa = row['ipa']
         headword = row['headword']
@@ -90,7 +90,7 @@ def match_substr(substr, df, this_id):
             continue
         score = lev.get_distance(substr, ipa, True)
         if score > 0.85:
-            matches.append( (headword, eid, score) )
+            matches[eid] = (headword, score)
     return matches
 
 # arranges list of syllables into list of substrings
