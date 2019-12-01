@@ -1,0 +1,29 @@
+{
+  "headword": "kad",
+  "entry_id": "kad1_ac90fcde-0e6b-43ae-a428-b693aca454e0",
+  "morph_type": "stem",
+  "pronunciation": "kad",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d717f4e3-80ca-4d95-81d9-20781aadb84e",
+      "pos": "n",
+      "gloss": {
+        "pt": "tio"
+      },
+      "def": {
+        "pt": "tio (irmão do pai)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-21T17:49:59Z"
+}

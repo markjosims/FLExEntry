@@ -1,0 +1,25 @@
+{
+  "headword": "hëp",
+  "entry_id": "hëp_f26a22e6-6630-411c-8f0f-240d649e6f57",
+  "morph_type": "phrase",
+  "pronunciation": "həp",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "450e5b32-0196-4d6e-869a-fef32594922f",
+      "pos": null,
+      "gloss": null,
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

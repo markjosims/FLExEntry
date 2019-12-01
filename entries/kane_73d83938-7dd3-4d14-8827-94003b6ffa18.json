@@ -1,0 +1,26 @@
+{
+  "headword": "kane",
+  "entry_id": "kane_73d83938-7dd3-4d14-8827-94003b6ffa18",
+  "morph_type": "stem",
+  "pronunciation": "kadnẽʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "04ec6095-316f-44b5-ab59-5f5ad24b34b3",
+      "pos": "Noun",
+      "gloss": {
+        "en": "butternut.tree",
+        "pt": "piquia"
+      },
+      "def": {
+        "en": "butternut tree",
+        "pt": "piquia; piqui"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

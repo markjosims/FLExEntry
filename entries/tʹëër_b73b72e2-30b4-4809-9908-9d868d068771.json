@@ -1,0 +1,29 @@
+{
+  "headword": "tʹëër",
+  "entry_id": "tʹëër_b73b72e2-30b4-4809-9908-9d868d068771",
+  "morph_type": "stem",
+  "pronunciation": "tə̰:ɾ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ed0ba0e2-d323-4f3b-823e-e07bc2bcb0ed",
+      "pos": "n",
+      "gloss": {
+        "pt": "filho/a"
+      },
+      "def": {
+        "pt": "filho/a"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

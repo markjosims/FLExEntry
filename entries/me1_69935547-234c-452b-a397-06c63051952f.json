@@ -1,0 +1,29 @@
+{
+  "headword": "me",
+  "entry_id": "me1_69935547-234c-452b-a397-06c63051952f",
+  "morph_type": "stem",
+  "pronunciation": "me",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "8924887b-cdf7-4ff1-8f77-11972f9c2cfa",
+      "pos": "posp",
+      "gloss": {
+        "pt": "com"
+      },
+      "def": {
+        "pt": "meio; mediante; com"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,31 @@
+{
+  "headword": "ets’iip",
+  "entry_id": "ets’iip_224610c4-9086-404b-a319-cce171760df8",
+  "morph_type": "stem",
+  "pronunciation": "ʔeʔˈtʃiʔip",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "113550bd-0759-4e15-b2a5-049956cbc1b5",
+      "pos": null,
+      "gloss": {
+        "en": "sick",
+        "pt": "doente"
+      },
+      "def": {
+        "en": "sick",
+        "pt": "doente"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-07T17:59:09Z"
+}

@@ -1,0 +1,49 @@
+{
+  "headword": "aeh",
+  "entry_id": "aeh_3d0b7e07-8f49-48f7-afb4-c7e4cf0c3802",
+  "morph_type": "stem",
+  "pronunciation": "ʔeh",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "e24b937d-f986-4e73-a3bd-5b6b59a0a01a",
+      "pos": "adj",
+      "gloss": {
+        "en": "big",
+        "pt": "grande"
+      },
+      "def": {
+        "en": "big",
+        "pt": "grande"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    },
+    {
+      "sense_id": "0cd8054f-f383-43b9-a8f7-77956756bf4c",
+      "pos": "adj",
+      "gloss": {
+        "en": "thick",
+        "pt": "grosso"
+      },
+      "def": {
+        "en": "thick",
+        "pt": "grosso"
+      },
+      "reverse": null,
+      "note": [
+        "for sticks; see entry ''e baan' - thick for fabrics; leafs etc",
+        "semantics"
+      ],
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

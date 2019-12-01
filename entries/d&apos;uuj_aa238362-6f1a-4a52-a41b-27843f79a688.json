@@ -1,0 +1,40 @@
+{
+  "headword": "d'uuj",
+  "entry_id": "d&apos;uuj_aa238362-6f1a-4a52-a41b-27843f79a688",
+  "morph_type": "root",
+  "pronunciation": "dṵ:j",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9e1223a6-228a-4d4d-ba2f-25ef8804f6d7",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fish.poison",
+        "pt": "timbó"
+      },
+      "def": {
+        "en": "fish.poison",
+        "pt": "timbó"
+      },
+      "reverse": [
+        [
+          "timbó",
+          "pt"
+        ],
+        [
+          "fish.poison",
+          "en"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-09-04T00:53:17Z"
+}

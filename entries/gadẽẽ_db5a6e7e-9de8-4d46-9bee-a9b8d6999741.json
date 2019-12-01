@@ -1,0 +1,29 @@
+{
+  "headword": "gadẽẽ",
+  "entry_id": "gadẽẽ_db5a6e7e-9de8-4d46-9bee-a9b8d6999741",
+  "morph_type": "stem",
+  "pronunciation": "gadɛ̃:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ace4a8e2-a5e5-4723-bf0e-83cee47e98ba",
+      "pos": "v",
+      "gloss": {
+        "pt": "cheio"
+      },
+      "def": {
+        "pt": "cheio"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

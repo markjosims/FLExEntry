@@ -1,0 +1,31 @@
+{
+  "headword": "sëën",
+  "entry_id": "sëën_89e12256-aa4d-4789-a64e-fc333256a009",
+  "morph_type": "stem",
+  "pronunciation": "ʃǝ:dn",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5c784c5b-38e2-421f-add2-dffe0f786aec",
+      "pos": "Noun",
+      "gloss": {
+        "en": "hair",
+        "pt": "cabelo"
+      },
+      "def": {
+        "en": "hair",
+        "pt": "cabelo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-06T20:30:39Z"
+}

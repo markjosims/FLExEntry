@@ -1,0 +1,26 @@
+{
+  "headword": "mapah",
+  "entry_id": "mapah2_4ec81927-89b0-4a12-bec2-73014ae75de4",
+  "morph_type": "stem",
+  "pronunciation": "mãpah",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "6b6f044b-c4b2-4272-b165-19d18538868c",
+      "pos": "Noun",
+      "gloss": {
+        "en": "papaya",
+        "pt": "mamão"
+      },
+      "def": {
+        "en": "papaya",
+        "pt": "mamão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

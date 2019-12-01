@@ -1,0 +1,29 @@
+{
+  "headword": "tug",
+  "entry_id": "tug_6c751529-23ec-405f-bec2-ac9a1cd2a826",
+  "morph_type": "stem",
+  "pronunciation": "tug",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "439a5426-ee98-47a9-af9b-0e6285924bf3",
+      "pos": "adv",
+      "gloss": {
+        "pt": "tarde"
+      },
+      "def": {
+        "pt": "tarde"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

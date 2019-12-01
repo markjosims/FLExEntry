@@ -1,0 +1,29 @@
+{
+  "headword": "hamäh",
+  "entry_id": "hamäh_611ef3be-8c5e-49a9-94c9-f1121405e643",
+  "morph_type": "stem",
+  "pronunciation": "hamʌh",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "82e62d21-d2e9-4892-98c7-333a61d51295",
+      "pos": "intj",
+      "gloss": {
+        "pt": "vamos"
+      },
+      "def": {
+        "pt": "vamos"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

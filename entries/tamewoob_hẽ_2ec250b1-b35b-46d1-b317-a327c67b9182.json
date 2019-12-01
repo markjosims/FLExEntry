@@ -1,0 +1,31 @@
+{
+  "headword": "tamewoob hẽ",
+  "entry_id": "tamewoob hẽ_2ec250b1-b35b-46d1-b317-a327c67b9182",
+  "morph_type": "phrase",
+  "pronunciation": "tameʔˈwo:b˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ca80116d-2820-40c9-9cb0-b8778d1876e1",
+      "pos": null,
+      "gloss": {
+        "en": "NMRL:3",
+        "pt": "NMRL:3"
+      },
+      "def": {
+        "en": "three",
+        "pt": "tres"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-08T18:24:09Z"
+}

@@ -1,0 +1,31 @@
+{
+  "headword": "tëëg yb",
+  "entry_id": "tëëg yb_f8951250-2fb0-48b9-b08c-6e0875754bde",
+  "morph_type": "phrase",
+  "pronunciation": "tə:g̚ ʔɨb̚",
+  "variant": null,
+  "note": [
+    [
+      "lit fogo-pai",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9068c69b-0cd3-4422-b34b-e0c0473cc182",
+      "pos": "Noun",
+      "gloss": {
+        "en": "gun",
+        "pt": "espingarda"
+      },
+      "def": {
+        "en": "gun",
+        "pt": "espingarda; fusil"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

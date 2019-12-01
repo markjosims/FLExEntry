@@ -1,0 +1,26 @@
+{
+  "headword": "p’aa hẽnh",
+  "entry_id": "p’aa hẽnh_022f0eb2-2301-40e8-809c-927ccebeff3c",
+  "morph_type": "phrase",
+  "pronunciation": "paʔaʔ hẽɲ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "3954f8c6-283b-4e9f-a9b1-5e9ea6096fcc",
+      "pos": "adv?",
+      "gloss": {
+        "en": "again",
+        "pt": "de.novo"
+      },
+      "def": {
+        "en": "again",
+        "pt": "de.novo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-15T20:18:56Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "tii",
+  "entry_id": "tii1_487f32cf-ecef-4acb-b46f-049fe7ed4361",
+  "morph_type": "stem",
+  "pronunciation": "ti:",
+  "variant": null,
+  "note": [
+    [
+      "parece ter uso verbal em muitas ições em cartilha 4",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "2b8284c8-5ded-444a-ba33-54dd77d36f31",
+      "pos": "onom",
+      "gloss": {
+        "pt": "ossos.secos"
+      },
+      "def": {
+        "pt": "som de ossos secos"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "gatoj",
+  "entry_id": "gatoj2_821cf217-373a-468c-809d-befd11a285c3",
+  "morph_type": "stem",
+  "pronunciation": "k'atoj",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "04136b99-da36-48b3-afdb-7c8a47d55bf9",
+      "pos": "Noun",
+      "gloss": {
+        "en": "arrow",
+        "pt": "flecha"
+      },
+      "def": {
+        "en": "arrow",
+        "pt": "flecha"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

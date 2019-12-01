@@ -1,0 +1,26 @@
+{
+  "headword": "ỹỹm",
+  "entry_id": "ỹỹm3_be33ca3b-f6a1-4066-b50a-97e305ec90bb",
+  "morph_type": "stem",
+  "pronunciation": "ʔɨ̃:m",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "86b314ed-0e13-40a6-a039-afad42e7d999",
+      "pos": "Noun",
+      "gloss": {
+        "en": "wife",
+        "pt": "esposa"
+      },
+      "def": {
+        "en": "wife",
+        "pt": "esposa"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:56Z"
+}

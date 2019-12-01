@@ -1,0 +1,26 @@
+{
+  "headword": "napits",
+  "entry_id": "napits2_6f7520d1-88be-4ec1-85e9-1dd2931da488",
+  "morph_type": "stem",
+  "pronunciation": "nãpiɟ̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "9b3a4c49-e4e0-4a2f-9781-591e14a58f4b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "woven.sieve",
+        "pt": "peneira"
+      },
+      "def": {
+        "en": "woven strainer/sieve",
+        "pt": "peneira"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

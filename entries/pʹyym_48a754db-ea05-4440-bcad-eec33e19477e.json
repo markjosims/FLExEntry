@@ -1,0 +1,29 @@
+{
+  "headword": "pʹyym",
+  "entry_id": "pʹyym_48a754db-ea05-4440-bcad-eec33e19477e",
+  "morph_type": "stem",
+  "pronunciation": "pɨ̰:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "e08317a8-6964-4524-981c-ee61e958a38a",
+      "pos": "n",
+      "gloss": {
+        "pt": "veneno"
+      },
+      "def": {
+        "pt": "veneno"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

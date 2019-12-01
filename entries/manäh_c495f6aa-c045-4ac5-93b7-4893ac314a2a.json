@@ -1,0 +1,29 @@
+{
+  "headword": "manäh",
+  "entry_id": "manäh_c495f6aa-c045-4ac5-93b7-4893ac314a2a",
+  "morph_type": "stem",
+  "pronunciation": "manʌh",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ba01ed64-5100-4894-b46f-287c2da93272",
+      "pos": "par?",
+      "gloss": {
+        "pt": "IMP NEG"
+      },
+      "def": {
+        "pt": "imperativo negativo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

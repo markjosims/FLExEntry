@@ -1,0 +1,26 @@
+{
+  "headword": "ji wahëë",
+  "entry_id": "[ji] wahëë_1a55a25e-11fb-4fd6-acf0-565fecd058a8",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ  wahə:ʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "dd96ef39-6955-46ff-9a0c-cd2e3915751e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "chief",
+        "pt": "chefe"
+      },
+      "def": {
+        "en": "chief/leader",
+        "pt": "chefe"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

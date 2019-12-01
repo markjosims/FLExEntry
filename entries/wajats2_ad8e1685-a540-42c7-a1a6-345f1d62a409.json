@@ -1,0 +1,26 @@
+{
+  "headword": "wajats",
+  "entry_id": "wajats2_ad8e1685-a540-42c7-a1a6-345f1d62a409",
+  "morph_type": "stem",
+  "pronunciation": "wajaɟ̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "a6d7ec4c-04af-4d85-8640-ec123d877ace",
+      "pos": "Noun",
+      "gloss": {
+        "en": "manatee",
+        "pt": "peixe-boi"
+      },
+      "def": {
+        "en": "manatee",
+        "pt": "peixe-boi"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

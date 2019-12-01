@@ -1,0 +1,26 @@
+{
+  "headword": "kajahaar",
+  "entry_id": "kajahaar_8b1b6651-97b4-4f62-bd90-7c6bbbde6a15",
+  "morph_type": "stem",
+  "pronunciation": "kajaha:ɾᵊ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "96c8c9f1-de52-4a11-8ea7-db8475467392",
+      "pos": "Noun",
+      "gloss": {
+        "en": "mingau",
+        "pt": "mingau"
+      },
+      "def": {
+        "en": "tapioca drink; mingau",
+        "pt": "mingau"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

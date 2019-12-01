@@ -1,0 +1,29 @@
+{
+  "headword": "ewëën",
+  "entry_id": "ewëën_cf2ba2cf-1b12-4871-8529-c04cfe09aa5f",
+  "morph_type": "stem",
+  "pronunciation": "ewə:n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "576d82b4-95b9-46c6-8b26-e78d948cb115",
+      "pos": "v",
+      "gloss": {
+        "pt": "correr.atrás"
+      },
+      "def": {
+        "pt": "correr atrás"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

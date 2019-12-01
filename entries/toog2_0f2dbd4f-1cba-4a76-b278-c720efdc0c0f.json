@@ -1,0 +1,26 @@
+{
+  "headword": "toog",
+  "entry_id": "toog2_0f2dbd4f-1cba-4a76-b278-c720efdc0c0f",
+  "morph_type": "stem",
+  "pronunciation": "to:g̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "09da2923-e6d9-40fd-be0d-ddc17b8f36fe",
+      "pos": "Noun",
+      "gloss": {
+        "en": "daughter",
+        "pt": "filha"
+      },
+      "def": {
+        "en": "daughter",
+        "pt": "filha"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:56Z"
+}

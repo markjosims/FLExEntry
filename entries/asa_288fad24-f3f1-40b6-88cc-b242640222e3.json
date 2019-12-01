@@ -1,0 +1,29 @@
+{
+  "headword": "asa",
+  "entry_id": "asa_288fad24-f3f1-40b6-88cc-b242640222e3",
+  "morph_type": "stem",
+  "pronunciation": "aʃa",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 15",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "17ffc5b1-8803-4b0c-be28-8aa42432cfcd",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "kakoos yb",
+  "entry_id": "kakoos yb_07832269-7792-4503-a931-31d64643cc9a",
+  "morph_type": "phrase",
+  "pronunciation": "kako:ʃ ʔɨb̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "4b406dde-abeb-45c4-be61-d326a330ea83",
+      "pos": "Noun",
+      "gloss": {
+        "en": "porcupine",
+        "pt": "cuandu"
+      },
+      "def": {
+        "en": "porcupine",
+        "pt": "cuandu; porco-espinho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

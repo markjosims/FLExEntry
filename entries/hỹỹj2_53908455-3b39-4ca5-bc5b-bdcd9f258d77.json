@@ -1,0 +1,26 @@
+{
+  "headword": "hỹỹj",
+  "entry_id": "hỹỹj2_53908455-3b39-4ca5-bc5b-bdcd9f258d77",
+  "morph_type": "stem",
+  "pronunciation": "hɨ̃:j",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "9f8200d9-d9fb-4bea-995b-b9e7c94d3725",
+      "pos": "Noun",
+      "gloss": {
+        "en": "brother",
+        "pt": "irmão"
+      },
+      "def": {
+        "en": "brother",
+        "pt": "irmão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:56Z"
+}

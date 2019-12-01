@@ -1,0 +1,29 @@
+{
+  "headword": "busuuh",
+  "entry_id": "busuuh_a1465308-0514-409a-bd7b-d802129976d5",
+  "morph_type": "stem",
+  "pronunciation": "buʃu:h",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 2",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b1601ccf-4cca-4c12-8c21-e57e47975ec6",
+      "pos": "v?",
+      "gloss": {
+        "pt": "cobrir?"
+      },
+      "def": {
+        "pt": "cobrir?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

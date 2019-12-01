@@ -1,0 +1,27 @@
+{
+  "headword": "dahééh",
+  "entry_id": "dahééh2_820701d9-b96e-4451-b336-a4d5eb75162e",
+  "morph_type": "stem",
+  "pronunciation": "dahɛːh",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "63d0735e-8f3d-4941-b819-5d7154d47dd5",
+      "pos": "con",
+      "gloss": {
+        "en": "also"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

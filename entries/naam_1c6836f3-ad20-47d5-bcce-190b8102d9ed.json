@@ -1,0 +1,31 @@
+{
+  "headword": "naam",
+  "entry_id": "naam_1c6836f3-ad20-47d5-bcce-190b8102d9ed",
+  "morph_type": "stem",
+  "pronunciation": "nã:m",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "836ad4c9-a6c7-4f78-a151-73df4f95dc80",
+      "pos": "Noun",
+      "gloss": {
+        "en": "louse",
+        "pt": "piolho"
+      },
+      "def": {
+        "en": "louse",
+        "pt": "piolho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-07T14:50:11Z"
+}

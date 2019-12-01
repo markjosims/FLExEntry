@@ -1,0 +1,27 @@
+{
+  "headword": "mɨɨm",
+  "entry_id": "mɨɨm2_a2418be7-62d2-404b-8f3e-6ebd2c5de915",
+  "morph_type": "stem",
+  "pronunciation": "mɨːm",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "8fd64453-4f0d-4333-8b34-fa163c51f2bc",
+      "pos": "Noun",
+      "gloss": {
+        "en": "axe"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

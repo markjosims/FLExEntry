@@ -1,0 +1,29 @@
+{
+  "headword": "tʹëën",
+  "entry_id": "tʹëën_8ed3ef95-47fe-4b11-84da-14d3e25614ca",
+  "morph_type": "stem",
+  "pronunciation": "tə̰:n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "31af3140-0dd6-4e76-b1d8-cf9a320aab07",
+      "pos": "n",
+      "gloss": {
+        "pt": "nenê"
+      },
+      "def": {
+        "pt": "filho/a pequeno/a"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

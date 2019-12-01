@@ -1,0 +1,27 @@
+{
+  "headword": "kook",
+  "entry_id": "kook_6a2444a1-51f9-429d-83ad-2dbc45c37cc6",
+  "morph_type": "stem",
+  "pronunciation": "koːk",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "af9a43fb-27a6-45d7-9e2d-c45de208723a",
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.light (n.i. kog)"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

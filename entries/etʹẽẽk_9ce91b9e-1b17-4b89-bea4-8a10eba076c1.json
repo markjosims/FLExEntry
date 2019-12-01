@@ -1,0 +1,27 @@
+{
+  "headword": "etʹẽẽk",
+  "entry_id": "etʹẽẽk_9ce91b9e-1b17-4b89-bea4-8a10eba076c1",
+  "morph_type": "stem",
+  "pronunciation": "etḛ̃:k",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b0ede0fe-0800-45cb-9fe1-00e5d67183a5",
+      "pos": "v onom",
+      "gloss": {
+        "pt": "tirar.foto"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-27T01:30:42Z"
+}

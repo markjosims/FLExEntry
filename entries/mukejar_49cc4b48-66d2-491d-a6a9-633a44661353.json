@@ -1,0 +1,26 @@
+{
+  "headword": "mukejar",
+  "entry_id": "mukejar_49cc4b48-66d2-491d-a6a9-633a44661353",
+  "morph_type": "stem",
+  "pronunciation": "mũkejaɾᵊ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c4b9371a-0a90-4cae-ae40-f8f0339df952",
+      "pos": "Noun",
+      "gloss": {
+        "en": "small.neotropical.otter",
+        "pt": "lontra"
+      },
+      "def": {
+        "en": "Neotropical Otter (small)",
+        "pt": "lontra"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

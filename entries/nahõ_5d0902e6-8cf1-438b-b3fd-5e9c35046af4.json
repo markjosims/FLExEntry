@@ -1,0 +1,31 @@
+{
+  "headword": "nahõ",
+  "entry_id": "nahõ_5d0902e6-8cf1-438b-b3fd-5e9c35046af4",
+  "morph_type": "stem",
+  "pronunciation": "naˈhɔ̃ʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "36b30c82-d56b-4845-900a-fff166a82478",
+      "pos": "Verb",
+      "gloss": {
+        "en": "tie.up.hammock",
+        "pt": "atar.rede"
+      },
+      "def": {
+        "en": "tie up hammock",
+        "pt": "atar rede"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-10T23:33:03Z"
+}

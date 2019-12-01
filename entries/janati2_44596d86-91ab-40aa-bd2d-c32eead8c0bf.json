@@ -1,0 +1,26 @@
+{
+  "headword": "janati",
+  "entry_id": "janati2_44596d86-91ab-40aa-bd2d-c32eead8c0bf",
+  "morph_type": "stem",
+  "pronunciation": "jadnãtiʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c167f6d7-0a6f-4e25-a80a-eae502a5ef7e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "maize",
+        "pt": "milho"
+      },
+      "def": {
+        "en": "maize; corn",
+        "pt": "milho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

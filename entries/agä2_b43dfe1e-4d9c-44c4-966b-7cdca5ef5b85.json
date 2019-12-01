@@ -1,0 +1,31 @@
+{
+  "headword": "agä",
+  "entry_id": "agä2_b43dfe1e-4d9c-44c4-966b-7cdca5ef5b85",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈk’ʌʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f04d8c55-09b0-4744-8bbe-2e1ef6eb471f",
+      "pos": "Verb",
+      "gloss": {
+        "en": "lie.in.hammock",
+        "pt": "deitar.rede"
+      },
+      "def": {
+        "en": "lie in hammock",
+        "pt": "deitar na rede"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-10T15:40:55Z"
+}

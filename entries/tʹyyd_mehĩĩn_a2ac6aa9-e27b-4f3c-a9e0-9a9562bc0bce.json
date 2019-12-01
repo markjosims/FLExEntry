@@ -1,0 +1,29 @@
+{
+  "headword": "tʹyyd mehĩĩn",
+  "entry_id": "tʹyyd mehĩĩn_a2ac6aa9-e27b-4f3c-a9e0-9a9562bc0bce",
+  "morph_type": "phrase",
+  "pronunciation": "tɨ̰:d mehĩ:n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "fc3a87c1-4523-4546-a6a0-b3c3f752a07a",
+      "pos": "v",
+      "gloss": {
+        "pt": "pena.de"
+      },
+      "def": {
+        "pt": "pena de"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

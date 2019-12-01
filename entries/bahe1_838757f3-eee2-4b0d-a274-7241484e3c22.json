@@ -1,0 +1,29 @@
+{
+  "headword": "bahe",
+  "entry_id": "bahe1_838757f3-eee2-4b0d-a274-7241484e3c22",
+  "morph_type": "stem",
+  "pronunciation": "bahe",
+  "variant": null,
+  "note": [
+    [
+      "se traduz a 'paca' em cartilha 4; lição 18  ição 17",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "4973e187-e38a-4d79-b74e-f248f36194ed",
+      "pos": "n",
+      "gloss": {
+        "pt": "cutia.preta"
+      },
+      "def": {
+        "pt": "cutia.preta"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

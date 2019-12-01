@@ -1,0 +1,29 @@
+{
+  "headword": "na",
+  "entry_id": "na1_0126d0ce-96ed-408a-bd28-66f3a462840f",
+  "morph_type": "stem",
+  "pronunciation": "na",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6c7274f4-8b5b-442d-9e05-9dfbff1f938a",
+      "pos": "v imp",
+      "gloss": {
+        "pt": "me.da"
+      },
+      "def": {
+        "pt": "me da"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,40 @@
+{
+  "headword": "mahũũr",
+  "entry_id": "mahũũr1_d5012807-382c-4ce2-ae64-fe70e83272d7",
+  "morph_type": "stem",
+  "pronunciation": "mahũ:ɾǝ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "594992bc-bdc8-4b9e-bf51-b3b08118b6bb",
+      "pos": "n",
+      "gloss": {
+        "en": "sweet.manioc",
+        "pt": "macaxeira"
+      },
+      "def": {
+        "en": "sweet manioc",
+        "pt": "macaxeira"
+      },
+      "reverse": [
+        [
+          "sweet manioc",
+          "en"
+        ],
+        [
+          "macaxeira",
+          "pt"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

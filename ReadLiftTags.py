@@ -23,7 +23,8 @@ def tag_globals():
                   '<sense':read_sense_wrapper,
                   "<trait  name='morph-type'":read_morph_type
                   }
-    entry_keys =   {'<pronunciation':'pronunciation',
+    entry_keys =   {'dateModified':'date',
+                    '<pronunciation':'pronunciation',
                     '<note':'note',
                     '<relation type':'variant',
                     '<lexical-unit>':'headword',
@@ -53,6 +54,7 @@ def read_entry(r, id_only=False):
         for k in ('variant', 'note', 'sense'):
             entry_data[k] = []
         entry_data['entry_id'] = entry_id
+        entry_data['date'] = get_xml_kwarg(open_tag, 'dateCreated')
     
     line, line_bytes = r_d_bytes(r)
     while True:

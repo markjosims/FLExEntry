@@ -1,0 +1,25 @@
+{
+  "headword": "t’ëëng",
+  "entry_id": "t’ëëng_7fad6677-006f-46f7-991e-8fd6199e5d12",
+  "morph_type": "stem",
+  "pronunciation": "təʔəgŋ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "bab5f98d-d3ed-46f8-95f5-1512fd18bd7e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "tapir",
+        "pt": "anta"
+      },
+      "def": {
+        "en": "tapir (South American Tapir)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

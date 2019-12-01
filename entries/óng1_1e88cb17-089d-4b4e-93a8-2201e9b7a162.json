@@ -1,0 +1,29 @@
+{
+  "headword": "óng",
+  "entry_id": "óng1_1e88cb17-089d-4b4e-93a8-2201e9b7a162",
+  "morph_type": "stem",
+  "pronunciation": "ɔŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b332b324-ee35-454a-b08f-5fd45203d43e",
+      "pos": "n",
+      "gloss": {
+        "pt": "tio"
+      },
+      "def": {
+        "pt": "tio (irmão do pai)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-22T20:36:54Z"
+}

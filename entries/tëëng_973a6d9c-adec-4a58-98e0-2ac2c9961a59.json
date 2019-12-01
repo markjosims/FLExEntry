@@ -1,0 +1,26 @@
+{
+  "headword": "tëëng",
+  "entry_id": "tëëng_973a6d9c-adec-4a58-98e0-2ac2c9961a59",
+  "morph_type": "stem",
+  "pronunciation": "tə:gŋ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "46edc95f-9dce-4cc7-ae3a-29d74804cdf3",
+      "pos": "Noun",
+      "gloss": {
+        "en": "firewood",
+        "pt": "lenha"
+      },
+      "def": {
+        "en": "firewood",
+        "pt": "lenha"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

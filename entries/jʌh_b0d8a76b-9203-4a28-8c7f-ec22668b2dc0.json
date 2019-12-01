@@ -1,0 +1,22 @@
+{
+  "headword": "jʌh",
+  "entry_id": "jʌh_b0d8a76b-9203-4a28-8c7f-ec22668b2dc0",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "f2eacd62-e947-4696-9222-45f3eafd0b81",
+      "pos": "Noun",
+      "gloss": {
+        "en": "mira; alvo"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:53Z"
+}

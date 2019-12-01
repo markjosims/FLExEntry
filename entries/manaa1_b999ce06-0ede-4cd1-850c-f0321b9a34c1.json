@@ -1,0 +1,29 @@
+{
+  "headword": "manaa",
+  "entry_id": "manaa1_b999ce06-0ede-4cd1-850c-f0321b9a34c1",
+  "morph_type": "stem",
+  "pronunciation": "mana:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3dc7d08c-b772-4047-88f7-269b129dba53",
+      "pos": "v",
+      "gloss": {
+        "pt": "trazer"
+      },
+      "def": {
+        "pt": "trazer"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

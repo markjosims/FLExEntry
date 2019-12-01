@@ -1,0 +1,29 @@
+{
+  "headword": "hewoonh",
+  "entry_id": "hewoonh_397db076-cf3b-4301-9885-681cbbd2ec19",
+  "morph_type": "stem",
+  "pronunciation": "hewo:ɲ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a4987c29-e90e-401a-8e77-c45e82ec9b5c",
+      "pos": "v",
+      "gloss": {
+        "pt": "secar"
+      },
+      "def": {
+        "pt": "secar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

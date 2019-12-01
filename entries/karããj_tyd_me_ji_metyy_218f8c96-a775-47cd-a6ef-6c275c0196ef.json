@@ -1,0 +1,31 @@
+{
+  "headword": "karããj tyd me ji metyy",
+  "entry_id": "karããj tyd me ji metyy_218f8c96-a775-47cd-a6ef-6c275c0196ef",
+  "morph_type": "phrase",
+  "pronunciation": "kaɾã:j tɨd̚ mẽʔ jiʔ mẽtɨ:ʔ",
+  "variant": null,
+  "note": [
+    [
+      "cf. karããj tyd [linha de pesca]",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1f46caf8-3abc-4a6b-beb5-5554c6fd7c05",
+      "pos": "Verb",
+      "gloss": {
+        "en": "fish.w.line",
+        "pt": "pescar.cm.linha"
+      },
+      "def": {
+        "en": "fish (with line)",
+        "pt": "pescar (com linha)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

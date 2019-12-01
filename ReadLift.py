@@ -28,7 +28,8 @@ def main():
   
 def get_entries_df():
     entries_df = pd.DataFrame(columns = ['headword', 'entry_id', 'morph_type',
-                                 'pronunciation', 'variant', 'note', 'sense'])
+                                 'pronunciation', 'variant', 'note', 'sense',
+                                 'date'])
     with open(in_file, 'rb') as f:
         line_bytes = f.readline()
         while line_bytes:

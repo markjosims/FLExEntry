@@ -1,0 +1,29 @@
+{
+  "headword": "sadẽẽt",
+  "entry_id": "sadẽẽt_b4bb873a-91b3-44d4-9851-31fd723dfe30",
+  "morph_type": "stem",
+  "pronunciation": "ʃadɛ̃:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0e072346-4ea1-43ff-96ed-c4aefa2fcccf",
+      "pos": "v",
+      "gloss": {
+        "pt": "escapulir"
+      },
+      "def": {
+        "pt": "escapulir"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

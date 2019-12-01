@@ -1,0 +1,27 @@
+{
+  "headword": "jag",
+  "entry_id": "jag1_01f9bb3f-592f-4c82-b820-5c534600a288",
+  "morph_type": "stem",
+  "pronunciation": "jag",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0a53e4ac-73b8-4116-9c0c-091bf6a6a02f",
+      "pos": "n",
+      "gloss": {
+        "pt": "rede"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

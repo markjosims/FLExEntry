@@ -1,0 +1,29 @@
+{
+  "headword": "moo hajʹaa",
+  "entry_id": "moo hajʹaa_06db6091-79d5-477c-a422-797dfc4e6c9b",
+  "morph_type": "phrase",
+  "pronunciation": "mo: haja̰:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3145b43d-25c5-4e04-84cc-e13164a051a2",
+      "pos": "v",
+      "gloss": {
+        "pt": "fazer"
+      },
+      "def": {
+        "pt": "fazer; conseguir"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

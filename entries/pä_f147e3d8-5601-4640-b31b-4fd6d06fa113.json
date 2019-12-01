@@ -1,0 +1,31 @@
+{
+  "headword": "pä",
+  "entry_id": "pä_f147e3d8-5601-4640-b31b-4fd6d06fa113",
+  "morph_type": "stem",
+  "pronunciation": "pʌʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "93f18a2c-6f34-4158-bdb4-2cf41a496210",
+      "pos": "Noun",
+      "gloss": {
+        "en": "stone",
+        "pt": "pedra"
+      },
+      "def": {
+        "en": "stone",
+        "pt": "pedra"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-08T17:50:53Z"
+}

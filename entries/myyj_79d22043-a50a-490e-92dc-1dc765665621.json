@@ -1,0 +1,29 @@
+{
+  "headword": "myyj",
+  "entry_id": "myyj_79d22043-a50a-490e-92dc-1dc765665621",
+  "morph_type": "stem",
+  "pronunciation": "mɨ:j",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "acd0a02b-de35-4f49-bbd4-4a45184b76c5",
+      "pos": "n",
+      "gloss": {
+        "pt": "lar"
+      },
+      "def": {
+        "pt": "lar; aldeia"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

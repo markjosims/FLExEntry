@@ -1,0 +1,22 @@
+{
+  "headword": "kat",
+  "entry_id": "kat_f40fa792-adc4-41f2-ad6e-b5120cb7051a",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "f53d601b-a0b3-4187-b755-dc9583860288",
+      "pos": "Noun",
+      "gloss": {
+        "en": "tia"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "headword": "pxóóyub",
+  "entry_id": "pxóóyub_b3363668-3ab6-466f-af47-ad43777e43e2",
+  "morph_type": "stem",
+  "pronunciation": "pɔ̰ːjub",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "fb1ced58-8719-4453-8745-a66a8dd1bf7c",
+      "pos": "Adverb",
+      "gloss": {
+        "en": "long.ago"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

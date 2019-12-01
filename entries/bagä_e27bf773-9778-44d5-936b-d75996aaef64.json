@@ -1,0 +1,31 @@
+{
+  "headword": "bagä",
+  "entry_id": "bagä_e27bf773-9778-44d5-936b-d75996aaef64",
+  "morph_type": "stem",
+  "pronunciation": "baʔˈk’ǝʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d7b4dcc9-b1f5-4cf8-83bc-9c62e88d5739",
+      "pos": "Verb",
+      "gloss": {
+        "en": "live",
+        "pt": "morar"
+      },
+      "def": {
+        "en": "live at; reside",
+        "pt": "morar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

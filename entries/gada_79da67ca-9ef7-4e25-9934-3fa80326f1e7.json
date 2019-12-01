@@ -1,0 +1,29 @@
+{
+  "headword": "gada",
+  "entry_id": "gada_79da67ca-9ef7-4e25-9934-3fa80326f1e7",
+  "morph_type": "stem",
+  "pronunciation": "gada",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a8001b80-aea8-4a40-af26-d4a9e704890f",
+      "pos": "v",
+      "gloss": {
+        "pt": "esperar"
+      },
+      "def": {
+        "pt": "esperar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

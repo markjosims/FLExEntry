@@ -1,0 +1,27 @@
+{
+  "headword": "péh",
+  "entry_id": "péh2_185742c8-a9c5-4745-b66a-a8f4f48aaf5c",
+  "morph_type": "stem",
+  "pronunciation": "pɛh",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990; Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ce5eec29-84d1-4460-9820-3988b7210159",
+      "pos": "Pronoun",
+      "gloss": {
+        "en": "NON.REF; a.one"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

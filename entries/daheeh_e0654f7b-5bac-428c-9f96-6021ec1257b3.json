@@ -1,0 +1,29 @@
+{
+  "headword": "daheeh",
+  "entry_id": "daheeh_e0654f7b-5bac-428c-9f96-6021ec1257b3",
+  "morph_type": "stem",
+  "pronunciation": "dahe:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6925dae7-a70d-4e96-a4d6-ab97c8466cc4",
+      "pos": "posp",
+      "gloss": {
+        "pt": "junto.com"
+      },
+      "def": {
+        "pt": "junto com"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

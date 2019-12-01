@@ -1,0 +1,31 @@
+{
+  "headword": "ỹỹn",
+  "entry_id": "ỹỹn1_834d53d4-10c0-49d7-803d-00921ec62593",
+  "morph_type": "stem",
+  "pronunciation": "ʔɨ̃:n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "98de5dc6-189c-40fd-bf5d-588fc070fa6b",
+      "pos": "n",
+      "gloss": {
+        "en": "mother",
+        "pt": "mãe"
+      },
+      "def": {
+        "en": "mother",
+        "pt": "mãe"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "jamad",
+  "entry_id": "jamad_275da60d-aa15-4ba5-9b8a-77e7ba77e471",
+  "morph_type": "stem",
+  "pronunciation": "jamad",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "73d6af73-d8d9-4e0f-a1a3-57898a23cf41",
+      "pos": "n",
+      "gloss": {
+        "pt": "abiu"
+      },
+      "def": {
+        "pt": "esp. de árvore/fruta (abiu)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

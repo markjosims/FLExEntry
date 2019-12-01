@@ -1,0 +1,46 @@
+{
+  "headword": "ejooh",
+  "entry_id": "ejooh_c974a407-e86b-4fe2-9a3d-fadf2bbb7e83",
+  "morph_type": "stem",
+  "pronunciation": "ʔeˈjo:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bbf9ec9e-d88d-4144-b402-b8c622e69cac",
+      "pos": "v",
+      "gloss": {
+        "en": "pierce",
+        "pt": "furar"
+      },
+      "def": {
+        "en": "pierce",
+        "pt": "furar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    },
+    {
+      "sense_id": "bd47bb0a-aca3-43ae-bb06-6cd7379e2948",
+      "pos": "v",
+      "gloss": {
+        "en": "vacinate",
+        "pt": "vaccinar"
+      },
+      "def": {
+        "en": "vacinate",
+        "pt": "vaccinar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

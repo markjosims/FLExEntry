@@ -1,0 +1,29 @@
+{
+  "headword": "basong",
+  "entry_id": "basong_061b4156-051a-46d0-8236-0cd083292685",
+  "morph_type": "stem",
+  "pronunciation": "baʃoŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ac8a1843-388b-427b-918b-43d78bca995f",
+      "pos": "v",
+      "gloss": {
+        "pt": "ter.cheiro"
+      },
+      "def": {
+        "pt": "ter cheiro"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

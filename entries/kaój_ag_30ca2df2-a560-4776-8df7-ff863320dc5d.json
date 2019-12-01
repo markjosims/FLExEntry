@@ -1,0 +1,26 @@
+{
+  "headword": "kaój ag",
+  "entry_id": "kaój ag_30ca2df2-a560-4776-8df7-ff863320dc5d",
+  "morph_type": "phrase",
+  "pronunciation": "kaʔɔj ʔag̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "f354e744-876b-4083-b01e-60028d0f77dc",
+      "pos": "Noun",
+      "gloss": {
+        "en": "hallucinogenic.snuff",
+        "pt": "paricá"
+      },
+      "def": {
+        "en": "hallucinogenic snuff",
+        "pt": "paricá; yopo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

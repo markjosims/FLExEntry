@@ -1,0 +1,29 @@
+{
+  "headword": "tũũh",
+  "entry_id": "tũũh_1b11b954-a8f9-47e3-8041-e7ad344c4fb6",
+  "morph_type": "stem",
+  "pronunciation": "tũ:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d69496ab-5a91-4287-91a7-69f70883fabb",
+      "pos": "adv",
+      "gloss": {
+        "pt": "no.chão"
+      },
+      "def": {
+        "pt": "no chão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

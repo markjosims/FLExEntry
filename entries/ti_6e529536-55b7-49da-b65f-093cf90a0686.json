@@ -1,0 +1,29 @@
+{
+  "headword": "ti",
+  "entry_id": "ti_6e529536-55b7-49da-b65f-093cf90a0686",
+  "morph_type": "stem",
+  "pronunciation": "ti",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; varias ições",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c3e01ab7-5336-425c-a22a-b2c899a7bf44",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,31 @@
+{
+  "headword": "ji me heet péh",
+  "entry_id": "ji me heet péh_b35586b7-4165-4c55-9d36-7b810719c0c1",
+  "morph_type": "phrase",
+  "pronunciation": "ji meʔ ˈhe:t˺ ˈpɛh",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d3f3789f-497c-46fc-851e-869de94cdfee",
+      "pos": null,
+      "gloss": {
+        "en": "NMRL4",
+        "pt": "NMRL4"
+      },
+      "def": {
+        "en": "four",
+        "pt": "quatro"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-27T19:45:33Z"
+}

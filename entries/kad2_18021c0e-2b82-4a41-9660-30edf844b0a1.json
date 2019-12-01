@@ -1,0 +1,27 @@
+{
+  "headword": "kad",
+  "entry_id": "kad2_18021c0e-2b82-4a41-9660-30edf844b0a1",
+  "morph_type": "stem",
+  "pronunciation": "kad",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990; Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a2730ec1-e427-463d-97e0-b0290c016311",
+      "pos": "Noun",
+      "gloss": {
+        "en": "uncle"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:53Z"
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "warahen",
+  "entry_id": "warahen2_9f60eea4-12af-4bff-b76f-4b605295b5a8",
+  "morph_type": "stem",
+  "pronunciation": "waɾahedn",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "93072db2-e472-4aee-9742-93b4062cfe38",
+      "pos": "Noun",
+      "gloss": {
+        "en": "soldier",
+        "pt": "soldado"
+      },
+      "def": {
+        "en": "soldier",
+        "pt": "soldado"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

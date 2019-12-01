@@ -1,0 +1,27 @@
+{
+  "headword": "nag",
+  "entry_id": "nag_2beee218-2c56-4926-8789-ec8a1e7f34dc",
+  "morph_type": "stem",
+  "pronunciation": "nag",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bc02741a-4853-4647-b4a2-14fc32e4e4ee",
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.tasty n.i."
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "oow",
+  "entry_id": "oow1_eb8de02c-9b06-4ddc-af7a-cba13637ac34",
+  "morph_type": "stem",
+  "pronunciation": "o:w",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c44033fb-f7ea-41e2-9277-e9771aa96ba3",
+      "pos": "n",
+      "gloss": {
+        "pt": "vovó/ô"
+      },
+      "def": {
+        "pt": "vovó/ô; que não é legitimo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

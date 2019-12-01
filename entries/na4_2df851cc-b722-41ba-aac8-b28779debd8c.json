@@ -1,0 +1,27 @@
+{
+  "headword": "na",
+  "entry_id": "na4_2df851cc-b722-41ba-aac8-b28779debd8c",
+  "morph_type": "stem",
+  "pronunciation": "naʔ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "820f1f6f-ab91-45fb-b2aa-b394c9c16188",
+      "pos": "part?",
+      "gloss": {
+        "en": "perm(???)"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

@@ -1,0 +1,27 @@
+{
+  "headword": "wɨɨd",
+  "entry_id": "wɨɨd_9d9354e7-2fe3-4abe-a360-cc883a42bff6",
+  "morph_type": "stem",
+  "pronunciation": "wɨːd",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "abef926e-30eb-474e-acdb-321061749115",
+      "pos": "Verb",
+      "gloss": {
+        "en": "find"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

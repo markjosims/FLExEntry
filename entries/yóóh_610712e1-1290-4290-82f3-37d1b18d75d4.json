@@ -1,0 +1,27 @@
+{
+  "headword": "yóóh",
+  "entry_id": "yóóh_610712e1-1290-4290-82f3-37d1b18d75d4",
+  "morph_type": "stem",
+  "pronunciation": "jɔːh",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0db286de-5996-4c6a-b98d-192808062521",
+      "pos": "Verb",
+      "gloss": {
+        "en": "pierce"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

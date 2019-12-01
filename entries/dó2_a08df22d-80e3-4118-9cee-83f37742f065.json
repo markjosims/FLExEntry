@@ -1,0 +1,27 @@
+{
+  "headword": "dó",
+  "entry_id": "dó2_a08df22d-80e3-4118-9cee-83f37742f065",
+  "morph_type": "stem",
+  "pronunciation": "dɔʔ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "008871fd-4619-4a18-8f3a-e7084bd3eaf6",
+      "pos": "part?",
+      "gloss": {
+        "en": "still"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

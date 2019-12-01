@@ -1,0 +1,29 @@
+{
+  "headword": "benäng",
+  "entry_id": "benäng_cc9d7f0b-5b7b-4bea-afb4-a27edf0f81fc",
+  "morph_type": "stem",
+  "pronunciation": "benʌŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ddd2b4ec-c307-48b0-93d4-b348a33989bf",
+      "pos": "v",
+      "gloss": {
+        "pt": "nascer"
+      },
+      "def": {
+        "pt": "nascer"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

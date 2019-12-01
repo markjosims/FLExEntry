@@ -1,0 +1,31 @@
+{
+  "headword": "gehõk",
+  "entry_id": "gehõk_b5552c55-9b4f-4af3-b075-530fed54518b",
+  "morph_type": "stem",
+  "pronunciation": "k’eˈhɔ̃k˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a110f895-5003-4337-b4a3-202471d74c63",
+      "pos": "Verb",
+      "gloss": {
+        "en": "hack",
+        "pt": "cortar"
+      },
+      "def": {
+        "en": "hack",
+        "pt": "cortar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-09T23:56:28Z"
+}

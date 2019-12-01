@@ -1,0 +1,29 @@
+{
+  "headword": "awëënh",
+  "entry_id": "awëënh_5d354e7a-373f-43e7-a04d-51fa7ec24097",
+  "morph_type": "stem",
+  "pronunciation": "awə:ɲ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "af14f041-4eb0-4cc5-a2b4-4eca984911d4",
+      "pos": "v",
+      "gloss": {
+        "pt": "descer.para.rio"
+      },
+      "def": {
+        "pt": "descer para o rio"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

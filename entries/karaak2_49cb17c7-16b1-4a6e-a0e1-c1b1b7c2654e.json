@@ -1,0 +1,26 @@
+{
+  "headword": "karaak",
+  "entry_id": "karaak2_49cb17c7-16b1-4a6e-a0e1-c1b1b7c2654e",
+  "morph_type": "stem",
+  "pronunciation": "kaɾa:k̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "99ccbac0-0468-4f25-9b11-5b138a73b9aa",
+      "pos": "Noun",
+      "gloss": {
+        "en": "chicken",
+        "pt": "galinha"
+      },
+      "def": {
+        "en": "chicken",
+        "pt": "galinha"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "ma",
+  "entry_id": "ma1_4264a5f5-d297-4c5e-9ce6-80ae7193474a",
+  "morph_type": "stem",
+  "pronunciation": "ma",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b7614e1b-cfd8-4a2c-b48a-afa30dce887e",
+      "pos": "n op",
+      "gloss": {
+        "pt": "pertences"
+      },
+      "def": {
+        "pt": "pertences"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

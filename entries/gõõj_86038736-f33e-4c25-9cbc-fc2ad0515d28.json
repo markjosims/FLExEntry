@@ -1,0 +1,29 @@
+{
+  "headword": "gõõj",
+  "entry_id": "gõõj_86038736-f33e-4c25-9cbc-fc2ad0515d28",
+  "morph_type": "stem",
+  "pronunciation": "gõ:j",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "77c89938-b4b1-463d-9659-504f4c8f9ebe",
+      "pos": "n",
+      "gloss": {
+        "pt": "acompanhamento ?)"
+      },
+      "def": {
+        "pt": "comida que acompanha o peixe u a carne"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

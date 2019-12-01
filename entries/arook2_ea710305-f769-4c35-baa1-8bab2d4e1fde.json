@@ -1,0 +1,26 @@
+{
+  "headword": "arook",
+  "entry_id": "arook2_ea710305-f769-4c35-baa1-8bab2d4e1fde",
+  "morph_type": "stem",
+  "pronunciation": "ʔaɾo:k̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "1457b1c0-a8bf-46f2-9de5-b473361722b8",
+      "pos": "Noun",
+      "gloss": {
+        "en": "large.basket",
+        "pt": "atura"
+      },
+      "def": {
+        "en": "basket; large",
+        "pt": "atura"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

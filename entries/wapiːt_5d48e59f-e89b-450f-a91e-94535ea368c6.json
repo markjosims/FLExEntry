@@ -1,0 +1,22 @@
+{
+  "headword": "wapiːt",
+  "entry_id": "wapiːt_5d48e59f-e89b-450f-a91e-94535ea368c6",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "4341ee7a-6fea-49e8-aed4-11164ddab9e0",
+      "pos": "Noun",
+      "gloss": {
+        "en": "maracajá"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

@@ -1,0 +1,40 @@
+{
+  "headword": "ëk tyd",
+  "entry_id": "ëk tyd_84595ae0-72c2-42e8-81cd-c8fa5cba2e10",
+  "morph_type": "phrase",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3966a69b-7909-473a-8ee1-680e9c21c87b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "squash",
+        "pt": "abobora"
+      },
+      "def": {
+        "en": "squash",
+        "pt": "abobora"
+      },
+      "reverse": [
+        [
+          "squash",
+          "en"
+        ],
+        [
+          "abobora",
+          "pt"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-09-04T00:48:04Z"
+}

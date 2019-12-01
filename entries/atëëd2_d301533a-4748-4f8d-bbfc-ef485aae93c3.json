@@ -1,0 +1,26 @@
+{
+  "headword": "atëëd",
+  "entry_id": "atëëd2_d301533a-4748-4f8d-bbfc-ef485aae93c3",
+  "morph_type": "stem",
+  "pronunciation": "ʔatə:d̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "ecea21e5-7367-4762-bd5c-6881a835e7d5",
+      "pos": "Noun",
+      "gloss": {
+        "en": "wasp",
+        "pt": "caba"
+      },
+      "def": {
+        "en": "wasp",
+        "pt": "caba"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

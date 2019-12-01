@@ -1,0 +1,29 @@
+{
+  "headword": "séd bód",
+  "entry_id": "séd bód_a6612756-16f0-45df-9219-91a8f81b61e6",
+  "morph_type": "phrase",
+  "pronunciation": "ʃɛd bɔd",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3d9604c2-3c62-4db1-ac74-97bda54287aa",
+      "pos": "adv",
+      "gloss": {
+        "pt": "muitas.vezes"
+      },
+      "def": {
+        "pt": "muitas.vezes"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

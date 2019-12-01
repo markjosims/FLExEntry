@@ -1,0 +1,29 @@
+{
+  "headword": "dagõn",
+  "entry_id": "dagõn_f7d8ca73-7f0c-4b90-914b-ea59c8e057e1",
+  "morph_type": "stem",
+  "pronunciation": "dagõn",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6d128d41-81a3-471c-9d02-f855e642415a",
+      "pos": "v",
+      "gloss": {
+        "pt": "desmaiar"
+      },
+      "def": {
+        "pt": "desmaiar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "tsawaaj",
+  "entry_id": "tsawaaj_bd4ddf53-09b2-485e-bb4b-06c84d176264",
+  "morph_type": "stem",
+  "pronunciation": "tʃ'awa:j",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "1e5d684b-9692-43d8-bd75-2dc0d213702d",
+      "pos": "Noun",
+      "gloss": {
+        "en": "opossum",
+        "pt": "mucura"
+      },
+      "def": {
+        "en": "opossum",
+        "pt": "mucura"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

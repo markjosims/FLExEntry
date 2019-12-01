@@ -1,0 +1,29 @@
+{
+  "headword": "kän",
+  "entry_id": "kän_b741c8ef-a073-4471-bcae-05183a264d67",
+  "morph_type": "stem",
+  "pronunciation": "kʌn",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0756186b-78d9-4f08-8487-28a5761781e9",
+      "pos": "suf",
+      "gloss": {
+        "pt": "DM"
+      },
+      "def": {
+        "pt": "marcação no discurso"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

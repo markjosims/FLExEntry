@@ -1,0 +1,29 @@
+{
+  "headword": "tabës",
+  "entry_id": "tabës_14ced729-1b9a-4a85-9ea0-4b582781a60b",
+  "morph_type": "stem",
+  "pronunciation": "tabəʃ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "570e5c28-f344-441a-93a2-fa6f7607504f",
+      "pos": "v",
+      "gloss": {
+        "pt": "passar"
+      },
+      "def": {
+        "pt": "passar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

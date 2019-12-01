@@ -1,0 +1,29 @@
+{
+  "headword": "sĩĩn",
+  "entry_id": "sĩĩn_bef46c0d-3efb-4cc7-b2c4-1a829fc17d96",
+  "morph_type": "stem",
+  "pronunciation": "ʃĩ:n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "7693b61a-ed61-4709-9cf5-037de32b820f",
+      "pos": "n",
+      "gloss": {
+        "pt": "coral"
+      },
+      "def": {
+        "pt": "esp. de cobra (coral)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

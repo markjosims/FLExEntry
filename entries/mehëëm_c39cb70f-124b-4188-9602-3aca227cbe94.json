@@ -1,0 +1,26 @@
+{
+  "headword": "mehëëm",
+  "entry_id": "mehëëm_c39cb70f-124b-4188-9602-3aca227cbe94",
+  "morph_type": "stem",
+  "pronunciation": "mẽhə:bm",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "a85bd45a-5917-4840-a179-16e45ab17f1e",
+      "pos": "Verb",
+      "gloss": {
+        "en": "bless",
+        "pt": "benzer"
+      },
+      "def": {
+        "en": "bless",
+        "pt": "benzer"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "mariij",
+  "entry_id": "mariij_666383bb-b09a-4b6f-ac6e-83dcafaf8ed5",
+  "morph_type": "stem",
+  "pronunciation": "mãɾi:j",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "dfe4676b-1442-415a-aadf-140ecbac6b83",
+      "pos": "Noun",
+      "gloss": {
+        "en": "machete",
+        "pt": "facão"
+      },
+      "def": {
+        "en": "machete",
+        "pt": "facão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

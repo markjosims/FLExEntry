@@ -1,0 +1,29 @@
+{
+  "headword": "gewõõm",
+  "entry_id": "gewõõm_2e184b1f-4cc5-4e46-ae1e-f9ec715f3722",
+  "morph_type": "stem",
+  "pronunciation": "gewõ:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "4ef3d7a0-0610-4c6b-86f6-f2faf6d604f2",
+      "pos": "v",
+      "gloss": {
+        "pt": "enrolar"
+      },
+      "def": {
+        "pt": "curvar; enrolar; torto dentro"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-27T02:36:43Z"
+}

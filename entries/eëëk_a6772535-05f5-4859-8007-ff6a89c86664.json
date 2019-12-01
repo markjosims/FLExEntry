@@ -1,0 +1,35 @@
+{
+  "headword": "eëëk",
+  "entry_id": "eëëk_a6772535-05f5-4859-8007-ff6a89c86664",
+  "morph_type": "stem",
+  "pronunciation": "ʔeʔˈǝ:k",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ],
+    [
+      "problem: ʔeʔˈǝ:k or ʔeʔˈɨ:k",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b6b2eacc-3cd5-4627-aa03-efc2d1cb0ae0",
+      "pos": "v",
+      "gloss": {
+        "en": "drink",
+        "pt": "beber"
+      },
+      "def": {
+        "en": "drink",
+        "pt": "beber"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

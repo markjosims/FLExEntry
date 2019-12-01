@@ -1,0 +1,26 @@
+{
+  "headword": "hetsyyd doo",
+  "entry_id": "hetsyyd doo_b252c124-b4cc-4123-ba55-830489440869",
+  "morph_type": "phrase",
+  "pronunciation": "heʔtʃɨ:d̚ do:ʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "fddffcd4-f85d-4c97-b3c1-281d165b93db",
+      "pos": "Noun",
+      "gloss": {
+        "en": "tripod",
+        "pt": "tripe"
+      },
+      "def": {
+        "en": "tripod for washing manioc",
+        "pt": "tripe"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

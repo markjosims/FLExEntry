@@ -1,0 +1,29 @@
+{
+  "headword": "esʹaak",
+  "entry_id": "esʹaak_5f8affce-0fec-4b50-95ae-c2f3a8c3ad73",
+  "morph_type": "stem",
+  "pronunciation": "eʃa̰:k",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9efb0410-2dd1-424f-b9d1-3dadf8a8aa9f",
+      "pos": "v",
+      "gloss": {
+        "pt": "pescar.com.rede"
+      },
+      "def": {
+        "pt": "pescar com rede"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

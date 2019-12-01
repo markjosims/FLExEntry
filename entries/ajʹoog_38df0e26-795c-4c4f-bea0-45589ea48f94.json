@@ -1,0 +1,29 @@
+{
+  "headword": "ajʹoog",
+  "entry_id": "ajʹoog_38df0e26-795c-4c4f-bea0-45589ea48f94",
+  "morph_type": "stem",
+  "pronunciation": "ajo̰:g",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "94c8ba0f-9835-4903-b693-5ae769bc6a53",
+      "pos": "n",
+      "gloss": {
+        "pt": "lontra.sp"
+      },
+      "def": {
+        "pt": "esp. de lontra"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

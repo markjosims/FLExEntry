@@ -1,0 +1,31 @@
+{
+  "headword": "jahamad",
+  "entry_id": "jahamad_6d3a98b8-7a59-4188-ab3b-8ebcdb2d3359",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "206b2b80-0ea4-4a5a-a706-5b2ae1822ab9",
+      "pos": "Noun",
+      "gloss": {
+        "en": "curassow",
+        "pt": "mutum"
+      },
+      "def": {
+        "en": "curassow",
+        "pt": "mutum"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-27T20:19:18Z"
+}

@@ -1,0 +1,31 @@
+{
+  "headword": "yyh",
+  "entry_id": "yyh_1dc877e3-ce0f-43ad-817b-0844fa5ccca8",
+  "morph_type": "stem",
+  "pronunciation": "ʔɨ:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a9305d63-b9fb-4256-bac0-17c01afd996b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fire.ant",
+        "pt": "formiga.de.fogo"
+      },
+      "def": {
+        "en": "fireant",
+        "pt": "formiga de fogo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-15T20:27:26Z"
+}

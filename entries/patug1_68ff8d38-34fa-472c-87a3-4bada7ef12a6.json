@@ -1,0 +1,29 @@
+{
+  "headword": "patug",
+  "entry_id": "patug1_68ff8d38-34fa-472c-87a3-4bada7ef12a6",
+  "morph_type": "stem",
+  "pronunciation": "patug",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3575cb14-4aff-468a-b74d-b936a17cca8a",
+      "pos": "n op",
+      "gloss": {
+        "pt": "marido"
+      },
+      "def": {
+        "pt": "marido"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

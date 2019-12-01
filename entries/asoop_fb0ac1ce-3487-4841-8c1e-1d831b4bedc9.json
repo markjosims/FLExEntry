@@ -1,0 +1,29 @@
+{
+  "headword": "asoop",
+  "entry_id": "asoop_fb0ac1ce-3487-4841-8c1e-1d831b4bedc9",
+  "morph_type": "stem",
+  "pronunciation": "aʃo:p",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ff3c1d3f-d6c2-41ac-97d2-91bfeff55db5",
+      "pos": "v",
+      "gloss": {
+        "pt": "subir"
+      },
+      "def": {
+        "pt": "subir barranco; ir para o mato"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

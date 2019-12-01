@@ -1,0 +1,26 @@
+{
+  "headword": "ji tsyym suun",
+  "entry_id": "ji tsyym suun_99af168e-828f-4a70-a764-469f0957ad9d",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ tʃ'ɨ:bm ʃu:dn",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "92afd846-b8a6-46a9-9bb3-2bdc197010c9",
+      "pos": "Noun",
+      "gloss": {
+        "en": "shoes",
+        "pt": "sapatos"
+      },
+      "def": {
+        "en": "shoes",
+        "pt": "sapatos"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

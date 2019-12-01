@@ -1,0 +1,31 @@
+{
+  "headword": "masug",
+  "entry_id": "masug_14f4dbd3-bbac-4f9e-b5f5-3da0f0b5daa1",
+  "morph_type": "stem",
+  "pronunciation": "maˈʃug˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "869ac389-45ec-4ea1-bd54-bac70424c73b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fishing.stick",
+        "pt": "vara.pesca"
+      },
+      "def": {
+        "en": "stick for fishing",
+        "pt": "vara para pescar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-08T17:09:18Z"
+}

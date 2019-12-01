@@ -1,0 +1,27 @@
+{
+  "headword": "bong",
+  "entry_id": "bong_3b1a08a6-8ce9-414f-9bab-545bf69233e7",
+  "morph_type": "stem",
+  "pronunciation": "boŋ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "4206a1ef-2c25-4191-bcc9-85cae9d60a8d",
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.in.movement.MULT (pl?)"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

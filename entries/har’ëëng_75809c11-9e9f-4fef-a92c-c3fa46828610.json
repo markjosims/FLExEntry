@@ -1,0 +1,26 @@
+{
+  "headword": "har’ëëng",
+  "entry_id": "har’ëëng_75809c11-9e9f-4fef-a92c-c3fa46828610",
+  "morph_type": "stem",
+  "pronunciation": "haɾəʔəgŋ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "9443f9d5-d1bb-42b8-86ac-1fe40199862a",
+      "pos": "Noun",
+      "gloss": {
+        "en": "game.animal",
+        "pt": "caça"
+      },
+      "def": {
+        "en": "game animal",
+        "pt": "caça; animal de caça"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

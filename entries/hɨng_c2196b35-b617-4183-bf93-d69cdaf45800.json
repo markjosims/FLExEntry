@@ -1,0 +1,27 @@
+{
+  "headword": "hɨng",
+  "entry_id": "hɨng_c2196b35-b617-4183-bf93-d69cdaf45800",
+  "morph_type": "stem",
+  "pronunciation": "hɨŋ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a66fe342-ed9b-4d45-9e7c-5365002c356f",
+      "pos": "Verb",
+      "gloss": {
+        "en": "go.downriver"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

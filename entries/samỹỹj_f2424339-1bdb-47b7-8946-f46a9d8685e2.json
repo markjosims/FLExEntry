@@ -1,0 +1,26 @@
+{
+  "headword": "samỹỹj",
+  "entry_id": "samỹỹj_f2424339-1bdb-47b7-8946-f46a9d8685e2",
+  "morph_type": "stem",
+  "pronunciation": "ʃabmɨ̃:j",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "f774eb9b-d3b4-4be6-b75c-62eb83c2bd23",
+      "pos": "Noun",
+      "gloss": {
+        "en": "howler.monkey",
+        "pt": "guariba"
+      },
+      "def": {
+        "en": "howler monkey (red-handed)",
+        "pt": "guariba"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

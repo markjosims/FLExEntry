@@ -1,0 +1,31 @@
+{
+  "headword": "ha",
+  "entry_id": "ha_d8ff5f99-7c38-4ed3-ae5a-ceba827841bf",
+  "morph_type": "stem",
+  "pronunciation": "ha",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990 a forma dum prefixo nas lições  e cartilha 4 (e não aparece no iccionário)",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "af435492-58fc-45d9-a68b-759b9b5d08ce",
+      "pos": "pre",
+      "gloss": {
+        "en": "REL",
+        "pt": "REL"
+      },
+      "def": {
+        "en": "Relativized subject",
+        "pt": "Sujeito relativizado"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

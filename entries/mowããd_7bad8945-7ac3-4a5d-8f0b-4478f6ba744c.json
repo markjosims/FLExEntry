@@ -1,0 +1,29 @@
+{
+  "headword": "mowããd",
+  "entry_id": "mowããd_7bad8945-7ac3-4a5d-8f0b-4478f6ba744c",
+  "morph_type": "stem",
+  "pronunciation": "mowã:d",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bee88a12-9488-4b64-bbc5-5e6b5a8567c5",
+      "pos": "n",
+      "gloss": {
+        "pt": "abacaxi"
+      },
+      "def": {
+        "pt": "abacaxi"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

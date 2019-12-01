@@ -1,0 +1,29 @@
+{
+  "headword": "sëëj",
+  "entry_id": "sëëj1_ea18d5a2-e0a3-4174-859f-b42bbb3d5e93",
+  "morph_type": "stem",
+  "pronunciation": "ʃə:j",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ac8b005e-cc51-4568-930a-652fa016ad40",
+      "pos": "n",
+      "gloss": {
+        "pt": "escorpião"
+      },
+      "def": {
+        "pt": "escorpião"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

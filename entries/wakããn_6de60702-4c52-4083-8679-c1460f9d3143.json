@@ -1,0 +1,29 @@
+{
+  "headword": "wakããn",
+  "entry_id": "wakããn_6de60702-4c52-4083-8679-c1460f9d3143",
+  "morph_type": "stem",
+  "pronunciation": "wakã:n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "03be15fe-2dfd-48de-945e-f2953ed6ccc0",
+      "pos": "n op",
+      "gloss": {
+        "pt": "parentes"
+      },
+      "def": {
+        "pt": "parentes"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

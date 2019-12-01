@@ -1,0 +1,29 @@
+{
+  "headword": "wë",
+  "entry_id": "wë2_df16da3e-09a9-4ab3-9833-a005e73eb941",
+  "morph_type": "stem",
+  "pronunciation": "wə",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d46bf61c-4d57-4fd3-bb3d-f7ad02daa8d4",
+      "pos": "adv op",
+      "gloss": {
+        "pt": "ao lado de"
+      },
+      "def": {
+        "pt": "ao lado de"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

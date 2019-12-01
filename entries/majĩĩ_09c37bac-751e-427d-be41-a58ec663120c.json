@@ -1,0 +1,29 @@
+{
+  "headword": "majĩĩ",
+  "entry_id": "majĩĩ_09c37bac-751e-427d-be41-a58ec663120c",
+  "morph_type": "stem",
+  "pronunciation": "majĩ:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cda22660-faca-483a-8a4f-06875d500273",
+      "pos": "n",
+      "gloss": {
+        "pt": "inimigo"
+      },
+      "def": {
+        "pt": "inimigo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

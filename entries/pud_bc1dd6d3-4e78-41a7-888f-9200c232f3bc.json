@@ -1,0 +1,26 @@
+{
+  "headword": "pud",
+  "entry_id": "pud_bc1dd6d3-4e78-41a7-888f-9200c232f3bc",
+  "morph_type": "stem",
+  "pronunciation": "pud̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "d6ec6cde-e53d-4ca3-b895-56911c977943",
+      "pos": "Noun",
+      "gloss": {
+        "en": "kapiwaya",
+        "pt": "kapiwaya"
+      },
+      "def": {
+        "en": "ritual song cycle (kapiwaya)",
+        "pt": "canto ritual (kapiwaya)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

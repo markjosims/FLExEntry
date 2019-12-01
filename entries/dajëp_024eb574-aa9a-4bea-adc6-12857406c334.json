@@ -1,0 +1,31 @@
+{
+  "headword": "dajëp",
+  "entry_id": "dajëp_024eb574-aa9a-4bea-adc6-12857406c334",
+  "morph_type": "stem",
+  "pronunciation": "daˈjǝp˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a8675526-039d-459c-b4c8-c3434645200d",
+      "pos": null,
+      "gloss": {
+        "en": "die",
+        "pt": "morrer"
+      },
+      "def": {
+        "en": "die",
+        "pt": "morrer"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-10T00:09:23Z"
+}

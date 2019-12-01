@@ -1,0 +1,40 @@
+{
+  "headword": "bato",
+  "entry_id": "bato1_449069a7-b371-4bea-ab7c-b7db4e0eac98",
+  "morph_type": "root",
+  "pronunciation": "baˈtoʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "2b876c4a-2d5a-471a-a400-fc7b2675aba1",
+      "pos": "Noun",
+      "gloss": {
+        "en": "coca",
+        "pt": "ipadu"
+      },
+      "def": {
+        "en": "coca",
+        "pt": "ipadu"
+      },
+      "reverse": [
+        [
+          "coca",
+          "en"
+        ],
+        [
+          "ipadu",
+          "pt"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-08-23T23:45:59Z"
+}

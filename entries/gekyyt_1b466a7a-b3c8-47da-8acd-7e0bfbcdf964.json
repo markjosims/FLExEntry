@@ -1,0 +1,29 @@
+{
+  "headword": "gekyyt",
+  "entry_id": "gekyyt_1b466a7a-b3c8-47da-8acd-7e0bfbcdf964",
+  "morph_type": "stem",
+  "pronunciation": "gekɨ:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c21a69eb-2fc8-4068-b4e8-4f1715bb29e3",
+      "pos": "v",
+      "gloss": {
+        "pt": "cortar"
+      },
+      "def": {
+        "pt": "cortar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

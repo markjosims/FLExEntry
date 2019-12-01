@@ -1,0 +1,29 @@
+{
+  "headword": "bahesoos",
+  "entry_id": "bahesoos_543ac391-204a-45b6-b0db-ba18adc0f810",
+  "morph_type": "stem",
+  "pronunciation": "baheʃo:ʃ",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 15",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d9e7710b-5ebf-48fe-981c-04fb08923ae3",
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

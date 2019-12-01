@@ -1,0 +1,22 @@
+{
+  "headword": "haːk",
+  "entry_id": "haːk_c0fa3ce4-38f4-40ac-bb8c-1f8ae64f949f",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "9e5c6254-d1c4-4be6-9063-f8fb832a183f",
+      "pos": "Noun",
+      "gloss": {
+        "en": "surucucu"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

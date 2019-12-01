@@ -1,0 +1,26 @@
+{
+  "headword": "yb",
+  "entry_id": "yb2_1cc95316-b9fe-4093-9b14-e9c016496d4a",
+  "morph_type": "stem",
+  "pronunciation": "ʔɨb̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "dcfab601-614d-4575-a398-e017af602de9",
+      "pos": "Noun",
+      "gloss": {
+        "en": "father",
+        "pt": "pai"
+      },
+      "def": {
+        "en": "father",
+        "pt": "pai"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:56Z"
+}

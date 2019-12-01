@@ -1,0 +1,29 @@
+{
+  "headword": "hetsʹyyt",
+  "entry_id": "hetsʹyyt_086f87aa-bef9-4eb9-9776-4bf5d409a57d",
+  "morph_type": "stem",
+  "pronunciation": "heɟɨ̰:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "eef2d335-3c5d-48a4-a68f-0de3984365f8",
+      "pos": "v",
+      "gloss": {
+        "pt": "lavar"
+      },
+      "def": {
+        "pt": "lavar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-29T04:52:40Z"
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "kabë",
+  "entry_id": "kabë2_95545367-b996-4a77-88a4-91898494b4b3",
+  "morph_type": "stem",
+  "pronunciation": "kabəʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "1967519c-1401-4d14-95ff-2fec582f47d3",
+      "pos": "Noun",
+      "gloss": {
+        "en": "coatamundi",
+        "pt": "quati"
+      },
+      "def": {
+        "en": "cotamundi; coatimundi",
+        "pt": "quati"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

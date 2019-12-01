@@ -1,0 +1,29 @@
+{
+  "headword": "mahyyh",
+  "entry_id": "mahyyh_99331f07-019a-4e63-ba08-9b2b6308fe5c",
+  "morph_type": "stem",
+  "pronunciation": "mahɨ:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "2fdaaa67-fb7c-47a8-a5ae-860572f96d7c",
+      "pos": "v",
+      "gloss": {
+        "pt": "levar.baixo"
+      },
+      "def": {
+        "pt": "levar para baixo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

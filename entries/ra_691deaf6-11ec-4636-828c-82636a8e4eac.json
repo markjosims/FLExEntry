@@ -1,0 +1,31 @@
+{
+  "headword": "ra",
+  "entry_id": "ra_691deaf6-11ec-4636-828c-82636a8e4eac",
+  "morph_type": "stem",
+  "pronunciation": "ɾa",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990 (la)",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6704bbec-ab67-4664-8cc6-dccf621623a7",
+      "pos": "pre",
+      "gloss": {
+        "en": "3P",
+        "pt": "3P"
+      },
+      "def": {
+        "en": "3P",
+        "pt": "3P"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-22T17:13:55Z"
+}

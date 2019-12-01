@@ -1,0 +1,29 @@
+{
+  "headword": "wawʹoos",
+  "entry_id": "wawʹoos_713c2e49-683d-4b4c-b21a-cb6fbd07c005",
+  "morph_type": "stem",
+  "pronunciation": "wawo̰:ʃ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "16cb708c-838d-49e0-8f4f-fa9b6c847124",
+      "pos": "n",
+      "gloss": {
+        "pt": "caba.sp"
+      },
+      "def": {
+        "pt": "esp. de caba"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

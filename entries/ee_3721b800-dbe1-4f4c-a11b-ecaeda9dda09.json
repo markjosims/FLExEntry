@@ -1,0 +1,29 @@
+{
+  "headword": "ee",
+  "entry_id": "ee_3721b800-dbe1-4f4c-a11b-ecaeda9dda09",
+  "morph_type": "stem",
+  "pronunciation": "e:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cf8a0bc5-548b-4c32-86e6-a7ef047f07f1",
+      "pos": "n",
+      "gloss": {
+        "pt": "papai"
+      },
+      "def": {
+        "pt": "papai"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "häng",
+  "entry_id": "häng_9c3d24d0-89e3-4dbc-87a1-9a9ceca642a6",
+  "morph_type": "stem",
+  "pronunciation": "hʌŋ",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; licão 14",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "d53410b3-307e-4e17-9710-01c6015cee6b",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

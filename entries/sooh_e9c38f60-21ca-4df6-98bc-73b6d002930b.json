@@ -1,0 +1,29 @@
+{
+  "headword": "sooh",
+  "entry_id": "sooh_e9c38f60-21ca-4df6-98bc-73b6d002930b",
+  "morph_type": "stem",
+  "pronunciation": "ʃo:h",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 17; Weir 1986; be.sitting(.tree); Weir; 1990; be.on.something.above.the.ground",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "adcaeece-bb4b-47a7-8c5a-8395ecbab424",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

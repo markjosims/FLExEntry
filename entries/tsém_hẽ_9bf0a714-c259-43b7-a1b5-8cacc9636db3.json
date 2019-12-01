@@ -1,0 +1,29 @@
+{
+  "headword": "tsém hẽ",
+  "entry_id": "tsém hẽ_9bf0a714-c259-43b7-a1b5-8cacc9636db3",
+  "morph_type": "phrase",
+  "pronunciation": "ɟɛm hɛ̃",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "629f769d-8878-4f1c-aa51-fd867347fbe8",
+      "pos": "adv",
+      "gloss": {
+        "pt": "ontem"
+      },
+      "def": {
+        "pt": "ontem"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

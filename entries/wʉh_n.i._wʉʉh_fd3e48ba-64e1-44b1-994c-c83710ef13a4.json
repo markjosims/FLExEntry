@@ -1,0 +1,27 @@
+{
+  "headword": "wʉh (n.i. wʉʉh)",
+  "entry_id": "wʉh (n.i. wʉʉh)_fd3e48ba-64e1-44b1-994c-c83710ef13a4",
+  "morph_type": "phrase",
+  "pronunciation": "wəh",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990; Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6d063f8b-7562-436f-9259-acbe34c333c9",
+      "pos": "Verb",
+      "gloss": {
+        "en": "eat"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

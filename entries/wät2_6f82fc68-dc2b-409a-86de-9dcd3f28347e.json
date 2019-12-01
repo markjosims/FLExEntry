@@ -1,0 +1,29 @@
+{
+  "headword": "wät",
+  "entry_id": "wät2_6f82fc68-dc2b-409a-86de-9dcd3f28347e",
+  "morph_type": "stem",
+  "pronunciation": "wʌt",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a3abfa60-b011-4cff-9a02-93a83f8e8399",
+      "pos": "intj",
+      "gloss": {
+        "pt": "lá vai"
+      },
+      "def": {
+        "pt": "lá vai; quero passar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

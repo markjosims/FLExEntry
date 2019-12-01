@@ -1,0 +1,29 @@
+{
+  "headword": "maa ena",
+  "entry_id": "maa ena_a462059e-7c9b-4426-90f3-c6f15c6241c3",
+  "morph_type": "phrase",
+  "pronunciation": "ma: ena",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9bd5ef13-0ca5-4550-9eec-36881dc15ec5",
+      "pos": "v",
+      "gloss": {
+        "pt": "fazer.barulho"
+      },
+      "def": {
+        "pt": "fazer barulho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

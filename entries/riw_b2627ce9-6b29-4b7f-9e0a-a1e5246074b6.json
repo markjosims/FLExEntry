@@ -1,0 +1,26 @@
+{
+  "headword": "riw",
+  "entry_id": "riw_b2627ce9-6b29-4b7f-9e0a-a1e5246074b6",
+  "morph_type": "stem",
+  "pronunciation": "ɾiw",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c50cf63e-585e-4081-9ac5-717e89ee7779",
+      "pos": "Noun",
+      "gloss": {
+        "en": "cricket",
+        "pt": "grilo"
+      },
+      "def": {
+        "en": "cricket",
+        "pt": "grilo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

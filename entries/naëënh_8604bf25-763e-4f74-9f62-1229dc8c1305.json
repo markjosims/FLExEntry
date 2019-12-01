@@ -1,0 +1,29 @@
+{
+  "headword": "naëënh",
+  "entry_id": "naëënh_8604bf25-763e-4f74-9f62-1229dc8c1305",
+  "morph_type": "stem",
+  "pronunciation": "naə:ɲ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "194b2515-9d18-4079-a9d9-9d90c46fc9f5",
+      "pos": "v",
+      "gloss": {
+        "pt": "chamar"
+      },
+      "def": {
+        "pt": "chamar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

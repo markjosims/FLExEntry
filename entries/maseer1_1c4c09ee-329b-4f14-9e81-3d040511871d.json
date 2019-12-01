@@ -1,0 +1,40 @@
+{
+  "headword": "maseer",
+  "entry_id": "maseer1_1c4c09ee-329b-4f14-9e81-3d040511871d",
+  "morph_type": "stem",
+  "pronunciation": "maˈʃe:ɾǝ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "fb5814dc-f021-4a7b-9d1d-f915783599a7",
+      "pos": "n",
+      "gloss": {
+        "en": "banana",
+        "pt": "banana"
+      },
+      "def": {
+        "en": "banana",
+        "pt": "banana"
+      },
+      "reverse": [
+        [
+          "banana",
+          "en"
+        ],
+        [
+          "banana",
+          "pt"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

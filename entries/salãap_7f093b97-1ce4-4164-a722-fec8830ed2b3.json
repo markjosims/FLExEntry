@@ -1,0 +1,27 @@
+{
+  "headword": "salãap",
+  "entry_id": "salãap_7f093b97-1ce4-4164-a722-fec8830ed2b3",
+  "morph_type": "stem",
+  "pronunciation": "ʃaɾãːp",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "e6ed8205-a75b-492e-b735-026e48c1919b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "measles"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

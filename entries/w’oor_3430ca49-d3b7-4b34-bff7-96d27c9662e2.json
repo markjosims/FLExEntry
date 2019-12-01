@@ -1,0 +1,31 @@
+{
+  "headword": "w’oor",
+  "entry_id": "w’oor_3430ca49-d3b7-4b34-bff7-96d27c9662e2",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "FIeldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c36bb89d-00db-425c-b65e-c38171ca9e29",
+      "pos": "Noun",
+      "gloss": {
+        "en": "owl",
+        "pt": "coruja"
+      },
+      "def": {
+        "en": "owl",
+        "pt": "coruja"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-27T20:27:33Z"
+}

@@ -1,0 +1,31 @@
+{
+  "headword": "adoos",
+  "entry_id": "adoos_fea54376-31de-48f3-a357-35305ea6a55d",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈdo:ʃ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ae968bc9-bdd0-4a90-82eb-5d6a50140766",
+      "pos": "v",
+      "gloss": {
+        "en": "rain",
+        "pt": "chover"
+      },
+      "def": {
+        "en": "rain",
+        "pt": "chover"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

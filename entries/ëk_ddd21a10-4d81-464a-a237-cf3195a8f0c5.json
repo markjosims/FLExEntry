@@ -1,0 +1,26 @@
+{
+  "headword": "ëk",
+  "entry_id": "ëk_ddd21a10-4d81-464a-a237-cf3195a8f0c5",
+  "morph_type": "stem",
+  "pronunciation": "ʔək̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "7100abc4-9bd6-43f5-941c-96428bf53eb3",
+      "pos": "Noun",
+      "gloss": {
+        "en": "gourd.dipper",
+        "pt": "cuia"
+      },
+      "def": {
+        "en": "gourd dipper",
+        "pt": "cuia"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

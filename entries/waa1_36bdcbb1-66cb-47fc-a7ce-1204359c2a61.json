@@ -1,0 +1,29 @@
+{
+  "headword": "waa",
+  "entry_id": "waa1_36bdcbb1-66cb-47fc-a7ce-1204359c2a61",
+  "morph_type": "stem",
+  "pronunciation": "wa:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "96b1cb14-6139-46cc-9f56-c79855618866",
+      "pos": "n op",
+      "gloss": {
+        "pt": "comida"
+      },
+      "def": {
+        "pt": "comida (sendo não carne nem eixe)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

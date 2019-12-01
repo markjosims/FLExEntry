@@ -1,0 +1,29 @@
+{
+  "headword": "sũũts",
+  "entry_id": "sũũts_07fc6bd3-d3a8-4027-9945-2f8878c2efa9",
+  "morph_type": "stem",
+  "pronunciation": "ʃũ:ɟ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "345923ca-f0b1-4f5e-8a2f-7180506bb109",
+      "pos": "n op",
+      "gloss": {
+        "pt": "cordão.umbilical"
+      },
+      "def": {
+        "pt": "cordão umbilical"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

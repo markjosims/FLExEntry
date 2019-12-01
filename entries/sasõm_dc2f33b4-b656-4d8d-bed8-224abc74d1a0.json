@@ -1,0 +1,26 @@
+{
+  "headword": "sasõm",
+  "entry_id": "sasõm_dc2f33b4-b656-4d8d-bed8-224abc74d1a0",
+  "morph_type": "stem",
+  "pronunciation": "ʃaʃõm",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "89ba2452-d0f9-43c8-b1b4-f696740c68bb",
+      "pos": "Noun",
+      "gloss": {
+        "en": "jauari.palm",
+        "pt": "jauari"
+      },
+      "def": {
+        "en": "jauari palm",
+        "pt": "jauari"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

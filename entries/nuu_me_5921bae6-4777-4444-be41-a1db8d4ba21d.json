@@ -1,0 +1,29 @@
+{
+  "headword": "nuu me",
+  "entry_id": "nuu me_5921bae6-4777-4444-be41-a1db8d4ba21d",
+  "morph_type": "phrase",
+  "pronunciation": "nu: me",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cd09681e-9844-4f3d-8ca5-67a43f1a3b79",
+      "pos": "adv",
+      "gloss": {
+        "pt": "vezes"
+      },
+      "def": {
+        "pt": "vezes"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "esʹëëm",
+  "entry_id": "esʹëëm_363933ec-b540-4639-bebe-d40ffa99ebf4",
+  "morph_type": "stem",
+  "pronunciation": "eʃə̰:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ba794672-8472-4124-b5f7-1edbb9cff671",
+      "pos": "v",
+      "gloss": {
+        "pt": "vender"
+      },
+      "def": {
+        "pt": "vender"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

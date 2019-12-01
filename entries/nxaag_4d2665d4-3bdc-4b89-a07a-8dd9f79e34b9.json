@@ -1,0 +1,27 @@
+{
+  "headword": "nxaag",
+  "entry_id": "nxaag_4d2665d4-3bdc-4b89-a07a-8dd9f79e34b9",
+  "morph_type": "stem",
+  "pronunciation": "na̰ːg",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5397ec03-79c9-4c3e-9aab-ecbd6d7e709e",
+      "pos": "Verb",
+      "gloss": {
+        "en": "like (n.i. naag)"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

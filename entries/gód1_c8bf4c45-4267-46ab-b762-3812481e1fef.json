@@ -1,0 +1,29 @@
+{
+  "headword": "gód",
+  "entry_id": "gód1_c8bf4c45-4267-46ab-b762-3812481e1fef",
+  "morph_type": "stem",
+  "pronunciation": "gɔd",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ec3519e7-43cf-4d64-88b8-ea997acbafa3",
+      "pos": "n",
+      "gloss": {
+        "pt": "tio"
+      },
+      "def": {
+        "pt": "tio; irmão de mãe"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

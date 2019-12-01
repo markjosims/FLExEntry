@@ -1,0 +1,31 @@
+{
+  "headword": "wë",
+  "entry_id": "wë3_d683ed0f-5336-42bd-973a-dd2b94750fd0",
+  "morph_type": "stem",
+  "pronunciation": "wǝʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "adf27902-6efd-4e69-a91a-66586dcfce7f",
+      "pos": "Noun",
+      "gloss": {
+        "en": "sky",
+        "pt": "céu"
+      },
+      "def": {
+        "en": "sky",
+        "pt": "céu"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-08T16:55:04Z"
+}

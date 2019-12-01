@@ -1,0 +1,26 @@
+{
+  "headword": "betoo",
+  "entry_id": "betoo_6daa649e-681d-471b-a907-1a64264040fb",
+  "morph_type": "stem",
+  "pronunciation": "beto:ʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "83d2e5e9-7315-41fc-9ca5-43c624f50d4f",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fan",
+        "pt": "abanador"
+      },
+      "def": {
+        "en": "fan",
+        "pt": "abanador; abano"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

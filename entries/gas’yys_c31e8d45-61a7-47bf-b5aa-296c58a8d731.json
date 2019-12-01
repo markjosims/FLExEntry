@@ -1,0 +1,31 @@
+{
+  "headword": "gas’yys",
+  "entry_id": "gas’yys_c31e8d45-61a7-47bf-b5aa-296c58a8d731",
+  "morph_type": "stem",
+  "pronunciation": "k’aˈʃǝʔǝʃ",
+  "variant": null,
+  "note": [
+    [
+      "problem: k’aˈʃǝʔǝʃ or k’aˈʃ ɨ̃ʔ ɨ̃ʃ",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "dffbda04-3a7b-4ada-b977-704815a62858",
+      "pos": "Verb",
+      "gloss": {
+        "en": "open",
+        "pt": "abrir"
+      },
+      "def": {
+        "en": "open",
+        "pt": "abrir"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-10T15:47:27Z"
+}

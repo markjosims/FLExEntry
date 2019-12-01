@@ -1,0 +1,31 @@
+{
+  "headword": "ag",
+  "entry_id": "ag_702442e0-1dd7-4ab1-a6a8-7f142bf7e823",
+  "morph_type": "stem",
+  "pronunciation": "ʔag˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f8d9eace-9a72-4d0e-a480-eedc9a00cc00",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fruit",
+        "pt": "fruta"
+      },
+      "def": {
+        "en": "fruit",
+        "pt": "fruta"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

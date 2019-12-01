@@ -1,0 +1,29 @@
+{
+  "headword": "ena",
+  "entry_id": "ena_1f0430bf-ab8c-4fb5-9a88-f621fba7d9c6",
+  "morph_type": "stem",
+  "pronunciation": "ena",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a77ea7bf-f7f2-4dc0-8588-ce5cafa93507",
+      "pos": "v",
+      "gloss": {
+        "pt": "vir.vezes"
+      },
+      "def": {
+        "pt": "vir várias vezes"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-28T21:04:53Z"
+}

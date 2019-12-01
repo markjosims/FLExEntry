@@ -1,0 +1,31 @@
+{
+  "headword": " =kóm",
+  "entry_id": "=kóm1_b4ef6f78-08bb-4d23-9cba-f68a176930c7",
+  "morph_type": "stem",
+  "pronunciation": "kɔbm",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9e4aac3d-a335-44e5-b2e2-e7e8d10a8df6",
+      "pos": "n",
+      "gloss": {
+        "en": "root",
+        "pt": "raiz"
+      },
+      "def": {
+        "en": "root",
+        "pt": "raiz"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-23T16:07:18Z"
+}

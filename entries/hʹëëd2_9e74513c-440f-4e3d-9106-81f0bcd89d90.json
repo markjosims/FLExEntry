@@ -1,0 +1,29 @@
+{
+  "headword": "hʹëëd",
+  "entry_id": "hʹëëd2_9e74513c-440f-4e3d-9106-81f0bcd89d90",
+  "morph_type": "stem",
+  "pronunciation": "hə̰:d",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "060e2378-9efd-496c-86c5-8c940f2d294a",
+      "pos": "n op",
+      "gloss": {
+        "pt": "pertences"
+      },
+      "def": {
+        "pt": "pertences"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

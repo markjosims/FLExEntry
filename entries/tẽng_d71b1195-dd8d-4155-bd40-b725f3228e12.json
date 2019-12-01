@@ -1,0 +1,29 @@
+{
+  "headword": "tẽng",
+  "entry_id": "tẽng_d71b1195-dd8d-4155-bd40-b725f3228e12",
+  "morph_type": "stem",
+  "pronunciation": "tɛ̃ŋ",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 9",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ef1dd34f-6494-4ec8-a8b3-cbdd1d5394cf",
+      "pos": "n",
+      "gloss": {
+        "pt": "avião"
+      },
+      "def": {
+        "pt": "avião"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "hỹỹh",
+  "entry_id": "hỹỹh_e2aac6ce-87d1-4108-8519-38b7d7501b1a",
+  "morph_type": "stem",
+  "pronunciation": "hɨ̃:h",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 17; f. pronome 'hahỹỹh'",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "da363d82-eb3d-4133-8751-411ee739e13c",
+      "pos": "adv?",
+      "gloss": {
+        "pt": "aqui?"
+      },
+      "def": {
+        "pt": "aqui?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

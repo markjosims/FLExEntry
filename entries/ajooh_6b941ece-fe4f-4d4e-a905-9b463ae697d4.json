@@ -1,0 +1,29 @@
+{
+  "headword": "ajooh",
+  "entry_id": "ajooh_6b941ece-fe4f-4d4e-a905-9b463ae697d4",
+  "morph_type": "stem",
+  "pronunciation": "ajo:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9b2e3474-7e9b-4165-9907-91fefd1ce14e",
+      "pos": "v",
+      "gloss": {
+        "pt": "picar"
+      },
+      "def": {
+        "pt": "picar (galinha)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

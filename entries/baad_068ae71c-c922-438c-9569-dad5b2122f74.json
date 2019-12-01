@@ -1,0 +1,31 @@
+{
+  "headword": "baad",
+  "entry_id": "baad_068ae71c-c922-438c-9569-dad5b2122f74",
+  "morph_type": "stem",
+  "pronunciation": "ba:d˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "783a338a-818d-4a66-9784-aae54e3af35a",
+      "pos": "adv",
+      "gloss": {
+        "en": "well",
+        "pt": "bem"
+      },
+      "def": {
+        "en": "well",
+        "pt": "bem; bom"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

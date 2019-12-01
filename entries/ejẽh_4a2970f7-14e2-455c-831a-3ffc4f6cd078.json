@@ -1,0 +1,29 @@
+{
+  "headword": "ejẽh",
+  "entry_id": "ejẽh_4a2970f7-14e2-455c-831a-3ffc4f6cd078",
+  "morph_type": "stem",
+  "pronunciation": "ejɛ̃h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c09b6f87-1617-4190-ac03-1c5c32b1e87f",
+      "pos": "v",
+      "gloss": {
+        "pt": "choque"
+      },
+      "def": {
+        "pt": "choque elétrico (escorpião; oraquê)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

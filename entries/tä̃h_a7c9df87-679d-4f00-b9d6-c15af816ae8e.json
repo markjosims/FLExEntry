@@ -1,0 +1,29 @@
+{
+  "headword": "tä̃h",
+  "entry_id": "tä̃h_a7c9df87-679d-4f00-b9d6-c15af816ae8e",
+  "morph_type": "stem",
+  "pronunciation": "tʌ̃h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c033aa4e-eaab-4635-9849-8a06e230ad2b",
+      "pos": "n",
+      "gloss": {
+        "pt": "irmão.novo"
+      },
+      "def": {
+        "pt": "irmão mais novo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

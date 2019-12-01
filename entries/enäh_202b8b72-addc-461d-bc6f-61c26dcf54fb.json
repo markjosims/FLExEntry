@@ -1,0 +1,29 @@
+{
+  "headword": "enäh",
+  "entry_id": "enäh_202b8b72-addc-461d-bc6f-61c26dcf54fb",
+  "morph_type": "stem",
+  "pronunciation": "enʌh",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "95d309a8-a9c1-4233-9460-e9a32e63560f",
+      "pos": "v p",
+      "gloss": {
+        "pt": "têm"
+      },
+      "def": {
+        "pt": "têm; existir p."
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

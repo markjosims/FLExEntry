@@ -1,0 +1,26 @@
+{
+  "headword": "gód",
+  "entry_id": "gód2_afb44df8-075a-40c9-8eed-b4be294caa89",
+  "morph_type": "stem",
+  "pronunciation": "k'ɔd̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "d8de3930-0be6-4e83-86c4-a5e307ff61ca",
+      "pos": "Noun",
+      "gloss": {
+        "en": "mat.uncle",
+        "pt": "tio materno"
+      },
+      "def": {
+        "en": "maternal uncle",
+        "pt": "tio materno"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:56Z"
+}

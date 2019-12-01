@@ -1,0 +1,31 @@
+{
+  "headword": "mawããd bëëh",
+  "entry_id": "mawããd bëëh_4621987f-cb9c-49bd-ac91-be605067fc58",
+  "morph_type": "phrase",
+  "pronunciation": "mãwã:d̚ bə:h",
+  "variant": null,
+  "note": [
+    [
+      "lit. pineapple juice",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b603752a-2f5a-4530-9e2f-aeee071db61e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "chicha",
+        "pt": "aluá"
+      },
+      "def": {
+        "en": "chicha(other alc. beverage)",
+        "pt": "aluá"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

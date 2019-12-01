@@ -1,0 +1,31 @@
+{
+  "headword": "taju",
+  "entry_id": "taju_b9feb5fe-8bc7-4677-bb98-57e7f4463a3d",
+  "morph_type": "stem",
+  "pronunciation": "taˈjuʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cd1bdf95-2c19-4544-bf47-692a2029f954",
+      "pos": "Noun",
+      "gloss": {
+        "en": "igapó",
+        "pt": "igapó"
+      },
+      "def": {
+        "en": "igapó",
+        "pt": "igapó"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-27T20:05:35Z"
+}

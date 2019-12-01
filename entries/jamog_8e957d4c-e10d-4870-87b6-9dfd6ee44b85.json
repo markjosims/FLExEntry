@@ -1,0 +1,26 @@
+{
+  "headword": "jamog",
+  "entry_id": "jamog_8e957d4c-e10d-4870-87b6-9dfd6ee44b85",
+  "morph_type": "stem",
+  "pronunciation": "jabmõg̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "86d77eb4-debf-4e16-8a1c-7b0fb869dc12",
+      "pos": "Noun",
+      "gloss": {
+        "en": "collared.peccary",
+        "pt": "caititu"
+      },
+      "def": {
+        "en": "collared peccary",
+        "pt": "caititu"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

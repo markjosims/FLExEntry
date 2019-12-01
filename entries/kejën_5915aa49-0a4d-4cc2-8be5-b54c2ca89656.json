@@ -1,0 +1,31 @@
+{
+  "headword": "kejën",
+  "entry_id": "kejën_5915aa49-0a4d-4cc2-8be5-b54c2ca89656",
+  "morph_type": "stem",
+  "pronunciation": "keʔˈjǝdn",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert;2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9bd1c084-434c-40ef-b514-fa1f3ef472c0",
+      "pos": "Verb",
+      "gloss": {
+        "en": "hide",
+        "pt": "esconder"
+      },
+      "def": {
+        "en": "hide",
+        "pt": "esconder"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-10T12:16:15Z"
+}

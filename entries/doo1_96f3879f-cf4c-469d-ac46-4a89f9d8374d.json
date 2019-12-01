@@ -1,0 +1,31 @@
+{
+  "headword": "doo",
+  "entry_id": "doo1_96f3879f-cf4c-469d-ac46-4a89f9d8374d",
+  "morph_type": "stem",
+  "pronunciation": "do:",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986; 1990  e 11",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1973b362-0278-4803-9d9b-0c14e12255b5",
+      "pos": "pro",
+      "gloss": {
+        "en": "the.one",
+        "pt": "ele.quem(?)"
+      },
+      "def": {
+        "en": "the.one",
+        "pt": "ele.quem(?)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "adʹaap",
+  "entry_id": "adʹaap_b6087de4-9aff-4376-b037-e35865967b9f",
+  "morph_type": "stem",
+  "pronunciation": "ada̰:p",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ebfaf44d-4e1d-42c1-94d7-3da29c46d943",
+      "pos": "v",
+      "gloss": {
+        "pt": "torcer rede"
+      },
+      "def": {
+        "pt": "torcer rede"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

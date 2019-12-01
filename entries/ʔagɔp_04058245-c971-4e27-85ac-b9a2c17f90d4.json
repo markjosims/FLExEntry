@@ -1,0 +1,22 @@
+{
+  "headword": "ʔagɔp",
+  "entry_id": "ʔagɔp_04058245-c971-4e27-85ac-b9a2c17f90d4",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "5cce2064-600f-4164-823b-b65c8545b57f",
+      "pos": "Verb",
+      "gloss": {
+        "en": "buscar água"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:53Z"
+}

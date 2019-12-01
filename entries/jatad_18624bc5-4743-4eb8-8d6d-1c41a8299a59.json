@@ -1,0 +1,22 @@
+{
+  "headword": "jatad",
+  "entry_id": "jatad_18624bc5-4743-4eb8-8d6d-1c41a8299a59",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c2e3e355-dadb-4b30-a3a1-0f2249aeb1b0",
+      "pos": "Noun",
+      "gloss": {
+        "en": "aracu"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

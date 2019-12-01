@@ -1,0 +1,31 @@
+{
+  "headword": "amaaj",
+  "entry_id": "amaaj_a5a8c5a4-ff77-48be-a14c-a8dd2d196e96",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "084dc0d5-4123-441b-8f4f-fc8204e76ba5",
+      "pos": "Noun",
+      "gloss": {
+        "en": "piranha",
+        "pt": "piranha"
+      },
+      "def": {
+        "en": "piranha",
+        "pt": "piranha"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-27T22:49:52Z"
+}

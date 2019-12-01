@@ -1,0 +1,29 @@
+{
+  "headword": "tsyym saä̃k",
+  "entry_id": "tsyym saä̃k_3d016d8a-6f9c-4d56-b8fc-92ef945a3b59",
+  "morph_type": "phrase",
+  "pronunciation": "ɟɨ:m ʃaʔʌ̃k",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5815ae25-464e-47cd-885c-0f3ead580498",
+      "pos": "v",
+      "gloss": {
+        "pt": "aleijado"
+      },
+      "def": {
+        "pt": "aleijado"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

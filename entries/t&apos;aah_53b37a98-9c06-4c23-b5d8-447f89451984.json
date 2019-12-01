@@ -1,0 +1,26 @@
+{
+  "headword": "t'aah",
+  "entry_id": "t&apos;aah_53b37a98-9c06-4c23-b5d8-447f89451984",
+  "morph_type": "stem",
+  "pronunciation": "taʔah",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "5f8fb53b-57f7-4eb9-b4d3-6037870b574e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "son",
+        "pt": "filho"
+      },
+      "def": {
+        "en": "son",
+        "pt": "filho"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:56Z"
+}

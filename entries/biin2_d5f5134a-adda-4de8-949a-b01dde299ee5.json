@@ -1,0 +1,27 @@
+{
+  "headword": "biin",
+  "entry_id": "biin2_d5f5134a-adda-4de8-949a-b01dde299ee5",
+  "morph_type": "stem",
+  "pronunciation": "biːn",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6c538c3e-c9e2-4c56-856c-455bef81dc6d",
+      "pos": "Noun",
+      "gloss": {
+        "en": "medicine"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

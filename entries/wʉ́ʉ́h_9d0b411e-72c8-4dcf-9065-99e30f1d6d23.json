@@ -1,0 +1,27 @@
+{
+  "headword": "wʉ́ʉ́h",
+  "entry_id": "wʉ́ʉ́h_9d0b411e-72c8-4dcf-9065-99e30f1d6d23",
+  "morph_type": "stem",
+  "pronunciation": "wʌːh",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9878c9f0-7143-43e8-b621-1b970cb700ec",
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.big.MULT"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

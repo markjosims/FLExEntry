@@ -1,0 +1,29 @@
+{
+  "headword": "biin",
+  "entry_id": "biin1_b2e517bb-acfb-4a33-9270-f9596069cab5",
+  "morph_type": "stem",
+  "pronunciation": "bi:n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f1490919-44a1-4678-9ecc-0bbb37f55c01",
+      "pos": "n",
+      "gloss": {
+        "pt": "remédio"
+      },
+      "def": {
+        "pt": "remédio"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

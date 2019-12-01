@@ -1,0 +1,46 @@
+{
+  "headword": "naëng",
+  "entry_id": "naëng_031a7339-0644-4618-af27-88f71d6565db",
+  "morph_type": "stem",
+  "pronunciation": "naˈʔǝgŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "160c0f30-fdd5-45bb-9b4d-12f03592f4ea",
+      "pos": "n",
+      "gloss": {
+        "en": "water",
+        "pt": "água"
+      },
+      "def": {
+        "en": "water",
+        "pt": "água"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    },
+    {
+      "sense_id": "da503054-2051-4953-ab79-1f3b7bef531f",
+      "pos": "n",
+      "gloss": {
+        "en": "rain",
+        "pt": "chuva"
+      },
+      "def": {
+        "en": "rain",
+        "pt": "chuva"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

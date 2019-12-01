@@ -1,0 +1,26 @@
+{
+  "headword": "tëëg hood",
+  "entry_id": "tëëg hood_d8c36eed-f9d1-43ea-a049-1b237a789149",
+  "morph_type": "phrase",
+  "pronunciation": "tə:g̚ ho:d̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "8963adbf-1acf-429a-afcc-f6eaa0aff567",
+      "pos": "Noun",
+      "gloss": {
+        "en": "fireplace",
+        "pt": "lareira"
+      },
+      "def": {
+        "en": "fireplace",
+        "pt": "lareira"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "asok",
+  "entry_id": "asok_3b09d234-1d9d-43fa-8d85-1600b775eff2",
+  "morph_type": "stem",
+  "pronunciation": "aʃok",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5e258d04-075c-4fb5-96a5-c8798ff6952f",
+      "pos": "v p",
+      "gloss": {
+        "pt": "tirar"
+      },
+      "def": {
+        "pt": "tirar; capinar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

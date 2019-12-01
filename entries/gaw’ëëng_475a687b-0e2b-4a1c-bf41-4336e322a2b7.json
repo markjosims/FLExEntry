@@ -1,0 +1,26 @@
+{
+  "headword": "gaw’ëëng",
+  "entry_id": "gaw’ëëng_475a687b-0e2b-4a1c-bf41-4336e322a2b7",
+  "morph_type": "stem",
+  "pronunciation": "k'awəʔəgŋ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "419b47a6-d47d-4c3f-84dd-822528664164",
+      "pos": "Noun",
+      "gloss": {
+        "en": "mouse",
+        "pt": "camundongo"
+      },
+      "def": {
+        "en": "mouse",
+        "pt": "camundongo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

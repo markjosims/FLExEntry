@@ -1,0 +1,31 @@
+{
+  "headword": "ejäm",
+  "entry_id": "ejäm_617a8588-a4c9-4f09-9bac-7006c8e84e31",
+  "morph_type": "stem",
+  "pronunciation": "ʔeʔjʌbm",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cb90b4c0-0aba-4155-b52c-b12c07a05d29",
+      "pos": "Verb",
+      "gloss": {
+        "en": "sing",
+        "pt": "cantar"
+      },
+      "def": {
+        "en": "sing",
+        "pt": "cantar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-15T21:37:01Z"
+}

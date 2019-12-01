@@ -1,0 +1,31 @@
+{
+  "headword": "janooh",
+  "entry_id": "janooh_022d930d-b619-4a77-8ff4-fa5ea30739e8",
+  "morph_type": "stem",
+  "pronunciation": "jaˈno:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9e409799-d500-44e1-97b4-66925497edde",
+      "pos": null,
+      "gloss": {
+        "en": "shoulder",
+        "pt": "ombro"
+      },
+      "def": {
+        "en": "shoulder",
+        "pt": "ombro"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-07T20:57:29Z"
+}

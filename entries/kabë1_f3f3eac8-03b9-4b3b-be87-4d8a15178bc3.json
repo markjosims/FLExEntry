@@ -1,0 +1,29 @@
+{
+  "headword": "kabë",
+  "entry_id": "kabë1_f3f3eac8-03b9-4b3b-be87-4d8a15178bc3",
+  "morph_type": "stem",
+  "pronunciation": "kabə",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "8ac6625d-c1b7-4b3c-8b9f-5ddc68261ce9",
+      "pos": "n",
+      "gloss": {
+        "pt": "coati"
+      },
+      "def": {
+        "pt": "coati"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

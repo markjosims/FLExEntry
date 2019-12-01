@@ -1,0 +1,31 @@
+{
+  "headword": "ee t’aah paah",
+  "entry_id": "ee t’aah paah_9d0d4be9-51f3-4cda-8783-9f2d038d68c1",
+  "morph_type": "phrase",
+  "pronunciation": "ʔe:ʔ taʔah pa:h",
+  "variant": null,
+  "note": [
+    [
+      "[pai-filho-PASS; 2 irmões gemeos]",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1c9fe5f0-3be0-4d20-8342-30828a0d37c7",
+      "pos": "Noun",
+      "gloss": {
+        "en": "deity",
+        "pt": "divinidade"
+      },
+      "def": {
+        "en": "deity; culture figure",
+        "pt": "divinidade; figura mítica"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

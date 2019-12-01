@@ -1,0 +1,26 @@
+{
+  "headword": "kajero",
+  "entry_id": "kajero2_6b30fdcb-86a6-436d-af31-21759a33458b",
+  "morph_type": "stem",
+  "pronunciation": "kajeɾoʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "457f0811-4d36-411e-8de6-d4b4223e1026",
+      "pos": "Noun",
+      "gloss": {
+        "en": "tucumã.palm",
+        "pt": "tucumã"
+      },
+      "def": {
+        "en": "tucumã palm",
+        "pt": "tucumã"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

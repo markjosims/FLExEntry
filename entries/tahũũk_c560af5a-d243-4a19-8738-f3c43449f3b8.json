@@ -1,0 +1,29 @@
+{
+  "headword": "tahũũk",
+  "entry_id": "tahũũk_c560af5a-d243-4a19-8738-f3c43449f3b8",
+  "morph_type": "stem",
+  "pronunciation": "tahũ:k",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "391d2895-022d-4e26-9e36-1d6993578635",
+      "pos": "v",
+      "gloss": {
+        "pt": "roncar"
+      },
+      "def": {
+        "pt": "roncar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

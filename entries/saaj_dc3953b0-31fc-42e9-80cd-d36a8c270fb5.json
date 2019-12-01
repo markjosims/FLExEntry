@@ -1,0 +1,26 @@
+{
+  "headword": "saaj",
+  "entry_id": "saaj_dc3953b0-31fc-42e9-80cd-d36a8c270fb5",
+  "morph_type": "stem",
+  "pronunciation": "ʃa:j",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "31323593-4bac-4949-95a5-b636e5b278e7",
+      "pos": "Noun",
+      "gloss": {
+        "en": "skirt",
+        "pt": "saia"
+      },
+      "def": {
+        "en": "skirt",
+        "pt": "saia"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

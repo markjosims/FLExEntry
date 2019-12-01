@@ -1,0 +1,29 @@
+{
+  "headword": "ỹỹ",
+  "entry_id": "ỹỹ2_940740bd-e5dd-4023-b3e3-83d09a805727",
+  "morph_type": "stem",
+  "pronunciation": "ɨ̃:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "35b04566-b52d-40e9-955f-18515affcfc2",
+      "pos": "par",
+      "gloss": {
+        "pt": "si"
+      },
+      "def": {
+        "pt": "si"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

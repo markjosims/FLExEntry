@@ -1,0 +1,29 @@
+{
+  "headword": "gawajaah",
+  "entry_id": "gawajaah1_4bcdb228-d5c9-43a8-91d9-692c155c8ffc",
+  "morph_type": "stem",
+  "pronunciation": "gawaja:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a2fb14ca-83eb-4758-b022-40299430c92a",
+      "pos": "v",
+      "gloss": {
+        "pt": "não.alcançar"
+      },
+      "def": {
+        "pt": "não alcançar com os pés"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

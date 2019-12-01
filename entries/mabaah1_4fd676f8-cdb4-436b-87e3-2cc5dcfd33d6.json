@@ -1,0 +1,40 @@
+{
+  "headword": "mabaah",
+  "entry_id": "mabaah1_4fd676f8-cdb4-436b-87e3-2cc5dcfd33d6",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f59ae34f-ef9f-447c-b27b-a2a66f1b722f",
+      "pos": "Verb",
+      "gloss": {
+        "en": "bee",
+        "pt": "abelha"
+      },
+      "def": {
+        "en": "bee",
+        "pt": "abelha"
+      },
+      "reverse": [
+        [
+          "abelha",
+          "pt"
+        ],
+        [
+          "bee",
+          "en"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "wajats",
+  "entry_id": "wajats1_3fb72e42-5cf7-4b2d-b65a-71b38ccc0086",
+  "morph_type": "stem",
+  "pronunciation": "wajaɟ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1257c87a-bca7-4f96-9f23-e98772692f8a",
+      "pos": "n",
+      "gloss": {
+        "pt": "peixe-boi"
+      },
+      "def": {
+        "pt": "peixe-boi"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

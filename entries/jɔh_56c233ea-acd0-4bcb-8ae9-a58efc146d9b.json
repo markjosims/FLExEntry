@@ -1,0 +1,22 @@
+{
+  "headword": "jɔh",
+  "entry_id": "jɔh_56c233ea-acd0-4bcb-8ae9-a58efc146d9b",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "cc0130d1-ee86-4e4d-9f44-24b6303ce08a",
+      "pos": "Noun",
+      "gloss": {
+        "en": "zagaia"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:53Z"
+}

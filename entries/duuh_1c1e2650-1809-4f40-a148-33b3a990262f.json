@@ -1,0 +1,29 @@
+{
+  "headword": "duuh",
+  "entry_id": "duuh_1c1e2650-1809-4f40-a148-33b3a990262f",
+  "morph_type": "stem",
+  "pronunciation": "du:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "034a0409-242f-4bb1-a927-c33794ddb359",
+      "pos": "n op",
+      "gloss": {
+        "pt": "nádegas"
+      },
+      "def": {
+        "pt": "nádegas; assento; começo; nício"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

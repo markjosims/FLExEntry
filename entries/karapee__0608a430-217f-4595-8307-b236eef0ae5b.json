@@ -1,0 +1,31 @@
+{
+  "headword": "karapee",
+  "entry_id": "karapee _0608a430-217f-4595-8307-b236eef0ae5b",
+  "morph_type": "stem",
+  "pronunciation": "kaɾaˈpe:ʔ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ec6b2a91-b8ab-44f3-8200-648010fa9137",
+      "pos": "n",
+      "gloss": {
+        "en": "child.sg",
+        "pt": "criança.sg"
+      },
+      "def": {
+        "en": "child (sg)",
+        "pt": "criança (sg) companham ou trabalham ara uma pessoa"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

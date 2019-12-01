@@ -1,0 +1,29 @@
+{
+  "headword": "yd",
+  "entry_id": "yd1_81932843-b81d-48e9-988f-c34c461ec695",
+  "morph_type": "stem",
+  "pronunciation": "ɨd",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "4f1ffcc8-89dd-465c-afaa-dd5aaf49639d",
+      "pos": "n",
+      "gloss": {
+        "pt": "parte.baixa"
+      },
+      "def": {
+        "pt": "parte por baixo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

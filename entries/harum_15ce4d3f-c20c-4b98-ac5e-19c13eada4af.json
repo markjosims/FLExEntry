@@ -1,0 +1,26 @@
+{
+  "headword": "harum",
+  "entry_id": "harum_15ce4d3f-c20c-4b98-ac5e-19c13eada4af",
+  "morph_type": "stem",
+  "pronunciation": "haɾubm",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "74a76c65-88dd-4672-be6c-418ece822d56",
+      "pos": "Noun",
+      "gloss": {
+        "en": "tipiti",
+        "pt": "tipiti"
+      },
+      "def": {
+        "en": "tipiti (manioc squeezer)",
+        "pt": "tipiti"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

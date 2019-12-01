@@ -1,0 +1,26 @@
+{
+  "headword": "tooh",
+  "entry_id": "tooh_6043f2b6-842d-49d1-9764-2fd9ab21b3ba",
+  "morph_type": "stem",
+  "pronunciation": "to:h",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c9c714c3-9bc2-43f6-9308-3e57bf3ab2ca",
+      "pos": "Noun",
+      "gloss": {
+        "en": "white.lipped.peccary",
+        "pt": "queixada"
+      },
+      "def": {
+        "en": "White-lipped peccary",
+        "pt": "queixada"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

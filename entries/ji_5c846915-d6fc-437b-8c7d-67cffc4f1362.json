@@ -1,0 +1,29 @@
+{
+  "headword": "ji",
+  "entry_id": "ji_5c846915-d6fc-437b-8c7d-67cffc4f1362",
+  "morph_type": "stem",
+  "pronunciation": "ji",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3bf27487-edce-4483-aa54-0f2a1ae679ed",
+      "pos": "pro",
+      "gloss": {
+        "pt": "gente"
+      },
+      "def": {
+        "pt": "gente"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

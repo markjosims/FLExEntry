@@ -1,0 +1,26 @@
+{
+  "headword": "sëëj",
+  "entry_id": "sëëj2_676891fe-11be-4098-ba43-4c4bd187bf1f",
+  "morph_type": "stem",
+  "pronunciation": "ʃə:j",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "d2f9d1c1-34d6-4b45-8010-ca69db72e9c4",
+      "pos": "Noun",
+      "gloss": {
+        "en": "scorpion",
+        "pt": "escorpião"
+      },
+      "def": {
+        "en": "scorpion",
+        "pt": "escorpião"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

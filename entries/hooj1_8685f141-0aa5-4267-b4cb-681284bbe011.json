@@ -1,0 +1,40 @@
+{
+  "headword": "hooj",
+  "entry_id": "hooj1_8685f141-0aa5-4267-b4cb-681284bbe011",
+  "morph_type": "root",
+  "pronunciation": "ho:j",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "81e020cf-ef14-4ff3-a5a9-b97ba22c0054",
+      "pos": "Noun",
+      "gloss": {
+        "en": "white.cará",
+        "pt": "cará.branco"
+      },
+      "def": {
+        "en": "white carrá",
+        "pt": "cará branco"
+      },
+      "reverse": [
+        [
+          "white cará",
+          "en"
+        ],
+        [
+          "cará branco",
+          "pt"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-09-04T00:24:04Z"
+}

@@ -1,0 +1,31 @@
+{
+  "headword": "s’ỹỹ",
+  "entry_id": "s’ỹỹ1_4b90f87b-b955-4578-a4eb-450e5425a275",
+  "morph_type": "stem",
+  "pronunciation": "ʃɨ̃ʔɨ̃ʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "af180f15-5115-4073-bfe9-93693f88fbc8",
+      "pos": "Adverb",
+      "gloss": {
+        "en": "left",
+        "pt": "esquerda"
+      },
+      "def": {
+        "en": "left",
+        "pt": "esquerda"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-06T21:02:12Z"
+}

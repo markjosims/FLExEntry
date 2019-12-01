@@ -1,0 +1,26 @@
+{
+  "headword": "kad",
+  "entry_id": "kad3_2bb9853a-cde8-48bc-bb30-42d80bf6419d",
+  "morph_type": "stem",
+  "pronunciation": "kad̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "50faa7ec-22a0-4275-98da-c42da8f74b49",
+      "pos": "Noun",
+      "gloss": {
+        "en": "pat.uncle",
+        "pt": "tio paterno"
+      },
+      "def": {
+        "en": "paternal uncle",
+        "pt": "tio paterno"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:56Z"
+}

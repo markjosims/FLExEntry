@@ -1,0 +1,29 @@
+{
+  "headword": "pajëëh",
+  "entry_id": "pajëëh_f2432392-3a38-477e-b433-28593f111324",
+  "morph_type": "stem",
+  "pronunciation": "pajə:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "baaf6269-ef17-4198-9903-c6211c2b24b6",
+      "pos": "v",
+      "gloss": {
+        "pt": "amanhacer"
+      },
+      "def": {
+        "pt": "amanhacer"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

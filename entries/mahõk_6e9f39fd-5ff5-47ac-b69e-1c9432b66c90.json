@@ -1,0 +1,29 @@
+{
+  "headword": "mahõk",
+  "entry_id": "mahõk_6e9f39fd-5ff5-47ac-b69e-1c9432b66c90",
+  "morph_type": "stem",
+  "pronunciation": "mahõk",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "449e256e-85a4-465c-bcf3-571d63f37366",
+      "pos": "v",
+      "gloss": {
+        "pt": "ferida.ardenda"
+      },
+      "def": {
+        "pt": "ferida que arde"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

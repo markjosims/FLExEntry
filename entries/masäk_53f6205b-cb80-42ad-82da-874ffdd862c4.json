@@ -1,0 +1,31 @@
+{
+  "headword": "masäk",
+  "entry_id": "masäk_53f6205b-cb80-42ad-82da-874ffdd862c4",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c9b2de3b-c6d7-4412-b17a-281857187ec9",
+      "pos": "Noun",
+      "gloss": {
+        "en": "gray-winged Trumpeter",
+        "pt": "jacamim"
+      },
+      "def": {
+        "en": "gray-winged Trumpeter",
+        "pt": "jacamim"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-27T20:21:21Z"
+}

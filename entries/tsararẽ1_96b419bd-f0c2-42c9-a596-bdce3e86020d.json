@@ -1,0 +1,29 @@
+{
+  "headword": "tsararẽ",
+  "entry_id": "tsararẽ1_96b419bd-f0c2-42c9-a596-bdce3e86020d",
+  "morph_type": "stem",
+  "pronunciation": "ɟaɾaɾɛ̃",
+  "variant": null,
+  "note": [
+    [
+      "se traduz 'ser torcido' em cartilha 4; lição 13 artilha 4; lição 9",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9727a434-1d36-4144-bdfa-e890bc9b7624",
+      "pos": "v",
+      "gloss": {
+        "pt": "chiar"
+      },
+      "def": {
+        "pt": "chiar; rádio que só da estático"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

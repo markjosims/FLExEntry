@@ -1,0 +1,29 @@
+{
+  "headword": "tä",
+  "entry_id": "tä_5ea024ce-8d5b-461c-ae96-97daffe5dbb0",
+  "morph_type": "stem",
+  "pronunciation": "tʌ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "71a959cb-ec10-4807-9737-5effea2f547c",
+      "pos": "n",
+      "gloss": {
+        "pt": "carne/peixe"
+      },
+      "def": {
+        "pt": "comida (carne ou peixe)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

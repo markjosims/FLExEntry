@@ -1,0 +1,29 @@
+{
+  "headword": "paah",
+  "entry_id": "paah_5d6b8726-aa64-4b93-9329-884a1e4b1af8",
+  "morph_type": "stem",
+  "pronunciation": "pa:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "18bb2726-1e99-418a-ad5b-537ea67f2ac5",
+      "pos": "par",
+      "gloss": {
+        "pt": "passado"
+      },
+      "def": {
+        "pt": "passado; terminado"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

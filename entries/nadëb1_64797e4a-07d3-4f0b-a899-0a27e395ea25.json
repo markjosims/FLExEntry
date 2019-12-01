@@ -1,0 +1,46 @@
+{
+  "headword": "nadëb",
+  "entry_id": "nadëb1_64797e4a-07d3-4f0b-a899-0a27e395ea25",
+  "morph_type": "stem",
+  "pronunciation": "nadəb",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "da5147b8-3e44-4243-9577-21e04d7b8a2a",
+      "pos": "n",
+      "gloss": {
+        "en": "nadëb",
+        "pt": "nadëb"
+      },
+      "def": {
+        "en": "nadëb",
+        "pt": "povo nadëb"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    },
+    {
+      "sense_id": "d6028c63-428d-48b1-8d69-4ac19bb52741",
+      "pos": "n",
+      "gloss": {
+        "en": "people",
+        "pt": "gente"
+      },
+      "def": {
+        "en": "people",
+        "pt": "gente"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

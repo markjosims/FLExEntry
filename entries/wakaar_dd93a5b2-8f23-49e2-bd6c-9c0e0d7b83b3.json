@@ -1,0 +1,31 @@
+{
+  "headword": "wakaar",
+  "entry_id": "wakaar_dd93a5b2-8f23-49e2-bd6c-9c0e0d7b83b3",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "dde0c9a9-9ba8-4496-bd24-a5ef292a7e20",
+      "pos": "Noun",
+      "gloss": {
+        "en": "great egret",
+        "pt": "garça"
+      },
+      "def": {
+        "en": "great egret",
+        "pt": "garça"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-27T20:44:27Z"
+}

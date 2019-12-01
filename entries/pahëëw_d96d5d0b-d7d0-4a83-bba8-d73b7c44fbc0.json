@@ -1,0 +1,29 @@
+{
+  "headword": "pahëëw",
+  "entry_id": "pahëëw_d96d5d0b-d7d0-4a83-bba8-d73b7c44fbc0",
+  "morph_type": "stem",
+  "pronunciation": "pahə:w",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6d32cb3f-e9e9-4531-aa2b-526b10f42941",
+      "pos": "n",
+      "gloss": {
+        "pt": "moço"
+      },
+      "def": {
+        "pt": "moço"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

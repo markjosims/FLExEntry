@@ -1,0 +1,26 @@
+{
+  "headword": "h’ooh",
+  "entry_id": "h’ooh_c95ea861-4c45-4a1a-8ef3-688bec4eb1f7",
+  "morph_type": "stem",
+  "pronunciation": "hoʔoh",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "bfdc9110-4da5-460e-a610-c90b3f4e6aa0",
+      "pos": "Noun",
+      "gloss": {
+        "en": "canoe",
+        "pt": "canoa"
+      },
+      "def": {
+        "en": "canoe",
+        "pt": "canoa"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

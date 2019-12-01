@@ -1,0 +1,29 @@
+{
+  "headword": "jawʹëëj",
+  "entry_id": "jawʹëëj_7fe321e9-23f6-4491-9470-7bad482bbd8e",
+  "morph_type": "stem",
+  "pronunciation": "jawə̰:j",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a5e2b283-ba66-4a9a-b6d5-0d00c197061a",
+      "pos": "n",
+      "gloss": {
+        "pt": "macaco.prego"
+      },
+      "def": {
+        "pt": "esp. de macaco (macacao rego)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

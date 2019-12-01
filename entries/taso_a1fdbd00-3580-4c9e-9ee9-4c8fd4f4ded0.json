@@ -1,0 +1,29 @@
+{
+  "headword": "taso",
+  "entry_id": "taso_a1fdbd00-3580-4c9e-9ee9-4c8fd4f4ded0",
+  "morph_type": "stem",
+  "pronunciation": "taʃo",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lições 8  17",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "81d7e359-3648-41a4-9768-f71bf2a10c3b",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

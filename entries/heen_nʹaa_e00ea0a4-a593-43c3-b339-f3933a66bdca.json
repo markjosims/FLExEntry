@@ -1,0 +1,29 @@
+{
+  "headword": "heen nʹaa",
+  "entry_id": "heen nʹaa_e00ea0a4-a593-43c3-b339-f3933a66bdca",
+  "morph_type": "phrase",
+  "pronunciation": "he:n na̰:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "77db2bd4-1f14-40e7-b733-18dd3814ef63",
+      "pos": "n op",
+      "gloss": {
+        "pt": "foto"
+      },
+      "def": {
+        "pt": "foto; representação"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "karahi",
+  "entry_id": "karahi_f160e9f4-8046-4b12-a202-2663128d0ad7",
+  "morph_type": "stem",
+  "pronunciation": "kaɾahi",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3ea2d121-ab81-4e95-ad36-10d87d0e6acc",
+      "pos": "n",
+      "gloss": {
+        "pt": "malhadeira"
+      },
+      "def": {
+        "pt": "malhadeira"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

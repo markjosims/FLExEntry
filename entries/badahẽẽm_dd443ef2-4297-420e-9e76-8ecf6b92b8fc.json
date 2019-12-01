@@ -1,0 +1,29 @@
+{
+  "headword": "badahẽẽm",
+  "entry_id": "badahẽẽm_dd443ef2-4297-420e-9e76-8ecf6b92b8fc",
+  "morph_type": "stem",
+  "pronunciation": "badahɛ̃:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1a89d6df-9a35-44eb-b804-30561c345001",
+      "pos": "v",
+      "gloss": {
+        "pt": "ter.sombra"
+      },
+      "def": {
+        "pt": "ter sombra"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,31 @@
+{
+  "headword": "roor",
+  "entry_id": "roor_3015a52d-88c5-432a-befd-e2eab5325dc6",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "8477b726-76d0-4630-9a39-a67f1840cdb1",
+      "pos": "Noun",
+      "gloss": {
+        "en": "duck",
+        "pt": "pato"
+      },
+      "def": {
+        "en": "duck",
+        "pt": "pato"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-27T20:43:14Z"
+}

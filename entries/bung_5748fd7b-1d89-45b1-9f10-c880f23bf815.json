@@ -1,0 +1,27 @@
+{
+  "headword": "bung",
+  "entry_id": "bung_5748fd7b-1d89-45b1-9f10-c880f23bf815",
+  "morph_type": "stem",
+  "pronunciation": "buŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9a4d2677-8bd7-44c0-84a4-35572de60159",
+      "pos": "n",
+      "gloss": {
+        "pt": "mutuca"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-22T15:49:02Z"
+}

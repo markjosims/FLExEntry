@@ -1,0 +1,38 @@
+{
+  "headword": "tahóh",
+  "entry_id": "tahóh_7d735435-5f43-4a8a-94db-87f4e51b960a",
+  "morph_type": "stem",
+  "pronunciation": "taˈhɔ:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ],
+    [
+      "(ji) tahóh",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0ecba83b-2c7c-4379-8471-565bceda5869",
+      "pos": "Noun",
+      "gloss": {
+        "en": "pimple",
+        "pt": "espinha"
+      },
+      "def": {
+        "en": "pimple",
+        "pt": "espinha"
+      },
+      "reverse": null,
+      "note": [
+        "(ji) tahóh",
+        "grammar"
+      ],
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-04T14:22:00Z"
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "jeriih",
+  "entry_id": "jeriih_fe86d66f-64e6-4f0a-a39d-960b1baf9ba4",
+  "morph_type": "stem",
+  "pronunciation": "jeɾi:h",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "d0cd3629-3ec5-4041-a1e5-4321544f48fa",
+      "pos": "Noun",
+      "gloss": {
+        "en": "body.paint",
+        "pt": "pintura.corporal"
+      },
+      "def": {
+        "en": "body paint",
+        "pt": "pintura corporal"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

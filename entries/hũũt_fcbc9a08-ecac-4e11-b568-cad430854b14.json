@@ -1,0 +1,43 @@
+{
+  "headword": "hũũt",
+  "entry_id": "hũũt_fcbc9a08-ecac-4e11-b568-cad430854b14",
+  "morph_type": "stem",
+  "pronunciation": "hũ:t˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ccbbc6d2-0db8-4a06-b1e9-e09291e496a6",
+      "pos": "n",
+      "gloss": {
+        "en": "tobaco",
+        "pt": "tabaco"
+      },
+      "def": {
+        "en": "tobaco",
+        "pt": "tabaco"
+      },
+      "reverse": [
+        [
+          "tobaco",
+          "en"
+        ],
+        [
+          "tabaco",
+          "pt"
+        ]
+      ],
+      "note": [
+        "probably bought tobaco. compare with ''baruur''",
+        "semantics"
+      ],
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

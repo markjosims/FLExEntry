@@ -1,0 +1,26 @@
+{
+  "headword": "takod",
+  "entry_id": "takod2_a630902b-b26a-4906-870e-2c4c62b001b1",
+  "morph_type": "stem",
+  "pronunciation": "takod̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "211f702c-327a-4edb-ad92-3b10980b1502",
+      "pos": "Noun",
+      "gloss": {
+        "en": "bamboo",
+        "pt": "taboca"
+      },
+      "def": {
+        "en": "bamboo",
+        "pt": "taboca"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "pëë",
+  "entry_id": "pëë_8eeb53c7-1d25-48da-8b2d-51f5314aa791",
+  "morph_type": "stem",
+  "pronunciation": "pə:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "7f757cca-4216-4be2-8df1-00f0104a40c8",
+      "pos": "n",
+      "gloss": {
+        "pt": "cobra.sp"
+      },
+      "def": {
+        "pt": "esp. de cobra"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

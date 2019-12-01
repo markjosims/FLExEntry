@@ -1,0 +1,29 @@
+{
+  "headword": "hỹỹj",
+  "entry_id": "hỹỹj1_b8de92d9-5f80-44ee-a6c1-83a6ea312225",
+  "morph_type": "stem",
+  "pronunciation": "hɨ̃:j",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "3e338bdc-f7f3-4f3e-8909-9a5e0882edc5",
+      "pos": "n op",
+      "gloss": {
+        "pt": "irmão"
+      },
+      "def": {
+        "pt": "irmão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "ahỹỹh",
+  "entry_id": "ahỹỹh_f733ec49-2377-44b4-8f60-a93e6a22ff4e",
+  "morph_type": "stem",
+  "pronunciation": "ahɨ̃:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cfb72c47-6bca-4512-b4e7-1e8694eb96aa",
+      "pos": "v",
+      "gloss": {
+        "pt": "páss.cantar"
+      },
+      "def": {
+        "pt": "cantar (pássaro)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

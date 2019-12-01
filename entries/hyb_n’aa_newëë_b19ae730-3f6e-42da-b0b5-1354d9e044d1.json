@@ -1,0 +1,31 @@
+{
+  "headword": "hyb n’aa newëë",
+  "entry_id": "hyb n’aa newëë_b19ae730-3f6e-42da-b0b5-1354d9e044d1",
+  "morph_type": "phrase",
+  "pronunciation": "hɨb˺ naʔaʔ neʔˈwǝ:ʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "85ac41ac-e911-4d6d-8c0d-c3e7cd8fde16",
+      "pos": "Verb",
+      "gloss": {
+        "en": "think",
+        "pt": "pensar"
+      },
+      "def": {
+        "en": "think",
+        "pt": "pensar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-10T23:20:27Z"
+}

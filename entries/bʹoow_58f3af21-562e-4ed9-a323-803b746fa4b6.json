@@ -1,0 +1,29 @@
+{
+  "headword": "bʹoow",
+  "entry_id": "bʹoow_58f3af21-562e-4ed9-a323-803b746fa4b6",
+  "morph_type": "stem",
+  "pronunciation": "bo̰:w",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "98b46c4c-76e6-465d-9645-6c4d2ad40186",
+      "pos": "n",
+      "gloss": {
+        "pt": "coruja.sp"
+      },
+      "def": {
+        "pt": "esp. de coruja"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

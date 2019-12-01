@@ -1,0 +1,31 @@
+{
+  "headword": "darung",
+  "entry_id": "darung_6eef50fb-81f8-4589-9a04-d859e7d005b9",
+  "morph_type": "stem",
+  "pronunciation": "daˈɾugŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "dd1f1e57-ea99-4a11-ab8f-2866b4292180",
+      "pos": "Noun",
+      "gloss": {
+        "en": "thunder",
+        "pt": "trovão"
+      },
+      "def": {
+        "en": "thunder",
+        "pt": "trovão"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

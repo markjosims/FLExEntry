@@ -1,0 +1,31 @@
+{
+  "headword": "ganebëëh",
+  "entry_id": "ganebëëh_519371ad-8e47-436a-b8ee-7bea8506ff09",
+  "morph_type": "stem",
+  "pronunciation": "k’aneʔˈbǝ:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "96c6ae87-80bf-4259-96bf-3a7dcadd4b79",
+      "pos": null,
+      "gloss": {
+        "en": "split",
+        "pt": "rachar"
+      },
+      "def": {
+        "en": "split (paper; food)",
+        "pt": "rachar (papel; comida)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-10T23:10:09Z"
+}

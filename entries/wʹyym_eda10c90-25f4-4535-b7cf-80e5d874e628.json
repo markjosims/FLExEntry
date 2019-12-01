@@ -1,0 +1,29 @@
+{
+  "headword": "wʹyym",
+  "entry_id": "wʹyym_eda10c90-25f4-4535-b7cf-80e5d874e628",
+  "morph_type": "stem",
+  "pronunciation": "wɨ̰:m",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "f6d03cbb-8a93-4ec0-befa-69694151d7ea",
+      "pos": "n",
+      "gloss": {
+        "pt": "siririca"
+      },
+      "def": {
+        "pt": "esp. de capim"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

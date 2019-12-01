@@ -1,0 +1,40 @@
+{
+  "headword": "jëë",
+  "entry_id": "jëë_a0520e71-1c6b-440a-bfb4-073d8767e810",
+  "morph_type": "stem",
+  "pronunciation": "jə:",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "b487a001-f2e9-4175-8ca9-4720edda4966",
+      "pos": "n",
+      "gloss": {
+        "en": "peach.palm",
+        "pt": "pupunha"
+      },
+      "def": {
+        "en": "peach palm",
+        "pt": "pupunha"
+      },
+      "reverse": [
+        [
+          "pupunha",
+          "pt"
+        ],
+        [
+          "peach palm",
+          "en"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

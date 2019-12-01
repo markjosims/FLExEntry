@@ -1,0 +1,29 @@
+{
+  "headword": "edoon",
+  "entry_id": "edoon_d7029ea0-1d77-423d-ab5d-d19e1296fa60",
+  "morph_type": "stem",
+  "pronunciation": "edo:n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5fdb3b75-6a14-4dcc-a9ec-2ce227b9a1bf",
+      "pos": "v",
+      "gloss": {
+        "pt": "chupar"
+      },
+      "def": {
+        "pt": "chupar com os dedos"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

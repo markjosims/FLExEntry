@@ -1,0 +1,26 @@
+{
+  "headword": "mahũũr",
+  "entry_id": "mahũũr2_f18a6646-c5a7-440a-ad32-7f3d8a2ddb79",
+  "morph_type": "stem",
+  "pronunciation": "mãhũ:ɾᵊ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "10d81977-d2bf-4e0b-a65f-4b3bcbecb92e",
+      "pos": "Noun",
+      "gloss": {
+        "en": "sweet.manioc",
+        "pt": "macaxeira"
+      },
+      "def": {
+        "en": "manioc (sweet)",
+        "pt": "macaxeira"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

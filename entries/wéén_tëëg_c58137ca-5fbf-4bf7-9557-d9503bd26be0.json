@@ -1,0 +1,40 @@
+{
+  "headword": "wéén tëëg",
+  "entry_id": "wéén tëëg_c58137ca-5fbf-4bf7-9557-d9503bd26be0",
+  "morph_type": "phrase",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fielndotes Epps/Obert; 2018z",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "7ab7912a-ba94-4a25-bb50-ddcf8a772df9",
+      "pos": "Noun",
+      "gloss": {
+        "en": "calabash.tree",
+        "pt": "árvore.de.cabaça"
+      },
+      "def": {
+        "en": "calabash tree",
+        "pt": "árvore de cabaça"
+      },
+      "reverse": [
+        [
+          "calabash tree",
+          "en"
+        ],
+        [
+          "árvore de cabaça",
+          "pt"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-09-04T00:46:00Z"
+}

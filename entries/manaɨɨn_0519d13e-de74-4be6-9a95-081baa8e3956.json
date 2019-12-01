@@ -1,0 +1,27 @@
+{
+  "headword": "manaɨɨn",
+  "entry_id": "manaɨɨn_0519d13e-de74-4be6-9a95-081baa8e3956",
+  "morph_type": "stem",
+  "pronunciation": "manaɨːn",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "fab5e3b9-7ef3-4340-9ee4-d9cdfc149c07",
+      "pos": "Noun",
+      "gloss": {
+        "en": "cará"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

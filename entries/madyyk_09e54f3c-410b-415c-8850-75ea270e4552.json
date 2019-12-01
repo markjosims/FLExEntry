@@ -1,0 +1,31 @@
+{
+  "headword": "madyyk",
+  "entry_id": "madyyk_09e54f3c-410b-415c-8850-75ea270e4552",
+  "morph_type": "stem",
+  "pronunciation": "maˈdɨ:k˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9b92b2cb-bb24-4ffd-bb03-3b21acf80bd0",
+      "pos": "n",
+      "gloss": {
+        "en": "açaí.palm",
+        "pt": "açaí"
+      },
+      "def": {
+        "en": "açai palm",
+        "pt": "açai"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

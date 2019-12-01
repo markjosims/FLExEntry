@@ -1,0 +1,27 @@
+{
+  "headword": "bahɨ̃nh",
+  "entry_id": "bahɨ̃nh_c1c40f94-2c13-43af-bf91-5659b2fe5eaf",
+  "morph_type": "stem",
+  "pronunciation": "bahɨ̃ɲ",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1986",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1d1f941d-cb57-4ab4-95b0-083136306f6c",
+      "pos": "post",
+      "gloss": {
+        "en": "in.front.of; beyond"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

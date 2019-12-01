@@ -1,0 +1,29 @@
+{
+  "headword": "karẽn",
+  "entry_id": "karẽn1_80e42cbd-c06a-483c-b021-b0358dc74458",
+  "morph_type": "stem",
+  "pronunciation": "kaɾɛ̃n",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5db5f38b-08f4-4885-acdf-68dfb87f8352",
+      "pos": "v",
+      "gloss": {
+        "pt": "querer"
+      },
+      "def": {
+        "pt": "querer"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

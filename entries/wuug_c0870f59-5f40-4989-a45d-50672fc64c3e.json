@@ -1,0 +1,26 @@
+{
+  "headword": "wuug",
+  "entry_id": "wuug_c0870f59-5f40-4989-a45d-50672fc64c3e",
+  "morph_type": "stem",
+  "pronunciation": "wu:g̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "692c2550-3bed-4d32-9d02-cbf3dd73e5e1",
+      "pos": "Noun",
+      "gloss": {
+        "en": "charm",
+        "pt": "feitiço"
+      },
+      "def": {
+        "en": "fetish; charm",
+        "pt": "feitiço; puçanga"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

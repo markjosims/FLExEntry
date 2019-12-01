@@ -1,0 +1,29 @@
+{
+  "headword": "ju",
+  "entry_id": "ju_5dae869a-3b1b-46a6-8326-74a340630984",
+  "morph_type": "stem",
+  "pronunciation": "ju",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; licão 14",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "4a4f2624-50f9-4820-a471-57c867677cd3",
+      "pos": "n?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

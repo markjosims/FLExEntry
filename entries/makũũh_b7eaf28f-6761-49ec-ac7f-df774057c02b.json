@@ -1,0 +1,29 @@
+{
+  "headword": "makũũh",
+  "entry_id": "makũũh_b7eaf28f-6761-49ec-ac7f-df774057c02b",
+  "morph_type": "stem",
+  "pronunciation": "makũ:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "339a2390-193b-4e46-b7d9-76429e5bf07d",
+      "pos": "n",
+      "gloss": {
+        "pt": "finado"
+      },
+      "def": {
+        "pt": "finado"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

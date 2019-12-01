@@ -1,0 +1,29 @@
+{
+  "headword": "abang",
+  "entry_id": "abang_c231c7a7-80a3-4ddf-91a7-d9852624e44d",
+  "morph_type": "stem",
+  "pronunciation": "abaŋ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "fd034ead-ae35-414c-aad2-4b9e0f677a10",
+      "pos": "adj",
+      "gloss": {
+        "pt": "forte"
+      },
+      "def": {
+        "pt": "forte; duro; durável"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

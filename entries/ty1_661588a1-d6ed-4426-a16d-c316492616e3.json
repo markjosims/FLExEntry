@@ -1,0 +1,29 @@
+{
+  "headword": "ty",
+  "entry_id": "ty1_661588a1-d6ed-4426-a16d-c316492616e3",
+  "morph_type": "stem",
+  "pronunciation": "tɨ",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 9",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a913ccd8-0fe1-44cd-a1a4-d3ef21fb5ef1",
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

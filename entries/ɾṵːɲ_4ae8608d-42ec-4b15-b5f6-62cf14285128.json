@@ -1,0 +1,22 @@
+{
+  "headword": "ɾṵːɲ",
+  "entry_id": "ɾṵːɲ_4ae8608d-42ec-4b15-b5f6-62cf14285128",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "b56117d3-b70f-4111-924b-64eac6efdaed",
+      "pos": "Verb",
+      "gloss": {
+        "en": "saltitar (iterativo)"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:53Z"
+}

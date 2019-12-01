@@ -1,0 +1,29 @@
+{
+  "headword": "rama",
+  "entry_id": "rama_2bfdf4f7-0c51-480a-938a-c1dcea2924f9",
+  "morph_type": "stem",
+  "pronunciation": "ɾama",
+  "variant": null,
+  "note": [
+    [
+      "encontrado em cartilha 4; lição 11",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "2903878f-fea7-478b-a1bd-4c7c6a4ab183",
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

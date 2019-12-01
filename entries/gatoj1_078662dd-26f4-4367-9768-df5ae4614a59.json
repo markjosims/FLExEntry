@@ -1,0 +1,29 @@
+{
+  "headword": "gatoj",
+  "entry_id": "gatoj1_078662dd-26f4-4367-9768-df5ae4614a59",
+  "morph_type": "stem",
+  "pronunciation": "gatoj",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "ab6100d4-bae8-44a2-8b89-ad9b4dd741bc",
+      "pos": "n",
+      "gloss": {
+        "pt": "flecha"
+      },
+      "def": {
+        "pt": "flecha; planta que se faz flecha"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

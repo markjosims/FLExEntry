@@ -1,0 +1,27 @@
+{
+  "headword": "ʉʉn",
+  "entry_id": "ʉʉn_eb201827-9f6d-4018-a8dd-e4f259bf9838",
+  "morph_type": "stem",
+  "pronunciation": "ʔəːn",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1990; Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "79da03e1-4a27-4135-8017-085bcee7a754",
+      "pos": "Noun",
+      "gloss": {
+        "en": "mother"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

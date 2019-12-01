@@ -1,0 +1,29 @@
+{
+  "headword": "atëëd",
+  "entry_id": "atëëd1_95b72b78-8ccd-4c61-a213-45127865783a",
+  "morph_type": "stem",
+  "pronunciation": "atə:d",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "a43f239c-e7dd-4388-bfe2-b10029dae56e",
+      "pos": "n",
+      "gloss": {
+        "pt": "caba"
+      },
+      "def": {
+        "pt": "caba"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

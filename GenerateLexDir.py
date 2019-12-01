@@ -10,7 +10,7 @@ import os
 import glob
 
 def generate_lex_dir(df1, df2):
-    clean_dir('/entries/.*')
+    clean_dir(r'\entries\*.json')
     global variants, senses_df
     entries_df = df1
     senses_df = df2
@@ -91,33 +91,37 @@ def generate_lex_dir(df1, df2):
         data.pop('index')
         data['variant'] = fetch_all_vars( data['variant'] )
         data['sense'] = fetch_all_senses( data['sense'] )
-        filehead = data['headword'].replace('/', '_')
-        filehead = filehead.replace(' ', '_')
-        filehead = filehead.replace('?', '')
+        filehead = data['entry_id']
+        filehead = rep_all(filehead, '/ ', '_')
+        filehead = rep_all(filehead, '()[]? ', '')
         filename = 'entries/' + filehead + '.json'
         with open(temp, 'w') as f:
             # create temp json file
             json.dump(data, f, indent=2)
-        with open(filename, 'w', encoding='utf8') as f:
-            with open(temp, 'rb') as t:
-                for line in t:
-                    # fix escaped unicode sequences
-                    line = line.decode('unicode_escape')
-                    # remove extra carriage return
-                    line = line.replace('\r', '')
-                    
-                    f.write(line)
+        with open(filename, 'w', encoding='utf8') as f, open(temp, 'rb') as t:
+            for line in t:
+                # fix escaped unicode sequences
+                line = line.decode('unicode_escape')
+                # remove extra carriage return
+                line = line.replace('\r', '')
+                
+                f.write(line)
             
 def clean_dir(folder):
-    files = glob.glob(folder)
+    wd = os.getcwd()
+    files = glob.glob(wd+folder)
     for f in files:
         os.remove(f)
-
+        
+def rep_all(s, chars, tgt):
+    for c in chars:
+        s = s.replace(c, tgt)
+    return s
 
 def fetch_all_vars(all_vars):
     if not all_vars:
         return None
-    elif type(all_vars[0]) == dict():
+    elif type(all_vars[0]) is dict():
         return all_vars
     else:
         return [fetch_var(var) for var in all_vars]
@@ -135,14 +139,12 @@ def fetch_var(var):
     if type(sense[0]) != dict():
         row['sense'] = fetch_all_senses(sense)
     out = dict(row)
-    #print(out)
-    #out.pop('index')
     return out
     
 def fetch_all_senses(all_senses):
     if not all_senses:
         return None
-    elif type(all_senses[0]) == dict():
+    elif type(all_senses[0]) is dict():
         return all_senses
     else:
         return [fetch_sense(sense) for sense in all_senses if sense != '[]']
@@ -154,11 +156,9 @@ def fetch_sense(sense):
     idx = row.index(True)
     row = senses_df.loc[idx]
     var_of_sense = row['var_of_sense']
-    if var_of_sense and type(var_of_sense[0]) != dict():
+    if var_of_sense and type(var_of_sense[0]) is not dict():
         row['var_of_sense'] = [fetch_var(vos) for vos in var_of_sense]
     out = dict(row)
-    #print(out)
-    #out.pop('index')
     return out
     
     

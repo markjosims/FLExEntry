@@ -1,0 +1,31 @@
+{
+  "headword": "ganapog",
+  "entry_id": "ganapog_a26b08ff-079c-493f-b809-9f9d8b7d9474",
+  "morph_type": "stem",
+  "pronunciation": "k’anaˈpog˺",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "5988c52b-c4a7-40a0-878d-df06c0a3a6f1",
+      "pos": "adj?",
+      "gloss": {
+        "en": "short",
+        "pt": "curto"
+      },
+      "def": {
+        "en": "short",
+        "pt": "curto"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-07T20:55:06Z"
+}

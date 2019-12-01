@@ -1,0 +1,26 @@
+{
+  "headword": "kaat",
+  "entry_id": "kaat4_2f663e30-e5e2-4436-aa3a-06247ad235b6",
+  "morph_type": "stem",
+  "pronunciation": "ka:t̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "a955cc38-8e49-4f30-b38f-938eed9ecacc",
+      "pos": "Noun",
+      "gloss": {
+        "en": "mat.aunt",
+        "pt": "tia materna"
+      },
+      "def": {
+        "en": "maternal aunt",
+        "pt": "tia materna"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:56Z"
+}

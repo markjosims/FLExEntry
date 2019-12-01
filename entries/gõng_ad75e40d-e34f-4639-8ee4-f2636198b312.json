@@ -1,0 +1,29 @@
+{
+  "headword": "gõng",
+  "entry_id": "gõng_ad75e40d-e34f-4639-8ee4-f2636198b312",
+  "morph_type": "stem",
+  "pronunciation": "gõŋ",
+  "variant": null,
+  "note": [
+    [
+      "em cartilha 4; lição 1",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "326a56ee-0d71-4230-8bfc-7a1799534060",
+      "pos": "v?",
+      "gloss": {
+        "pt": "dor?"
+      },
+      "def": {
+        "pt": "dor?"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-04-03T23:23:26Z"
+}

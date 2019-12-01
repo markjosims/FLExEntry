@@ -1,0 +1,26 @@
+{
+  "headword": "bato",
+  "entry_id": "bato3_c12dcb8f-0467-4789-85e9-57382fa7e085",
+  "morph_type": "stem",
+  "pronunciation": "batoʔ",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "51281ea6-5bde-413e-9f3a-5e01acc45371",
+      "pos": "Noun",
+      "gloss": {
+        "en": "coca",
+        "pt": "ipadu"
+      },
+      "def": {
+        "en": "coca",
+        "pt": "ipadu"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

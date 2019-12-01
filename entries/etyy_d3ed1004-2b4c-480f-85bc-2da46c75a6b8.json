@@ -1,0 +1,29 @@
+{
+  "headword": "etyy",
+  "entry_id": "etyy_d3ed1004-2b4c-480f-85bc-2da46c75a6b8",
+  "morph_type": "stem",
+  "pronunciation": "etɨ:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9eb8fb8f-3e49-45aa-a76c-8512171d60e7",
+      "pos": "v",
+      "gloss": {
+        "pt": "pescar"
+      },
+      "def": {
+        "pt": "pescar com azol"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

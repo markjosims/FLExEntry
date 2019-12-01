@@ -1,0 +1,31 @@
+{
+  "headword": "dõm",
+  "entry_id": "dõm_821df784-fbcb-40de-a505-a26f965d09ed",
+  "morph_type": "stem",
+  "pronunciation": "dɔ̃m",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "febdc428-5f2f-41af-93e6-d42ce69de39d",
+      "pos": "Noun",
+      "gloss": {
+        "en": "tail",
+        "pt": "rabo"
+      },
+      "def": {
+        "en": "tail",
+        "pt": "rabo"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-08T18:00:21Z"
+}

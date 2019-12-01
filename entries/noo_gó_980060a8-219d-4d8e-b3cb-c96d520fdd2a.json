@@ -1,0 +1,29 @@
+{
+  "headword": "noo gó",
+  "entry_id": "noo gó_980060a8-219d-4d8e-b3cb-c96d520fdd2a",
+  "morph_type": "phrase",
+  "pronunciation": "no: gɔ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "733c6833-5277-4aeb-99d8-803cb3116d2f",
+      "pos": "adv",
+      "gloss": {
+        "pt": "naquela.época"
+      },
+      "def": {
+        "pt": "naquela época; dentro da boca"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

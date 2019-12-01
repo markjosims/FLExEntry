@@ -1,0 +1,27 @@
+{
+  "headword": "nɨɨh",
+  "entry_id": "nɨɨh_2eb06a57-667e-43a7-a53b-9905edcdca8f",
+  "morph_type": "stem",
+  "pronunciation": "nɨːh",
+  "variant": null,
+  "note": [
+    [
+      "Weir 1994",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "0c4846b7-4573-4682-801a-2970630de455",
+      "pos": "Pronoun",
+      "gloss": {
+        "en": "which?"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:54Z"
+}

@@ -1,0 +1,35 @@
+{
+  "headword": "tii",
+  "entry_id": "tii2_d3db1b0f-4558-4e63-94dc-a2d6b0d31def",
+  "morph_type": "stem",
+  "pronunciation": "ti:ʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ],
+    [
+      "(ta) tii",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bcf4b8f9-29c4-469e-8b4e-e719da0062ae",
+      "pos": "?",
+      "gloss": {
+        "en": "DEM.prox",
+        "pt": "DEM;prox"
+      },
+      "def": {
+        "en": "this",
+        "pt": "esse"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-04-04T19:21:41Z"
+}

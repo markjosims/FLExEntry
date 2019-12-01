@@ -1,0 +1,31 @@
+{
+  "headword": "karewa",
+  "entry_id": "karewa_22e6cb0e-7b2d-4c12-9374-6e1fa11ea10e",
+  "morph_type": "stem",
+  "pronunciation": "kareʔˈwaʔ",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9b56016f-db2a-4a00-bf9e-6b98f74cc95b",
+      "pos": "Noun",
+      "gloss": {
+        "en": "sauva",
+        "pt": "saúva"
+      },
+      "def": {
+        "en": "sauva",
+        "pt": "saúva"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-15T20:30:23Z"
+}

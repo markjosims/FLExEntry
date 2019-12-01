@@ -1,0 +1,31 @@
+{
+  "headword": "jaah",
+  "entry_id": "jaah_73c5535f-972b-4711-b80a-904d9c468a08",
+  "morph_type": "stem",
+  "pronunciation": "ja:h",
+  "variant": null,
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "c9f767f7-b1b3-4859-b9bf-21721018cdf4",
+      "pos": "Question particle",
+      "gloss": {
+        "en": "who",
+        "pt": "quem"
+      },
+      "def": {
+        "en": "who",
+        "pt": "quem"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-07-11T00:07:32Z"
+}

@@ -1,0 +1,29 @@
+{
+  "headword": "panʹaa",
+  "entry_id": "panʹaa2_167b4818-2852-44f2-aef7-66c8c4ba3c2d",
+  "morph_type": "stem",
+  "pronunciation": "pana̰:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "125852b9-9c3d-49dc-ac87-02e3bdbc19a7",
+      "pos": "par",
+      "gloss": {
+        "pt": "para"
+      },
+      "def": {
+        "pt": "para; vai ser"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

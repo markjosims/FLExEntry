@@ -1,0 +1,31 @@
+{
+  "headword": "asëëk",
+  "entry_id": "asëëk_a66ea5e8-0c6b-4415-bf0f-ed7c04faaca2",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈʃǝ:k˺",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "1681b58c-d028-4b6c-af21-833f4abef2ce",
+      "pos": "v",
+      "gloss": {
+        "en": "go.up",
+        "pt": "subir"
+      },
+      "def": {
+        "en": "go up; climb",
+        "pt": "subir; trepar"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

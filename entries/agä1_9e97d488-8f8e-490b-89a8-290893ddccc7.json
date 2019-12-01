@@ -1,0 +1,25 @@
+{
+  "headword": "agä",
+  "entry_id": "agä1_9e97d488-8f8e-490b-89a8-290893ddccc7",
+  "morph_type": "stem",
+  "pronunciation": "agʌ",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "46b51355-1a5b-431a-b504-3aba4f228a2d",
+      "pos": "v",
+      "gloss": null,
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-22T18:22:12Z"
+}

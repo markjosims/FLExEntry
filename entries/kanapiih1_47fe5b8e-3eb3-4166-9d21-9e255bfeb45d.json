@@ -1,0 +1,29 @@
+{
+  "headword": "kanapiih",
+  "entry_id": "kanapiih1_47fe5b8e-3eb3-4166-9d21-9e255bfeb45d",
+  "morph_type": "stem",
+  "pronunciation": "kanapi:h",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "6230e381-e2e5-4d64-90d6-35e1063883ad",
+      "pos": "n",
+      "gloss": {
+        "pt": "massa.beiju"
+      },
+      "def": {
+        "pt": "beiju de massa"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,40 @@
+{
+  "headword": "karahyyr",
+  "entry_id": "karahyyr_bc5a171a-c00c-4782-93b5-020b90692266",
+  "morph_type": "root",
+  "pronunciation": null,
+  "variant": null,
+  "note": [
+    [
+      "Fielnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "cfac1d7b-3671-4f93-bf2f-3027cd011a8c",
+      "pos": "Noun",
+      "gloss": {
+        "en": "sweet.potato",
+        "pt": "batata.doce"
+      },
+      "def": {
+        "en": "sweet potatoz",
+        "pt": "batata doce"
+      },
+      "reverse": [
+        [
+          "batata doce",
+          "pt"
+        ],
+        [
+          "sweet potato",
+          "en"
+        ]
+      ],
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-09-04T00:29:22Z"
+}

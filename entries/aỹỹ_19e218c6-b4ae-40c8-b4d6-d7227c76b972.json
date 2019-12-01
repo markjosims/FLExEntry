@@ -1,0 +1,29 @@
+{
+  "headword": "aỹỹ",
+  "entry_id": "aỹỹ_19e218c6-b4ae-40c8-b4d6-d7227c76b972",
+  "morph_type": "stem",
+  "pronunciation": "aɨ̃:",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "bed4129c-a622-42e6-81b2-2372039e7c4f",
+      "pos": "v",
+      "gloss": {
+        "pt": "dormir"
+      },
+      "def": {
+        "pt": "dormir"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:52Z"
+}

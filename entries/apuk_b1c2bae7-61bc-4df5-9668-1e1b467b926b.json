@@ -1,0 +1,29 @@
+{
+  "headword": "apuk",
+  "entry_id": "apuk_b1c2bae7-61bc-4df5-9668-1e1b467b926b",
+  "morph_type": "stem",
+  "pronunciation": "apuk",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "51060597-fcf4-464c-ac0f-33d8484d82f2",
+      "pos": "v",
+      "gloss": {
+        "pt": "cavar"
+      },
+      "def": {
+        "pt": "cavar (com faca; enxada; etc.)"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

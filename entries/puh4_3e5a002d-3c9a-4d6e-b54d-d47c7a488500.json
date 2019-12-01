@@ -1,0 +1,22 @@
+{
+  "headword": "puh",
+  "entry_id": "puh4_3e5a002d-3c9a-4d6e-b54d-d47c7a488500",
+  "morph_type": "stem",
+  "pronunciation": null,
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "2149cd62-e053-4cef-872d-a10a6b41f2ae",
+      "pos": "Noun",
+      "gloss": {
+        "en": "espuma"
+      },
+      "def": null,
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-06-20T05:09:53Z"
+}

@@ -1,0 +1,26 @@
+{
+  "headword": "jag",
+  "entry_id": "jag2_c3965c56-0a44-4337-9442-b76f3f1ecc37",
+  "morph_type": "stem",
+  "pronunciation": "jag̚",
+  "variant": null,
+  "note": null,
+  "sense": [
+    {
+      "sense_id": "c81f7c4e-93f1-41f5-8a57-a48a3d93d9a3",
+      "pos": "Noun",
+      "gloss": {
+        "en": "hammock",
+        "pt": "rede"
+      },
+      "def": {
+        "en": "hammock",
+        "pt": "rede"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}

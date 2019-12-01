@@ -1,0 +1,29 @@
+{
+  "headword": "kaat",
+  "entry_id": "kaat1_343a6e41-2533-4734-88d4-d7e177d3c697",
+  "morph_type": "stem",
+  "pronunciation": "ka:t",
+  "variant": null,
+  "note": [
+    [
+      "SIL 2011",
+      "bibliography"
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "9b14e810-f57a-4971-9f55-079ec8d00c49",
+      "pos": "n",
+      "gloss": {
+        "pt": "tia"
+      },
+      "def": {
+        "pt": "tia; irmã de mãe"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2018-03-08T07:17:53Z"
+}

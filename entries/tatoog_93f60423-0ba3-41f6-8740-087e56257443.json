@@ -1,0 +1,31 @@
+{
+  "headword": "tatoog",
+  "entry_id": "tatoog_93f60423-0ba3-41f6-8740-087e56257443",
+  "morph_type": "stem",
+  "pronunciation": "tato:g̚",
+  "variant": null,
+  "note": [
+    [
+      "great-granddaughter= tatatoog",
+      ""
+    ]
+  ],
+  "sense": [
+    {
+      "sense_id": "10b49408-4019-4234-9e8f-8bd08188c95d",
+      "pos": "Noun",
+      "gloss": {
+        "en": "granddaughter",
+        "pt": "neta"
+      },
+      "def": {
+        "en": "granddaughter",
+        "pt": "neta"
+      },
+      "reverse": null,
+      "note": null,
+      "var_of_sense": []
+    }
+  ],
+  "date": "2019-01-14T03:46:55Z"
+}
