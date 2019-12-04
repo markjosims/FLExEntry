@@ -18,19 +18,16 @@ from shutil import copyfile
 from PandasExcel import add_bom, remove_bom
 from ast import literal_eval
 
-in_file     = 'headword_matches_unprocessed.csv'
-out_file    = 'headword_matches_processed.csv'
-unused_file = 'unused_headwords.json'
+in_file  = 'headword_matches_unprocessed.csv'
+out_file = 'headword_matches_processed.csv'
 
 def main():
     write_backup(in_file)
     write_backup(out_file)
     
-    global in_df, out_df, unused_entries
-    in_df =  pd.read_csv(in_file)
-    out_df = pd.read_csv(out_file)
-    with open(unused_file, 'r') as f:
-        unused_entries = json.load(f)
+    global in_df, out_df
+    in_df =  pd.read_csv(in_file, header=0)
+    out_df = pd.read_csv(out_file, header=0)
    
     # read col 'matches' as native python types
     in_df.loc[:, 'matches'] = [literal_eval(row) for row in in_df['matches']]
@@ -40,10 +37,11 @@ def main():
     
     order_matches()
     
+    print(in_df)
+    print(out_df)
+    
     write_result(in_df,     in_file)
     write_result(out_df,    out_file)
-    with open(unused_file, 'w') as f:
-        json.dump(unused_entries, f)
     
 # iterates thru matches data
 # asks user to decide how to structure entries
@@ -90,22 +88,93 @@ def get_order(row):
 # given result, a string describing hierarchy of entry ids in list ids
 # edit in_df and out_df to this data heirarchy
 def edit_dfs(result, ids):
-    global in_df, out_df, unused_entries
+    global in_df, out_df
+    
+    # delete main entry if ignored, but keep any instances where it appears as 
+    # a variant later
+    if result[0] == '0':
+        del_id(ids[0])
+        result = result[1:]
+        ids = ids[1:]
+    
     # base case, no headword or variants
-    # ignore all entries, add main to unused_entries
+    # ignore all entries
     if '2' not in result:
-        unused_entries.append(ids[0])
-    # if a headword is present, but the main id is not it nor a variant of it
-    print([id_in_df(i) for i in ids])
+        return
+    
+    entry_id = ''
+    variants = {}
+    # iterate thru rest of result, recording data for new entry_id and variants
+    for i, res in zip(ids, result):
+        # result val of 1 indicates id is variant of entry_id
+        if res == '1':
+            # ask user to input variant type
+            variants[i] = input_var_type(i)
+            del_id(i, True)
+        
+        # result val of 2 indicates id is entry_id
+        elif res == '2':
+            assert not entry_id
+            entry_id = i
+            del_id(i, True)
+            
+        else:
+            assert res == '0'
+    
+    out_df.loc[ len(out_df) ] = {'entry_id':entry_id, 'variants':variants}
     
     
-def id_in_df(eid):
+    
+def input_var_type(var):
+    print(f"What variant type would you like to give {var}?")
+    print("Type '1' for Barbosa, '2' for SIL Dict, '3' for Martins, 4 for Weir.")
+    print("Or type a custom field in.", end='')
+    var_type = input()
+    var_type = var_type.strip()
+    
+    if var_type == '1':
+        return 'Barbosa 2005'
+    elif var_type == '2':
+        return 'SIL Dict 2011'
+    elif var_type == '3':
+        return 'Martins 2005'
+    elif var_type == '4':
+        return 'Weir'
+    
+    else:
+        return var_type
+
+# function shouldn't be needed, left as a comment in case that changes
+"""def id_in_df(eid):
     match_ids = [m[1] for match in in_df['matches'] for m in match]
     result = eid in match_ids or eid in list(in_df['entry_id'])
     if not result:
         print(in_df['entry_id'])
         print(f'id not found {eid}')
-    return result
+    return result"""
+
+# deletes row containing eid in 'entry_id' col
+# if matched, delete eid for any instance it occurs matched to another
+# entry (in the 'matches' col)
+def del_id(eid, matched=False):
+    global in_df
+    index =  in_df.index[in_df['entry_id'] == eid].tolist()
+    assert len(index) <= 1, index
+    in_df = in_df.drop(index)
+    
+    if matched:
+        for i, row in in_df.iterrows():
+            matches = row['matches']
+            index = [this_id for this_id, m in enumerate(matches) if m[1] == eid]
+            if not index:
+                continue
+            assert len(index) == 1
+            index = index[0]
+            new_matches = matches.remove( matches[index] )
+            if new_matches:
+                in_df.loc[i, 'matches'] = new_matches
+            else:
+                in_df = in_df.drop(i)
  
 # checks if string result fits acceptance conditions
 # prompts user for correction until conditions are met
@@ -172,8 +241,8 @@ def write_backup(f):
     f_backup[0] += 'BACKUP'
     f_backup = '.'.join(f_backup)
     
-    #assert not path.exists(f_backup), f"Make sure {f} is satisfactory "\
-    #+f"and then delete {f_backup}"
+    assert not path.exists(f_backup), f"Make sure {f} is satisfactory "\
+    +f"and then delete {f_backup}"
     
     copyfile(f, f_backup)
     
