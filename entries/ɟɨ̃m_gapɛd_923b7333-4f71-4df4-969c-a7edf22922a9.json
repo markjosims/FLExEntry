@@ -2,7 +2,7 @@
   "headword": "ɟɨ̃m gapɛd",
   "entry_id": "ɟɨ̃m gapɛd_923b7333-4f71-4df4-969c-a7edf22922a9",
   "morph_type": "phrase",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "palma do pé"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

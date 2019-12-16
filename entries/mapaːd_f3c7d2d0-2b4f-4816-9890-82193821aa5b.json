@@ -2,7 +2,7 @@
   "headword": "mapaːd",
   "entry_id": "mapaːd_f3c7d2d0-2b4f-4816-9890-82193821aa5b",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "espécie de taioba"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

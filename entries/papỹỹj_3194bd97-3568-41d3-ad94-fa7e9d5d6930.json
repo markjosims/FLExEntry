@@ -22,12 +22,9 @@
         "en": "sun",
         "pt": "sol"
       },
-      "reverse": null,
-      "note": [
-        "here any notes about meaning variants in texts?",
-        ""
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('here any notes about meaning variants in texts?', '')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-02-02T19:33:51Z"

@@ -2,7 +2,7 @@
   "headword": "pɔ̰̃ːd",
   "entry_id": "pɔ̰̃ːd1_708f622c-e2c2-456a-a655-0df9b7f44ae1",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "espécie de trepadeira"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

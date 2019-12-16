@@ -22,18 +22,9 @@
         "en": "banana",
         "pt": "banana"
       },
-      "reverse": [
-        [
-          "banana",
-          "en"
-        ],
-        [
-          "banana",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('banana', 'en'), ('banana', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

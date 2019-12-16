@@ -2,7 +2,7 @@
   "headword": "maɾahud",
   "entry_id": "maɾahud_be32a4cd-3200-41a9-bd5c-98c7e9a363c3",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "solteiro"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

@@ -22,18 +22,9 @@
         "en": "amazon tree grape",
         "pt": "cucura"
       },
-      "reverse": [
-        [
-          "cucura",
-          "pt"
-        ],
-        [
-          "amazon tree grape",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('cucura', 'pt'), ('amazon tree grape', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:20:09Z"

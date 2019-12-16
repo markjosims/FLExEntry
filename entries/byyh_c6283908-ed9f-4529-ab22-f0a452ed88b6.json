@@ -23,9 +23,9 @@
         "en": "skin",
         "pt": "pele"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "1e80c501-cd40-4f09-a72e-f4891a1c0322",
@@ -38,9 +38,9 @@
         "en": "bark",
         "pt": "casca"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "4fd97584-ad17-4148-a15d-da46fdd42003",
@@ -53,9 +53,9 @@
         "en": "animal skin",
         "pt": "couro"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

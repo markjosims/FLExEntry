@@ -2,7 +2,7 @@
   "headword": "pṵːh",
   "entry_id": "pṵːh_f3f47438-a4db-4f2e-96e1-095798984f93",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "espécie de árvore"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

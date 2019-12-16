@@ -2,7 +2,7 @@
   "headword": "amaaj",
   "entry_id": "amaaj_a5a8c5a4-ff77-48be-a14c-a8dd2d196e96",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "piranha",
         "pt": "piranha"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T22:49:52Z"

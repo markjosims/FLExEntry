@@ -2,7 +2,7 @@
   "headword": "kɨːj",
   "entry_id": "kɨːj_52c5aada-536f-45aa-a6e7-20ab26391e30",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "mosquito"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

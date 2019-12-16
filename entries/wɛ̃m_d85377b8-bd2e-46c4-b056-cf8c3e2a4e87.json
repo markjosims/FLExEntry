@@ -2,7 +2,7 @@
   "headword": "wɛ̃m",
   "entry_id": "wɛ̃m_d85377b8-bd2e-46c4-b056-cf8c3e2a4e87",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "esticar"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

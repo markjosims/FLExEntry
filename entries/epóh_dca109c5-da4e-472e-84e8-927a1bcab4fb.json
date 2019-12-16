@@ -22,9 +22,9 @@
         "en": "eat fruit",
         "pt": "comer fruta"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "ac582354-6bc9-404a-b94d-beae0d9cf86b",
@@ -37,9 +37,9 @@
         "en": "suck",
         "pt": "chupar"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

@@ -22,18 +22,9 @@
         "en": "purple.cará",
         "pt": "cará roxo"
       },
-      "reverse": [
-        [
-          "purple.cará",
-          "en"
-        ],
-        [
-          "cará roxo",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('purple.cará', 'en'), ('cará roxo', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

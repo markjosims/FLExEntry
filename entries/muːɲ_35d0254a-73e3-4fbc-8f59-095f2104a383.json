@@ -2,7 +2,7 @@
   "headword": "muːɲ",
   "entry_id": "muːɲ_35d0254a-73e3-4fbc-8f59-095f2104a383",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "rolinha"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

@@ -13,15 +13,15 @@
   "sense": [
     {
       "sense_id": "b25a8442-d86c-468d-a6e1-f8c40de75dde",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "dull",
         "pt": "afiado"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-05T13:46:40Z"

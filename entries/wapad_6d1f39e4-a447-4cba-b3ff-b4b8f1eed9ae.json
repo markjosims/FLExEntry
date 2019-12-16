@@ -2,7 +2,7 @@
   "headword": "wapad",
   "entry_id": "wapad_6d1f39e4-a447-4cba-b3ff-b4b8f1eed9ae",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "espécie de peixe"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

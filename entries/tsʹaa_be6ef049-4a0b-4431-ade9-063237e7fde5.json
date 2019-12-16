@@ -2,7 +2,7 @@
   "headword": "tsʹaa",
   "entry_id": "tsʹaa_be6ef049-4a0b-4431-ade9-063237e7fde5",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "stingray",
         "pt": "arraia"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "7671c5b4-a8ba-4cf5-9aa7-c6954fd27aeb",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "nape",
         "pt": "nuca"
@@ -22,9 +22,9 @@
         "en": "nape (of neck)",
         "pt": "nuca"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-07T17:39:42Z"

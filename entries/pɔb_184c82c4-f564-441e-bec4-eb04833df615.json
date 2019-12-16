@@ -2,7 +2,7 @@
   "headword": "pɔb",
   "entry_id": "pɔb_184c82c4-f564-441e-bec4-eb04833df615",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "estar estragado (p ex fruta caída)"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

@@ -22,18 +22,9 @@
         "en": "tocandira",
         "pt": "tocandira"
       },
-      "reverse": [
-        [
-          "tocandira",
-          "pt"
-        ],
-        [
-          "tocandira",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('tocandira', 'pt'), ('tocandira', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-15T20:28:29Z"

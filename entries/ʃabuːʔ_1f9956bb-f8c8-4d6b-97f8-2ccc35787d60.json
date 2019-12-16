@@ -2,7 +2,7 @@
   "headword": "ʃabuːʔ",
   "entry_id": "ʃabuːʔ_1f9956bb-f8c8-4d6b-97f8-2ccc35787d60",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "umbigo"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

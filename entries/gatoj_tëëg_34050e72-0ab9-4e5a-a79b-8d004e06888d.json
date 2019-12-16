@@ -22,18 +22,9 @@
         "en": "arrow cane",
         "pt": "cana para flecha"
       },
-      "reverse": [
-        [
-          "cana para flechas",
-          "pt"
-        ],
-        [
-          "arrow cane",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('cana para flechas', 'pt'), ('arrow cane', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:40:00Z"

@@ -2,7 +2,7 @@
   "headword": "saroop",
   "entry_id": "saroop_49b0da68-47ae-42c0-ac17-b23a42c0e42e",
   "morph_type": "root",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,18 +22,9 @@
         "en": "water vine",
         "pt": "cipó da água"
       },
-      "reverse": [
-        [
-          "cipó da água",
-          "pt"
-        ],
-        [
-          "water vine",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('cipó da água', 'pt'), ('water vine', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:50:53Z"

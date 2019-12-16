@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "96393d18-7f80-4a9e-998b-120f63260717",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "NRML20",
         "pt": "NMRL20"
@@ -22,9 +22,9 @@
         "en": "twenty",
         "pt": "vinte"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T19:50:00Z"

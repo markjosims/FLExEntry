@@ -22,12 +22,9 @@
         "en": "cold",
         "pt": "frio (estar com frio)"
       },
-      "reverse": null,
-      "note": [
-        "verb or adjective?",
-        "grammar"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('verb or adjective?', 'grammar')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

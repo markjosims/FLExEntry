@@ -51,8 +51,9 @@ def read_entry(r, id_only=False):
     entry_id = get_xml_kwarg(open_tag, 'id')
     if not id_only:
         entry_data = {k:None for k in entry_keys.values()}
-        for k in ('variant', 'note', 'sense'):
-            entry_data[k] = []
+        entry_data['note'] = []
+        entry_data['sense'] = []
+        entry_data['variant'] = {}
         entry_data['entry_id'] = entry_id
         entry_data['date'] = get_xml_kwarg(open_tag, 'dateCreated')
     
@@ -64,8 +65,10 @@ def read_entry(r, id_only=False):
                 key = entry_keys[tag]
                 data = funct(r)
                 if not id_only:
-                    if key in ('variant', 'note', 'sense'):
+                    if key in ('note', 'sense'):
                         entry_data[key].append(data)
+                    elif key == 'variant':
+                        entry_data[key][data[0]] = data[1] if len(data) == 2 else data[1:]
                     else:
                         assert not entry_data[key]
                         entry_data[key] = data

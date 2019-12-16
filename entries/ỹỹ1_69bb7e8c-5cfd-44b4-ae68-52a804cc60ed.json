@@ -2,7 +2,7 @@
   "headword": "ỹỹ",
   "entry_id": "ỹỹ1_69bb7e8c-5cfd-44b4-ae68-52a804cc60ed",
   "morph_type": "root",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -17,9 +17,9 @@
         "en": "1st person possessive pronoun; singular possessed entity",
         "pt": "pronome possessivo; 1 pessoa singular; possuido singular"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-02T15:00:05Z"

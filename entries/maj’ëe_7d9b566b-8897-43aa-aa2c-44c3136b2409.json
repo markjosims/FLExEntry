@@ -2,7 +2,7 @@
   "headword": "maj’ëe",
   "entry_id": "maj’ëe_7d9b566b-8897-43aa-aa2c-44c3136b2409",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "toad",
         "pt": "sapo"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T22:55:14Z"

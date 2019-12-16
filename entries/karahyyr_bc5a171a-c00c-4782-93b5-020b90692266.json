@@ -2,7 +2,7 @@
   "headword": "karahyyr",
   "entry_id": "karahyyr_bc5a171a-c00c-4782-93b5-020b90692266",
   "morph_type": "root",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,18 +22,9 @@
         "en": "sweet potatoz",
         "pt": "batata doce"
       },
-      "reverse": [
-        [
-          "batata doce",
-          "pt"
-        ],
-        [
-          "sweet potato",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('batata doce', 'pt'), ('sweet potato', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:29:22Z"

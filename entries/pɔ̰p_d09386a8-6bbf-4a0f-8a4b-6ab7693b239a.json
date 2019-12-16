@@ -2,7 +2,7 @@
   "headword": "pɔ̰p",
   "entry_id": "pɔ̰p_d09386a8-6bbf-4a0f-8a4b-6ab7693b239a",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "no alto"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

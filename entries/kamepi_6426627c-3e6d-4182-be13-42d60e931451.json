@@ -22,18 +22,9 @@
         "en": "inga",
         "pt": "inga"
       },
-      "reverse": [
-        [
-          "inga",
-          "pt"
-        ],
-        [
-          "inga",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('inga', 'pt'), ('inga', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

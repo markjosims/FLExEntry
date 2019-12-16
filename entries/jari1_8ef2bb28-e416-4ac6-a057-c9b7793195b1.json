@@ -22,18 +22,9 @@
         "en": ".acouchi tree",
         "pt": "breu"
       },
-      "reverse": [
-        [
-          "breu",
-          "pt"
-        ],
-        [
-          "acouchi tree",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('breu', 'pt'), ('acouchi tree', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:57:56Z"

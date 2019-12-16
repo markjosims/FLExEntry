@@ -2,7 +2,7 @@
   "headword": "jahamad",
   "entry_id": "jahamad_6d3a98b8-7a59-4188-ab3b-8ebcdb2d3359",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "curassow",
         "pt": "mutum"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:19:18Z"

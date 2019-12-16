@@ -2,7 +2,7 @@
   "headword": "ɟiːp/ɟḭːp",
   "entry_id": "ɟiːp/ɟḭːp_9a1d8781-8bc7-4ade-89a7-d994b581a966",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "beija-flor.sp"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

@@ -22,18 +22,9 @@
         "en": "bitterwood",
         "pt": "envira"
       },
-      "reverse": [
-        [
-          "bitterwood",
-          "en"
-        ],
-        [
-          "envira",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('bitterwood', 'en'), ('envira', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:02:15Z"

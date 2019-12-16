@@ -22,18 +22,9 @@
         "en": "cunuri",
         "pt": "cunuri"
       },
-      "reverse": [
-        [
-          "cunuri",
-          "pt"
-        ],
-        [
-          "cunuri",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('cunuri', 'pt'), ('cunuri', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-08-24T00:32:53Z"

@@ -2,7 +2,7 @@
   "headword": "ʃim",
   "entry_id": "ʃim_8fcc8ace-4a78-4e08-b476-999f1c035aac",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "partir (hab ʃḭːm)"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

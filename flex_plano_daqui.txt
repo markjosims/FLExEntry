@@ -1,0 +1,6 @@
+* identical and very-near-identical matches have been organized into a hierarchy of parent-variant
+* need to write python script to read the csv and realize changes in the json directory and flexicon.csv
+	** could start by auto-filling variants of a default category (SIL, Weir, Martins, Barbosa, Cartilhas)
+	** leave all rest in headword_matches_processed.csv
+* need to find more systematic way of handling inflections/derivations from a root that are poorly understood
+	** ditto w/ compounds

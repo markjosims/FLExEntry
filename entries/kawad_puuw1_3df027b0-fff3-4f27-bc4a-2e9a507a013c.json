@@ -22,18 +22,9 @@
         "en": "cotton",
         "pt": "algodão"
       },
-      "reverse": [
-        [
-          "cotton",
-          "en"
-        ],
-        [
-          "algodão",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('cotton', 'en'), ('algodão', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:31:48Z"

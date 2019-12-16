@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "2a168e51-005e-4508-91cf-1ae4015b6b8f",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "NMRL5",
         "pt": "NMRL5"
@@ -22,9 +22,9 @@
         "en": "five",
         "pt": "cinco"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T19:46:56Z"

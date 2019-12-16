@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "4dfc33d6-18cb-42d0-ac07-83fa43d80266",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "eye",
         "pt": "olho"
@@ -22,12 +22,9 @@
         "en": "eye",
         "pt": "olho"
       },
-      "reverse": null,
-      "note": [
-        "(ji) matym",
-        "grammar"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('(ji) matym', 'grammar')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-05T14:02:15Z"

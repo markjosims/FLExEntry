@@ -22,18 +22,9 @@
         "en": "beans",
         "pt": "feijão"
       },
-      "reverse": [
-        [
-          "feijão",
-          "pt"
-        ],
-        [
-          "beans",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('feijão', 'pt'), ('beans', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:44:36Z"

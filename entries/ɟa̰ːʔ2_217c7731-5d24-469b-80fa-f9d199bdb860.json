@@ -2,7 +2,7 @@
   "headword": "ɟa̰ːʔ",
   "entry_id": "ɟa̰ːʔ2_217c7731-5d24-469b-80fa-f9d199bdb860",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "arraia"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

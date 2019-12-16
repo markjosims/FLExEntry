@@ -2,7 +2,7 @@
   "headword": "po̰ːh",
   "entry_id": "po̰ːh2_54d92d11-2e4d-45ab-b4b2-76011f12d6a6",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "pimenta"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

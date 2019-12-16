@@ -22,18 +22,9 @@
         "en": "paxiuba palm",
         "pt": "paxiuba"
       },
-      "reverse": [
-        [
-          "paxiuba",
-          "pt"
-        ],
-        [
-          "paxiuba palm",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('paxiuba', 'pt'), ('paxiuba palm', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:22:48Z"

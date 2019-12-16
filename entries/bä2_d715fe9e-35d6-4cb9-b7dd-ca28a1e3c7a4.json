@@ -23,9 +23,9 @@
         "pt": "ABL"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-04-03T21:26:14Z"

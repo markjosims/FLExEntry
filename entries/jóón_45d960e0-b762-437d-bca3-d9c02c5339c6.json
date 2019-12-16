@@ -2,7 +2,7 @@
   "headword": "jóón",
   "entry_id": "jóón_45d960e0-b762-437d-bca3-d9c02c5339c6",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "cuati",
         "pt": "cuati"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T22:37:48Z"

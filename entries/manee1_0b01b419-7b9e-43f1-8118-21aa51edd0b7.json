@@ -22,18 +22,9 @@
         "en": "brazil nut; Bertholletia excelsa",
         "pt": "castanha do pará; Bertholletia excelsa"
       },
-      "reverse": [
-        [
-          "castanha.do.pará",
-          "pt"
-        ],
-        [
-          "brazil.nut",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('castanha.do.pará', 'pt'), ('brazil.nut', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:04:27Z"

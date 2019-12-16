@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "81d6c196-eabe-45cf-9c25-3f10765bbb5b",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "new",
         "pt": "novo"
@@ -22,9 +22,9 @@
         "en": "new",
         "pt": "novo"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-07T17:43:45Z"

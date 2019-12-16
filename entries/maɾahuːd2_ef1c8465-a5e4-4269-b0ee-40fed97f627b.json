@@ -2,7 +2,7 @@
   "headword": "maɾahuːd",
   "entry_id": "maɾahuːd2_ef1c8465-a5e4-4269-b0ee-40fed97f627b",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "solteiro"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

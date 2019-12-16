@@ -22,18 +22,9 @@
         "en": "plantain",
         "pt": "banana.comprida"
       },
-      "reverse": [
-        [
-          "plantain",
-          "en"
-        ],
-        [
-          "banana comprida",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('plantain', 'en'), ('banana comprida', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:43:01Z"

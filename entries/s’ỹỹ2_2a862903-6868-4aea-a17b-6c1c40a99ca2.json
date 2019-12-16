@@ -2,18 +2,18 @@
   "headword": "s’ỹỹ",
   "entry_id": "s’ỹỹ2_2a862903-6868-4aea-a17b-6c1c40a99ca2",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
     {
       "sense_id": "cbfe62a9-8104-4198-b7b9-17425b60f145",
-      "pos": null,
+      "pos": "",
       "gloss": null,
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-09T13:39:47Z"

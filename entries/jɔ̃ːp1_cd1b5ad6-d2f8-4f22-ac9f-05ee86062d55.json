@@ -2,7 +2,7 @@
   "headword": "jɔ̃ːp",
   "entry_id": "jɔ̃ːp1_cd1b5ad6-d2f8-4f22-ac9f-05ee86062d55",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "japiim (espécie de ave)"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

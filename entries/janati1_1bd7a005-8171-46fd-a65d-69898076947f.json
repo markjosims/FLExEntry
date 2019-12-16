@@ -22,18 +22,9 @@
         "en": "maize",
         "pt": "milho"
       },
-      "reverse": [
-        [
-          "milho",
-          "pt"
-        ],
-        [
-          "maize",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('milho', 'pt'), ('maize', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:46:33Z"

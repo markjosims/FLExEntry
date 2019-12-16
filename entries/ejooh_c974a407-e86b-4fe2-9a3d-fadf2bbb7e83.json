@@ -22,9 +22,9 @@
         "en": "pierce",
         "pt": "furar"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "bd47bb0a-aca3-43ae-bb06-6cd7379e2948",
@@ -37,9 +37,9 @@
         "en": "vacinate",
         "pt": "vaccinar"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:52Z"

@@ -2,7 +2,7 @@
   "headword": "ma=",
   "entry_id": "ma=_4d9fb59f-a91b-4993-be66-06611c118977",
   "morph_type": "proclitic",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -16,9 +16,9 @@
       "def": {
         "pt": "segunda pessoa singular; sujeito de verbo transitivo"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-02T14:46:30Z"

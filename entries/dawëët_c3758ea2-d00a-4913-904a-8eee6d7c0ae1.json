@@ -26,12 +26,9 @@
         "en": "far",
         "pt": "longe"
       },
-      "reverse": null,
-      "note": [
-        "check spelling ëë/yy?",
-        "phonology"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('check spelling ëë/yy?', 'phonology')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

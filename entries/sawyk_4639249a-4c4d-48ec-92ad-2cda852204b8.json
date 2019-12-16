@@ -22,18 +22,9 @@
         "en": "kapok",
         "pt": "sumaumeira"
       },
-      "reverse": [
-        [
-          "sumaumeira",
-          "pt"
-        ],
-        [
-          "kapok",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('sumaumeira', 'pt'), ('kapok', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:14:42Z"

@@ -22,9 +22,9 @@
         "en": "water",
         "pt": "água"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "da503054-2051-4953-ab79-1f3b7bef531f",
@@ -37,9 +37,9 @@
         "en": "rain",
         "pt": "chuva"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

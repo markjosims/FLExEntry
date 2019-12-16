@@ -2,7 +2,7 @@
   "headword": "kamasi",
   "entry_id": "kamasi_557c586d-90af-49ad-b78b-b719e6d0ae25",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "sloth",
         "pt": "bicho preguiça"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T22:40:18Z"

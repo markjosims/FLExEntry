@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "86d16bb4-a2a6-4698-85d5-5452423b4cfc",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "hot.pepper",
         "pt": "pimenta"
@@ -22,18 +22,9 @@
         "en": "hot pepper",
         "pt": "pimenta"
       },
-      "reverse": [
-        [
-          "pimenta",
-          "pt"
-        ],
-        [
-          "hot pepperzz",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('pimenta', 'pt'), ('hot pepperzz', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:33:33Z"

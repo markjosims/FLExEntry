@@ -2,7 +2,7 @@
   "headword": "ʃaɾəːɲ",
   "entry_id": "ʃaɾəːɲ_d5249446-277e-4b50-9885-5c1c872e4254",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "ingá-cipó"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

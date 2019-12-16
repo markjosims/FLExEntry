@@ -22,18 +22,9 @@
         "en": "white carrá",
         "pt": "cará branco"
       },
-      "reverse": [
-        [
-          "white cará",
-          "en"
-        ],
-        [
-          "cará branco",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('white cará', 'en'), ('cará branco', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:24:04Z"

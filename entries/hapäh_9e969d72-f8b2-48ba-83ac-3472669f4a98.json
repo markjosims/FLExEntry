@@ -22,9 +22,9 @@
         "en": "see",
         "pt": "ver"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "47d31671-ecf0-47b4-a4d0-be26e05167f3",
@@ -37,9 +37,9 @@
         "en": "know",
         "pt": "saber"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "d9d59f38-a96d-465b-a528-6b512bf0bd61",
@@ -52,9 +52,9 @@
         "en": "understand",
         "pt": "entender"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

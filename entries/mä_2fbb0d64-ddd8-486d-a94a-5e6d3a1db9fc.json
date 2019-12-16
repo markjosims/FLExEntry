@@ -22,18 +22,9 @@
         "en": "ucuqui",
         "pt": "ucuqui"
       },
-      "reverse": [
-        [
-          "ucuqui",
-          "en"
-        ],
-        [
-          "ucuqui",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('ucuqui', 'en'), ('ucuqui', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

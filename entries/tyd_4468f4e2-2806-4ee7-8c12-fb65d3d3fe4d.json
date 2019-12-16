@@ -22,9 +22,9 @@
         "en": "rope",
         "pt": "corda"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "6a8029f8-5e8f-4bbe-b7fd-025a68c5817c",
@@ -37,9 +37,9 @@
         "en": "hanging vine",
         "pt": "cipó"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

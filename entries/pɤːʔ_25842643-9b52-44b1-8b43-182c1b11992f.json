@@ -2,7 +2,7 @@
   "headword": "pɤːʔ",
   "entry_id": "pɤːʔ_25842643-9b52-44b1-8b43-182c1b11992f",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "espécie de cobra"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

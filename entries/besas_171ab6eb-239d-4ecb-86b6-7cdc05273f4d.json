@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "818c8b67-4e64-40c2-a043-455c37dd89e1",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "rotten.smell",
         "pt": "cheiro.estragado"
@@ -22,9 +22,9 @@
         "en": "smell of rotten meat",
         "pt": "cheiro de carne estragado"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-07T18:30:07Z"

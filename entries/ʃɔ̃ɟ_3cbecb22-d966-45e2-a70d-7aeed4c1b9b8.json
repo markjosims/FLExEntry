@@ -2,7 +2,7 @@
   "headword": "ʃɔ̃ɟ",
   "entry_id": "ʃɔ̃ɟ_3cbecb22-d966-45e2-a70d-7aeed4c1b9b8",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "espécie de gafanhoto"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

@@ -8,7 +8,7 @@
   "sense": [
     {
       "sense_id": "91dcc3b9-cc81-41c9-b099-8363fbeba894",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "close",
         "pt": "perto"
@@ -17,16 +17,13 @@
         "en": "close",
         "pt": "perto"
       },
-      "reverse": null,
-      "note": [
-        "Fieldnotes Epps/Obert; 2018",
-        "bibliography"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('Fieldnotes Epps/Obert; 2018', 'bibliography')",
+      "var_of_sense": {}
     },
     {
       "sense_id": "b4de4d74-e91d-4833-b897-de1c99703bd9",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "almost",
         "pt": "quase"
@@ -35,9 +32,9 @@
         "en": "almost",
         "pt": "quase"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-07T17:37:39Z"

@@ -26,18 +26,9 @@
         "en": "achiote",
         "pt": "urucum"
       },
-      "reverse": [
-        [
-          "urucum",
-          "pt"
-        ],
-        [
-          "achiote",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('urucum', 'pt'), ('achiote', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:54:43Z"

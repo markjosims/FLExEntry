@@ -22,9 +22,9 @@
         "en": "nadëb",
         "pt": "povo nadëb"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "d6028c63-428d-48b1-8d69-4ac19bb52741",
@@ -37,9 +37,9 @@
         "en": "people",
         "pt": "gente"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

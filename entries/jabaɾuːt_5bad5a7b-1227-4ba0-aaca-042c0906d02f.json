@@ -2,7 +2,7 @@
   "headword": "jabaɾuːt",
   "entry_id": "jabaɾuːt_5bad5a7b-1227-4ba0-aaca-042c0906d02f",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "azul"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

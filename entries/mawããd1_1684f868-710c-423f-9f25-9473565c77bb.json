@@ -22,18 +22,9 @@
         "en": "pineapple",
         "pt": "abacaxi"
       },
-      "reverse": [
-        [
-          "pineapple",
-          "en"
-        ],
-        [
-          "abacaxi",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('pineapple', 'en'), ('abacaxi', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-03T23:37:53Z"

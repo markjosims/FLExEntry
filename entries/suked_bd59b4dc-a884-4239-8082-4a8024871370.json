@@ -2,7 +2,7 @@
   "headword": "suked",
   "entry_id": "suked_bd59b4dc-a884-4239-8082-4a8024871370",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "toucan",
         "pt": "tukano"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:20:15Z"

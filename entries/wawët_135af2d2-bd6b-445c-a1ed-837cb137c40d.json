@@ -2,7 +2,7 @@
   "headword": "wawët",
   "entry_id": "wawët_135af2d2-bd6b-445c-a1ed-837cb137c40d",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "wild dog",
         "pt": "cachorro do mato"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:47:32Z"

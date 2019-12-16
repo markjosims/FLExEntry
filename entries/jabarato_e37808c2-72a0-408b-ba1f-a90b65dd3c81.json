@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "d0714ff3-13cd-4553-a3c4-6ab362b7f866",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "boa",
         "pt": "jiboia"
@@ -22,9 +22,9 @@
         "en": "boa",
         "pt": "jiboiaz"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T23:04:37Z"

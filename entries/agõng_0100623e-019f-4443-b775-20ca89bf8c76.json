@@ -15,14 +15,14 @@
       "sense_id": "6e8e07f3-28a9-4adb-b230-f819c944b12a",
       "pos": "v",
       "gloss": {
-        "pt": "dor.de.pressão"
+        "pt": "?"
       },
       "def": {
         "pt": "dor associada à pressão do pus"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

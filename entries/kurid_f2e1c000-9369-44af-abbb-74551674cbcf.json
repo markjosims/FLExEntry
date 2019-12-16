@@ -2,7 +2,7 @@
   "headword": "kurid",
   "entry_id": "kurid_f2e1c000-9369-44af-abbb-74551674cbcf",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "speckled catfish",
         "pt": "surubim"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T22:53:48Z"

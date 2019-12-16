@@ -2,7 +2,7 @@
   "headword": "roor",
   "entry_id": "roor_3015a52d-88c5-432a-befd-e2eab5325dc6",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "duck",
         "pt": "pato"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:43:14Z"

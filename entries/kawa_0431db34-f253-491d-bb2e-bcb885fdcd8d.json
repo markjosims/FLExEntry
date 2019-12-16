@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "baa0255c-d216-40c6-9314-c2b8ae598c65",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "burn.big.fire",
         "pt": "queimar.fogo.grande"
@@ -22,9 +22,9 @@
         "en": "to burn witha big fire",
         "pt": "queimar com fogo grande (roça)"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-09T13:45:32Z"

@@ -2,7 +2,7 @@
   "headword": "ʃɔ̰ːʔ",
   "entry_id": "ʃɔ̰ːʔ_8d669ad1-8a35-4d91-bda3-160c4dbf2671",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "estar sentado"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

@@ -2,7 +2,7 @@
   "headword": "kaɾaʃɨd",
   "entry_id": "kaɾaʃɨd_1586f3ed-3480-4767-8d98-e5fd9e2ae9a7",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "aracoã"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

@@ -22,18 +22,9 @@
         "en": "japurá",
         "pt": "japurá"
       },
-      "reverse": [
-        [
-          "japurá",
-          "pt"
-        ],
-        [
-          "japurá",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('japurá', 'pt'), ('japurá', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:12:46Z"

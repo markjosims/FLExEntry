@@ -22,18 +22,9 @@
         "en": "peach palm",
         "pt": "pupunha"
       },
-      "reverse": [
-        [
-          "pupunha",
-          "pt"
-        ],
-        [
-          "peach palm",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('pupunha', 'pt'), ('peach palm', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

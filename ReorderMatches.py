@@ -202,10 +202,18 @@ def get_json_dict(eid):
     filehead = eid
     filehead = rep_all(filehead, '/ ', '_')
     filehead = rep_all(filehead, '()[]? ', '')
+    filehead = filehead.replace('_=', '=')
     filename = 'entries/' + filehead + '.json'
-    with open(filename, 'r', encoding='utf8') as f:
-        lemma = json.load(f)
-    return lemma
+    while True:
+        try:
+            with open(filename, 'r', encoding='utf8') as f:
+                lemma = json.load(f)
+            return lemma
+        except FileNotFoundError:
+            print(f'Could not find {filename}. Please enter the correctly'+\
+                  ' typed json file below:')
+            filename = input()
+            
 
 def get_gloss(lemma):
     for sense in lemma['sense']:
@@ -214,6 +222,8 @@ def get_gloss(lemma):
             # gloss is stored as a dictionary w/ language as keys
             # which language is returned is unimportant, so
             # return a random value
+            # somehow it's always portuguese
+            # lmão
             return sense['gloss'].popitem()[1]
         # return definition if def has nonzero value
         elif sense['def']:

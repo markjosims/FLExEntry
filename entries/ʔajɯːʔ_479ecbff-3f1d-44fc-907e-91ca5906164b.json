@@ -2,7 +2,7 @@
   "headword": "ʔajɯːʔ",
   "entry_id": "ʔajɯːʔ_479ecbff-3f1d-44fc-907e-91ca5906164b",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "homem (pl ʔajɯ̰ːʔ)"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

@@ -2,7 +2,7 @@
   "headword": "hḭ̃ːw",
   "entry_id": "hḭ̃ːw_1b5889d9-62f6-4a22-b429-fbaee69d90cd",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "som de quebrar"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

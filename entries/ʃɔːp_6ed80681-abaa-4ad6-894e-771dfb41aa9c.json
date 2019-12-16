@@ -2,7 +2,7 @@
   "headword": "ʃɔːp",
   "entry_id": "ʃɔːp_6ed80681-abaa-4ad6-894e-771dfb41aa9c",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "saltar (pl ʃɔ̰ːp)"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

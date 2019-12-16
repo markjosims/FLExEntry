@@ -2,7 +2,7 @@
   "headword": "hood t’ëe",
   "entry_id": "hood t’ëe_0cacc161-ee56-462a-8da8-c01ad97228a4",
   "morph_type": "phrase",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "mandi.fish",
         "pt": "mandi"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T22:52:15Z"

@@ -2,7 +2,7 @@
   "headword": "jiʔ",
   "entry_id": "jiʔ2_7cc7a2a6-10ab-4e17-9302-2227fac559d9",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "pronome indeterminado"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

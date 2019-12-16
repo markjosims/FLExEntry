@@ -26,12 +26,9 @@
         "en": "on",
         "pt": "em cima"
       },
-      "reverse": null,
-      "note": [
-        "Fieldnotes Epps/Obert; 2018",
-        "bibliography"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('Fieldnotes Epps/Obert; 2018', 'bibliography')",
+      "var_of_sense": {}
     },
     {
       "sense_id": "b2381743-f8f7-4b32-b7c1-f8203f6f3261",
@@ -44,9 +41,9 @@
         "en": "back",
         "pt": "costas"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

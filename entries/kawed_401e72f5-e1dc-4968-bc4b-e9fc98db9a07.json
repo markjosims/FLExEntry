@@ -2,7 +2,7 @@
   "headword": "kawed",
   "entry_id": "kawed_401e72f5-e1dc-4968-bc4b-e9fc98db9a07",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "red macaw",
         "pt": "arara vermelha"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:30:16Z"

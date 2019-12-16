@@ -2,7 +2,7 @@
   "headword": "hũːt",
   "entry_id": "hũːt1_ccfd21a0-acc5-4821-95f9-e6b5b9d5570d",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "derreter (n.i. huːd)"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

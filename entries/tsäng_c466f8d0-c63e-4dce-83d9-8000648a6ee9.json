@@ -22,12 +22,9 @@
         "en": "clay",
         "pt": "barro"
       },
-      "reverse": null,
-      "note": [
-        "barro para casa/panela",
-        "semantics"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('barro para casa/panela', 'semantics')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

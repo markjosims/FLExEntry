@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "9e409799-d500-44e1-97b4-66925497edde",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "shoulder",
         "pt": "ombro"
@@ -22,9 +22,9 @@
         "en": "shoulder",
         "pt": "ombro"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-07T20:57:29Z"

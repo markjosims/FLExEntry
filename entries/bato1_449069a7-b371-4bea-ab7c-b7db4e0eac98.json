@@ -22,18 +22,9 @@
         "en": "coca",
         "pt": "ipadu"
       },
-      "reverse": [
-        [
-          "coca",
-          "en"
-        ],
-        [
-          "ipadu",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('coca', 'en'), ('ipadu', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-08-23T23:45:59Z"

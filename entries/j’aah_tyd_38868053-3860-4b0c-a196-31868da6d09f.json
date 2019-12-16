@@ -17,7 +17,7 @@
   "sense": [
     {
       "sense_id": "0a18fae4-f308-447d-a40d-7f39d3cfecdd",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "intestines",
         "pt": "intestino"
@@ -26,9 +26,9 @@
         "en": "intestines",
         "pt": "intestino"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-06T20:49:57Z"

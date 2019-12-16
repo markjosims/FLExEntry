@@ -22,18 +22,18 @@
         "en": "fear",
         "pt": "ter medo"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "67c688ee-3388-429c-906f-fc98099453ad",
       "pos": "v",
       "gloss": null,
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:52Z"

@@ -22,21 +22,9 @@
         "en": "tobaco",
         "pt": "tabaco"
       },
-      "reverse": [
-        [
-          "tobaco",
-          "en"
-        ],
-        [
-          "tabaco",
-          "pt"
-        ]
-      ],
-      "note": [
-        "probably bought tobaco. compare with ''baruur''",
-        "semantics"
-      ],
-      "var_of_sense": []
+      "reverse": "[('tobaco', 'en'), ('tabaco', 'pt')]",
+      "note": "("probably bought tobaco. compare with ''baruur''", 'semantics')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

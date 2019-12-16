@@ -2,7 +2,7 @@
   "headword": "ʃaːh",
   "entry_id": "ʃaːh_5b3da68a-6968-434c-b4b0-7f6f03dba96a",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "sobrinho (pl ʃa̰ːh)"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

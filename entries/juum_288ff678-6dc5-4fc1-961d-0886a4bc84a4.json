@@ -2,7 +2,7 @@
   "headword": "juum",
   "entry_id": "juum_288ff678-6dc5-4fc1-961d-0886a4bc84a4",
   "morph_type": "root",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,18 +22,9 @@
         "en": "vine",
         "pt": "cipó"
       },
-      "reverse": [
-        [
-          "vine",
-          "en"
-        ],
-        [
-          "cipó",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('vine', 'en'), ('cipó', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:49:23Z"

@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "a8675526-039d-459c-b4c8-c3434645200d",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "die",
         "pt": "morrer"
@@ -22,9 +22,9 @@
         "en": "die",
         "pt": "morrer"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-10T00:09:23Z"

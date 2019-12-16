@@ -2,7 +2,7 @@
   "headword": "karawyynh",
   "entry_id": "karawyynh_0e539cb5-a78b-455b-87f2-4fde1344448a",
   "morph_type": "root",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,18 +22,9 @@
         "en": "genipap",
         "pt": "genipapo"
       },
-      "reverse": [
-        [
-          "genipap",
-          "en"
-        ],
-        [
-          "genipapo",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('genipap', 'en'), ('genipapo', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:11:17Z"

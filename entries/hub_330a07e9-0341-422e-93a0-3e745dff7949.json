@@ -22,12 +22,9 @@
         "en": "right",
         "pt": "direito"
       },
-      "reverse": null,
-      "note": [
-        "right arm",
-        "semantics"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('right arm', 'semantics')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-07T18:16:04Z"

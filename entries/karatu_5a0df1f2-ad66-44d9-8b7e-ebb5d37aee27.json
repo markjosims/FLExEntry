@@ -2,7 +2,7 @@
   "headword": "karatu",
   "entry_id": "karatu_5a0df1f2-ad66-44d9-8b7e-ebb5d37aee27",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "parrot",
         "pt": "papagaio"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:31:26Z"

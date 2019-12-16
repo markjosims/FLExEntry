@@ -13,12 +13,12 @@
   "sense": [
     {
       "sense_id": "450e5b32-0196-4d6e-869a-fef32594922f",
-      "pos": null,
+      "pos": "",
       "gloss": null,
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

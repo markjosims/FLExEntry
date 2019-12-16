@@ -22,12 +22,9 @@
         "en": "grease",
         "pt": "gordura"
       },
-      "reverse": null,
-      "note": [
-        "ta syyj",
-        "grammar"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('ta syyj', 'grammar')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-05T14:12:40Z"

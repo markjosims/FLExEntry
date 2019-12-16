@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "3b6f5fe3-dce5-49c1-a7b0-7fdc5314b007",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "NMRL10",
         "pt": "NMRL10"
@@ -22,12 +22,9 @@
         "en": "ten",
         "pt": "dez"
       },
-      "reverse": null,
-      "note": [
-        "Fieldnotes Epps/Obert; 2018",
-        "bibliography"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('Fieldnotes Epps/Obert; 2018', 'bibliography')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T19:48:37Z"

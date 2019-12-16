@@ -2,7 +2,7 @@
   "headword": "ʔãːɲ",
   "entry_id": "ʔãːɲ2_9bc7cbd8-5d64-4c37-973f-fcde6b72cd60",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "irmã"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

@@ -2,7 +2,7 @@
   "headword": "gurii-i",
   "entry_id": "gurii-i_0db187a9-b6e9-4c88-939c-48697a72aa4b",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "dove",
         "pt": "pomba"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:32:18Z"

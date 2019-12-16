@@ -22,9 +22,9 @@
         "en": "tell a story",
         "pt": "contar historia"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "b0b1821a-b002-42b1-8e13-ebec54ae67bd",
@@ -37,9 +37,9 @@
         "en": "say",
         "pt": "dizer"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-09T23:51:42Z"

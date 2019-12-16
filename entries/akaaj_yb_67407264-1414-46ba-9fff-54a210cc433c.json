@@ -17,18 +17,9 @@
         "en": "wild.cashew",
         "pt": "cajueiro do mat"
       },
-      "reverse": [
-        [
-          "cajueiro do mato",
-          "pt"
-        ],
-        [
-          "wild.cashew",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('cajueiro do mato', 'pt'), ('wild.cashew', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:07:58Z"

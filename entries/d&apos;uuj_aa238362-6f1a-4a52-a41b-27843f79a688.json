@@ -22,18 +22,9 @@
         "en": "fish.poison",
         "pt": "timbó"
       },
-      "reverse": [
-        [
-          "timbó",
-          "pt"
-        ],
-        [
-          "fish.poison",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('timbó', 'pt'), ('fish.poison', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:53:17Z"

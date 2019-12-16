@@ -7,90 +7,89 @@ Created on Mon Nov 18 21:38:32 2019
 
 import json
 import os
-import glob
+import pandas as pd
+from glob import glob 
+from ast import literal_eval
+
+def main():
+    flex_df = pd.read_csv('flexicon.csv', keep_default_na=False)
+    senses =  pd.read_csv('flex_senses.csv', keep_default_na=False)
+    
+    literal_eval_col(flex_df, 'variant')
+    literal_eval_col(flex_df, 'note')
+    literal_eval_col(flex_df, 'sense')
+    literal_eval_col(senses, 'gloss')
+    literal_eval_col(senses, 'def')
+    
+    generate_lex_dir(flex_df, senses)
 
 def generate_lex_dir(df1, df2):
     clean_dir(r'\entries\*.json')
-    global variants, senses_df
+    global variants, senses_df, headwords
     entries_df = df1
     senses_df = df2
     # indices of entries that aren't variants
     headwords = [not x for x in entries_df['variant'] ]
     # all entries that are variables
     variants  = [not x for x in headwords]
-
+    
+    # create separate dataframes for entries that are variants and that aren't
     headwords = entries_df[headwords]
     variants  = entries_df[variants]
     assert len(headwords) + len(variants) == len(entries_df)
+    
+    # reset indices
     headwords.reset_index(inplace=True)
     variants.reset_index(inplace=True)
+    
+    # original df not needed
     del entries_df
     
-    
+    global entry_ids, var_ids, var_data
+    # entry ids of headwords
     entry_ids = headwords['entry_id']
-    vars_to_hdwrds = [get_headword_id(row) for row in variants.iterrows()]
+    
+    # list of dicts, key is entry id of headword, val is type of variant
+    var_data = variants['variant']
+    
+    # entry ids of variants
     var_ids = variants['entry_id']
+   
+    senses_df['these_vars'] = None
+    variants['these_vars'] = None
+    headwords['these_vars'] = None
     
-    vars_to_hdwrds = [x for x in vars_to_hdwrds if x] # remove blank strings from list    
-     
-    # change variant col to be list of variant ids
-    for index, row in headwords.iterrows():
-        this_id = row['entry_id']
-        # all indices of variants whose headword ids point to this entry
-        # as listed in vars_to_hdwrds
-        var_idx = [i for i, h_id_list in enumerate(vars_to_hdwrds) if\
-                   any(h_id == this_id for h_id in h_id_list)]
-        # entry ids of variants themselves
-        these_vars = [var_ids[i] for i in var_idx]
-        # change val of variant column to these variant ids
-        # (was empty before)
-        row['variant'] = these_vars
-        
+    # populate these_vars col for each df
+    # result should be dictionary, k is id of variant, v is variant type
+    sense_vars_col(senses_df, variants)
+    vars_of_vars_col(variants)
+    entry_vars_col(headwords, variants)
+
+    del entry_ids, var_ids, var_data
+    write_json_dir()
+
+def get_vars_from_id(entry_id, parent_df, variants):
+    if 'entry_id' in parent_df.columns:
+        id_col = 'entry_id'
+    else:
+        assert 'sense_id' in parent_df.columns
+        id_col = 'sense_id'
     
-    # add new col for variants of variants
-    # boolean vector, True if variant at index has other variants pointing to it
-    super_variants = [any(var_id in these_ids for these_ids in vars_to_hdwrds)\
-                      for var_id in var_ids]
-    # variant ids for these sub-variants (if any)
-    vars_of_vars = []
-    for has_sub_var, row in zip(super_variants, variants.iterrows()):
-        if not has_sub_var:
-            # skip if no variants of this varaint
-            vars_of_vars.append([])
-            continue
-        index, row = row[0], row[1]
-        this_id = row['entry_id']
-        # all indices of variants pointing to this entry as listed in vars_to_hdwrds
-        var_idx = [i for i, h_id_list in enumerate(vars_to_hdwrds) if\
-                   any(h_id == this_id for h_id in h_id_list)]
-        # entry ids of variants themselves
-        these_vars = [var_ids[i] for i in var_idx]
-        vars_of_vars.append(these_vars)
-    # create new column for sub variants
-    variants.loc[:,'var_of_var'] = {i:vov for i, vov in enumerate(vars_of_vars)}
     
-    # add a new col for variants of senses
-    sense_vars = []
-    for index, row in senses_df.iterrows():
-        this_id = row['sense_id']
-        # all indices of variants pointing to this sense as listed in vars_to_hdwrds
-        var_idx = [i for i, h_id_list in enumerate(vars_to_hdwrds) if\
-                   any(h_id == this_id for h_id in h_id_list)]
-        # entry ids of variants themselves
-        these_vars = [var_ids[i] for i in var_idx]
-        sense_vars.append(these_vars)
-    senses_df['var_of_sense'] = sense_vars
     
-    del entry_ids, vars_to_hdwrds, var_ids
-    
+
+# wcreates a json file for each headword
+def write_json_dir():
     # dump to json
     temp = 'temp.json'
     for index, row in headwords.iterrows():
-        # we want to create a json file for each headword
         data = dict(row)
         data.pop('index')
-        data['variant'] = fetch_all_vars( data['variant'] )
-        data['sense'] = fetch_all_senses( data['sense'] )
+#        if data['variant']:
+#            print(data['variant'])
+#        else:
+#            print(data)
+        # replace value
         filehead = data['entry_id']
         filehead = rep_all(filehead, '/ ', '_')
         filehead = rep_all(filehead, '()[]? ', '')
@@ -109,7 +108,7 @@ def generate_lex_dir(df1, df2):
             
 def clean_dir(folder):
     wd = os.getcwd()
-    files = glob.glob(wd+folder)
+    files = glob(wd+folder)
     for f in files:
         os.remove(f)
         
@@ -121,24 +120,16 @@ def rep_all(s, chars, tgt):
 def fetch_all_vars(all_vars):
     if not all_vars:
         return None
-    elif type(all_vars[0]) is dict():
-        return all_vars
-    else:
-        return [fetch_var(var) for var in all_vars]
+    assert type(all_vars) is list
+    return [fetch_var(var) for var in all_vars]
 
 def fetch_var(var):
-    global variants
-    row = list(variants['entry_id']==var)
-    assert row.count(True) == 1, var
-    idx = row.index(True)
-    row = variants.loc[idx]
-    var_of_var = row['var_of_var']
-    if var_of_var and type(var_of_var[0]) != dict():
-        variants.loc[idx,'var_of_var'] = [fetch_var(vov) for vov in var_of_var]
-    sense = row['sense']
-    if type(sense[0]) != dict():
-        row['sense'] = fetch_all_senses(sense)
-    out = dict(row)
+    row = variants.loc[lambda df:df['entry_id'] == var]
+    assert len(row) == 1
+    row = row.loc[0]
+    
+    row['variant']
+    out = 'potato'
     return out
     
 def fetch_all_senses(all_senses):
@@ -160,10 +151,10 @@ def fetch_sense(sense):
         row['var_of_sense'] = [fetch_var(vos) for vos in var_of_sense]
     out = dict(row)
     return out
-    
-    
-def get_headword_id(variant):
-    if type(variant) is tuple:
-        return [variant[0]]
-    assert type(variant) is list, variant
-    return [x[0] for x in variant]
+
+def literal_eval_col(df, col):
+    df.at[:, col] = [literal_eval(row) if row else None\
+               for row in df[col]]
+
+if __name__ == '__main__':
+    main()

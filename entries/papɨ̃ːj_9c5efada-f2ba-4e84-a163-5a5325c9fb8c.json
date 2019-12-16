@@ -2,7 +2,7 @@
   "headword": "papɨ̃ːj",
   "entry_id": "papɨ̃ːj_9c5efada-f2ba-4e84-a163-5a5325c9fb8c",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "sol"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

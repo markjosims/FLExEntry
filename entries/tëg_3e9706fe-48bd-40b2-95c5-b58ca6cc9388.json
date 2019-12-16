@@ -22,9 +22,9 @@
         "en": "tooth",
         "pt": "dente"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "00dc1fc9-9d03-4ae0-baf4-8f3a229ba4b1",
@@ -37,9 +37,9 @@
         "en": "key",
         "pt": "chave"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

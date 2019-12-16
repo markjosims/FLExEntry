@@ -2,7 +2,7 @@
   "headword": "ʃawiːm",
   "entry_id": "ʃawiːm_3304d40a-0ff3-4883-8eb2-39d590ec7ac6",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "bacaba"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

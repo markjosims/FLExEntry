@@ -22,18 +22,9 @@
         "en": "rubber tree",
         "pt": "seringueira"
       },
-      "reverse": [
-        [
-          "rubber tree",
-          "en"
-        ],
-        [
-          "seringueira",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('rubber tree', 'en'), ('seringueira', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:16:05Z"

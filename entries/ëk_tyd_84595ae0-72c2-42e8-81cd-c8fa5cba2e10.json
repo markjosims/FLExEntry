@@ -2,7 +2,7 @@
   "headword": "ëk tyd",
   "entry_id": "ëk tyd_84595ae0-72c2-42e8-81cd-c8fa5cba2e10",
   "morph_type": "phrase",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,18 +22,9 @@
         "en": "squash",
         "pt": "abobora"
       },
-      "reverse": [
-        [
-          "squash",
-          "en"
-        ],
-        [
-          "abobora",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('squash', 'en'), ('abobora', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:48:04Z"

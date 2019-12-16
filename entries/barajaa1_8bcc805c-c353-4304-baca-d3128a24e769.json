@@ -22,18 +22,9 @@
         "en": "avocado",
         "pt": "abacate"
       },
-      "reverse": [
-        [
-          "abacate",
-          "pt"
-        ],
-        [
-          "avocado",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('abacate', 'pt'), ('avocado', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-22T23:18:29Z"

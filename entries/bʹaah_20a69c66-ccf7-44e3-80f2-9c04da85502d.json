@@ -22,18 +22,9 @@
         "en": "tree",
         "pt": "árvore"
       },
-      "reverse": [
-        [
-          "tree",
-          "en"
-        ],
-        [
-          "árvore",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('tree', 'en'), ('árvore', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:52Z"

@@ -22,18 +22,9 @@
         "en": "manioc",
         "pt": "mandioca"
       },
-      "reverse": [
-        [
-          "manioc",
-          "en"
-        ],
-        [
-          "mandioca",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('manioc', 'en'), ('mandioca', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

@@ -2,7 +2,7 @@
   "headword": "anaak",
   "entry_id": "anaak_786a66da-ee64-4cd0-b5d7-d98c0ee6d3be",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -14,9 +14,9 @@
         "pt": "gostoso"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-06T19:32:40Z"

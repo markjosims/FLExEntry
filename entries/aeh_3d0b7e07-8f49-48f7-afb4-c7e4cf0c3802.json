@@ -22,9 +22,9 @@
         "en": "big",
         "pt": "grande"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "0cd8054f-f383-43b9-a8f7-77956756bf4c",
@@ -37,12 +37,9 @@
         "en": "thick",
         "pt": "grosso"
       },
-      "reverse": null,
-      "note": [
-        "for sticks; see entry ''e baan' - thick for fabrics; leafs etc",
-        "semantics"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "("for sticks; see entry ''e baan' - thick for fabrics; leafs etc", 'semantics')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:52Z"

@@ -2,7 +2,7 @@
   "headword": "w’eets",
   "entry_id": "w’eets _fcd31ae9-c266-4ab2-a2ef-60eb3eff61c3",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "aramdillo",
         "pt": "tatu"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T22:38:40Z"

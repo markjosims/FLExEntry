@@ -22,9 +22,9 @@
         "en": "walk",
         "pt": "andar"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "36e6ef46-3bde-4e2b-b316-156547409325",
@@ -37,9 +37,9 @@
         "en": "live (metaphorical)",
         "pt": "viver (metaforico)"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

@@ -2,7 +2,7 @@
   "headword": "tamɛːʔ",
   "entry_id": "tamɛːʔ_507bc40f-6bb9-446c-9aab-0a875a05c74c",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "no rio"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

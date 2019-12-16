@@ -1,4 +1,4 @@
-﻿entry_id,variants
+entry_id,variants
 saroop_49b0da68-47ae-42c0-ac17-b23a42c0e42e,{'ʃaɾoːp_0023c0a0-6de7-452a-85b6-0f6e0794014a': 'undef'}
 sëëw_7c511834-586a-456c-884a-02fda6ccd6aa,{'ʃɤːw_009b3e07-21aa-4c01-aeda-2447f5bc3e94': 'undef'}
 nag’aad_a2653c1c-526b-4da1-aaeb-c2f393797942,{'naga̰ːd_00bdbea3-65ff-4c88-bb09-064fdb77ec72': 'undef'}
@@ -42,3 +42,146 @@ tũːʔ_22152a27-e164-405e-b4b5-f3b9d7f6331d,{'tũũh_1b11b954-a8f9-47e3-8041-e7
 hood_53da5edb-5f86-4600-8bbe-1d02414790f6,{'huːd_b2369c93-dd34-408b-8ca3-82a40aa1adee': 'undef'}
 maseer1_1c4c09ee-329b-4f14-9e81-3d040511871d,{'maseer2_60ab7553-d019-468a-92ad-4b59c210100c': 'DELETE'}
 yb2_1cc95316-b9fe-4093-9b14-e9c016496d4a,{'ɨb_3135659c-423f-4208-befc-ea379815ca59': 'Weir'}
+masʹããh_1cea3332-ac1d-44f0-ad97-8d82420abd3c,{'masxãah_5ecd9230-e108-4922-aecb-9b7a921ae9b2': 'Weir'}
+nʹaa_1d906551-ab54-4157-8e62-1fd969e9a667,{'nxaag_4d2665d4-3bdc-4b89-a07a-8dd9f79e34b9': 'Weir'}
+p’ooh1_8351b529-6dec-4374-bbcc-30b2cb59847d,"{'p’ooh2_1e6afc0b-7932-4661-90bb-b411828b1b66': 'DELETE', 'pʹooh_273cba08-0c9f-4d9f-94d9-781b09b51113': 'SIL Dict 2011', 'po̰ːh2_54d92d11-2e4d-45ab-b4b2-76011f12d6a6': 'undef'}"
+óng1_1e88cb17-089d-4b4e-93a8-2201e9b7a162,{'óng2_b2f5d0a7-8aba-4c37-9bda-ac5494c75035': 'SIL Dict 2011'}
+samỹỹj_f2424339-1bdb-47b7-8946-f46a9d8685e2,{'ʃamɨːj_20f68242-8fb8-4ac0-8e64-e117d15b6046': 'Weir'}
+tsʹaa_be6ef049-4a0b-4431-ade9-063237e7fde5,{'ɟa̰ːʔ2_217c7731-5d24-469b-80fa-f9d199bdb860': 'undef'}
+nyng_21c3900f-78bd-45ac-9f5a-609460206103,{'nɨng2_330d0834-a31f-4580-8c8c-cbd71bf686ab': 'Weir'}
+ets’iip_224610c4-9086-404b-a319-cce171760df8,{'etsʹiip_960c07c6-153e-4dfa-a2ae-494e5b37ed87': 'SIL Dict 2011'}
+hooj2_96c60cce-1d22-4b41-8ed3-e5948e58cd74,"{'hoonh2_22775054-ef71-4a85-93db-90f254baa54f': 'Weir', 'hõõnh_42868451-c808-4d59-afa0-bd2bce2b61dc': 'Cartilhas', 'hoonh1_485e1de8-8cfa-4e5a-aa46-f0bc283b8323': 'Cartilhas'}"
+gyyj1_ca272553-839d-43eb-b187-20be948754f3,"{'gɯːj_23115afe-da53-4a27-bc35-b9c7d1324594': 'undef', 'gyyj2_362ee03a-f5db-4fa2-8347-75e21e5cab1f': 'DELETE', 'kɨːj_52c5aada-536f-45aa-a6e7-20ab26391e30': 'Weir'}"
+jarakë2_2374aefe-208a-41a4-82e8-0828d5d0a65f,{'jarakë1_677fa10c-0614-48de-92f5-dfdfe030aaac': 'DELETE'}
+kamaan1_258400ae-3889-4708-a9d9-74aa043e8bbd,{'kamaan2_4c767ee3-2527-4c05-a5f7-bbcb94db1b59': 'DELETE'}
+pëë_8eeb53c7-1d25-48da-8b2d-51f5314aa791,{'pɤːʔ_25842643-9b52-44b1-8b43-182c1b11992f': 'undef'}
+juʔ2_268efbd6-8e22-4f0a-b085-761f16553757,"{'juʔ1_7bb13b61-6e0f-4bd3-9889-18139d7bb2ac': 'undef', 'ju_5dae869a-3b1b-46a6-8326-74a340630984': 'Cartilhas'}"
+jʹeenh_033fa6a4-bc25-446d-8349-5ce48c651c79,{'hajʹeenh_26f01a55-fea3-44d8-a432-919f084afb5f': 'unknown verbal inflection'}
+mehëm_28471a19-ef36-4907-a039-ccf0e4bef3d6,{'mehëëm_c39cb70f-124b-4188-9602-3aca227cbe94': 'unknown- also from fieldnotes?'}
+s’ỹỹ1_4b90f87b-b955-4578-a4eb-450e5425a275,{'s’ỹỹ2_2a862903-6868-4aea-a17b-6c1c40a99ca2': 'DELETE'}
+gaw’ëëng_475a687b-0e2b-4a1c-bf41-4336e322a2b7,"{'gawɤ̰ːŋ_2bd9f56d-c1db-441e-a7ea-d1bf2e4d2d49': 'undef', 'gawʹëëng_2fb03076-0f14-4f82-8e15-80490ce7afb9': 'SIL Dict 2011'}"
+bahe2_2cf4937e-ec22-467b-8482-1f9f02708d2f,{'bahe1_838757f3-eee2-4b0d-a274-7241484e3c22': 'Cartilhas'}
+jëë_a0520e71-1c6b-440a-bfb4-073d8767e810,{'jɤːʔ_2d1daa55-a783-476e-a7fa-47d1ef2527ac': 'undef'}
+hũũt_fcbc9a08-ecac-4e11-b568-cad430854b14,{'hũːt2_2dab5f66-5578-47a2-bee1-414855d0f8eb': 'undef'}
+mabëng_c197d537-44e1-4a6f-abe7-fa15aead02e7,{'mabəŋ_2e0a7a92-fed2-4403-94ac-b9bf1c602912': 'undef'}
+patug2_c1f04c5c-89ef-403c-988f-4236d1de4a15,"{'patuk2_2e68cc00-c5fe-4d28-ae84-197a9603094c': 'undef', 'patug1_68ff8d38-34fa-472c-87a3-4bada7ef12a6': 'SIL Dict 2011'}"
+kaat4_2f663e30-e5e2-4436-aa3a-06247ad235b6,"{'kaat3_f725bf08-256e-40b3-9475-6bbf23806316': 'Weir', 'kaat1_343a6e41-2533-4734-88d4-d7e177d3c697': 'SIL Dict 2011', 'kat_f40fa792-adc4-41f2-ad6e-b5120cb7051a': 'undef'}"
+papỹỹj_3194bd97-3568-41d3-ad94-fa7e9d5d6930,{'papɨ̃ːj_9c5efada-f2ba-4e84-a163-5a5325c9fb8c': 'Weir'}
+jó_319f5a88-6001-437b-9f8e-0dadc0a51d8a,{'jɔʔ_ccb2b652-242e-40c6-a623-0abd516d2ee9': 'undef'}
+sẽẽj2_31d20726-ce1f-4f98-a01d-4dabbd5a7721,"{'sẽẽj1_510a6ef1-8619-44c8-b488-c6d71e13911b': 'SIL Dict 2011', 'ʃɛ̃ːj_1b5ea309-3bf7-4495-b8e3-22a92b4512df': 'undef'}"
+ajat_32eac6de-1dac-4fe7-96eb-afb8fdd8a693,{'ʔajat_c5b4a15c-8d79-4996-b956-443c2143e1b7': 'undef'}
+sawyym_ee869356-dc53-4210-9fa0-608972e8e311,{'ʃawiːm_3304d40a-0ff3-4883-8eb2-39d590ec7ac6': 'undef'}
+w’oor_3430ca49-d3b7-4b34-bff7-96d27c9662e2,{'wo̰ːɾ1_dffe077c-a1e2-4234-84d0-b75afeaf0660': 'undef'}
+piʃ2_524d6575-0649-4173-b87c-f1864f9b8139,{'piʃ1_34779d1b-888c-4885-8c33-f0cb9c912908': 'undef'}
+kawajad1_f97b2e7e-498c-44ee-bd8b-e78d47d7c9c5,"{'kawajad2_36b45174-a9b6-440b-b816-1d552c94f171': 'undef', 'gawajad_42f86ba0-9354-4a12-85ca-fb6bb7981ef6': 'undef'}"
+aj’oog_4eda5c75-4a85-49e4-b922-0ae5fbf34b5f,{'ajʹoog_38df0e26-795c-4c4f-bea0-45589ea48f94': 'SIL Dict 2011'}
+hã1_394e29a8-d5e6-4ae4-ab8e-0521acec8fd6,{'hã2_7dc98556-c00c-45e0-bb45-9b98ef27b492': 'Weir'}
+t&apos;aah_53b37a98-9c06-4c23-b5d8-447f89451984,{'tʹaah_58825302-35ee-4cc7-ba14-51e09b12f26f': 'SIL Dict 2011'}
+pɔw1_3b1d2ebf-a02d-40af-8785-d224f18a481e,{'pɔw2_88f9d903-03e8-48a9-96ad-346c13f8af41': 'undef'}
+sareej1_3b28e452-5d26-4a88-94a5-a228bff09db1,{'sareej2_8e9915c4-691e-4a64-a726-6e20a0b8d7ac': 'Cartilhas'}
+sõts_bda18a4b-25b2-46d9-a02e-8c971679f674,{'ʃɔ̃ɟ_3cbecb22-d966-45e2-a70d-7aeed4c1b9b8': 'undef'}
+t’õõm_3cdcf804-ed94-4d32-8388-d8ed3cf4b239,{'txõom_65668337-e2b9-496c-80a9-264d9e8e24a1': 'Weir'}
+wət2_3d9e8a40-28bc-4880-9dc1-525d808cd0da,{'wʉ́t2_92514816-5d4f-4e07-960c-a341b4e35ba3': 'Weir'}
+kawad puuw1_3df027b0-fff3-4f27-bc4a-2e9a507a013c,{'kawad puuw2_e099d98b-deb0-4d4d-b7cc-b068a4ba6200': 'DELETE'}
+aw’yy_3e061932-3d4a-46c8-9c3e-0879bbb207aa,{'awʹyy_c7d163a6-e5e2-430a-86e3-739acf52b061': 'SIL Dict 2011'}
+ỹỹn2_cd68549e-1a6e-4765-94fe-b4d379bdf417,"{'ỹỹn1_834d53d4-10c0-49d7-803d-00921ec62593': 'SIL Dict 2011', 'ʔɨ̃ːn3_8a3f7405-eec1-49f8-b745-65fb7c006f0c': 'Weir'}"
+wajats1_3fb72e42-5cf7-4b2d-b65a-71b38ccc0086,{'wajats2_ad8e1685-a540-42c7-a1a6-345f1d62a409': 'Epps/Obert fieldnotes (MAKE HEAD WORD)'}
+kawed_401e72f5-e1dc-4968-bc4b-e9fc98db9a07,{'kawɛd_aa7dd9c5-709a-4646-b503-eed11dae5567': 'undef'}
+bato1_449069a7-b371-4bea-ab7c-b7db4e0eac98,"{'bato3_c12dcb8f-0467-4789-85e9-57382fa7e085': 'DELETE?', 'bato2_a02d0235-ed47-4e69-b8f0-23c99f9eb74a': 'DELETE?'}"
+atsuuk_7ed2ad67-026d-4534-83c1-b37b8b08324d,{'ɟuːk_4490816c-a10c-4d52-a75d-fe876900d6a0': 'undef'}
+h’ooh_c95ea861-4c45-4a1a-8ef3-688bec4eb1f7,"{'ho̰ːh_44f1f84c-e4df-4217-88eb-ef261c0b564d': 'undef', 'hxóóh2_b044b02d-9a90-4a89-97f6-6723b314e380': 'Weir', 'hʹooh_cdd344c3-6d2f-4e37-b2a3-cf9d784437f7': 'SIL Dict 2011'}"
+bëëh1_962a8de8-7f65-4e60-b8a4-c16d27943a32,{'bʉʉh_48d9cff6-c6db-4cc8-83db-4adadfe1b13d': 'Weir'}
+sawyk_4639249a-4c4d-48ec-92ad-2cda852204b8,{'ʃawɯk_687394cd-d7e8-4953-99e3-6c1caa551f59': 'undef'}
+ëk_ddd21a10-4d81-464a-a237-cf3195a8f0c5,{'ʔək_4736ff14-7951-4702-8420-4b761777ed50': 'undef'}
+ajʹyy_ece00d00-4ed6-47ba-9536-ac3be8cafafe,{'ʔajɯːʔ_479ecbff-3f1d-44fc-907e-91ca5906164b': 'undef'}
+kanapiih2_bd918020-46ec-4386-951e-fac4fbba4784,{'kanapiih1_47fe5b8e-3eb3-4166-9d21-9e255bfeb45d': 'SIL Dict 2011'}
+p’yym1_c58f3f30-b24e-49b3-89c7-a8dbbcc5fc5b,"{'pʹyym_48a754db-ea05-4440-bcad-eec33e19477e': 'SIL Dict 2011', 'p’yym2_53980f41-3bde-459e-b49d-347aab65296a': 'DELETE'}"
+gasoom2_1c16d365-be77-4968-953b-7db5ca036d79,{'gasoom1_4cbf1e75-3511-49fe-a915-2400ecd03edc': 'same as gasoom - isca?'}
+hỹỹj2_53908455-3b39-4ca5-bc5b-bdcd9f258d77,{'hỹỹj1_b8de92d9-5f80-44ee-a6c1-83a6ea312225': 'SIL Dict 2011'}
+karaak2_49cb17c7-16b1-4a6e-a0e1-c1b1b7c2654e,"{'kalaak_6c0ebcef-768a-4881-8c44-9ab7a2e1b943': 'Weir', 'karaak1_e3fbee0f-140f-4414-9435-89051dc09107': 'SIL Dict 2011'}"
+rʹood_4acc9cdb-de0b-4f94-b9e3-ebe14eadfa07,{'lxood_6014263a-2bf5-4bc5-9ea3-0189c7dd05cb': 'Weir'}
+ɾuɲ_c78e3c36-0f7b-4e27-ae42-5391ecaa33b0,{'ɾṵːɲ_4ae8608d-42ec-4b15-b5f6-62cf14285128': 'iterative(?)'}
+doo1_96f3879f-cf4c-469d-ac46-4a89f9d8374d,{'doo4_8f96a134-db02-4580-a0d5-0599f0a181e1': ''}
+mapah1_b822e839-8c6d-40df-b269-0a5a65773509,{'mapah2_4ec81927-89b0-4a12-bec2-73014ae75de4': 'DELETE'}
+ajãn_542c8377-02d7-46b2-a5d5-238ce60994a9,{'tajãn_e751393d-4a08-4d05-8fc5-1a679d6e0cf9': 'just headword + ta-? delete b/c redundant?'}
+me1_69935547-234c-452b-a397-06c63051952f,{'me3_55d072cd-437b-41d7-91ee-f93cf6856d86': 'Weir'}
+ʔɯm2_56948ee3-6282-4ea9-842f-46e5f2484283,{'ʔɯm1_73d74d6f-08f3-463a-adc3-37a43c4c0786': 'same as hdwrd?'}
+w’eets _fcd31ae9-c266-4ab2-a2ef-60eb3eff61c3,"{'wʹeets_574901cb-b566-4eb9-a4ef-ed3b3331ef75': 'SIL Dict 2011', 'wɛːɟ_6884ab96-6eac-4ba5-928f-9d985edf2221': 'undef'}"
+tu_983b21ad-1243-49cf-850f-b9211c029c37,"{'tuʔ2_b248ee55-a422-4c2e-80f5-bd1273f20230': 'undef', 'tuʔ1_642a1cd9-3436-4208-94d8-0df53611f237': 'undef'}"
+jabaruut_97730e1c-4b00-42dd-bf5f-ae67b93de788,{'jabaɾuːt_5bad5a7b-1227-4ba0-aaca-042c0906d02f': 'unfrg'}
+ahõng_5eceaf57-d989-4dc1-9a1f-72045734eeed,{'hɔ̃ŋ_80287da4-afa8-4514-bff8-69b869150d60': 'undef'}
+awad3_62a55d3c-fa39-4a7a-8dbf-01f9b2c196bd,{'awad1_62af62ce-e032-4079-87dd-c24ef0653b3d': 'Weir'}
+boog1_62ca10cf-1f6b-4649-90fa-b022c5c34283,{'boog2_7c1c3595-e291-4ae3-aa7e-c1ca57c2fd9b': 'DELETE'}
+mỹỹm_97557290-0196-462e-8057-e1ef84dc9ee7,"{'myym_632462d5-0968-40f4-a457-813d01824927': 'SIL Dict 2011', 'mɨɨm2_a2418be7-62d2-404b-8f3e-6ebd2c5de915': 'Weir'}"
+esoom_643f0104-b9a7-4133-b4f9-46670305d01e,{'sóóm_fd2f84a4-1299-4c5e-92f2-d44f1681cf10': 'Weir'}
+nadëb1_64797e4a-07d3-4f0b-a899-0a27e395ea25,{'nadëb2_7a84a8e6-b357-468d-9c18-010e50f252a2': 'DELETE'}
+pʹop_663cf027-4684-4541-a231-ff7dea82110f,{'pɔ̰p_d09386a8-6bbf-4a0f-8a4b-6ab7693b239a': 'undef'}
+mariij_666383bb-b09a-4b6f-ac6e-83dcafaf8ed5,{'maliiy_abf85421-63bf-4020-8f2d-353872522fae': 'Weir'}
+sëëj2_676891fe-11be-4098-ba43-4c4bd187bf1f,{'sëëj1_ea18d5a2-e0a3-4174-859f-b42bbb3d5e93': 'SIL Dict 2011'}
+wii_8a4348e9-3bfb-46f0-8cd1-c70242ed07b9,{'wiːʔ_6775cf67-0f92-4ae5-a67c-dcd6102dce40': 'undef'}
+adyyk_a8313ccc-413c-4657-b4ef-14f1259891a3,{'dyyk_6a1391bb-1f7a-4415-8f8e-23390fb46721': 'Cartilhas'}
+sʹoow_6a95cdaa-7d5e-4688-95a3-6ecb4731f4a4,{'s’oow_bd149bf3-7f4c-42b9-901c-045655c034c8': 'FIELDNOTES FORM MAKE INTO HEADWORD'}
+kajero2_6b30fdcb-86a6-436d-af31-21759a33458b,{'kajero1_ab07f191-a5da-4848-bfbc-82ba4420609d': 'SIL Dict 2011'}
+j’aa_b7a0d5d6-dde2-42b6-ab7b-0d0db44ad378,{'ja̰ːʔ_6b9116ec-f02f-4b64-8159-8be45e5e7321': 'undef'}
+ejooh_c974a407-e86b-4fe2-9a3d-fadf2bbb7e83,"{'ajooh_6b941ece-fe4f-4d4e-a905-9b463ae697d4': 'SIL Dict 2011', 'yóóh_610712e1-1290-4290-82f3-37d1b18d75d4': 'Weir'}"
+watuːɾ_6c6d6af3-914f-4223-af5b-893f529f5156,{'watoːɾ_aab6381d-36d6-4393-8125-63736f1d57b6': 'undef'}
+jahamad_6d3a98b8-7a59-4188-ab3b-8ebcdb2d3359,{'jahamaːd_ff8ca9d5-b389-4faf-88b6-3714f610b696': 'undef'}
+wakan_6e0690f6-875a-434f-aebf-7505b7094008,{'wakããn_6de60702-4c52-4083-8679-c1460f9d3143': 'SIL Dict 2011'}
+soo1_8d4ce206-887a-448d-a7db-8239d7cbeccf,{'ʃoːʔ_634a34c1-ac25-46b2-88d0-2498c1253e6f': 'undef'}
+ji tyyng_72aa4577-3522-4de8-83c7-e71442e19efd,{'tyng_1ca2ceb7-661e-409f-8ba9-0beae1fb5929': 'SIL Dict 2011'}
+karaba_7354ca9f-c488-41c2-aec5-27ce9f1a2a6c,{'kaɾabaʔ1_e5b1bd43-23ef-4e3f-b224-c4d00c9030b5': 'undef'}
+majoor_c276c6b7-c47e-43a9-a101-732c26dbba0d,{'majoːɾ_736c5590-b31b-4510-b141-5baa8624fc3f': 'undef'}
+ä̃nh_9d9c4409-ab43-42d2-9381-3d54485636ca,{'ʔʌ̃ɲ_747ec3c6-e1ec-454b-a23b-043d66e7611b': 'undef'}
+arook1_755a9854-5522-45a5-81f3-48a5d642443c,{'arook2_ea710305-f769-4c35-baa1-8bab2d4e1fde': 'DELETE'}
+har’ëëng_75809c11-9e9f-4fef-a92c-c3fa46828610,{'harʹëëng_acb44c41-79ab-4a47-b9b0-40038d45c8bf': 'SIL Dict 2011'}
+jarana2_bd32e479-6d6f-4eb6-9231-117817f4d9e0,{'jarana1_7ed1327f-e40d-4e09-8a0e-7b022090c381': 'SIL Dict 2011'}
+t’ëëng_7fad6677-006f-46f7-991e-8fd6199e5d12,"{'tʹëëng_fddfb54c-17be-4610-a9d5-8a92c52ddb9e': 'SIL Dict 2011', 'tɯ̰ːŋ_8809f33f-e595-4f96-8d4d-cd4b936414ca': 'undef'}"
+jaw’ëëj_ca32c043-64c6-4e57-bc22-bf16c5a11551,{'jawʹëëj_7fe321e9-23f6-4491-9470-7bad482bbd8e': 'SIL Dict 2011'}
+karẽn1_80e42cbd-c06a-483c-b021-b0358dc74458,{'lẽn_27bc0b6c-fc38-4c5e-badf-1232a67d4852': 'Weir'}
+daheeh_e0654f7b-5bac-428c-9f96-6021ec1257b3,{'dahééh2_820701d9-b96e-4451-b336-a4d5eb75162e': 'Weir'}
+dõm_821df784-fbcb-40de-a505-a26f965d09ed,{'dɔ̃m_93459811-747b-4906-8f97-6105912ab61e': 'undef'}
+j’ããr_afb2c658-3980-4715-a1ca-bed049b872a9,{'jã̰ːɾ_84285bfb-a147-47a4-a0d0-30818be5a223': 'undef'}
+agyyt_844f1202-4d2e-4db2-bdb5-08c5213c41af,{'gʉʉt_dc396093-f137-47ef-80dc-2bb879a4cf28': 'Weir'}
+tyyw_87e0c426-d593-4ca1-8704-61dc46d5dc73,{'tɨːw_c9ecfce1-ed8a-4335-8793-9b265a3f6bd5': 'undef'}
+j&apos;ooh_ff2984bb-c88c-4390-b49c-de234bf22ec5,{'jʹooh_88a205a3-9984-4a54-9fe3-064317482daa': 'SIL Dict 2011'}
+sëën_89e12256-aa4d-4789-a64e-fc333256a009,{'ʃəːn_9ff6ef51-bc0d-4bbc-b462-525c60f0df2f': 'undef'}
+ỹỹm3_be33ca3b-f6a1-4066-b50a-97e305ec90bb,"{'taʔɨ̃ːm_8b61590a-f5d2-4965-9171-adf36eb8f774': 'undef source; headword + ta-, delete b/c redundant?', 'ɨɨm_d43b320e-3a28-431e-897d-97757c461f9f': 'Weir', 'ỹỹm1_c5454b3c-10c6-4bf4-936d-38c30dd989de': 'SIL Dict 2011'}"
+tsapap_b158b9b9-46e9-4298-9779-2b01c1e2d72a,{'tsapab_8da01899-013b-4338-b5c2-89a27f1a2718': 'DELETE'}
+jamog_8e957d4c-e10d-4870-87b6-9dfd6ee44b85,{'jamɔg_cc35fe75-2dbf-432f-a1fa-1c3e802dd99d': 'undef'}
+ahyng2_93bb3cb3-59d5-4623-be9c-d38df3e2842c,{'hɨng_c2196b35-b617-4183-bf93-d69cdaf45800': 'Weir'}
+bä2_d715fe9e-35d6-4cb9-b7dd-ca28a1e3c7a4,{'bä1_8df25412-204a-46bc-a787-3ef67101e1cd': 'same as hdwrd?'}
+wë1_a802edee-a71f-41cf-b15a-48d2cd10f3e5,{'wë2_df16da3e-09a9-4ab3-9833-a005e73eb941': 'DELETE'}
+kabë2_95545367-b996-4a77-88a4-91898494b4b3,{'kabë1_f3f3eac8-03b9-4b3b-be87-4d8a15178bc3': 'SIL Dict 2011'}
+tatuɟ_95665b00-9d5a-441d-9b43-a1c6000ebd62,{'tuɟ_1f099057-c3de-482b-9a51-6994e7b74391': 'undef'}
+atëëd2_d301533a-4748-4f8d-bbfc-ef485aae93c3,{'atëëd1_95b72b78-8ccd-4c61-a213-45127865783a': 'SIL Dict 2011'}
+mahyyh_99331f07-019a-4e63-ba08-9b2b6308fe5c,{'hɨɨh2_20301e80-fb96-4e39-b432-945f8939c012': 'Weir'}
+d&apos;uuj_aa238362-6f1a-4a52-a41b-27843f79a688,{'d’uuj_9b865bc0-e7e1-48b9-91d4-0903c2f55f8c': 'DELETE'}
+tɔ̰̃p_f5d2c6fc-7483-4978-a80f-1a12a7d69426,"{'tɔ̰̃ːp2_9cceec82-ec11-4fd0-9417-c81d9b1b5b71': 'undef, same as hdwrd?'}"
+maruus_9e8a8696-6179-4389-bd3e-277c6064a6ba,{'maɾuʃ_d8e843eb-0a99-4a26-963c-fcf20299fb1f': 'undef'}
+pä_f147e3d8-5601-4640-b31b-4fd6d06fa113,{'pʌʔ1_cad2429f-304a-437a-ac65-bad608ba9e61': 'undef'}
+agä2_b43dfe1e-4d9c-44c4-966b-7cdca5ef5b85,"{'agä1_9e97d488-8f8e-490b-89a8-290893ddccc7': 'SIL Dict 2011', 'gä_8c3e9683-efa0-43fd-b2c6-7fb130828ae8': 'SIL 2011. same as hdwrd?'}"
+warahen2_9f60eea4-12af-4bff-b76f-4b605295b5a8,{'warahen1_d19ed409-f161-40d6-90a9-dede5c019714': 'make into sense variant instd of full variant'}
+atón_bc968ce0-9509-4ec9-b8d1-a524b3bef356,{'tón_a00d1bb1-25e3-4c3d-953c-57dd3b546cd4': 'Weir'}
+dó1_b34c70de-07c4-4851-930b-b7d6ef30937c,{'dó2_a08df22d-80e3-4118-9cee-83f37742f065': 'Weir'}
+tsabud_a11cacd5-6a89-4610-a116-102feb4799f7,{'ɟabud_c59dda44-a224-4265-8c63-5a694be26e01': 'undef'}
+dén_a34486b3-8510-4e08-b3a3-222244121a73,{'dɛn_d2b3947a-62a9-499f-a2db-b953e9ae2cd0': 'undef'}
+takod2_a630902b-b26a-4906-870e-2c4c62b001b1,{'takod1_b4a9928d-a6e7-43f6-8956-769d02980cf9': 'SIL 2011- related?'}
+gód2_afb44df8-075a-40c9-8eed-b4be294caa89,{'gód1_c8bf4c45-4267-46ab-b762-3812481e1fef': 'SIL Dict 2011'}
+tsawaaj_bd4ddf53-09b2-485e-bb4b-06c84d176264,{'ɟawaːj_b03fc85e-ed55-4fb1-a5b5-02f36f54c659': 'undef'}
+biin1_b2e517bb-acfb-4a33-9270-f9596069cab5,"{'biin2_d5f5134a-adda-4de8-949a-b01dde299ee5': 'Weir', 'biin3_e6e5bae8-d2ad-412e-b701-c994681eb9d5': 'Weir- sense variant?'}"
+gehõk_b5552c55-9b4f-4af3-b075-530fed54518b,{'hɔ̃k_7ee84e60-c92c-46bb-bfdb-1ba24ed847f4': 'undef (prefix)'}
+nuuh_98b2fa13-5514-4958-bbe6-86001f73c6a4,{'nũːh_ba8e92bb-bb4e-4c35-8130-8f8904c855b7': 'undef'}
+jari2_bbaa0f20-3585-42c0-b1c0-d282645f34a0,{'jari1_8ef2bb28-e416-4ac6-a057-c9b7793195b1': 'DELETE'}
+tyyg_aa58bcaf-dbda-4802-ad73-a4a3d2881445,"{'tëëng_973a6d9c-adec-4a58-98e0-2ac2c9961a59': 'DELETE? replace w/ ty""y""g?'}"
+oow2_d04af342-ffb6-4ca8-806b-a630870f74ee,"{'oow1_eb8de02c-9b06-4ddc-af7a-cba13637ac34': 'SIL Dict 2011', 'ʔoːw1_f450e27e-ab41-4277-a9ec-2d5c346698a5': 'undef'}"
+mahũũr1_d5012807-382c-4ce2-ae64-fe70e83272d7,{'mahũũr2_f18a6646-c5a7-440a-ad32-7f3d8a2ddb79': 'DELETE'}
+dooh1_3ce71fc8-bcb6-49e2-aecf-4bba9da31ed4,"{'dooh2_f50666b1-7d7e-449a-8205-0cda6a02f920': 'Weir', 'doːh1_d9caa3ff-06cc-413b-a9c7-398060ef979c': 'undef'}"
+yd1_81932843-b81d-48e9-988f-c34c461ec695,{'yd2_d910005f-ac8b-4310-9ed0-79680c7a88fd': 'Cartilhas'}
+bʹaah_20a69c66-ccf7-44e3-80f2-9c04da85502d,{'taba̰ːh_de71206e-e9a3-466d-9f04-99311263ecfd': 'undef'}
+ehë̃p_df3af308-6431-4a3e-aea7-e9264917d791,{'hɯ̃p_ceabb022-1ecb-48b9-b5d2-01c836094d5f': 'undef'}
+puh1_57bb72df-4cf6-4402-bd61-4bed152962c0,{'puh4_3e5a002d-3c9a-4d6e-b54d-d47c7a488500': 'undef'}
+p’eets hẽ_861f321d-8e0a-420b-ade0-944ee4181915,{'pʹeets hẽ_ec73ec5a-97dd-47c9-8c8c-1d937b51073f': 'SIL Dict 2011'}
+ =dab_f62551f3-a0a5-4ba4-93d1-54fcd72b4088,{'dab_743da3f0-1447-4165-a2ee-5679ce305399': 'Weir'}
+byyh_c6283908-ed9f-4529-ab22-f0a452ed88b6,{'byy_f9c7c3ad-da4f-4387-9548-a0bbcc776ce5': 'Cartilhas'}
+nxoo_4b7dce3a-006c-458c-ba0c-bb5e1c53defd,{'noo_fd121132-52a5-48ea-bd08-47e6db5af53b': 'Cartilhas'}
+tsëk_af17fc38-6498-4d80-a76e-ee0c115cd3ab,"{'ketsëk_fd6da278-89a5-4bbf-92ab-6535f4c01f91': 'unknown inflection', 'getsëk_a7a832cd-2d78-4d1b-9e52-5a79e3c734ce': 'unknown inflection'}"

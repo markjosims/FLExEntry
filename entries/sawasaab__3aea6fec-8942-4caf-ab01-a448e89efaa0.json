@@ -22,12 +22,9 @@
         "en": "thin",
         "pt": "fino"
       },
-      "reverse": null,
-      "note": [
-        "for humans?",
-        "semantics"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('for humans?', 'semantics')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

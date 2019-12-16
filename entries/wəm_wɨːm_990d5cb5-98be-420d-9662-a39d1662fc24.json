@@ -2,7 +2,7 @@
   "headword": "wəm/wɨːm",
   "entry_id": "wəm/wɨːm_990d5cb5-98be-420d-9662-a39d1662fc24",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "morcego"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"

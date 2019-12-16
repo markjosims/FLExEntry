@@ -2,7 +2,7 @@
   "headword": "marahud",
   "entry_id": "marahud_579cf0f2-5521-4f7c-8650-e9e7775a6a6d",
   "morph_type": "root",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,18 +22,9 @@
         "en": "single",
         "pt": "solteiro"
       },
-      "reverse": [
-        [
-          "soleteiro",
-          "pt"
-        ],
-        [
-          "single",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('soleteiro', 'pt'), ('single', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "2501f0dd-2922-4234-9fad-a39a174f187d",
@@ -46,18 +37,9 @@
         "en": "tannia",
         "pt": "taioba.branca"
       },
-      "reverse": [
-        [
-          "taioba.branca",
-          "pt"
-        ],
-        [
-          "tannia",
-          "en"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('taioba.branca', 'pt'), ('tannia', 'en')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:32:09Z"

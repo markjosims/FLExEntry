@@ -22,9 +22,9 @@
         "en": "hand",
         "pt": "mão"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     },
     {
       "sense_id": "5476275b-a9c8-40f2-ad43-5657776bb111",
@@ -37,9 +37,9 @@
         "en": "tributary",
         "pt": "afluente"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:52Z"

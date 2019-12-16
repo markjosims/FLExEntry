@@ -2,7 +2,7 @@
   "headword": "wéén tëëg",
   "entry_id": "wéén tëëg_c58137ca-5fbf-4bf7-9557-d9503bd26be0",
   "morph_type": "phrase",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,18 +22,9 @@
         "en": "calabash tree",
         "pt": "árvore de cabaça"
       },
-      "reverse": [
-        [
-          "calabash tree",
-          "en"
-        ],
-        [
-          "árvore de cabaça",
-          "pt"
-        ]
-      ],
-      "note": null,
-      "var_of_sense": []
+      "reverse": "[('calabash tree', 'en'), ('árvore de cabaça', 'pt')]",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-09-04T00:46:00Z"

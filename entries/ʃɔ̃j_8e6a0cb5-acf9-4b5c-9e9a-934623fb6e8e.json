@@ -2,7 +2,7 @@
   "headword": "ʃɔ̃j",
   "entry_id": "ʃɔ̃j_8e6a0cb5-acf9-4b5c-9e9a-934623fb6e8e",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "espécie de sapo"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:53Z"

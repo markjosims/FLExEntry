@@ -2,7 +2,7 @@
   "headword": "wabu",
   "entry_id": "wabu_84cbb199-70f7-4c20-a174-1eeec4c14225",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "pirarucu fish",
         "pt": "pirarucu"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

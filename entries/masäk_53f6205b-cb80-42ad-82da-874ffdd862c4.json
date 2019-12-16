@@ -2,7 +2,7 @@
   "headword": "masäk",
   "entry_id": "masäk_53f6205b-cb80-42ad-82da-874ffdd862c4",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": [
     [
@@ -22,9 +22,9 @@
         "en": "gray-winged Trumpeter",
         "pt": "jacamim"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:21:21Z"

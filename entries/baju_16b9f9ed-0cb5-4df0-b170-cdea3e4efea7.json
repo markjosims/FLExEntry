@@ -13,7 +13,7 @@
   "sense": [
     {
       "sense_id": "5f3a89d8-db19-4cc0-9e59-a02da258eaf4",
-      "pos": null,
+      "pos": "",
       "gloss": {
         "en": "hot",
         "pt": "quente"
@@ -22,9 +22,9 @@
         "en": "hot (sun)",
         "pt": "quente (sol)"
       },
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-07-27T20:14:26Z"

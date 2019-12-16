@@ -22,12 +22,9 @@
         "en": "belly",
         "pt": "barriga"
       },
-      "reverse": null,
-      "note": [
-        "(ji) wog",
-        "grammar"
-      ],
-      "var_of_sense": []
+      "reverse": "",
+      "note": "('(ji) wog', 'grammar')",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-03-08T07:17:53Z"

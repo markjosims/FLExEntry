@@ -2,7 +2,7 @@
   "headword": "ʃəːn",
   "entry_id": "ʃəːn_9ff6ef51-bc0d-4bbc-b462-525c60f0df2f",
   "morph_type": "stem",
-  "pronunciation": null,
+  "pronunciation": "",
   "variant": null,
   "note": null,
   "sense": [
@@ -13,9 +13,9 @@
         "en": "cabelo"
       },
       "def": null,
-      "reverse": null,
-      "note": null,
-      "var_of_sense": []
+      "reverse": "",
+      "note": "",
+      "var_of_sense": {}
     }
   ],
   "date": "2018-06-20T05:09:54Z"
