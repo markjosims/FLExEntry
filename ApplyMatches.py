@@ -28,21 +28,24 @@ def main():
         variants = row['variants'] # list of dicts
         
         entry_dict = get_json_dict(entry_id)
+        transfer_variants(variants, entry_dict)
         
-        merge_dicts(variants, entry_dict)
+        # update in_df so transferred tags are removed
+        in_df.at[index, 'variants'] = variants
 
 # adds all entries from dict update to dict source
 # asserts that two dicts have no keys in common
-def merge_dicts(source, update):
+def transfer_variants(source, update):
     assert type(source) is dict
     assert type(update) is dict      
     assert not any(k in source for k in update)
     assert not any(k in update for k in source)
     
-    for k, v in update:
-        pass
-    
-    source.update(update)
+    for k, v in update.copy():
+        if k in default_tags:
+            source[k] = update.pop(k)
+        if 'DELETE' in k:
+            update.pop(k)
 
 def rep_all(s, chars, tgt):
     for c in chars:

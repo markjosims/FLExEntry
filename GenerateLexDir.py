@@ -35,7 +35,6 @@ def main():
 
 def generate_lex_dir(df1, df2):
     clean_dir(r'\entries\*.json')
-    global variants, senses_df, headwords
     entries_df = df1
     senses_df = df2
     # indices of entries that aren't variants
@@ -67,7 +66,7 @@ def generate_lex_dir(df1, df2):
     entry_vars_col(headwords, variants)
 
     # write to json
-    write_json_dir()
+    write_json_dir(headwords)
 
 @time_exec
 def sense_vars_col(senses_df, variants):
@@ -152,7 +151,7 @@ def get_senses_from_id(entry_id, these_senses, parent_df, senses_df):
 
 # creates a json file for each headword
 @time_exec
-def write_json_dir():
+def write_json_dir(headwords):
     for index, row in headwords.iterrows():
         data = dict(row)
         data.pop('index')
