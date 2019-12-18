@@ -3,11 +3,11 @@
   "entry_id": "d’uuj_9b865bc0-e7e1-48b9-91d4-0903c2f55f8c",
   "morph_type": "stem",
   "pronunciation": "duʔuj",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1c252e17-d02d-4c19-b0b9-2e744c8a53a5",
+  "sense": {
+    "1c252e17-d02d-4c19-b0b9-2e744c8a53a5": {
       "pos": "Noun",
       "gloss": {
         "en": "fish.poison",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

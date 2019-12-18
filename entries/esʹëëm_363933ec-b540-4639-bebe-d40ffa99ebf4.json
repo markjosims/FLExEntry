@@ -3,16 +3,16 @@
   "entry_id": "esʹëëm_363933ec-b540-4639-bebe-d40ffa99ebf4",
   "morph_type": "stem",
   "pronunciation": "eʃə̰:m",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "ba794672-8472-4124-b5f7-1edbb9cff671",
+  "sense": {
+    "ba794672-8472-4124-b5f7-1edbb9cff671": {
       "pos": "v",
       "gloss": {
         "pt": "vender"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'esëëm_16100f6e-6631-4c79-a44b-51edf7117834': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

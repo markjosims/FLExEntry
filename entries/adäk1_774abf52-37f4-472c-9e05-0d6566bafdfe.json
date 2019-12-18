@@ -3,16 +3,16 @@
   "entry_id": "adäk1_774abf52-37f4-472c-9e05-0d6566bafdfe",
   "morph_type": "stem",
   "pronunciation": "adʌk",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "e3697b1e-4f93-4ceb-ad0c-61c4a1dfff2d",
+  "sense": {
+    "e3697b1e-4f93-4ceb-ad0c-61c4a1dfff2d": {
       "pos": "v",
       "gloss": {
         "pt": "estar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'padäg1_82f3367d-8f49-4938-b2ad-fda2f8534143': 'Não indicativo plural', 'padëëk1_c3d960d6-c8b1-4659-b1e3-8e2b632633bb': 'Plural', 'adäg_d289f0e6-47b0-44cd-86fb-ad0272176d13': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

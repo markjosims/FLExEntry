@@ -3,16 +3,32 @@
   "entry_id": "etʹẽẽh_4197a191-56a9-4b31-a19b-7db11ecd7571",
   "morph_type": "stem",
   "pronunciation": "etḛ̃:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "etẽẽng_a0db919e-cf78-4b10-a7cc-cca6acba0bd0": {
+      "headword": "etẽẽng",
+      "morph_type": "stem",
+      "pronunciation": "etɛ̃:ŋ",
+      "these_vars": "",
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": null,
+      "date": "2018-03-22T17:29:32Z",
+      "var_type": "Não indicativo"
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "16ea75bd-34bc-4cde-9c54-17f1298a64d9",
+  "sense": {
+    "16ea75bd-34bc-4cde-9c54-17f1298a64d9": {
       "pos": "v",
       "gloss": {
         "pt": "bater.em.metal"
@@ -22,8 +38,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-22T17:28:59Z"
 }

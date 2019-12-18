@@ -3,11 +3,11 @@
   "entry_id": "kamag_bc987b37-12a6-49c4-a1b8-209cf0f6a9f6",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5c356c25-ce12-4ca2-ac95-f94fb53e4500",
+  "sense": {
+    "5c356c25-ce12-4ca2-ac95-f94fb53e4500": {
       "pos": "Noun",
       "gloss": {
         "en": "defunto"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

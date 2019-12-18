@@ -3,16 +3,16 @@
   "entry_id": "gʉʉt_dc396093-f137-47ef-80dc-2bb879a4cf28",
   "morph_type": "stem",
   "pronunciation": "gəːt",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b5687563-4e80-4e4c-8047-86179cf6fae2",
+  "sense": {
+    "b5687563-4e80-4e4c-8047-86179cf6fae2": {
       "pos": "Verb",
       "gloss": {
         "en": "be.standing"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "dó1_b34c70de-07c4-4851-930b-b7d6ef30937c",
   "morph_type": "stem",
   "pronunciation": "dɔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "3322dadc-8d0c-4448-a5bd-c32a1f45c1d6",
+  "sense": {
+    "3322dadc-8d0c-4448-a5bd-c32a1f45c1d6": {
       "pos": "adv",
       "gloss": {
         "pt": "ainda"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -1,26 +1,18 @@
 {
-  "headword": "wao taah",
-  "entry_id": "wao taah_002ca005-1366-4a7b-aff1-ac10db10b768",
-  "morph_type": "phrase",
-  "pronunciation": "wa\u0294o\u0294 ta:h",
+  "headword": "ta=b\u00f3g",
+  "entry_id": "ta=b\u00f3g_ffd05df4-c222-4abc-9780-d5e06413c1f1",
+  "morph_type": "stem",
+  "pronunciation": "b\u0254g\u02fa",
   "variant": null,
-  "note": null,
-  "sense": [
-    {
-      "sense_id": "802366cc-fff6-4c35-bff4-a403f4b4130d",
-      "pos": "Noun",
-      "gloss": {
-        "en": "small.basket",
-        "pt": "cesto.pequeno"
-      },
-      "def": {
-        "en": "basket; small",
-        "pt": "cesto pequeno"
-      },
-      "reverse": "",
-      "note": "",
-      "var_of_sense": []
-    }
+  "note": [
+    [
+      "Fieldnotes Epps/Obert; 2018",
+      "bibliography"
+    ]
   ],
-  "date": "2019-01-14T03:46:55Z"
+  "sense": [
+    "3469ae1b-cc4e-4316-8f5b-f6ad6e92225f"
+  ],
+  "date": "2018-03-08T07:17:53Z",
+  "these_vars": []
 }

@@ -3,11 +3,11 @@
   "entry_id": "karasee2_430d97ec-8027-4c94-a20c-9abe0c446010",
   "morph_type": "stem",
   "pronunciation": "kaɾaʃe:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "9bc52c52-a082-4024-8c95-1b2b4d904241",
+  "sense": {
+    "9bc52c52-a082-4024-8c95-1b2b4d904241": {
       "pos": "Noun",
       "gloss": {
         "en": "niece/nephew",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

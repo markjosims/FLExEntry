@@ -3,11 +3,11 @@
   "entry_id": "gawajad_42f86ba0-9354-4a12-85ca-fb6bb7981ef6",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "51c7984c-72b2-48b7-8a3c-2175df367d62",
+  "sense": {
+    "51c7984c-72b2-48b7-8a3c-2175df367d62": {
       "pos": "Noun",
       "gloss": {
         "en": "veado"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

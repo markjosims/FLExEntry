@@ -3,16 +3,43 @@
   "entry_id": "tʹaah_58825302-35ee-4cc7-ba14-51e09b12f26f",
   "morph_type": "stem",
   "pronunciation": "ta̰:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "txaah_76c1c025-6ed8-4cf0-9263-067a23730875": {
+      "headword": "txaah",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:24:13Z",
+      "var_type": [
+        "Weir",
+        "son"
+      ]
+    },
+    "ta̰ːh_837c9033-a858-4c46-805d-0c6f7aaa1dbe": {
+      "headword": "ta̰ːh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:25:13Z",
+      "var_type": [
+        "Martins",
+        "filho (pl taːh)"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "000ae3b8-8b94-4104-a444-cd9775352e8c",
+  "sense": {
+    "000ae3b8-8b94-4104-a444-cd9775352e8c": {
       "pos": "n",
       "gloss": {
         "pt": "filho"
@@ -22,8 +49,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'tʹaa_1946e94e-257b-4abb-ba27-f36c932c0ca0': 'Unspecified Variant', 'taah_99b0a266-dc6e-4a1b-8497-c387452a1e64': 'Plural', 'tah ỹỹ_c75fda82-11b8-4ddd-bdc3-0158fbd996ce': '1S Possessivo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "hehʹoos_926b4665-f0d5-44ff-a36c-deda9950778a",
   "morph_type": "stem",
   "pronunciation": "heho̰:ʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b63b5337-2f97-4c38-a4cc-335c7d99ee77",
+  "sense": {
+    "b63b5337-2f97-4c38-a4cc-335c7d99ee77": {
       "pos": "v",
       "gloss": {
         "pt": "molhar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'hehos_4f8b69c2-57d9-4904-91aa-2a5470eea28e': 'Habitual', 'hehoots_9d94fe0a-9859-4994-a991-bc666f320016': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

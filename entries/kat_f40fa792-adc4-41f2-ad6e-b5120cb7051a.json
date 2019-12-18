@@ -3,11 +3,11 @@
   "entry_id": "kat_f40fa792-adc4-41f2-ad6e-b5120cb7051a",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "f53d601b-a0b3-4187-b755-dc9583860288",
+  "sense": {
+    "f53d601b-a0b3-4187-b755-dc9583860288": {
       "pos": "Noun",
       "gloss": {
         "en": "tia"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "rakonan_bc08bf85-fb0c-4686-8a4c-522ff7904200",
   "morph_type": "stem",
   "pronunciation": "ɾakonan",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0cb0fc95-2e15-4b30-9087-5a30543ef0ac",
+  "sense": {
+    "0cb0fc95-2e15-4b30-9087-5a30543ef0ac": {
       "pos": "Noun",
       "gloss": {
         "en": "tucunaré",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "saroor1_ca5bfa8b-4463-4b3d-a0be-200a2bac12b9",
   "morph_type": "stem",
   "pronunciation": "ʃaɾo:ɾ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "5dfb34b2-8e58-4111-988e-49e76cc7ee52",
+  "sense": {
+    "5dfb34b2-8e58-4111-988e-49e76cc7ee52": {
       "pos": "n",
       "gloss": {
         "pt": "roupa"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-23T16:15:56Z"
 }

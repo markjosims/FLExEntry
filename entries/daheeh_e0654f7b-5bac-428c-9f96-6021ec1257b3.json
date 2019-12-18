@@ -3,16 +3,30 @@
   "entry_id": "daheeh_e0654f7b-5bac-428c-9f96-6021ec1257b3",
   "morph_type": "stem",
   "pronunciation": "dahe:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "dahééh1_f421a677-2b60-483b-9e40-2b88cbdc4fba": {
+      "headword": "dahééh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T02:13:49Z",
+      "var_type": [
+        "Weir",
+        "1990; also"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "6925dae7-a70d-4e96-a4d6-ab97c8466cc4",
+  "sense": {
+    "6925dae7-a70d-4e96-a4d6-ab97c8466cc4": {
       "pos": "posp",
       "gloss": {
         "pt": "junto.com"
@@ -22,8 +36,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

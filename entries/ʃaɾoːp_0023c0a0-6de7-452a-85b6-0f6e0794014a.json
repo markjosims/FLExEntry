@@ -3,11 +3,11 @@
   "entry_id": "ʃaɾoːp_0023c0a0-6de7-452a-85b6-0f6e0794014a",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "e92169c5-ce3e-4a09-9da4-f6860afd0478",
+  "sense": {
+    "e92169c5-ce3e-4a09-9da4-f6860afd0478": {
       "pos": "Noun",
       "gloss": {
         "en": "cipó"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": []
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

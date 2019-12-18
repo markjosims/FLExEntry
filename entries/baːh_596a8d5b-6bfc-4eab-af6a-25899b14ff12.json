@@ -3,11 +3,11 @@
   "entry_id": "baːh_596a8d5b-6bfc-4eab-af6a-25899b14ff12",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "df04ebfd-dfe5-4375-aa76-0dacf4fe4ace",
+  "sense": {
+    "df04ebfd-dfe5-4375-aa76-0dacf4fe4ace": {
       "pos": "adv?",
       "gloss": {
         "en": "meio das costas"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "kalaak_6c0ebcef-768a-4881-8c44-9ab7a2e1b943",
   "morph_type": "stem",
   "pronunciation": "kaɾaːk",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a6c3238e-46d5-4c6b-9a8c-6d7a9329c4a1",
+  "sense": {
+    "a6c3238e-46d5-4c6b-9a8c-6d7a9329c4a1": {
       "pos": "Noun",
       "gloss": {
         "en": "hen"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "jɔ(ː)n_6baf0fad-5cbf-43ae-ab67-5b57b7caaccd",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "18b3c387-e206-412f-b0dc-5b0776ecbe6c",
+  "sense": {
+    "18b3c387-e206-412f-b0dc-5b0776ecbe6c": {
       "pos": "Noun",
       "gloss": {
         "en": "tamanduá"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

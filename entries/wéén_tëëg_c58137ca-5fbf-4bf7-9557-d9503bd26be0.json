@@ -3,16 +3,62 @@
   "entry_id": "wéén tëëg_c58137ca-5fbf-4bf7-9557-d9503bd26be0",
   "morph_type": "phrase",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "tëëg_b227568f-8dc2-4857-96ad-54678f3975b5": {
+      "headword": "tëëg",
+      "morph_type": "stem",
+      "pronunciation": "tə:g",
+      "these_vars": {
+        "təːg_d66c1b30-0dde-4131-8a4c-b3729eefddf7": {
+          "headword": "təːg",
+          "morph_type": "stem",
+          "pronunciation": "",
+          "these_vars": "",
+          "note": null,
+          "sense": null,
+          "date": "2018-06-20T03:33:08Z",
+          "var_type": [
+            "Barbosa",
+            "lenha"
+          ]
+        }
+      },
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "198a656a-bddb-463f-8901-a04cb3d349e6": {
+          "pos": "n",
+          "gloss": {
+            "pt": "madeira"
+          },
+          "def": {
+            "pt": "madeira; lenha; fogo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": [
+        "true",
+        "Unspecified Complex Form"
+      ]
+    }
+  },
   "note": [
     [
       "Fielndotes Epps/Obert; 2018z",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "7ab7912a-ba94-4a25-bb50-ddcf8a772df9",
+  "sense": {
+    "7ab7912a-ba94-4a25-bb50-ddcf8a772df9": {
       "pos": "Noun",
       "gloss": {
         "en": "calabash.tree",
@@ -24,8 +70,8 @@
       },
       "reverse": "[('calabash tree', 'en'), ('árvore de cabaça', 'pt')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-09-04T00:46:00Z"
 }

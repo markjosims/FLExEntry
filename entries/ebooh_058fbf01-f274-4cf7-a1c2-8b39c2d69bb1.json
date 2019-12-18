@@ -3,16 +3,16 @@
   "entry_id": "ebooh_058fbf01-f274-4cf7-a1c2-8b39c2d69bb1",
   "morph_type": "stem",
   "pronunciation": "ebo:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "98417052-1b46-4bec-8fe4-035586275105",
+  "sense": {
+    "98417052-1b46-4bec-8fe4-035586275105": {
       "pos": "v",
       "gloss": {
         "pt": "caçar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'eboh_479d7d4d-db5a-43de-ab6b-6ec74ab9881e': 'Não indicativo', 'ebʹooh_9993bde4-2888-40e6-b27e-800fa235ee59': 'Plural'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

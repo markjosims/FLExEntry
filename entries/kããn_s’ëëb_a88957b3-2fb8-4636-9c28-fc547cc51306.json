@@ -3,16 +3,16 @@
   "entry_id": "kããn s’ëëb_a88957b3-2fb8-4636-9c28-fc547cc51306",
   "morph_type": "phrase",
   "pronunciation": "kã:n ʃəʔəb̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "lit. cana feito",
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f035b45c-778c-47e1-b960-a5c5268c0195",
+  "sense": {
+    "f035b45c-778c-47e1-b960-a5c5268c0195": {
       "pos": "Noun",
       "gloss": {
         "en": "sugar",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

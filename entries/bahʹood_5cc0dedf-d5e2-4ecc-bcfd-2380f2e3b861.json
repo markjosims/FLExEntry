@@ -3,16 +3,16 @@
   "entry_id": "bahʹood_5cc0dedf-d5e2-4ecc-bcfd-2380f2e3b861",
   "morph_type": "stem",
   "pronunciation": "baho̰:d",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f433bb50-cdaa-4c3f-a78e-2cd98dcdce85",
+  "sense": {
+    "f433bb50-cdaa-4c3f-a78e-2cd98dcdce85": {
       "pos": "n",
       "gloss": {
         "pt": "temporal"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

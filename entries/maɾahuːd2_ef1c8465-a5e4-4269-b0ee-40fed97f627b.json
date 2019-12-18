@@ -3,11 +3,11 @@
   "entry_id": "maɾahuːd2_ef1c8465-a5e4-4269-b0ee-40fed97f627b",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "576c1d73-3876-4f46-bc4e-c81f86d84341",
+  "sense": {
+    "576c1d73-3876-4f46-bc4e-c81f86d84341": {
       "pos": "Noun",
       "gloss": {
         "en": "solteiro"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "wabu_84cbb199-70f7-4c20-a174-1eeec4c14225",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "2fa64abe-8789-4608-b11c-6673593a90a2",
+  "sense": {
+    "2fa64abe-8789-4608-b11c-6673593a90a2": {
       "pos": "n",
       "gloss": {
         "en": "pirarucu.fish",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

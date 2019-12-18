@@ -3,11 +3,11 @@
   "entry_id": "pɔːʔ_abd72bf1-41ab-46d9-8ee8-9d92b5dc1615",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "bdeb62c5-0d1b-430f-a59f-d2833a0d0d04",
+  "sense": {
+    "bdeb62c5-0d1b-430f-a59f-d2833a0d0d04": {
       "pos": "Noun",
       "gloss": {
         "en": "nariz"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,16 +3,32 @@
   "entry_id": "hõm_4a712cc3-64f7-4370-a697-8992d4110af5",
   "morph_type": "root",
   "pronunciation": "hõm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "kõm_3ade4628-db94-4ccf-949d-5a7dd7f9a3dc": {
+      "headword": "kõm",
+      "morph_type": "root",
+      "pronunciation": "kõm",
+      "these_vars": "",
+      "note": [
+        [
+          "grafia não certa",
+          "bibliography"
+        ]
+      ],
+      "sense": null,
+      "date": "2018-03-08T16:55:41Z",
+      "var_type": "Unspecified Variant"
+    }
+  },
   "note": [
     [
       "encontrado em cartilha 4; lição 7",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f8004460-d3fe-4c66-bf50-ba9eba0950ee",
+  "sense": {
+    "f8004460-d3fe-4c66-bf50-ba9eba0950ee": {
       "pos": "?",
       "gloss": {
         "pt": "?"
@@ -22,8 +38,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

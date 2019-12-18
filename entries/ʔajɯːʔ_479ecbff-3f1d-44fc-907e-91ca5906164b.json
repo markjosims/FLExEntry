@@ -3,11 +3,11 @@
   "entry_id": "ʔajɯːʔ_479ecbff-3f1d-44fc-907e-91ca5906164b",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "b8975cd4-98ac-4c2a-a061-98710a997288",
+  "sense": {
+    "b8975cd4-98ac-4c2a-a061-98710a997288": {
       "pos": "Noun",
       "gloss": {
         "en": "homem (pl ʔajɯ̰ːʔ)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "jajé     _ff33ec40-692f-454d-915f-ee99245cc6f7",
   "morph_type": "stem",
   "pronunciation": "jajɛ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "68581f10-629c-47c8-b21e-dc12a51f30a7",
+  "sense": {
+    "68581f10-629c-47c8-b21e-dc12a51f30a7": {
       "pos": "adv",
       "gloss": {
         "pt": "lá"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-27T03:09:54Z"
 }

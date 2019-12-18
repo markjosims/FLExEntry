@@ -3,16 +3,16 @@
   "entry_id": "jari1_8ef2bb28-e416-4ac6-a057-c9b7793195b1",
   "morph_type": "root",
   "pronunciation": "jaˈriʔ]",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "7918e573-906f-40bf-a99b-89ce51390ee1",
+  "sense": {
+    "7918e573-906f-40bf-a99b-89ce51390ee1": {
       "pos": "Noun",
       "gloss": {
         "en": "acouchi.tree",
@@ -24,8 +24,8 @@
       },
       "reverse": "[('breu', 'pt'), ('acouchi tree', 'en')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-09-03T23:57:56Z"
 }

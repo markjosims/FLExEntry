@@ -3,16 +3,30 @@
   "entry_id": "tʹëëng_fddfb54c-17be-4610-a9d5-8a92c52ddb9e",
   "morph_type": "stem",
   "pronunciation": "tə̰:ŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "tə̰ːŋ_0cda8480-70b4-4ab5-aad4-b1e682a0bf8a": {
+      "headword": "tə̰ːŋ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:33:56Z",
+      "var_type": [
+        "Barbosa",
+        "anta"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c0a6c825-9f69-489a-a521-a815b1afeffa",
+  "sense": {
+    "c0a6c825-9f69-489a-a521-a815b1afeffa": {
       "pos": "n",
       "gloss": {
         "pt": "anta"
@@ -22,8 +36,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

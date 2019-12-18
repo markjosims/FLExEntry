@@ -3,16 +3,16 @@
   "entry_id": "hajaar_8214f460-f0df-4453-97a7-9b50fa6d0cb4",
   "morph_type": "stem",
   "pronunciation": "haˈja:ɾǝ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "cd6b8162-97b0-43ac-b876-69675eeaa301",
+  "sense": {
+    "cd6b8162-97b0-43ac-b876-69675eeaa301": {
       "pos": "Noun",
       "gloss": {
         "en": "amazon.dolphin",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T23:09:15Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "abang_c231c7a7-80a3-4ddf-91a7-d9852624e44d",
   "morph_type": "stem",
   "pronunciation": "abaŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "fd034ead-ae35-414c-aad2-4b9e0f677a10",
+  "sense": {
+    "fd034ead-ae35-414c-aad2-4b9e0f677a10": {
       "pos": "adj",
       "gloss": {
         "pt": "forte"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'abaah_3bf47a35-c68f-4f2b-ae4a-3d5fbfc00be2': 'Não indicativo', 'eba(h)_7865f86a-bc3f-4cbc-94a2-1b2a25389631': 'Plural', 'abaa_a63cbbfd-f8a0-4c22-91de-25701e663018': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

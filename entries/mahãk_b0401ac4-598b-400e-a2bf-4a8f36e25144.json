@@ -3,16 +3,16 @@
   "entry_id": "mahãk_b0401ac4-598b-400e-a2bf-4a8f36e25144",
   "morph_type": "stem",
   "pronunciation": "mahãk",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8f285239-8467-4034-a22f-4789b0c9253f",
+  "sense": {
+    "8f285239-8467-4034-a22f-4789b0c9253f": {
       "pos": "v",
       "gloss": {
         "pt": "temperar.comida"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'mahãg_2e2ca2cc-1788-4303-bf33-129ffd28dd59': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "tahũũk_c560af5a-d243-4a19-8738-f3c43449f3b8",
   "morph_type": "stem",
   "pronunciation": "tahũ:k",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "391d2895-022d-4e26-9e36-1d6993578635",
+  "sense": {
+    "391d2895-022d-4e26-9e36-1d6993578635": {
       "pos": "v",
       "gloss": {
         "pt": "roncar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'ahũũk_3e8c2dfa-419e-441c-b8a7-5792c1618c8d': 'Unspecified Variant', 'tahʹũũg_7aa8a715-eb2d-4621-9155-2f1f0e2ba1a0': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ehë̃p_df3af308-6431-4a3e-aea7-e9264917d791",
   "morph_type": "stem",
   "pronunciation": "ʔehə̃p̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "4778e212-2f81-4496-b99d-294b71d6a3fa",
+  "sense": {
+    "4778e212-2f81-4496-b99d-294b71d6a3fa": {
       "pos": "Verb",
       "gloss": {
         "en": "grate",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

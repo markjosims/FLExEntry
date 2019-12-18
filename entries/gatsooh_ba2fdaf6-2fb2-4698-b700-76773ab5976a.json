@@ -3,16 +3,16 @@
   "entry_id": "gatsooh_ba2fdaf6-2fb2-4698-b700-76773ab5976a",
   "morph_type": "stem",
   "pronunciation": "gaɟo:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "9d4b2d21-64aa-429e-98c0-f0ebd109f1b1",
+  "sense": {
+    "9d4b2d21-64aa-429e-98c0-f0ebd109f1b1": {
       "pos": "n op",
       "gloss": {
         "pt": "grelo"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

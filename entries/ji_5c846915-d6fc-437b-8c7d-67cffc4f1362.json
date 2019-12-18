@@ -3,16 +3,60 @@
   "entry_id": "ji_5c846915-d6fc-437b-8c7d-67cffc4f1362",
   "morph_type": "stem",
   "pronunciation": "ji",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "jiʔ1_31b0b311-2998-49fa-8b37-12703241099c": {
+      "headword": "jiʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T02:47:51Z",
+      "var_type": "Martins"
+    },
+    "ji wii_a32a18a4-6f7b-485f-970d-b32459229373": {
+      "headword": "ji wii",
+      "morph_type": "phrase",
+      "pronunciation": "jiʔˈwi:ʔ",
+      "these_vars": "",
+      "note": [
+        [
+          "Fieldnotes Epps/Obert; 2018",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "05113311-c10a-487a-9113-cc9a011fe458": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "body.hair",
+            "pt": "pelo.corpo"
+          },
+          "def": {
+            "en": "body hair",
+            "pt": "pelo do corpo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-07-06T20:27:47Z",
+      "var_type": [
+        "true",
+        "Unspecified Complex Form"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "3bf27487-edce-4483-aa54-0f2a1ae679ed",
+  "sense": {
+    "3bf27487-edce-4483-aa54-0f2a1ae679ed": {
       "pos": "pro",
       "gloss": {
         "pt": "gente"
@@ -22,8 +66,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

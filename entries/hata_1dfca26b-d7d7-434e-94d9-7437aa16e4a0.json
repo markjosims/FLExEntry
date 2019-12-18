@@ -3,16 +3,16 @@
   "entry_id": "hata_1dfca26b-d7d7-434e-94d9-7437aa16e4a0",
   "morph_type": "stem",
   "pronunciation": "hata",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "11fdfbfa-53aa-48c9-aafc-e5d7e21ee9b4",
+  "sense": {
+    "11fdfbfa-53aa-48c9-aafc-e5d7e21ee9b4": {
       "pos": "n",
       "gloss": {
         "pt": "companheiro"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'hataa_7341f5d4-0dea-4b5d-b519-76b8be9caaca': 'Plural'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

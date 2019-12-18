@@ -3,16 +3,16 @@
   "entry_id": "masʹããh_1cea3332-ac1d-44f0-ad97-8d82420abd3c",
   "morph_type": "stem",
   "pronunciation": "maʃã̰:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "7d518733-f39a-48c8-aaca-fa05792a8534",
+  "sense": {
+    "7d518733-f39a-48c8-aaca-fa05792a8534": {
       "pos": "n",
       "gloss": {
         "pt": "xerimbabo"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'masããh_d3e5e124-59db-47e3-b010-06d79c06c710': 'Plural'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

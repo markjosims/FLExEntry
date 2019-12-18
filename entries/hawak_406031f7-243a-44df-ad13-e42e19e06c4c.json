@@ -3,16 +3,16 @@
   "entry_id": "hawak_406031f7-243a-44df-ad13-e42e19e06c4c",
   "morph_type": "stem",
   "pronunciation": "haˈwak˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fiednotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "9a35ebb1-3ebd-4a9a-a1ee-fe8ee45c1ee7",
+  "sense": {
+    "9a35ebb1-3ebd-4a9a-a1ee-fe8ee45c1ee7": {
       "pos": "adj?",
       "gloss": {
         "en": "white",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-11T00:06:02Z"
 }

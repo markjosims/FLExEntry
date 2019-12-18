@@ -3,16 +3,16 @@
   "entry_id": "pʹãã_9fab38fa-5fc0-4ee4-b82e-c53f098b21ac",
   "morph_type": "stem",
   "pronunciation": "pã̰:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f275b2ad-cf9d-4d4b-9d62-cae59f0e18e3",
+  "sense": {
+    "f275b2ad-cf9d-4d4b-9d62-cae59f0e18e3": {
       "pos": "conj",
       "gloss": {
         "pt": "devido"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

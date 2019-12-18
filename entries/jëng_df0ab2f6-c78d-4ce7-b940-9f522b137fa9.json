@@ -3,16 +3,16 @@
   "entry_id": "jëng_df0ab2f6-c78d-4ce7-b940-9f522b137fa9",
   "morph_type": "stem",
   "pronunciation": "jəŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c02501ec-c251-460c-8ea9-0a77d9e5f367",
+  "sense": {
+    "c02501ec-c251-460c-8ea9-0a77d9e5f367": {
       "pos": "n",
       "gloss": {
         "pt": "sapo.sp"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

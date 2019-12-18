@@ -3,16 +3,16 @@
   "entry_id": "tóóh_18f789fd-8b37-49ce-9f44-303247b20dde",
   "morph_type": "stem",
   "pronunciation": "tɔːh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d379da3f-efe2-4e2f-b1d4-7c3bfa01bd2c",
+  "sense": {
+    "d379da3f-efe2-4e2f-b1d4-7c3bfa01bd2c": {
       "pos": "Noun",
       "gloss": {
         "en": "wild.pig"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ʃɤːw_009b3e07-21aa-4c01-aeda-2447f5bc3e94",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "2e7ced09-86a7-4ad6-a7a0-e36f9523d65a",
+  "sense": {
+    "2e7ced09-86a7-4ad6-a7a0-e36f9523d65a": {
       "pos": "Noun",
       "gloss": {
         "en": "pajé (pl sɤ̰ːw)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

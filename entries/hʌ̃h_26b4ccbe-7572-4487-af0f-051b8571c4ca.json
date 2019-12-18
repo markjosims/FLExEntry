@@ -3,11 +3,11 @@
   "entry_id": "hʌ̃h_26b4ccbe-7572-4487-af0f-051b8571c4ca",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "2cf0af13-a581-44af-8efa-53491821bdcb",
+  "sense": {
+    "2cf0af13-a581-44af-8efa-53491821bdcb": {
       "pos": "Verb",
       "gloss": {
         "en": "tocar flauta; forma marcada"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

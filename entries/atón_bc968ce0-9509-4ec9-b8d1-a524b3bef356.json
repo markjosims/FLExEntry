@@ -3,16 +3,16 @@
   "entry_id": "atón_bc968ce0-9509-4ec9-b8d1-a524b3bef356",
   "morph_type": "stem",
   "pronunciation": "atɔn",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a7ee66be-0850-4c03-875b-74123fd737e3",
+  "sense": {
+    "a7ee66be-0850-4c03-875b-74123fd737e3": {
       "pos": "v",
       "gloss": {
         "pt": "carregar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

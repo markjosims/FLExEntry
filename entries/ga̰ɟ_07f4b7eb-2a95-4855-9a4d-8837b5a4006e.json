@@ -3,11 +3,11 @@
   "entry_id": "ga̰ɟ_07f4b7eb-2a95-4855-9a4d-8837b5a4006e",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5a92a4b9-5c68-4cbb-8d09-4b2115434816",
+  "sense": {
+    "5a92a4b9-5c68-4cbb-8d09-4b2115434816": {
       "pos": "Noun",
       "gloss": {
         "en": "areia"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

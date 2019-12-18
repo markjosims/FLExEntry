@@ -3,11 +3,11 @@
   "entry_id": "ʔakaːj_2af0d80b-1982-400d-ae66-8c93fcf68039",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "8ae5181b-cda7-4e3c-baa8-8ae86830291c",
+  "sense": {
+    "8ae5181b-cda7-4e3c-baa8-8ae86830291c": {
       "pos": "Noun",
       "gloss": {
         "en": "caju"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "nãbɤːh_651b7186-2efe-494e-bd70-791d86938189",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "7d3181fb-5f14-4f1f-b186-25785ebecb87",
+  "sense": {
+    "7d3181fb-5f14-4f1f-b186-25785ebecb87": {
       "pos": "Noun",
       "gloss": {
         "en": "saliva"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

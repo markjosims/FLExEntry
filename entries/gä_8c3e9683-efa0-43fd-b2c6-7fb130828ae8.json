@@ -3,7 +3,8 @@
   "entry_id": "gä_8c3e9683-efa0-43fd-b2c6-7fb130828ae8",
   "morph_type": "stem",
   "pronunciation": "gʌ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "e8fdaa09-effb-413a-b981-cc07f2c1760a",
+  "sense": {
+    "e8fdaa09-effb-413a-b981-cc07f2c1760a": {
       "pos": "v",
       "gloss": {
         "en": "be.in.hammock",
@@ -25,8 +25,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

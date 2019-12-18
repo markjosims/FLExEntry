@@ -3,16 +3,16 @@
   "entry_id": "jadatok_822037e0-e6c9-4f26-b81f-c14857de83fb",
   "morph_type": "stem",
   "pronunciation": "jadatok",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b1175a2d-aa4a-4330-b39f-fa0a408497a5",
+  "sense": {
+    "b1175a2d-aa4a-4330-b39f-fa0a408497a5": {
       "pos": "v",
       "gloss": {
         "pt": "inclinado"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'jadatog_3fe4e340-414b-45a8-9f44-8fa4206a37c8': 'Não indicativo', 'nu jadatoog_e201b7a5-265d-4e84-8d16-27c0ea05ac4b': 'Unspecified Variant'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

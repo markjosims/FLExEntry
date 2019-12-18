@@ -3,11 +3,11 @@
   "entry_id": "mabaah2_a7203acf-034b-4299-9e1a-f9382783d0ae",
   "morph_type": "stem",
   "pronunciation": "mãba:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "3061e908-7a43-4898-81e5-474186975516",
+  "sense": {
+    "3061e908-7a43-4898-81e5-474186975516": {
       "pos": "Noun",
       "gloss": {
         "en": "honey",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

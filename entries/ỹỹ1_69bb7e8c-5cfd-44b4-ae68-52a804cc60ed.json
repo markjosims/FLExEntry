@@ -3,11 +3,11 @@
   "entry_id": "ỹỹ1_69bb7e8c-5cfd-44b4-ae68-52a804cc60ed",
   "morph_type": "root",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "4000a589-7062-4b5d-be82-89258c2e733c",
+  "sense": {
+    "4000a589-7062-4b5d-be82-89258c2e733c": {
       "pos": "pro",
       "gloss": {
         "en": "1sg.POSS.SG",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-02T15:00:05Z"
 }

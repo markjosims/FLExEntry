@@ -3,16 +3,16 @@
   "entry_id": "tsapab_8da01899-013b-4338-b5c2-89a27f1a2718",
   "morph_type": "stem",
   "pronunciation": "tʃ’apab˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a8c772a3-6cf4-4d3c-af42-0be0bed45c5f",
+  "sense": {
+    "a8c772a3-6cf4-4d3c-af42-0be0bed45c5f": {
       "pos": "Noun",
       "gloss": {
         "en": "mud",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-06T19:04:04Z"
 }

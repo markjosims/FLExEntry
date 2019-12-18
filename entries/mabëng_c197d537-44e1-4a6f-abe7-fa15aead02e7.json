@@ -3,11 +3,11 @@
   "entry_id": "mabëng_c197d537-44e1-4a6f-abe7-fa15aead02e7",
   "morph_type": "stem",
   "pronunciation": "mãbəgŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d2037ec6-96f8-4116-acb4-69375e82081a",
+  "sense": {
+    "d2037ec6-96f8-4116-acb4-69375e82081a": {
       "pos": "Noun",
       "gloss": {
         "en": "green.acouchi",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

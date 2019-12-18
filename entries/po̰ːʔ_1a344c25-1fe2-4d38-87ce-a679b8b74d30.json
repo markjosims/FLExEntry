@@ -3,11 +3,11 @@
   "entry_id": "po̰ːʔ_1a344c25-1fe2-4d38-87ce-a679b8b74d30",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "2013ecbc-5f4a-4cd3-a741-d2c7ae4696b6",
+  "sense": {
+    "2013ecbc-5f4a-4cd3-a741-d2c7ae4696b6": {
       "pos": "?",
       "gloss": {
         "en": "estragado"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "tɨːw_c9ecfce1-ed8a-4335-8793-9b265a3f6bd5",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "eec7f29b-aec8-4b41-8ec2-056d8b6468c6",
+  "sense": {
+    "eec7f29b-aec8-4b41-8ec2-056d8b6468c6": {
       "pos": "Noun",
       "gloss": {
         "en": "caminho"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

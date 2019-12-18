@@ -3,16 +3,16 @@
   "entry_id": "gawajaah2_a2ce689e-bdf8-4a72-86b5-2372cff080e8",
   "morph_type": "stem",
   "pronunciation": "gawaja:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c9271f93-f481-42b2-a37d-27286479ac5a",
+  "sense": {
+    "c9271f93-f481-42b2-a37d-27286479ac5a": {
       "pos": "v",
       "gloss": {
         "pt": "correr.atrás.de.caça"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'gawaja(h)_70a91ef0-c2f3-423a-9b33-f394a9ea55af': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

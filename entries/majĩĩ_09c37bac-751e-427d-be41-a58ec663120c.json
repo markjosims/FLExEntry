@@ -3,16 +3,16 @@
   "entry_id": "majĩĩ_09c37bac-751e-427d-be41-a58ec663120c",
   "morph_type": "stem",
   "pronunciation": "majĩ:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "cda22660-faca-483a-8a4f-06875d500273",
+  "sense": {
+    "cda22660-faca-483a-8a4f-06875d500273": {
       "pos": "n",
       "gloss": {
         "pt": "inimigo"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'majẽ ỹỹ_6c0165cc-4959-42c0-93b9-412aca283abd': '1S Possessivo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "sa_9258a56c-b681-4637-922d-c15c3cc4d777",
   "morph_type": "stem",
   "pronunciation": "ʃa",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "4f7f47b8-b326-4da4-92a7-42a2292270f8",
+  "sense": {
+    "4f7f47b8-b326-4da4-92a7-42a2292270f8": {
       "pos": "pro",
       "gloss": {
         "pt": "3P"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

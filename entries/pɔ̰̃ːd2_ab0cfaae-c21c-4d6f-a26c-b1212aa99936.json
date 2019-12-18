@@ -3,11 +3,11 @@
   "entry_id": "pɔ̰̃ːd2_ab0cfaae-c21c-4d6f-a26c-b1212aa99936",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "768a0d08-7acd-4dc5-8ee2-c192a6ff752c",
+  "sense": {
+    "768a0d08-7acd-4dc5-8ee2-c192a6ff752c": {
       "pos": "Noun",
       "gloss": {
         "en": "peçonha"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

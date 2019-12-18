@@ -3,11 +3,11 @@
   "entry_id": "p’yym1_c58f3f30-b24e-49b3-89c7-a8dbbcc5fc5b",
   "morph_type": "stem",
   "pronunciation": "pɨʔɨbm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "0ff02acc-9504-470e-9510-8732c92ad6ee",
+  "sense": {
+    "0ff02acc-9504-470e-9510-8732c92ad6ee": {
       "pos": "Noun",
       "gloss": {
         "en": "curare",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

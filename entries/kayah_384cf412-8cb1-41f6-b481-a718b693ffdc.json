@@ -3,16 +3,16 @@
   "entry_id": "kayah_384cf412-8cb1-41f6-b481-a718b693ffdc",
   "morph_type": "stem",
   "pronunciation": "kajah",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1986",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d77f95a1-7fb5-4d01-8bb9-fcdac0f24568",
+  "sense": {
+    "d77f95a1-7fb5-4d01-8bb9-fcdac0f24568": {
       "pos": "adv?",
       "gloss": {
         "en": "slowly"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

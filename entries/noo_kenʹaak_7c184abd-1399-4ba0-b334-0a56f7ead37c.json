@@ -3,16 +3,16 @@
   "entry_id": "noo kenʹaak_7c184abd-1399-4ba0-b334-0a56f7ead37c",
   "morph_type": "phrase",
   "pronunciation": "no: kena̰:k",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "7eba24e2-94bc-4963-b826-bd027b2e7085",
+  "sense": {
+    "7eba24e2-94bc-4963-b826-bd027b2e7085": {
       "pos": "v",
       "gloss": {
         "pt": "gostar.de"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

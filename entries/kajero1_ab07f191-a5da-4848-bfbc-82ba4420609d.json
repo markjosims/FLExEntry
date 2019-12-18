@@ -3,16 +3,16 @@
   "entry_id": "kajero1_ab07f191-a5da-4848-bfbc-82ba4420609d",
   "morph_type": "stem",
   "pronunciation": "kajeɾo",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "140ca0d1-097c-4966-a150-0a23408c2676",
+  "sense": {
+    "140ca0d1-097c-4966-a150-0a23408c2676": {
       "pos": "n",
       "gloss": {
         "pt": "tucumã"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

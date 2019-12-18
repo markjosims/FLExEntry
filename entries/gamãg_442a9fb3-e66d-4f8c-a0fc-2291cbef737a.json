@@ -3,11 +3,11 @@
   "entry_id": "gamãg_442a9fb3-e66d-4f8c-a0fc-2291cbef737a",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "63986365-842d-4708-900f-3c42b0528883",
+  "sense": {
+    "63986365-842d-4708-900f-3c42b0528883": {
       "pos": "Noun",
       "gloss": {
         "en": "espécie de pássaro"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

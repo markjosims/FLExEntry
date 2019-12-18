@@ -3,11 +3,11 @@
   "entry_id": "jɔʔ_ccb2b652-242e-40c6-a623-0abd516d2ee9",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "ab5dc917-a96e-47c5-bc4e-733715117ac6",
+  "sense": {
+    "ab5dc917-a96e-47c5-bc4e-733715117ac6": {
       "pos": "Noun",
       "gloss": {
         "en": "costas"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

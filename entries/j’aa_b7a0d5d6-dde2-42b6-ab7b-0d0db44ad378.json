@@ -3,16 +3,16 @@
   "entry_id": "j’aa_b7a0d5d6-dde2-42b6-ab7b-0d0db44ad378",
   "morph_type": "stem",
   "pronunciation": "jaʔaʔz",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "cf6cb77b-8759-4417-846f-f4615aa01031",
+  "sense": {
+    "cf6cb77b-8759-4417-846f-f4615aa01031": {
       "pos": "Noun",
       "gloss": {
         "en": "faeces",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-15T20:36:41Z"
 }

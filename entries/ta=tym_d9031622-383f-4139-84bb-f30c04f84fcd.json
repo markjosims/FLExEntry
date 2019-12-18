@@ -3,16 +3,54 @@
   "entry_id": "ta=tym_d9031622-383f-4139-84bb-f30c04f84fcd",
   "morph_type": "stem",
   "pronunciation": "tɨbm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "h’ëëb tym_e85dddba-34fd-4ea5-af27-e708019a241b": {
+      "headword": "h’ëëb tym",
+      "morph_type": "phrase",
+      "pronunciation": "hǝʔǝb tɨbm",
+      "these_vars": "",
+      "note": [
+        [
+          "Fieldnotes Epps/Obert; 2018",
+          "bibliography"
+        ],
+        [
+          "problem: hǝʔǝb tɨbm or hɨʔɨb  tɨbm",
+          ""
+        ]
+      ],
+      "sense": {
+        "0ae94279-77ea-4c59-9569-2bf818736740": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "heart",
+            "pt": "coração"
+          },
+          "def": {
+            "en": "heart",
+            "pt": "coração"
+          },
+          "reverse": "",
+          "note": "('Lit.: Semente do peito', 'semantics')",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-07-27T19:58:36Z",
+      "var_type": [
+        "true",
+        "Unspecified Complex Form"
+      ]
+    }
+  },
   "note": [
     [
       "Fieldotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b4a5156d-052f-43d4-b5e9-ad9d32c991c0",
+  "sense": {
+    "b4a5156d-052f-43d4-b5e9-ad9d32c991c0": {
       "pos": "Noun",
       "gloss": {
         "en": "seed",
@@ -24,8 +62,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T19:51:16Z"
 }

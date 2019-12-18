@@ -3,11 +3,11 @@
   "entry_id": "boːh_6a7b644a-7672-4290-94f5-4f812ad24772",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "38935f92-5666-4fcd-b8b7-49312a5da4a3",
+  "sense": {
+    "38935f92-5666-4fcd-b8b7-49312a5da4a3": {
       "pos": "Noun",
       "gloss": {
         "en": "mistura para coca"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

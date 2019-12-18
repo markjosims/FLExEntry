@@ -3,16 +3,16 @@
   "entry_id": "kas’aag_1174c294-d1e6-4e74-8fae-7bf655663f34",
   "morph_type": "stem",
   "pronunciation": "kaˈʃaʔag˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "73f727e6-1c00-46d4-b551-16b7d12a7c7c",
+  "sense": {
+    "73f727e6-1c00-46d4-b551-16b7d12a7c7c": {
       "pos": "Noun",
       "gloss": {
         "en": "caatinga",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T20:03:46Z"
 }

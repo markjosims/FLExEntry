@@ -3,11 +3,11 @@
   "entry_id": "wə̃ːɟ_c98bdbf6-4334-4e41-84b3-071df627fad3",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "82d8c536-712b-4ab7-8e8c-c055c32282d0",
+  "sense": {
+    "82d8c536-712b-4ab7-8e8c-c055c32282d0": {
       "pos": "Noun",
       "gloss": {
         "en": "tatu"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

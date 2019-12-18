@@ -3,11 +3,11 @@
   "entry_id": "makahe bëh_dd945543-0b14-435c-bb3f-30f393078ef0",
   "morph_type": "phrase",
   "pronunciation": "mãkaheʔ bəh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "ecd9c0a4-ce4e-453e-aa39-5d3fd19f4bea",
+  "sense": {
+    "ecd9c0a4-ce4e-453e-aa39-5d3fd19f4bea": {
       "pos": "Noun",
       "gloss": {
         "en": "paper",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

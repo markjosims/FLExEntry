@@ -3,11 +3,11 @@
   "entry_id": "haɾum_89301e28-b653-49bf-bcdd-fac7eb6414e6",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "df24d0f7-f5e8-4df7-96f6-b5854cc5c4c1",
+  "sense": {
+    "df24d0f7-f5e8-4df7-96f6-b5854cc5c4c1": {
       "pos": "Noun",
       "gloss": {
         "en": "tipiti"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'haɾũm1_22fb506e-aa3f-4853-99d5-9a5c2c1a06d1': ('Spelling Variant', 'Barbosa 2005; tipiti')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

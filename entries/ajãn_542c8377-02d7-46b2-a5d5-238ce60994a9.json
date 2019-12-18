@@ -3,16 +3,16 @@
   "entry_id": "ajãn_542c8377-02d7-46b2-a5d5-238ce60994a9",
   "morph_type": "stem",
   "pronunciation": "ajãn",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "94752aa3-6cac-44de-8142-28dfde28d1a7",
+  "sense": {
+    "94752aa3-6cac-44de-8142-28dfde28d1a7": {
       "pos": "n",
       "gloss": {
         "pt": "bebê.antes.de.nascer feto?)"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

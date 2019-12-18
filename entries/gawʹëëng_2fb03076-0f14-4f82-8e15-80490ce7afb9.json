@@ -3,16 +3,16 @@
   "entry_id": "gawʹëëng_2fb03076-0f14-4f82-8e15-80490ce7afb9",
   "morph_type": "stem",
   "pronunciation": "gawə̰:ŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "54f1c665-1b46-4363-9617-61dcfd708da1",
+  "sense": {
+    "54f1c665-1b46-4363-9617-61dcfd708da1": {
       "pos": "n",
       "gloss": {
         "pt": "camundongo"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "nu kasewä̃n_703eb3cb-7eb8-40b3-a918-1577508e601d",
   "morph_type": "phrase",
   "pronunciation": "nu kaʃewʌ̃n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "55d7c82e-f85a-4179-960d-a5f463c4a251",
+  "sense": {
+    "55d7c82e-f85a-4179-960d-a5f463c4a251": {
       "pos": "v",
       "gloss": {
         "pt": "sacudir.cabeça"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'nu kasewʹỹỹn_905727be-2f8d-48b1-ab46-01a0aeb93aa7': 'Habitual'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

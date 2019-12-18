@@ -3,7 +3,8 @@
   "entry_id": "waëë_860ebf6f-0614-4d29-b3a5-bc6d391c2301",
   "morph_type": "stem",
   "pronunciation": "waʔǝ:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a246f705-b072-40bb-af1e-a1986882a05f",
+  "sense": {
+    "a246f705-b072-40bb-af1e-a1986882a05f": {
       "pos": "Noun",
       "gloss": {
         "en": "mountain",
@@ -28,8 +28,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-08T17:54:48Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "jyy/jëë_c53e1be6-fcc4-4b25-8462-e9e376e1f553",
   "morph_type": "stem",
   "pronunciation": "jɨ:ʔ jə:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "013f4eff-1cf3-473c-bf7a-a02d9b379b32",
+  "sense": {
+    "013f4eff-1cf3-473c-bf7a-a02d9b379b32": {
       "pos": "Noun",
       "gloss": {
         "en": "peach.palm",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

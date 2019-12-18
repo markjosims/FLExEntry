@@ -3,16 +3,16 @@
   "entry_id": "tsahã_a603bcea-d99c-4de3-91ae-71277e16d7ac",
   "morph_type": "stem",
   "pronunciation": "ɟahã",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "7be0dd72-8c78-40e3-8938-84d254258169",
+  "sense": {
+    "7be0dd72-8c78-40e3-8938-84d254258169": {
       "pos": "n",
       "gloss": {
         "pt": "pica-pau.sp"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

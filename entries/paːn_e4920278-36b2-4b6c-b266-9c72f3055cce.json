@@ -3,11 +3,11 @@
   "entry_id": "paːn_e4920278-36b2-4b6c-b266-9c72f3055cce",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "da99b92a-99a8-46a9-ac21-2e7e6280e71c",
+  "sense": {
+    "da99b92a-99a8-46a9-ac21-2e7e6280e71c": {
       "pos": "Noun",
       "gloss": {
         "en": "igual"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

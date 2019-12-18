@@ -3,16 +3,16 @@
   "entry_id": "óów_7b46d0e4-14b6-4aba-9b6d-703bd75a6885",
   "morph_type": "stem",
   "pronunciation": "ʔɔːw",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d23385de-69ff-4c10-8d02-426abf0f1d4c",
+  "sense": {
+    "d23385de-69ff-4c10-8d02-426abf0f1d4c": {
       "pos": "Noun",
       "gloss": {
         "en": "grandfather"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

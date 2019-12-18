@@ -3,16 +3,16 @@
   "entry_id": "satëëh_faede2ca-26e4-47e4-82b7-9b5b0517a521",
   "morph_type": "stem",
   "pronunciation": "ʃatə:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 17",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c0cbab5b-37b9-40f4-bb34-d13317663d3b",
+  "sense": {
+    "c0cbab5b-37b9-40f4-bb34-d13317663d3b": {
       "pos": "v?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

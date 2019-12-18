@@ -3,16 +3,16 @@
   "entry_id": "kʹaaw_8aae375a-cd2c-4685-85d4-10982a359288",
   "morph_type": "stem",
   "pronunciation": "ka̰:w",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0232ee51-f686-4845-b786-4fd08f2d420e",
+  "sense": {
+    "0232ee51-f686-4845-b786-4fd08f2d420e": {
       "pos": "n?",
       "gloss": {
         "pt": "gavião.sp"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "tatók_543193f1-37f9-46ea-8153-ae2c27968997",
   "morph_type": "stem",
   "pronunciation": "tatɔk",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "043cdce8-0f4d-4929-b6ad-c47e75810f38",
+  "sense": {
+    "043cdce8-0f4d-4929-b6ad-c47e75810f38": {
       "pos": "v",
       "gloss": {
         "pt": "picar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'tatóg_5dbc36fa-c1b5-4ad1-a024-87bd445212cb': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

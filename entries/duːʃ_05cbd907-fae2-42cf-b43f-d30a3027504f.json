@@ -3,11 +3,11 @@
   "entry_id": "duːʃ_05cbd907-fae2-42cf-b43f-d30a3027504f",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "84c2724b-c6d7-4e74-aeb2-f5cdf30b47b7",
+  "sense": {
+    "84c2724b-c6d7-4e74-aeb2-f5cdf30b47b7": {
       "pos": "Noun",
       "gloss": {
         "en": "papagaio.sp"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

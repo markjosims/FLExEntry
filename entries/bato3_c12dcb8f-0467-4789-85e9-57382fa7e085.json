@@ -3,11 +3,11 @@
   "entry_id": "bato3_c12dcb8f-0467-4789-85e9-57382fa7e085",
   "morph_type": "stem",
   "pronunciation": "batoʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "51281ea6-5bde-413e-9f3a-5e01acc45371",
+  "sense": {
+    "51281ea6-5bde-413e-9f3a-5e01acc45371": {
       "pos": "Noun",
       "gloss": {
         "en": "coca",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

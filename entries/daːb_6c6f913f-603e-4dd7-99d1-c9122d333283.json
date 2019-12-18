@@ -3,11 +3,11 @@
   "entry_id": "daːb_6c6f913f-603e-4dd7-99d1-c9122d333283",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "049bfb50-0aed-4fd9-824d-35e46740aa3c",
+  "sense": {
+    "049bfb50-0aed-4fd9-824d-35e46740aa3c": {
       "pos": "Verb",
       "gloss": {
         "en": "fazer rede"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

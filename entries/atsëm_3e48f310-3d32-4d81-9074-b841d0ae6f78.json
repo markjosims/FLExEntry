@@ -3,16 +3,16 @@
   "entry_id": "atsëm_3e48f310-3d32-4d81-9074-b841d0ae6f78",
   "morph_type": "stem",
   "pronunciation": "ʔaˈtʃ’ǝbm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "6477dcb2-a559-4f61-96b5-a8d8a8772f12",
+  "sense": {
+    "6477dcb2-a559-4f61-96b5-a8d8a8772f12": {
       "pos": "n",
       "gloss": {
         "en": "night",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

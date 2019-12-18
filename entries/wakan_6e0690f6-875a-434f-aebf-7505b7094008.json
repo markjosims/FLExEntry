@@ -3,11 +3,11 @@
   "entry_id": "wakan_6e0690f6-875a-434f-aebf-7505b7094008",
   "morph_type": "stem",
   "pronunciation": "wakadn",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "41204cfb-a477-47a8-82a1-844e241bec18",
+  "sense": {
+    "41204cfb-a477-47a8-82a1-844e241bec18": {
       "pos": "Noun",
       "gloss": {
         "en": "cognate",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

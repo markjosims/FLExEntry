@@ -3,16 +3,32 @@
   "entry_id": "doo1_96f3879f-cf4c-469d-ac46-4a89f9d8374d",
   "morph_type": "stem",
   "pronunciation": "do:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "do_fd9bc761-cadc-4cb2-8af8-d271ab95e039": {
+      "headword": "do",
+      "morph_type": "stem",
+      "pronunciation": "do",
+      "these_vars": "",
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": null,
+      "date": "2018-04-05T05:51:07Z",
+      "var_type": "Unspecified Variant"
+    }
+  },
   "note": [
     [
       "Weir 1986; 1990  e 11",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "1973b362-0278-4803-9d9b-0c14e12255b5",
+  "sense": {
+    "1973b362-0278-4803-9d9b-0c14e12255b5": {
       "pos": "pro",
       "gloss": {
         "en": "the.one",
@@ -24,8 +40,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

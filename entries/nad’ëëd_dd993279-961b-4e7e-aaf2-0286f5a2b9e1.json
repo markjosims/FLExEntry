@@ -3,7 +3,8 @@
   "entry_id": "nad’ëëd_dd993279-961b-4e7e-aaf2-0286f5a2b9e1",
   "morph_type": "stem",
   "pronunciation": "naˈdǝʔǝd˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "44dbdb0a-cfc6-4ae0-8ca4-c3d1963b5d78",
+  "sense": {
+    "44dbdb0a-cfc6-4ae0-8ca4-c3d1963b5d78": {
       "pos": "adj?",
       "gloss": {
         "en": "small",
@@ -28,8 +28,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-08T16:56:37Z"
 }

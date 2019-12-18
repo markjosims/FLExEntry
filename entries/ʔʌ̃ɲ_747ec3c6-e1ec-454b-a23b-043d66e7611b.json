@@ -3,11 +3,11 @@
   "entry_id": "ʔʌ̃ɲ_747ec3c6-e1ec-454b-a23b-043d66e7611b",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "a0f42428-da5b-4d80-914a-65bf9d2d14f0",
+  "sense": {
+    "a0f42428-da5b-4d80-914a-65bf9d2d14f0": {
       "pos": "Noun",
       "gloss": {
         "en": "irmã"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'ʔãːɲ1_11011f18-2e56-4f47-9a70-615f7235c757': ('Spelling Variant', 'Barbosa 2005; irmã')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

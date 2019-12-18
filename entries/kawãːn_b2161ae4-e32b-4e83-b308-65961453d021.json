@@ -3,11 +3,11 @@
   "entry_id": "kawãːn_b2161ae4-e32b-4e83-b308-65961453d021",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "c6120db9-862e-4614-b399-ac4043c65814",
+  "sense": {
+    "c6120db9-862e-4614-b399-ac4043c65814": {
       "pos": "Noun",
       "gloss": {
         "en": "aracu"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

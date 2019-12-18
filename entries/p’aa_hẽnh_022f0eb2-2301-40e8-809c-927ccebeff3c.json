@@ -3,11 +3,11 @@
   "entry_id": "p’aa hẽnh_022f0eb2-2301-40e8-809c-927ccebeff3c",
   "morph_type": "phrase",
   "pronunciation": "paʔaʔ hẽɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "3954f8c6-283b-4e9f-a9b1-5e9ea6096fcc",
+  "sense": {
+    "3954f8c6-283b-4e9f-a9b1-5e9ea6096fcc": {
       "pos": "adv?",
       "gloss": {
         "en": "again",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-15T20:18:56Z"
 }

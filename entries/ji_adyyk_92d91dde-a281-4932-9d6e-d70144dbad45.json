@@ -3,11 +3,11 @@
   "entry_id": "ji adyyk_92d91dde-a281-4932-9d6e-d70144dbad45",
   "morph_type": "phrase",
   "pronunciation": "jiʔ ʔadɨ:k̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "9a0089f2-46a4-4da0-ad43-f294241a2246",
+  "sense": {
+    "9a0089f2-46a4-4da0-ad43-f294241a2246": {
       "pos": "Verb",
       "gloss": {
         "en": "fish.w.poison",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

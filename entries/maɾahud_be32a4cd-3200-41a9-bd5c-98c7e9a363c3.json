@@ -3,11 +3,11 @@
   "entry_id": "maɾahud_be32a4cd-3200-41a9-bd5c-98c7e9a363c3",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "dc609694-79a3-4c2a-8238-e0d0dd1d7ee2",
+  "sense": {
+    "dc609694-79a3-4c2a-8238-e0d0dd1d7ee2": {
       "pos": "Noun",
       "gloss": {
         "en": "solteiro"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'maɾahuːd1_679546ee-b5b5-4815-a4dd-08862405b791': ('Spelling Variant', 'Barbosa 2005; solteiro')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

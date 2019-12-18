@@ -3,11 +3,11 @@
   "entry_id": "hɔːh_f900068e-bcdb-4841-8547-ba76b0bd11be",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "6e332f3a-33f0-4ba3-946c-e50d62a62cf8",
+  "sense": {
+    "6e332f3a-33f0-4ba3-946c-e50d62a62cf8": {
       "pos": "Noun",
       "gloss": {
         "en": "virilha"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

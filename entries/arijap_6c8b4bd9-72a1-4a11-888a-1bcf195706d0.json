@@ -3,11 +3,11 @@
   "entry_id": "arijap_6c8b4bd9-72a1-4a11-888a-1bcf195706d0",
   "morph_type": "stem",
   "pronunciation": "ʔaɾijap̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "07901d30-bd9e-4ab4-9b44-7b89187e0225",
+  "sense": {
+    "07901d30-bd9e-4ab4-9b44-7b89187e0225": {
       "pos": "Noun",
       "gloss": {
         "en": "guava",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

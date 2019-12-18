@@ -3,16 +3,30 @@
   "entry_id": "duuh_1c1e2650-1809-4f40-a148-33b3a990262f",
   "morph_type": "stem",
   "pronunciation": "du:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "duːh1_b4bc3933-afcd-45d9-9eea-c1dc19d0f3b5": {
+      "headword": "duːh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T02:16:50Z",
+      "var_type": [
+        "Martins",
+        "fundo"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "034a0409-242f-4bb1-a927-c33794ddb359",
+  "sense": {
+    "034a0409-242f-4bb1-a927-c33794ddb359": {
       "pos": "n op",
       "gloss": {
         "pt": "nádegas"
@@ -22,8 +36,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

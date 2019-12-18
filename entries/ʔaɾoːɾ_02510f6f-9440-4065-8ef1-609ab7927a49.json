@@ -3,11 +3,11 @@
   "entry_id": "ʔaɾoːɾ_02510f6f-9440-4065-8ef1-609ab7927a49",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "3d19b6a9-f920-46d1-b00b-de01d5c63975",
+  "sense": {
+    "3d19b6a9-f920-46d1-b00b-de01d5c63975": {
       "pos": "Noun",
       "gloss": {
         "en": "carará"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

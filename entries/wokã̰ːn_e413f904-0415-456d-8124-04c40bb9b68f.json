@@ -3,11 +3,11 @@
   "entry_id": "wokã̰ːn_e413f904-0415-456d-8124-04c40bb9b68f",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d653afab-c369-479e-a220-575e8babe1e8",
+  "sense": {
+    "d653afab-c369-479e-a220-575e8babe1e8": {
       "pos": "Noun",
       "gloss": {
         "en": "irmão mais novo (pl wokãːn)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

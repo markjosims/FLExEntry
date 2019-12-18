@@ -3,16 +3,16 @@
   "entry_id": "a=_98d55498-71bc-4897-9198-3842f5c02b2f",
   "morph_type": "proclitic",
   "pronunciation": "ʔa",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011; Weir 1984",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c918bbb6-bb97-4ac6-8b02-0e1553b1f487",
+  "sense": {
+    "c918bbb6-bb97-4ac6-8b02-0e1553b1f487": {
       "pos": "pro",
       "gloss": {
         "pt": "2sg.POSS"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

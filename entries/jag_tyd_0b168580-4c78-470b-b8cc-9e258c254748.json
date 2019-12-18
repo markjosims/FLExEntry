@@ -3,11 +3,11 @@
   "entry_id": "jag tyd_0b168580-4c78-470b-b8cc-9e258c254748",
   "morph_type": "phrase",
   "pronunciation": "jag̚ tɨd̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "6d7a0e30-f14e-4502-be6f-a87ec5630571",
+  "sense": {
+    "6d7a0e30-f14e-4502-be6f-a87ec5630571": {
       "pos": "Noun",
       "gloss": {
         "en": "hammock.string",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

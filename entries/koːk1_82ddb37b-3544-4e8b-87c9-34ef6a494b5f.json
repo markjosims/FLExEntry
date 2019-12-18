@@ -3,11 +3,11 @@
   "entry_id": "koːk1_82ddb37b-3544-4e8b-87c9-34ef6a494b5f",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5b16c8f0-22e1-4e05-9006-d239ef9293bb",
+  "sense": {
+    "5b16c8f0-22e1-4e05-9006-d239ef9293bb": {
       "pos": "Verb",
       "gloss": {
         "en": "arrancar (n.i. kog)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

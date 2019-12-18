@@ -3,11 +3,11 @@
   "entry_id": "hɯ̰̃ːb_13495014-5582-4f05-84fc-3cb0ed8b0ed2",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "43f16ff4-801c-4b6b-ace9-7d04e33857cf",
+  "sense": {
+    "43f16ff4-801c-4b6b-ace9-7d04e33857cf": {
       "pos": "Noun",
       "gloss": {
         "en": "peixe"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

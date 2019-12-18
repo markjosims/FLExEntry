@@ -3,11 +3,11 @@
   "entry_id": "mehëëm doo_bfd36b12-009d-4741-aa26-24642c4403ca",
   "morph_type": "phrase",
   "pronunciation": "mẽhə:bm do:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1b3de5e7-5978-487c-9201-aad5e9e3d093",
+  "sense": {
+    "1b3de5e7-5978-487c-9201-aad5e9e3d093": {
       "pos": "Noun",
       "gloss": {
         "en": "healer",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

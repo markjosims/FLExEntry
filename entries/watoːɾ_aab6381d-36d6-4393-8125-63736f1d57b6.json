@@ -3,11 +3,11 @@
   "entry_id": "watoːɾ_aab6381d-36d6-4393-8125-63736f1d57b6",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "f43e8d53-f658-4d03-8c6e-95b303755000",
+  "sense": {
+    "f43e8d53-f658-4d03-8c6e-95b303755000": {
       "pos": "Noun",
       "gloss": {
         "en": "macaco bicó"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

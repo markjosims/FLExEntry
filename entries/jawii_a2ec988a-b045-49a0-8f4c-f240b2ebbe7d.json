@@ -3,16 +3,16 @@
   "entry_id": "jawii_a2ec988a-b045-49a0-8f4c-f240b2ebbe7d",
   "morph_type": "stem",
   "pronunciation": "jaʔˈwi:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "25e8d112-6ab9-4a75-ad19-cf3922cb1bea",
+  "sense": {
+    "25e8d112-6ab9-4a75-ad19-cf3922cb1bea": {
       "pos": "n",
       "gloss": {
         "en": "grass",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-22T21:33:43Z"
 }

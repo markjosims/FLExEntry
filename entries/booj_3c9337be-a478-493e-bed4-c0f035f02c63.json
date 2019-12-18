@@ -3,16 +3,16 @@
   "entry_id": "booj_3c9337be-a478-493e-bed4-c0f035f02c63",
   "morph_type": "stem",
   "pronunciation": "bo:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "07ecff83-e944-42d5-b2df-8c6f1b64d368",
+  "sense": {
+    "07ecff83-e944-42d5-b2df-8c6f1b64d368": {
       "pos": "n",
       "gloss": {
         "en": "traira.fish",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

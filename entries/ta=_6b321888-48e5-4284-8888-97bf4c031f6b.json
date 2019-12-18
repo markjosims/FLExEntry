@@ -3,11 +3,11 @@
   "entry_id": "ta=_6b321888-48e5-4284-8888-97bf4c031f6b",
   "morph_type": "proclitic",
   "pronunciation": "ta",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "cab2d0d2-6e63-4303-8efd-ae1938c076b7",
+  "sense": {
+    "cab2d0d2-6e63-4303-8efd-ae1938c076b7": {
       "pos": "pro",
       "gloss": {
         "en": "3sg.A",
@@ -16,8 +16,8 @@
       "def": null,
       "reverse": "",
       "note": "('Weir 1984', 'bibliography')",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-02T14:53:28Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "gagoos_de997ca7-a685-4d77-b111-15c3c63971fc",
   "morph_type": "stem",
   "pronunciation": "k’aʔˈk’o:ʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "ffdf2416-6710-43d8-87b9-8e418a0f463f",
+  "sense": {
+    "ffdf2416-6710-43d8-87b9-8e418a0f463f": {
       "pos": "Verb",
       "gloss": {
         "en": "dig",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-10T00:11:03Z"
 }

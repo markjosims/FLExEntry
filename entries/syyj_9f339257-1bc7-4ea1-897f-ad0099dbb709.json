@@ -3,16 +3,16 @@
   "entry_id": "syyj_9f339257-1bc7-4ea1-897f-ad0099dbb709",
   "morph_type": "stem",
   "pronunciation": "ʃɨ:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8dba5f05-3bc0-435d-9dd5-dde7ea11c2e6",
+  "sense": {
+    "8dba5f05-3bc0-435d-9dd5-dde7ea11c2e6": {
       "pos": "Noun",
       "gloss": {
         "en": "grease",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "('ta syyj', 'grammar')",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-05T14:12:40Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "pãːn_3c54dc3d-a8fb-4e8f-bf74-224ddecc7652",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "7e68776b-8660-4a6d-bafa-6fc04b4c9f3c",
+  "sense": {
+    "7e68776b-8660-4a6d-bafa-6fc04b4c9f3c": {
       "pos": "?",
       "gloss": {
         "en": "tecido"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "dɛn_d2b3947a-62a9-499f-a2db-b953e9ae2cd0",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "26b83782-01f0-42f1-96bc-bbc896ef2e5d",
+  "sense": {
+    "26b83782-01f0-42f1-96bc-bbc896ef2e5d": {
       "pos": "Noun",
       "gloss": {
         "en": "bicho-do-pé"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "baju_16b9f9ed-0cb5-4df0-b170-cdea3e4efea7",
   "morph_type": "stem",
   "pronunciation": "baˈjuʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "5f3a89d8-db19-4cc0-9e59-a02da258eaf4",
+  "sense": {
+    "5f3a89d8-db19-4cc0-9e59-a02da258eaf4": {
       "pos": "",
       "gloss": {
         "en": "hot",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T20:14:26Z"
 }

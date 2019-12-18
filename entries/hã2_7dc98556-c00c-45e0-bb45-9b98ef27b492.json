@@ -3,16 +3,16 @@
   "entry_id": "hã2_7dc98556-c00c-45e0-bb45-9b98ef27b492",
   "morph_type": "stem",
   "pronunciation": "hãʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1986; Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "efcdf5dd-3acd-4522-9ee8-d3bfe838653e",
+  "sense": {
+    "efcdf5dd-3acd-4522-9ee8-d3bfe838653e": {
       "pos": "post",
       "gloss": {
         "en": "DAT"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

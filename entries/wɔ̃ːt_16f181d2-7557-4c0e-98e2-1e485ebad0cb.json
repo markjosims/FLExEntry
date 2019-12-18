@@ -3,11 +3,11 @@
   "entry_id": "wɔ̃ːt_16f181d2-7557-4c0e-98e2-1e485ebad0cb",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "3d19d54b-cde9-433d-bdfc-e0b527952a93",
+  "sense": {
+    "3d19d54b-cde9-433d-bdfc-e0b527952a93": {
       "pos": "Verb",
       "gloss": {
         "en": "abeirar"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

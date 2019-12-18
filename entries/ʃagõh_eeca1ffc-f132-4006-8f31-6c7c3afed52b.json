@@ -3,11 +3,11 @@
   "entry_id": "ʃagõh_eeca1ffc-f132-4006-8f31-6c7c3afed52b",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1910bcf8-0c26-4cfd-a0ac-3b617787df95",
+  "sense": {
+    "1910bcf8-0c26-4cfd-a0ac-3b617787df95": {
       "pos": "Noun",
       "gloss": {
         "en": "estrela"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

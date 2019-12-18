@@ -3,16 +3,16 @@
   "entry_id": "bebuu kóm_ca3c72b0-2bff-4c90-9d48-a0ade79d3177",
   "morph_type": "phrase",
   "pronunciation": "bebu:ʔ kɔbm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "raiz de paxiuba- tem pontinhos",
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "4dd66dc6-a2b9-4b82-a62f-9dff23046b2e",
+  "sense": {
+    "4dd66dc6-a2b9-4b82-a62f-9dff23046b2e": {
       "pos": "Noun",
       "gloss": {
         "en": "grater",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

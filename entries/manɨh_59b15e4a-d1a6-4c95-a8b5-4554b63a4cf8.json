@@ -3,16 +3,16 @@
   "entry_id": "manɨh_59b15e4a-d1a6-4c95-a8b5-4554b63a4cf8",
   "morph_type": "stem",
   "pronunciation": "manɨh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0ac6008a-f953-448f-ade2-b00e79a69d60",
+  "sense": {
+    "0ac6008a-f953-448f-ade2-b00e79a69d60": {
       "pos": "manɨh",
       "gloss": {
         "en": "NEG"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

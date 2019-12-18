@@ -3,11 +3,11 @@
   "entry_id": "wooj tëëng_2daa9d38-6b7b-445d-bc18-22dc00b53dde",
   "morph_type": "phrase",
   "pronunciation": "wo:j tə:gŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "4d198acd-edc7-4a2d-9898-32c571d63b3b",
+  "sense": {
+    "4d198acd-edc7-4a2d-9898-32c571d63b3b": {
       "pos": "Noun",
       "gloss": {
         "en": "shelf",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

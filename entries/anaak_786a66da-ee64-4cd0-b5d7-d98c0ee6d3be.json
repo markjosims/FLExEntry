@@ -3,11 +3,11 @@
   "entry_id": "anaak_786a66da-ee64-4cd0-b5d7-d98c0ee6d3be",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "07fb59c9-0be7-494f-aad7-75903f506c21",
+  "sense": {
+    "07fb59c9-0be7-494f-aad7-75903f506c21": {
       "pos": "?",
       "gloss": {
         "en": "yummy",
@@ -16,8 +16,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-06T19:32:40Z"
 }

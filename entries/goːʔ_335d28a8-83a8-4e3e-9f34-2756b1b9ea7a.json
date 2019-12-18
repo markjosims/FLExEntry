@@ -3,11 +3,11 @@
   "entry_id": "goːʔ_335d28a8-83a8-4e3e-9f34-2756b1b9ea7a",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "bea45299-150a-4803-a691-dec03ee04a56",
+  "sense": {
+    "bea45299-150a-4803-a691-dec03ee04a56": {
       "pos": "Verb",
       "gloss": {
         "en": "arrancar"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

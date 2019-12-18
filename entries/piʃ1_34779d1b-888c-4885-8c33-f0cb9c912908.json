@@ -3,11 +3,11 @@
   "entry_id": "piʃ1_34779d1b-888c-4885-8c33-f0cb9c912908",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "48216aea-c916-4a33-93fd-ca968c40c581",
+  "sense": {
+    "48216aea-c916-4a33-93fd-ca968c40c581": {
       "pos": "Verb",
       "gloss": {
         "en": "espremer (n.i. piɟ)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "pɔw1_3b1d2ebf-a02d-40af-8785-d224f18a481e",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5d8ff8df-f180-4f41-a5fb-8fb50f018ec0",
+  "sense": {
+    "5d8ff8df-f180-4f41-a5fb-8fb50f018ec0": {
       "pos": "Noun",
       "gloss": {
         "en": "espécie de fruta silvestre"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

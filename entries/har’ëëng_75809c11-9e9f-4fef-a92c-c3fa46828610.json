@@ -3,11 +3,11 @@
   "entry_id": "har’ëëng_75809c11-9e9f-4fef-a92c-c3fa46828610",
   "morph_type": "stem",
   "pronunciation": "haɾəʔəgŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "9443f9d5-d1bb-42b8-86ac-1fe40199862a",
+  "sense": {
+    "9443f9d5-d1bb-42b8-86ac-1fe40199862a": {
       "pos": "Noun",
       "gloss": {
         "en": "game.animal",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

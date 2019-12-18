@@ -3,11 +3,11 @@
   "entry_id": "gawajaah3_473237ec-7ec5-4fc0-88e7-d5033497445e",
   "morph_type": "stem",
   "pronunciation": "k'awaja:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "54ca8363-569b-4e6f-ae6a-dda192b53693",
+  "sense": {
+    "54ca8363-569b-4e6f-ae6a-dda192b53693": {
       "pos": "Verb",
       "gloss": {
         "en": "hunt",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

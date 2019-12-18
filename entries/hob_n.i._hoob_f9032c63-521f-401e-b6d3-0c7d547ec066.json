@@ -3,16 +3,16 @@
   "entry_id": "hob (n.i. hoob)_f9032c63-521f-401e-b6d3-0c7d547ec066",
   "morph_type": "phrase",
   "pronunciation": "hob (n.i. hoːb)",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "dfd8e95f-2964-4630-90b9-9f3f4fcf0220",
+  "sense": {
+    "dfd8e95f-2964-4630-90b9-9f3f4fcf0220": {
       "pos": "Verb",
       "gloss": {
         "en": "take.a.bath"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

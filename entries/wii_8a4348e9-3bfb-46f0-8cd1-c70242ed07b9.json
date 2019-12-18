@@ -3,16 +3,16 @@
   "entry_id": "wii_8a4348e9-3bfb-46f0-8cd1-c70242ed07b9",
   "morph_type": "stem",
   "pronunciation": "wiː",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c5eddb7f-85c5-4b2b-ba6d-8bcee5483b5e",
+  "sense": {
+    "c5eddb7f-85c5-4b2b-ba6d-8bcee5483b5e": {
       "pos": "Noun",
       "gloss": {
         "en": "feather",
@@ -21,8 +21,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-05T14:22:46Z"
 }

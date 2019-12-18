@@ -3,11 +3,11 @@
   "entry_id": "toːɲ_e752388b-a427-4713-8632-3f0b9c9ed891",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "06c5bbaa-0114-4a4e-929b-1d6d6280f451",
+  "sense": {
+    "06c5bbaa-0114-4a4e-929b-1d6d6280f451": {
       "pos": "Verb",
       "gloss": {
         "en": "estar sentado (pl to̰ːɲ)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

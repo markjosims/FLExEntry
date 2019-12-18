@@ -3,11 +3,11 @@
   "entry_id": "baras’ĩĩnh_8a137ae8-04bc-445f-a244-e594703fa289",
   "morph_type": "stem",
   "pronunciation": "baɾaʃĩʔĩɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1c81b13b-ad17-4d36-8f42-8fcf339c823e",
+  "sense": {
+    "1c81b13b-ad17-4d36-8f42-8fcf339c823e": {
       "pos": "Noun",
       "gloss": {
         "en": "yurupari",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

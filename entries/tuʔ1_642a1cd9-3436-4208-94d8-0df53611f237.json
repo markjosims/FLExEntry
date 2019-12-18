@@ -3,11 +3,11 @@
   "entry_id": "tuʔ1_642a1cd9-3436-4208-94d8-0df53611f237",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "06aa61de-4208-4b4f-a43b-c03257c6e36d",
+  "sense": {
+    "06aa61de-4208-4b4f-a43b-c03257c6e36d": {
       "pos": "Noun",
       "gloss": {
         "en": "esteio"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

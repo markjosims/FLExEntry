@@ -3,16 +3,16 @@
   "entry_id": "naëënh_8604bf25-763e-4f74-9f62-1229dc8c1305",
   "morph_type": "stem",
   "pronunciation": "naə:ɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "194b2515-9d18-4079-a9d9-9d90c46fc9f5",
+  "sense": {
+    "194b2515-9d18-4079-a9d9-9d90c46fc9f5": {
       "pos": "v",
       "gloss": {
         "pt": "chamar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'naëëj_d9ca85c7-ea29-47cc-9bf8-0624e99f4f92': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

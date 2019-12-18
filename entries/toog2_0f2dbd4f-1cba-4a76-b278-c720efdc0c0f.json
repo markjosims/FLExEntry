@@ -3,11 +3,11 @@
   "entry_id": "toog2_0f2dbd4f-1cba-4a76-b278-c720efdc0c0f",
   "morph_type": "stem",
   "pronunciation": "to:g̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "09da2923-e6d9-40fd-be0d-ddc17b8f36fe",
+  "sense": {
+    "09da2923-e6d9-40fd-be0d-ddc17b8f36fe": {
       "pos": "Noun",
       "gloss": {
         "en": "daughter",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

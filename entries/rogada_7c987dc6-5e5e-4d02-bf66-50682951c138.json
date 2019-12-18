@@ -3,16 +3,16 @@
   "entry_id": "rogada_7c987dc6-5e5e-4d02-bf66-50682951c138",
   "morph_type": "stem",
   "pronunciation": "ɾogada",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 3",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c903b261-0a4a-40a4-8770-04ed1ff16efa",
+  "sense": {
+    "c903b261-0a4a-40a4-8770-04ed1ff16efa": {
       "pos": "?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

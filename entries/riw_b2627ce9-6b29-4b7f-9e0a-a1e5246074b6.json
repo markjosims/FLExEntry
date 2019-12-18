@@ -3,11 +3,11 @@
   "entry_id": "riw_b2627ce9-6b29-4b7f-9e0a-a1e5246074b6",
   "morph_type": "stem",
   "pronunciation": "ɾiw",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "c50cf63e-585e-4081-9ac5-717e89ee7779",
+  "sense": {
+    "c50cf63e-585e-4081-9ac5-717e89ee7779": {
       "pos": "Noun",
       "gloss": {
         "en": "cricket",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

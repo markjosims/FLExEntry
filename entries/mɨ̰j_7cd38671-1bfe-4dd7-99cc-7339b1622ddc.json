@@ -3,11 +3,11 @@
   "entry_id": "mɨ̰j_7cd38671-1bfe-4dd7-99cc-7339b1622ddc",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "9c14ccac-e14c-4308-8362-3cc93bac34bc",
+  "sense": {
+    "9c14ccac-e14c-4308-8362-3cc93bac34bc": {
       "pos": "Noun",
       "gloss": {
         "en": "perema"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

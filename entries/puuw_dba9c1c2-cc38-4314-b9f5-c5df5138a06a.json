@@ -3,11 +3,11 @@
   "entry_id": "puuw_dba9c1c2-cc38-4314-b9f5-c5df5138a06a",
   "morph_type": "stem",
   "pronunciation": "pu:w",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "b2f0ca08-28b8-4881-9382-37a98905fe32",
+  "sense": {
+    "b2f0ca08-28b8-4881-9382-37a98905fe32": {
       "pos": "Noun",
       "gloss": {
         "en": "bastard.plantain",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

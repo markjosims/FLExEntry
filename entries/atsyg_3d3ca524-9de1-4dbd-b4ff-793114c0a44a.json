@@ -3,16 +3,16 @@
   "entry_id": "atsyg_3d3ca524-9de1-4dbd-b4ff-793114c0a44a",
   "morph_type": "stem",
   "pronunciation": "ʔaˈtʃɨg˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "5c4087cc-f303-484d-aa07-5c1b30efbcae",
+  "sense": {
+    "5c4087cc-f303-484d-aa07-5c1b30efbcae": {
       "pos": "Noun",
       "gloss": {
         "en": "smoke",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-08T16:58:43Z"
 }

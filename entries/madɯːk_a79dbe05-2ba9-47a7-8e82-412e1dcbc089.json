@@ -3,11 +3,11 @@
   "entry_id": "madɯːk_a79dbe05-2ba9-47a7-8e82-412e1dcbc089",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "27196443-08b4-4e3b-82e9-14987c24f524",
+  "sense": {
+    "27196443-08b4-4e3b-82e9-14987c24f524": {
       "pos": "Noun",
       "gloss": {
         "en": "açaí"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'madiːk1_060565fa-0504-425e-9477-40abe427e5e6': ('Spelling Variant', 'Barbosa 2005; açaí')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

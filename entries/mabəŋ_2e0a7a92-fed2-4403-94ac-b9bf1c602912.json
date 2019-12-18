@@ -3,11 +3,11 @@
   "entry_id": "mabəŋ_2e0a7a92-fed2-4403-94ac-b9bf1c602912",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "40ede637-6942-4ae3-a232-93416da42454",
+  "sense": {
+    "40ede637-6942-4ae3-a232-93416da42454": {
       "pos": "Noun",
       "gloss": {
         "en": "cotiara"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

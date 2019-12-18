@@ -3,7 +3,8 @@
   "entry_id": "oehyyb_dafde805-1e00-43a5-a7df-5bb17a060379",
   "morph_type": "stem",
   "pronunciation": "ʔeˈhɨ:b˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f8ab77ba-c4a2-4858-aa5e-3221924757f1",
+  "sense": {
+    "f8ab77ba-c4a2-4858-aa5e-3221924757f1": {
       "pos": "Verb",
       "gloss": {
         "en": "breath",
@@ -28,8 +28,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-08T18:49:01Z"
 }

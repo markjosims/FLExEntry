@@ -3,11 +3,11 @@
   "entry_id": "mabaa j’aa_62ec0703-d3bc-4f3b-a7c5-e747a908ad48",
   "morph_type": "phrase",
   "pronunciation": "mãba:ʔ jaʔaʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "61f5ee4b-9c39-494d-9d6b-7fe7f85dcfa2",
+  "sense": {
+    "61f5ee4b-9c39-494d-9d6b-7fe7f85dcfa2": {
       "pos": "Noun",
       "gloss": {
         "en": "wax",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

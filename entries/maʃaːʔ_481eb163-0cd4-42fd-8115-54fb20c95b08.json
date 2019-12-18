@@ -3,11 +3,11 @@
   "entry_id": "maʃaːʔ_481eb163-0cd4-42fd-8115-54fb20c95b08",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d9599f69-4848-4309-b6b3-9bfcbcb2c97f",
+  "sense": {
+    "d9599f69-4848-4309-b6b3-9bfcbcb2c97f": {
       "pos": "Verb",
       "gloss": {
         "en": "ajudar"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ʃamɨːj_20f68242-8fb8-4ac0-8e64-e117d15b6046",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "b616e164-3b19-4c85-a5f5-471cc1bcf48b",
+  "sense": {
+    "b616e164-3b19-4c85-a5f5-471cc1bcf48b": {
       "pos": "Noun",
       "gloss": {
         "en": "guariba"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ɾuɲ_c78e3c36-0f7b-4e27-ae42-5391ecaa33b0",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "76bec828-52c3-4783-99cf-02cb49016397",
+  "sense": {
+    "76bec828-52c3-4783-99cf-02cb49016397": {
       "pos": "Verb",
       "gloss": {
         "en": "pular"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "goor_78eea66c-9fe0-4ee5-a7ca-79a089efa999",
   "morph_type": "stem",
   "pronunciation": "go:ɾ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "33719b6a-86d7-408c-b28a-13af6994d7f1",
+  "sense": {
+    "33719b6a-86d7-408c-b28a-13af6994d7f1": {
       "pos": "n",
       "gloss": {
         "pt": "traíra"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

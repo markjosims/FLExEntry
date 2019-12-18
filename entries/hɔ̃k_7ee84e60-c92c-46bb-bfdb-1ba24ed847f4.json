@@ -3,11 +3,11 @@
   "entry_id": "hɔ̃k_7ee84e60-c92c-46bb-bfdb-1ba24ed847f4",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1b5d7c5a-a3da-44fb-a0ba-579d735ebc99",
+  "sense": {
+    "1b5d7c5a-a3da-44fb-a0ba-579d735ebc99": {
       "pos": "Verb",
       "gloss": {
         "en": "cortar (n.i. hɔ̃g)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

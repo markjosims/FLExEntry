@@ -3,16 +3,16 @@
   "entry_id": "marahud_579cf0f2-5521-4f7c-8650-e9e7775a6a6d",
   "morph_type": "root",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fielnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8ba94715-1409-488a-b573-ab5ec502feb8",
+  "sense": {
+    "8ba94715-1409-488a-b573-ab5ec502feb8": {
       "pos": "Noun",
       "gloss": {
         "en": "single",
@@ -24,10 +24,9 @@
       },
       "reverse": "[('soleteiro', 'pt'), ('single', 'en')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     },
-    {
-      "sense_id": "2501f0dd-2922-4234-9fad-a39a174f187d",
+    "2501f0dd-2922-4234-9fad-a39a174f187d": {
       "pos": "Noun",
       "gloss": {
         "en": "tannia",
@@ -39,8 +38,8 @@
       },
       "reverse": "[('taioba.branca', 'pt'), ('tannia', 'en')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-09-04T00:32:09Z"
 }

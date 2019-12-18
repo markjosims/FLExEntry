@@ -3,11 +3,11 @@
   "entry_id": "jaw’ëëj_ca32c043-64c6-4e57-bc22-bf16c5a11551",
   "morph_type": "stem",
   "pronunciation": "jawəʔəj",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "f2830f31-931d-40cd-b8cb-627d1284a204",
+  "sense": {
+    "f2830f31-931d-40cd-b8cb-627d1284a204": {
       "pos": "Noun",
       "gloss": {
         "en": "tufted.capuchin.monkey",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

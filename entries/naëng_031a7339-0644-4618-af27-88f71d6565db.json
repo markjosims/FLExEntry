@@ -3,16 +3,30 @@
   "entry_id": "naëng_031a7339-0644-4618-af27-88f71d6565db",
   "morph_type": "stem",
   "pronunciation": "naˈʔǝgŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "naʔəŋ1_6a936ca2-4b81-4ef8-9523-96493e28028f": {
+      "headword": "naʔəŋ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:08:51Z",
+      "var_type": [
+        "Barbosa",
+        "água"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "160c0f30-fdd5-45bb-9b4d-12f03592f4ea",
+  "sense": {
+    "160c0f30-fdd5-45bb-9b4d-12f03592f4ea": {
       "pos": "n",
       "gloss": {
         "en": "water",
@@ -24,10 +38,9 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     },
-    {
-      "sense_id": "da503054-2051-4953-ab79-1f3b7bef531f",
+    "da503054-2051-4953-ab79-1f3b7bef531f": {
       "pos": "n",
       "gloss": {
         "en": "rain",
@@ -39,8 +52,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

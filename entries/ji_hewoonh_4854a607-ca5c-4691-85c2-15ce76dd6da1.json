@@ -3,11 +3,11 @@
   "entry_id": "ji hewoonh_4854a607-ca5c-4691-85c2-15ce76dd6da1",
   "morph_type": "phrase",
   "pronunciation": "jiʔ hewo:ɟɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "cfa05186-d96a-4e0d-9a1b-455de773ffa4",
+  "sense": {
+    "cfa05186-d96a-4e0d-9a1b-455de773ffa4": {
       "pos": "Noun",
       "gloss": {
         "en": "fence",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

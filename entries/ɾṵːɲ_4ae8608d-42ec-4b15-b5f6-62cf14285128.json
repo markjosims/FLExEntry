@@ -3,11 +3,11 @@
   "entry_id": "ɾṵːɲ_4ae8608d-42ec-4b15-b5f6-62cf14285128",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "b56117d3-b70f-4111-924b-64eac6efdaed",
+  "sense": {
+    "b56117d3-b70f-4111-924b-64eac6efdaed": {
       "pos": "Verb",
       "gloss": {
         "en": "saltitar (iterativo)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

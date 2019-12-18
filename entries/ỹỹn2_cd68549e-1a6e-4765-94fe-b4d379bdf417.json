@@ -3,11 +3,11 @@
   "entry_id": "ỹỹn2_cd68549e-1a6e-4765-94fe-b4d379bdf417",
   "morph_type": "stem",
   "pronunciation": "ʔɨ̃:n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5a55c287-aeca-4488-8237-2c9306007e96",
+  "sense": {
+    "5a55c287-aeca-4488-8237-2c9306007e96": {
       "pos": "Noun",
       "gloss": {
         "en": "mother",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

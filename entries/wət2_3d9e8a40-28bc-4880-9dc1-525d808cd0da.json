@@ -3,11 +3,11 @@
   "entry_id": "wət2_3d9e8a40-28bc-4880-9dc1-525d808cd0da",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1d385f81-22c4-462b-a592-0f33f08e6469",
+  "sense": {
+    "1d385f81-22c4-462b-a592-0f33f08e6469": {
       "pos": "Verb",
       "gloss": {
         "en": "estar.em.movimento"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

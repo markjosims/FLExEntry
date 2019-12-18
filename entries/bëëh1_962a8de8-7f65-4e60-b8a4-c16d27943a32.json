@@ -3,16 +3,16 @@
   "entry_id": "bëëh1_962a8de8-7f65-4e60-b8a4-c16d27943a32",
   "morph_type": "stem",
   "pronunciation": "bə:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b0f67bb0-4d54-42df-9b69-fb3dfe73d1c1",
+  "sense": {
+    "b0f67bb0-4d54-42df-9b69-fb3dfe73d1c1": {
       "pos": "n op",
       "gloss": {
         "pt": "suco"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

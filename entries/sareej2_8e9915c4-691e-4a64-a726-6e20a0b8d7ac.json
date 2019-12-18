@@ -3,11 +3,11 @@
   "entry_id": "sareej2_8e9915c4-691e-4a64-a726-6e20a0b8d7ac",
   "morph_type": "stem",
   "pronunciation": "ʃaɾe:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "617557b8-29c1-4488-98bf-1dddca00a2d6",
+  "sense": {
+    "617557b8-29c1-4488-98bf-1dddca00a2d6": {
       "pos": "Noun",
       "gloss": {
         "en": "pot",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "bakõm_5b96fb5b-7007-416d-a88e-90c0d01888c3",
   "morph_type": "stem",
   "pronunciation": "bakõm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 13",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "432baa2e-0961-495d-83aa-0cf6031e6f9f",
+  "sense": {
+    "432baa2e-0961-495d-83aa-0cf6031e6f9f": {
       "pos": "?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

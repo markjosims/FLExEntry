@@ -3,11 +3,11 @@
   "entry_id": "soog_249fa31d-fe1c-46ef-a586-8da434b2d806",
   "morph_type": "stem",
   "pronunciation": "ʃo:g̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "8054291c-6943-4437-8a8c-1bc5c59d0fb4",
+  "sense": {
+    "8054291c-6943-4437-8a8c-1bc5c59d0fb4": {
       "pos": "Noun",
       "gloss": {
         "en": "feather.headdress",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

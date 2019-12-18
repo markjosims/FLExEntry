@@ -3,16 +3,16 @@
   "entry_id": "emaan_03582b22-b335-4af8-8c23-2043541e28f8",
   "morph_type": "stem",
   "pronunciation": "ema:n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "78c667fd-9fc9-4c6e-902e-65be92b2bef6",
+  "sense": {
+    "78c667fd-9fc9-4c6e-902e-65be92b2bef6": {
       "pos": "v",
       "gloss": {
         "pt": "peneirar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

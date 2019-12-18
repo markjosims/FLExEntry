@@ -3,11 +3,11 @@
   "entry_id": "sëëj2_676891fe-11be-4098-ba43-4c4bd187bf1f",
   "morph_type": "stem",
   "pronunciation": "ʃə:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d2f9d1c1-34d6-4b45-8010-ca69db72e9c4",
+  "sense": {
+    "d2f9d1c1-34d6-4b45-8010-ca69db72e9c4": {
       "pos": "Noun",
       "gloss": {
         "en": "scorpion",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

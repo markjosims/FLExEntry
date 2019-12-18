@@ -3,7 +3,8 @@
   "entry_id": "h’yyw_2ad3994d-6998-48ff-ad86-411a9a67558b",
   "morph_type": "root",
   "pronunciation": "hɨʔɨw",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "13d917cc-9f14-4a79-962c-832df62443ac",
+  "sense": {
+    "13d917cc-9f14-4a79-962c-832df62443ac": {
       "pos": "Noun",
       "gloss": {
         "en": "achiote; Bixa orellana",
@@ -28,8 +28,8 @@
       },
       "reverse": "[('urucum', 'pt'), ('achiote', 'en')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-09-03T23:54:43Z"
 }

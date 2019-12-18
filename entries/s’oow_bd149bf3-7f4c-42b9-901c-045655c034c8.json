@@ -3,11 +3,11 @@
   "entry_id": "s’oow_bd149bf3-7f4c-42b9-901c-045655c034c8",
   "morph_type": "stem",
   "pronunciation": "ʃoʔow",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1a62206f-ef31-4421-8f1e-caa7efc8f76c",
+  "sense": {
+    "1a62206f-ef31-4421-8f1e-caa7efc8f76c": {
       "pos": "Noun",
       "gloss": {
         "en": "blowgun",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

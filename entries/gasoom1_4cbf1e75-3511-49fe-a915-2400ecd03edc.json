@@ -3,11 +3,11 @@
   "entry_id": "gasoom1_4cbf1e75-3511-49fe-a915-2400ecd03edc",
   "morph_type": "stem",
   "pronunciation": "k'aʃo:bm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "0a4d3991-1a11-4d6e-a225-eb8266d10cf6",
+  "sense": {
+    "0a4d3991-1a11-4d6e-a225-eb8266d10cf6": {
       "pos": "Noun",
       "gloss": {
         "en": "angleworm",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "wahɤ̰ːh_ce80171b-4d63-4f72-9f46-5068f63719ab",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "60d34763-61bd-4c10-8dc1-54fe5ae9f3e7",
+  "sense": {
+    "60d34763-61bd-4c10-8dc1-54fe5ae9f3e7": {
       "pos": "?",
       "gloss": {
         "en": "velho (pl wahɤh)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

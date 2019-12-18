@@ -3,16 +3,16 @@
   "entry_id": "matsehỹỹk_8350fd0c-6736-486f-9b02-85b4d1fe85d4",
   "morph_type": "stem",
   "pronunciation": "mãɉ’eʔˈhɨ̃:k˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fielnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "60386658-4087-43a6-993c-100c8138b09a",
+  "sense": {
+    "60386658-4087-43a6-993c-100c8138b09a": {
       "pos": "v",
       "gloss": {
         "en": "smell",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-23T15:53:01Z"
 }

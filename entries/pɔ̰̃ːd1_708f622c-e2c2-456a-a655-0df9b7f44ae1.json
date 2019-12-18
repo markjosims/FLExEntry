@@ -3,11 +3,11 @@
   "entry_id": "pɔ̰̃ːd1_708f622c-e2c2-456a-a655-0df9b7f44ae1",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "c129d025-a31f-417d-bd34-173a03678aa5",
+  "sense": {
+    "c129d025-a31f-417d-bd34-173a03678aa5": {
       "pos": "Noun",
       "gloss": {
         "en": "espécie de trepadeira"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

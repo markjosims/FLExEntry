@@ -3,11 +3,11 @@
   "entry_id": "s’ëëh_c2500249-3e46-4056-8e86-6d258b177a45",
   "morph_type": "stem",
   "pronunciation": "ʃəʔəh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "431cc8ac-d472-4e0d-ac50-391d9f9f1415",
+  "sense": {
+    "431cc8ac-d472-4e0d-ac50-391d9f9f1415": {
       "pos": "Noun",
       "gloss": {
         "en": "dream",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

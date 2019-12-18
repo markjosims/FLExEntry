@@ -3,16 +3,16 @@
   "entry_id": "hapäh_9e969d72-f8b2-48ba-83ac-3472669f4a98",
   "morph_type": "stem",
   "pronunciation": "haˈpʌh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "87c6f66a-3872-4977-bada-eb6b026a7266",
+  "sense": {
+    "87c6f66a-3872-4977-bada-eb6b026a7266": {
       "pos": "v",
       "gloss": {
         "en": "see",
@@ -24,10 +24,9 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     },
-    {
-      "sense_id": "47d31671-ecf0-47b4-a4d0-be26e05167f3",
+    "47d31671-ecf0-47b4-a4d0-be26e05167f3": {
       "pos": "v",
       "gloss": {
         "en": "know",
@@ -39,10 +38,9 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     },
-    {
-      "sense_id": "d9d59f38-a96d-465b-a528-6b512bf0bd61",
+    "d9d59f38-a96d-465b-a528-6b512bf0bd61": {
       "pos": "v",
       "gloss": {
         "en": "understand",
@@ -54,8 +52,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

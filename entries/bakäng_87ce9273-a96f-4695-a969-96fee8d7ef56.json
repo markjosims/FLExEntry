@@ -3,16 +3,16 @@
   "entry_id": "bakäng_87ce9273-a96f-4695-a969-96fee8d7ef56",
   "morph_type": "stem",
   "pronunciation": "bakʌŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 13",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "6374a303-c5e6-4b2b-9b57-c08c18b51916",
+  "sense": {
+    "6374a303-c5e6-4b2b-9b57-c08c18b51916": {
       "pos": "?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

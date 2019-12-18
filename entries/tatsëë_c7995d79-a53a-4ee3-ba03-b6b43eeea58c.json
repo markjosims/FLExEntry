@@ -3,11 +3,11 @@
   "entry_id": "tatsëë_c7995d79-a53a-4ee3-ba03-b6b43eeea58c",
   "morph_type": "stem",
   "pronunciation": "taʔtʃə:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "0c01efa9-7c05-4e60-8a84-3a9381794ee1",
+  "sense": {
+    "0c01efa9-7c05-4e60-8a84-3a9381794ee1": {
       "pos": "Noun",
       "gloss": {
         "en": "cooking food wrapped in leaves"
@@ -17,8 +17,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

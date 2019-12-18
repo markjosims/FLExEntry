@@ -3,11 +3,11 @@
   "entry_id": "ɟawaːj_b03fc85e-ed55-4fb1-a5b5-02f36f54c659",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "ef83758b-9301-4a62-a3a6-b24460de9fc6",
+  "sense": {
+    "ef83758b-9301-4a62-a3a6-b24460de9fc6": {
       "pos": "Noun",
       "gloss": {
         "en": "mucura"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ɟɨ̃m gapɛd_923b7333-4f71-4df4-969c-a7edf22922a9",
   "morph_type": "phrase",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "95ef8b75-bfb5-4e1b-ab43-66fcb3443d61",
+  "sense": {
+    "95ef8b75-bfb5-4e1b-ab43-66fcb3443d61": {
       "pos": "Noun",
       "gloss": {
         "en": "palma do pé"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

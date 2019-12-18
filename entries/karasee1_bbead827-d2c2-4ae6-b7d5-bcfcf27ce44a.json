@@ -3,16 +3,16 @@
   "entry_id": "karasee1_bbead827-d2c2-4ae6-b7d5-bcfcf27ce44a",
   "morph_type": "stem",
   "pronunciation": "kaɾaʃe:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "cad29c1d-b5eb-4580-99ff-8a4e5dc15a9d",
+  "sense": {
+    "cad29c1d-b5eb-4580-99ff-8a4e5dc15a9d": {
       "pos": "n",
       "gloss": {
         "pt": "sobrinho/a"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'karese_b9d3c621-d2c9-41de-88b3-c40939cb6741': 'Plural'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,7 +3,8 @@
   "entry_id": "k’ëë_33265ec6-c2f0-40d5-a1eb-edc43610b9ea",
   "morph_type": "root",
   "pronunciation": "kǝʔǝh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -15,9 +16,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d73132b7-a04f-4f16-9bfd-c1fb641a572b",
+  "sense": {
+    "d73132b7-a04f-4f16-9bfd-c1fb641a572b": {
       "pos": "Noun",
       "gloss": {
         "en": "bone",
@@ -29,8 +29,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-04T14:25:35Z"
 }

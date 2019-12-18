@@ -3,16 +3,16 @@
   "entry_id": "nag’aad_a2653c1c-526b-4da1-aaeb-c2f393797942",
   "morph_type": "stem",
   "pronunciation": "nãʔk’aʔad˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "44a8503d-b792-47fe-9d9f-64d99e2033c5",
+  "sense": {
+    "44a8503d-b792-47fe-9d9f-64d99e2033c5": {
       "pos": "Noun",
       "gloss": {
         "en": "tongue",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-10T23:44:24Z"
 }

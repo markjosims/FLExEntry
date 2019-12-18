@@ -3,16 +3,16 @@
   "entry_id": "dab_743da3f0-1447-4165-a2ee-5679ce305399",
   "morph_type": "stem",
   "pronunciation": "dab",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990; Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "e5e8dd1c-61f9-4c37-a984-5cd3eb190828",
+  "sense": {
+    "e5e8dd1c-61f9-4c37-a984-5cd3eb190828": {
       "pos": "Noun",
       "gloss": {
         "en": "meat"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

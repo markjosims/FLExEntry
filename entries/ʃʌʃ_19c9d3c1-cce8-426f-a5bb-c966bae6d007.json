@@ -3,11 +3,11 @@
   "entry_id": "ʃʌʃ_19c9d3c1-cce8-426f-a5bb-c966bae6d007",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "a30e3b70-c810-4aca-937c-18b141f14842",
+  "sense": {
+    "a30e3b70-c810-4aca-937c-18b141f14842": {
       "pos": "Noun",
       "gloss": {
         "en": "aracu"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

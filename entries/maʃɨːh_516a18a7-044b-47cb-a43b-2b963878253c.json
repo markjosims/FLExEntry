@@ -3,11 +3,11 @@
   "entry_id": "maʃɨːh_516a18a7-044b-47cb-a43b-2b963878253c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "95555eab-9e7e-4918-b483-452cb9189c4d",
+  "sense": {
+    "95555eab-9e7e-4918-b483-452cb9189c4d": {
       "pos": "Noun",
       "gloss": {
         "en": "sarapó"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

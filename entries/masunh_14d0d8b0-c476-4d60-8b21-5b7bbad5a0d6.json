@@ -3,16 +3,16 @@
   "entry_id": "masunh_14d0d8b0-c476-4d60-8b21-5b7bbad5a0d6",
   "morph_type": "stem",
   "pronunciation": "maʃuɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "bde7cccc-62dd-44d2-8f11-219d8b8e40a8",
+  "sense": {
+    "bde7cccc-62dd-44d2-8f11-219d8b8e40a8": {
       "pos": "v",
       "gloss": {
         "pt": "brincar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'masuuj_4c9cc54a-4523-4687-8cb3-d1241b4f9c64': 'Não indicativo', 'masʹuunh_8559bd94-3002-47fa-9bdb-d233c00c1b13': 'Plural'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

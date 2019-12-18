@@ -3,11 +3,11 @@
   "entry_id": "wɤːʔ_9485bb49-c230-459f-b30e-231a60b19150",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d4e0ac2f-b4c3-4b3e-a771-376b391e869e",
+  "sense": {
+    "d4e0ac2f-b4c3-4b3e-a771-376b391e869e": {
       "pos": "Noun",
       "gloss": {
         "en": "mato caído"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

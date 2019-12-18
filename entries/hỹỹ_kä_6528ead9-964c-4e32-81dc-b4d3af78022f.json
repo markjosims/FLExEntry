@@ -3,16 +3,16 @@
   "entry_id": "hỹỹ kä_6528ead9-964c-4e32-81dc-b4d3af78022f",
   "morph_type": "phrase",
   "pronunciation": "hɨ̃: kʌ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 10",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "5656d713-3822-47ea-b033-712fee272f13",
+  "sense": {
+    "5656d713-3822-47ea-b033-712fee272f13": {
       "pos": "v?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

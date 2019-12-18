@@ -3,16 +3,16 @@
   "entry_id": "tame tame_007e8774-ab6b-4f2a-b53a-64b144453ab0",
   "morph_type": "phrase",
   "pronunciation": "tame tame",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a0d825d5-a0ae-402d-8201-6805e39cad0b",
+  "sense": {
+    "a0d825d5-a0ae-402d-8201-6805e39cad0b": {
       "pos": "n",
       "gloss": {
         "pt": "árvore.sp"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'tame_31e29a2f-491b-4003-a502-dfec5bc71c0f': 'Unspecified Variant'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

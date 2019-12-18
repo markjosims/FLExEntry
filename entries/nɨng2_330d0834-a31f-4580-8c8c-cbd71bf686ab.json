@@ -3,16 +3,16 @@
   "entry_id": "nɨng2_330d0834-a31f-4580-8c8c-cbd71bf686ab",
   "morph_type": "stem",
   "pronunciation": "nɨŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "3a98b7ec-cc98-47f2-93f7-51cdce1288a4",
+  "sense": {
+    "3a98b7ec-cc98-47f2-93f7-51cdce1288a4": {
       "pos": "Verb",
       "gloss": {
         "en": "exist"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

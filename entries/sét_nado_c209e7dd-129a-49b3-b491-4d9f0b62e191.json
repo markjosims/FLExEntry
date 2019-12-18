@@ -3,16 +3,16 @@
   "entry_id": "sét nado_c209e7dd-129a-49b3-b491-4d9f0b62e191",
   "morph_type": "phrase",
   "pronunciation": "ʃɛt nado",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; licão 14",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a7326904-2bea-4b3e-b444-c254851fa48c",
+  "sense": {
+    "a7326904-2bea-4b3e-b444-c254851fa48c": {
       "pos": "adv?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

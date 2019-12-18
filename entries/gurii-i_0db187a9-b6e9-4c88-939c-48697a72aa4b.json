@@ -3,16 +3,16 @@
   "entry_id": "gurii-i_0db187a9-b6e9-4c88-939c-48697a72aa4b",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "3c1dd3c6-40e8-45b7-94ad-9bcad18ab8e8",
+  "sense": {
+    "3c1dd3c6-40e8-45b7-94ad-9bcad18ab8e8": {
       "pos": "Noun",
       "gloss": {
         "en": "dove",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T20:32:18Z"
 }

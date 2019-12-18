@@ -3,16 +3,16 @@
   "entry_id": "hagʹããs_4d9901f6-f587-460a-86b1-a99f9948abda",
   "morph_type": "stem",
   "pronunciation": "hagã̰:ʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "cdfdd8d7-d617-4885-a0ec-0561acbddad1",
+  "sense": {
+    "cdfdd8d7-d617-4885-a0ec-0561acbddad1": {
       "pos": "v",
       "gloss": {
         "pt": "cuidar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'hagãã_9183270e-5327-4a33-a59f-40e4d8f81281': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

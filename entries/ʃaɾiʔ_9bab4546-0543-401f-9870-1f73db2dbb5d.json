@@ -3,11 +3,11 @@
   "entry_id": "ʃaɾiʔ_9bab4546-0543-401f-9870-1f73db2dbb5d",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "dda3bff6-86b6-43f6-875b-4114ecf486bb",
+  "sense": {
+    "dda3bff6-86b6-43f6-875b-4114ecf486bb": {
       "pos": "Noun",
       "gloss": {
         "en": "mucura (gambá)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

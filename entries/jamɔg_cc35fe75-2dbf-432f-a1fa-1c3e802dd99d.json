@@ -3,11 +3,11 @@
   "entry_id": "jamɔg_cc35fe75-2dbf-432f-a1fa-1c3e802dd99d",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "a944753c-1de7-45e1-90ca-97f3fec17f6d",
+  "sense": {
+    "a944753c-1de7-45e1-90ca-97f3fec17f6d": {
       "pos": "Noun",
       "gloss": {
         "en": "catitu"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

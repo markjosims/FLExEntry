@@ -3,11 +3,11 @@
   "entry_id": "jook2_0d9688b1-2ebf-46c8-b27e-708483cdaf63",
   "morph_type": "stem",
   "pronunciation": "jo:k̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1f5e557a-ed3c-4d43-adca-28b5e5468ab9",
+  "sense": {
+    "1f5e557a-ed3c-4d43-adca-28b5e5468ab9": {
       "pos": "Noun",
       "gloss": {
         "en": "spear",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

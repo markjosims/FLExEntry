@@ -3,11 +3,11 @@
   "entry_id": "ho̰ːh_44f1f84c-e4df-4217-88eb-ef261c0b564d",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "176decf8-595f-47a6-9543-1a421d970c1d",
+  "sense": {
+    "176decf8-595f-47a6-9543-1a421d970c1d": {
       "pos": "Noun",
       "gloss": {
         "en": "canoa"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

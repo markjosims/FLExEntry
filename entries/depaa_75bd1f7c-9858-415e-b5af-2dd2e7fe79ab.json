@@ -3,11 +3,11 @@
   "entry_id": "depaa_75bd1f7c-9858-415e-b5af-2dd2e7fe79ab",
   "morph_type": "stem",
   "pronunciation": "depa:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "060c3797-4242-4c5d-93b0-5fa4fa67904f",
+  "sense": {
+    "060c3797-4242-4c5d-93b0-5fa4fa67904f": {
       "pos": "Noun",
       "gloss": {
         "en": "paca",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

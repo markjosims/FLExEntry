@@ -3,16 +3,16 @@
   "entry_id": "jóón_45d960e0-b762-437d-bca3-d9c02c5339c6",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "5e17ffe9-a052-4a24-9f2a-47eedd59e6e8",
+  "sense": {
+    "5e17ffe9-a052-4a24-9f2a-47eedd59e6e8": {
       "pos": "Noun",
       "gloss": {
         "en": "cuati",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T22:37:48Z"
 }

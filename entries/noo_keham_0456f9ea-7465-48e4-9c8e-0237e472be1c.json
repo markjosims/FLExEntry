@@ -3,16 +3,16 @@
   "entry_id": "noo keham_0456f9ea-7465-48e4-9c8e-0237e472be1c",
   "morph_type": "phrase",
   "pronunciation": "nɔ̃:keʔˈhabm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "67813880-b0ef-4e72-8cc0-55dda9bf5e6f",
+  "sense": {
+    "67813880-b0ef-4e72-8cc0-55dda9bf5e6f": {
       "pos": "Verb",
       "gloss": {
         "en": "yawn",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-10T23:43:22Z"
 }

@@ -3,16 +3,47 @@
   "entry_id": "karõnh_95ddf4af-ee8c-44db-bddf-51f729601920",
   "morph_type": "stem",
   "pronunciation": "kaɾõɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "kaherʹõõnh_7bbf61e9-e439-4aff-be90-873582668e04": {
+      "headword": "kaherʹõõnh",
+      "morph_type": "stem",
+      "pronunciation": "kaheɾõ̰:ɲ",
+      "these_vars": "",
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": null,
+      "date": "2018-04-03T22:36:52Z",
+      "var_type": "Habitual"
+    },
+    "karõõj_e8f19e2a-6c05-4d67-8f66-edb8470907ed": {
+      "headword": "karõõj",
+      "morph_type": "stem",
+      "pronunciation": "kaɾõ:j",
+      "these_vars": "",
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": null,
+      "date": "2018-04-03T22:35:17Z",
+      "var_type": "Não indicativo"
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "81276a1e-afb6-45ec-a799-463577b96f9b",
+  "sense": {
+    "81276a1e-afb6-45ec-a799-463577b96f9b": {
       "pos": "v",
       "gloss": {
         "pt": "ziguezague"
@@ -22,8 +53,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,7 +3,8 @@
   "entry_id": "bä2_d715fe9e-35d6-4cb9-b7dd-ca28a1e3c7a4",
   "morph_type": "stem",
   "pronunciation": "bʌ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "fd202b45-8ee4-4aec-a77d-4e432ca61bb1",
+  "sense": {
+    "fd202b45-8ee4-4aec-a77d-4e432ca61bb1": {
       "pos": "posp",
       "gloss": {
         "en": "ABL",
@@ -25,8 +25,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-04-03T21:26:14Z"
 }

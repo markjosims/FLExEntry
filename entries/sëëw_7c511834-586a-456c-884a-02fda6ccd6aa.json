@@ -3,11 +3,11 @@
   "entry_id": "sëëw_7c511834-586a-456c-884a-02fda6ccd6aa",
   "morph_type": "stem",
   "pronunciation": "ʃə:w",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5ccc7fd8-e6aa-432b-b538-67270ef1447d",
+  "sense": {
+    "5ccc7fd8-e6aa-432b-b538-67270ef1447d": {
       "pos": "Noun",
       "gloss": {
         "en": "shaman",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

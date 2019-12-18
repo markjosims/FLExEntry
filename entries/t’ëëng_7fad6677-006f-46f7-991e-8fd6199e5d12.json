@@ -3,11 +3,11 @@
   "entry_id": "t’ëëng_7fad6677-006f-46f7-991e-8fd6199e5d12",
   "morph_type": "stem",
   "pronunciation": "təʔəgŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "bab5f98d-d3ed-46f8-95f5-1512fd18bd7e",
+  "sense": {
+    "bab5f98d-d3ed-46f8-95f5-1512fd18bd7e": {
       "pos": "Noun",
       "gloss": {
         "en": "tapir",
@@ -18,8 +18,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

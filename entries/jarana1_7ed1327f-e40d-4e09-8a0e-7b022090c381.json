@@ -3,16 +3,16 @@
   "entry_id": "jarana1_7ed1327f-e40d-4e09-8a0e-7b022090c381",
   "morph_type": "stem",
   "pronunciation": "jaɾana",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a3438d04-891a-4e4d-97bb-dd6081e693fe",
+  "sense": {
+    "a3438d04-891a-4e4d-97bb-dd6081e693fe": {
       "pos": "n",
       "gloss": {
         "pt": "curauá"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

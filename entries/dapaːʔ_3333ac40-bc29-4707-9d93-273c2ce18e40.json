@@ -3,11 +3,11 @@
   "entry_id": "dapaːʔ_3333ac40-bc29-4707-9d93-273c2ce18e40",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "e8d5b466-564e-48b0-8fb0-8f1694a5bac2",
+  "sense": {
+    "e8d5b466-564e-48b0-8fb0-8f1694a5bac2": {
       "pos": "Noun",
       "gloss": {
         "en": "paca"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,7 +3,8 @@
   "entry_id": "jëëpits_eb704e72-9f60-4593-a8e4-b26a718a0183",
   "morph_type": "stem",
   "pronunciation": "jǝ:piɉ˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a18af3d6-d2b1-4fc0-aa21-f677209d5d19",
+  "sense": {
+    "a18af3d6-d2b1-4fc0-aa21-f677209d5d19": {
       "pos": "adj?",
       "gloss": {
         "en": "yellow",
@@ -28,8 +28,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-15T20:08:06Z"
 }

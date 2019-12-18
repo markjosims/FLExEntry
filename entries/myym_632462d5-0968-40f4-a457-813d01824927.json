@@ -3,16 +3,30 @@
   "entry_id": "myym_632462d5-0968-40f4-a457-813d01824927",
   "morph_type": "stem",
   "pronunciation": "mɨ:m",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "mɨɨm1_db9988e2-952d-4c97-9459-82d6e116e782": {
+      "headword": "mɨɨm",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:02:07Z",
+      "var_type": [
+        "Weir",
+        "1994; axe"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8a0757b9-7617-433a-b0c8-4ba16c891c48",
+  "sense": {
+    "8a0757b9-7617-433a-b0c8-4ba16c891c48": {
       "pos": "n",
       "gloss": {
         "pt": "machado"
@@ -22,8 +36,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

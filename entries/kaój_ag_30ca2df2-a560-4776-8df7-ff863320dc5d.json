@@ -3,11 +3,11 @@
   "entry_id": "kaój ag_30ca2df2-a560-4776-8df7-ff863320dc5d",
   "morph_type": "phrase",
   "pronunciation": "kaʔɔj ʔag̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "f354e744-876b-4083-b01e-60028d0f77dc",
+  "sense": {
+    "f354e744-876b-4083-b01e-60028d0f77dc": {
       "pos": "Noun",
       "gloss": {
         "en": "hallucinogenic.snuff",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

@@ -26,7 +26,7 @@ def tag_globals():
     entry_keys =   {'dateModified':'date',
                     '<pronunciation':'pronunciation',
                     '<note':'note',
-                    '<relation type':'variant',
+                    '<relation type':'variant_of',
                     '<lexical-unit>':'headword',
                     '<sense':'sense',
                     "<trait  name='morph-type'":'morph_type'
@@ -53,7 +53,7 @@ def read_entry(r, id_only=False):
         entry_data = {k:None for k in entry_keys.values()}
         entry_data['note'] = []
         entry_data['sense'] = []
-        entry_data['variant'] = {}
+        entry_data['variant_of'] = {}
         entry_data['entry_id'] = entry_id
         entry_data['date'] = get_xml_kwarg(open_tag, 'dateCreated')
     
@@ -67,7 +67,7 @@ def read_entry(r, id_only=False):
                 if not id_only:
                     if key in ('note', 'sense'):
                         entry_data[key].append(data)
-                    elif key == 'variant':
+                    elif key == 'variant_of':
                         entry_data[key][data[0]] = data[1] if len(data) == 2 else data[1:]
                     else:
                         assert not entry_data[key]

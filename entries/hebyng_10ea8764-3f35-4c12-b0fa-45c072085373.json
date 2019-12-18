@@ -3,16 +3,16 @@
   "entry_id": "hebyng_10ea8764-3f35-4c12-b0fa-45c072085373",
   "morph_type": "stem",
   "pronunciation": "heʔˈbɨgŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a55cb9af-ae77-4d37-be9b-21ca0a24233d",
+  "sense": {
+    "a55cb9af-ae77-4d37-be9b-21ca0a24233d": {
       "pos": "Verb",
       "gloss": {
         "en": "ashamed",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-07T20:59:34Z"
 }

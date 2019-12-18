@@ -3,18 +3,18 @@
   "entry_id": "s’ỹỹ2_2a862903-6868-4aea-a17b-6c1c40a99ca2",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "cbfe62a9-8104-4198-b7b9-17425b60f145",
+  "sense": {
+    "cbfe62a9-8104-4198-b7b9-17425b60f145": {
       "pos": "",
       "gloss": null,
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-09T13:39:47Z"
 }

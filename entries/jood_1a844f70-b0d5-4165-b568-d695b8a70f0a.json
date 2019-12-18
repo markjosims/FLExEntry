@@ -3,16 +3,16 @@
   "entry_id": "jood_1a844f70-b0d5-4165-b568-d695b8a70f0a",
   "morph_type": "stem",
   "pronunciation": "jo:d˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "e7ebf375-f74f-4014-8dda-2500f242b2c4",
+  "sense": {
+    "e7ebf375-f74f-4014-8dda-2500f242b2c4": {
       "pos": "Noun",
       "gloss": {
         "en": "anaconda",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T23:03:29Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "nena_23aa9211-d303-4038-9a0f-a0ea57305ae9",
   "morph_type": "stem",
   "pronunciation": "nena",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 3",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b6bb5c0e-0f82-44d6-94fe-a7c2d106d127",
+  "sense": {
+    "b6bb5c0e-0f82-44d6-94fe-a7c2d106d127": {
       "pos": "?",
       "gloss": {
         "pt": "?"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-26T14:47:07Z"
 }

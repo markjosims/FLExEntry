@@ -3,16 +3,16 @@
   "entry_id": "hood t’ëe_0cacc161-ee56-462a-8da8-c01ad97228a4",
   "morph_type": "phrase",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "38ba27d4-a60a-4277-96c5-3949aff74510",
+  "sense": {
+    "38ba27d4-a60a-4277-96c5-3949aff74510": {
       "pos": "Noun",
       "gloss": {
         "en": "mandi.fish",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T22:52:15Z"
 }

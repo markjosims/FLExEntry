@@ -3,16 +3,16 @@
   "entry_id": "tabës_14ced729-1b9a-4a85-9ea0-4b582781a60b",
   "morph_type": "stem",
   "pronunciation": "tabəʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "570e5c28-f344-441a-93a2-fa6f7607504f",
+  "sense": {
+    "570e5c28-f344-441a-93a2-fa6f7607504f": {
       "pos": "v",
       "gloss": {
         "pt": "passar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'tabʹëës_165c7249-49ef-4561-ad26-55ac9174f93b': 'Plural', 'tabëëj_d4908e65-d8aa-4e7d-8966-be47f303219e': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

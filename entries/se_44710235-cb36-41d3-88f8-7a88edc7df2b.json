@@ -3,16 +3,16 @@
   "entry_id": "se_44710235-cb36-41d3-88f8-7a88edc7df2b",
   "morph_type": "stem",
   "pronunciation": "ʃe",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "3c8fd640-4ed2-4cb7-ab5b-7ecf87503e1e",
+  "sense": {
+    "3c8fd640-4ed2-4cb7-ab5b-7ecf87503e1e": {
       "pos": "n",
       "gloss": {
         "pt": "sobrinho"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

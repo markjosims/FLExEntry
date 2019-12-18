@@ -3,11 +3,11 @@
   "entry_id": "jɤːʔ_2d1daa55-a783-476e-a7fa-47d1ef2527ac",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d5c887de-287d-41c6-a53b-81aa31936d71",
+  "sense": {
+    "d5c887de-287d-41c6-a53b-81aa31936d71": {
       "pos": "Noun",
       "gloss": {
         "en": "pupunha"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

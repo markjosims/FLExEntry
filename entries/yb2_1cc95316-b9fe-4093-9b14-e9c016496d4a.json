@@ -3,11 +3,11 @@
   "entry_id": "yb2_1cc95316-b9fe-4093-9b14-e9c016496d4a",
   "morph_type": "stem",
   "pronunciation": "ʔɨb̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "dcfab601-614d-4575-a398-e017af602de9",
+  "sense": {
+    "dcfab601-614d-4575-a398-e017af602de9": {
       "pos": "Noun",
       "gloss": {
         "en": "father",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

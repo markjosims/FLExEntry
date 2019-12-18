@@ -3,11 +3,11 @@
   "entry_id": "ʃakut_7e862d74-cc61-4b8d-ab41-8e1fc59c0592",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "f5a8c947-10cb-4a1e-822f-6960f1529e62",
+  "sense": {
+    "f5a8c947-10cb-4a1e-822f-6960f1529e62": {
       "pos": "adv?",
       "gloss": {
         "en": "acima"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

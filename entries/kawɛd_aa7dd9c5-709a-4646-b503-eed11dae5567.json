@@ -3,11 +3,11 @@
   "entry_id": "kawɛd_aa7dd9c5-709a-4646-b503-eed11dae5567",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "12412bd3-a310-4ab7-ab5d-ec26dc64066a",
+  "sense": {
+    "12412bd3-a310-4ab7-ab5d-ec26dc64066a": {
       "pos": "Noun",
       "gloss": {
         "en": "arara vermelha"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

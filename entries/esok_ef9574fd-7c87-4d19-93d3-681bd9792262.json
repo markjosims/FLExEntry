@@ -3,16 +3,16 @@
   "entry_id": "esok_ef9574fd-7c87-4d19-93d3-681bd9792262",
   "morph_type": "stem",
   "pronunciation": "eʃok",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "bec9b566-b890-407f-a113-e55415975597",
+  "sense": {
+    "bec9b566-b890-407f-a113-e55415975597": {
       "pos": "v",
       "gloss": {
         "pt": "dizer"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'esog_0ff17dda-0edb-4fab-8d80-c392c7dffd46': 'Não indicativo', 'kʹyy esog_a7b00882-9a97-493e-a1fe-18ab5df56fc6': 'Unspecified Variant'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

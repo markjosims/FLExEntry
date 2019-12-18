@@ -3,11 +3,11 @@
   "entry_id": "piʃ2_524d6575-0649-4173-b87c-f1864f9b8139",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "b229711f-8858-496c-a6c3-b7de9e7610de",
+  "sense": {
+    "b229711f-8858-496c-a6c3-b7de9e7610de": {
       "pos": "Noun",
       "gloss": {
         "en": "espremer mandioca"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

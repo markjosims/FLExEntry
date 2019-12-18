@@ -3,16 +3,16 @@
   "entry_id": "doo2_53082cdc-d65b-4949-9404-3a47fd80f8b5",
   "morph_type": "stem",
   "pronunciation": "doːʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "39504ac7-caa4-4fc1-9bcb-367387ee05d1",
+  "sense": {
+    "39504ac7-caa4-4fc1-9bcb-367387ee05d1": {
       "pos": "Verb",
       "gloss": {
         "en": "be (n.i. do)"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

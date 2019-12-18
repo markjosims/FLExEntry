@@ -3,16 +3,16 @@
   "entry_id": "kawad puuw1_3df027b0-fff3-4f27-bc4a-2e9a507a013c",
   "morph_type": "phrase",
   "pronunciation": "kaˈwad pu:w",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "7d751aa3-1b35-4a2a-9c4b-60a29dcba06a",
+  "sense": {
+    "7d751aa3-1b35-4a2a-9c4b-60a29dcba06a": {
       "pos": "Noun",
       "gloss": {
         "en": "cotton",
@@ -24,8 +24,8 @@
       },
       "reverse": "[('cotton', 'en'), ('algodão', 'pt')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-09-03T23:31:48Z"
 }

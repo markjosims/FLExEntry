@@ -3,16 +3,16 @@
   "entry_id": "dakëë_72943245-797e-4342-b159-2272bb0b1243",
   "morph_type": "stem",
   "pronunciation": "dakə:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "4094d4fb-6161-476e-ab87-f393940a25d0",
+  "sense": {
+    "4094d4fb-6161-476e-ab87-f393940a25d0": {
       "pos": "v",
       "gloss": {
         "pt": "enterrar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

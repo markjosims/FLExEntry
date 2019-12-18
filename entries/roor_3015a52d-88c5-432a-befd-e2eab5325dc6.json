@@ -3,16 +3,16 @@
   "entry_id": "roor_3015a52d-88c5-432a-befd-e2eab5325dc6",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8477b726-76d0-4630-9a39-a67f1840cdb1",
+  "sense": {
+    "8477b726-76d0-4630-9a39-a67f1840cdb1": {
       "pos": "Noun",
       "gloss": {
         "en": "duck",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T20:43:14Z"
 }

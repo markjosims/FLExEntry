@@ -3,16 +3,16 @@
   "entry_id": "uuh_1173027f-de25-43fe-b73c-8e947d64965d",
   "morph_type": "stem",
   "pronunciation": "u:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c0ac1101-c428-4c3a-a9ed-0e4e1e566349",
+  "sense": {
+    "c0ac1101-c428-4c3a-a9ed-0e4e1e566349": {
       "pos": "n op",
       "gloss": {
         "pt": "pedaço"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

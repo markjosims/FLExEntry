@@ -3,11 +3,11 @@
   "entry_id": "tarog_881c607c-3829-44af-929d-caa7a9a1c811",
   "morph_type": "stem",
   "pronunciation": "taɾog̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "df820bc8-d08d-4b87-90f0-ba34e429c0cf",
+  "sense": {
+    "df820bc8-d08d-4b87-90f0-ba34e429c0cf": {
       "pos": "Noun",
       "gloss": {
         "en": "squirrel",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

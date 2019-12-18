@@ -3,11 +3,11 @@
   "entry_id": "ʔoːw1_f450e27e-ab41-4277-a9ec-2d5c346698a5",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "6348b12b-4bf5-4ab0-8d85-62ef1f664d54",
+  "sense": {
+    "6348b12b-4bf5-4ab0-8d85-62ef1f664d54": {
       "pos": "Noun",
       "gloss": {
         "en": "avô"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'ʔoːw2_69b65da0-efcb-44b5-aec4-0fcab8590956': ('Spelling Variant', 'Barbosa 2005; avô')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

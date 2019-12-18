@@ -3,11 +3,11 @@
   "entry_id": "pɔ̰̃ːn_4efe0b96-672b-40ed-9e97-49828ac4667c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "2000adc5-6d7d-4ad3-9ec7-835b21fa5112",
+  "sense": {
+    "2000adc5-6d7d-4ad3-9ec7-835b21fa5112": {
       "pos": "Verb",
       "gloss": {
         "en": "andar enfileirado"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ʃaduŋ_89eb9d16-7646-448f-8094-acc78f173f14",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "2c112a51-912d-4c95-9374-f0fad9a4e65a",
+  "sense": {
+    "2c112a51-912d-4c95-9374-f0fad9a4e65a": {
       "pos": "Noun",
       "gloss": {
         "en": "liso"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

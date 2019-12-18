@@ -3,16 +3,16 @@
   "entry_id": "tɨng2_5724ff6d-c354-4517-881f-ba3c003e92d2",
   "morph_type": "stem",
   "pronunciation": "tɨŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8e788101-8a78-4ef3-8bd4-f6fd04a269a3",
+  "sense": {
+    "8e788101-8a78-4ef3-8bd4-f6fd04a269a3": {
       "pos": "Noun",
       "gloss": {
         "en": "support"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

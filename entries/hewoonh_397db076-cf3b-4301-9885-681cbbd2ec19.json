@@ -3,16 +3,16 @@
   "entry_id": "hewoonh_397db076-cf3b-4301-9885-681cbbd2ec19",
   "morph_type": "stem",
   "pronunciation": "hewo:ɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a4987c29-e90e-401a-8e77-c45e82ec9b5c",
+  "sense": {
+    "a4987c29-e90e-401a-8e77-c45e82ec9b5c": {
       "pos": "v",
       "gloss": {
         "pt": "secar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

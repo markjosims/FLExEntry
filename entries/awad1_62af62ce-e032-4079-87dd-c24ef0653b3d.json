@@ -3,16 +3,16 @@
   "entry_id": "awad1_62af62ce-e032-4079-87dd-c24ef0653b3d",
   "morph_type": "stem",
   "pronunciation": "ʔawad",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990; Weir 1994; Martins 2005",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c450b8da-5ae2-4d74-b02b-6159d9ad6a32",
+  "sense": {
+    "c450b8da-5ae2-4d74-b02b-6159d9ad6a32": {
       "pos": "Noun",
       "gloss": {
         "en": "jaguar"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'awad2_89445911-1a22-4be0-8351-b396b535c72a': ('Spelling Variant', 'Martins 2005; onça')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

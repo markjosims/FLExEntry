@@ -3,16 +3,16 @@
   "entry_id": "rahanad_321ddb05-fdb5-451a-a1a3-c1290b2f484a",
   "morph_type": "stem",
   "pronunciation": "ɾahanad",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "1fac5b2e-aea1-4a02-9450-9d9f9c569943",
+  "sense": {
+    "1fac5b2e-aea1-4a02-9450-9d9f9c569943": {
       "pos": "n",
       "gloss": {
         "pt": "curupira"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'rahana_9124a74d-9b78-4331-acbf-99f4a85482e2': 'Unspecified Variant'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

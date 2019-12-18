@@ -3,16 +3,16 @@
   "entry_id": "papỹỹj_3194bd97-3568-41d3-ad94-fa7e9d5d6930",
   "morph_type": "stem",
   "pronunciation": "paˈpɨ̃:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "fb412a69-3838-4492-87dd-2d5971e0cd4c",
+  "sense": {
+    "fb412a69-3838-4492-87dd-2d5971e0cd4c": {
       "pos": "Noun",
       "gloss": {
         "en": "sun",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "('here any notes about meaning variants in texts?', '')",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-02-02T19:33:51Z"
 }

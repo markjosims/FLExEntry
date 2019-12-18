@@ -3,11 +3,11 @@
   "entry_id": "hebyy n&apos;aa_b784dbc3-8ec8-4e7d-b277-d853f6f2ecaa",
   "morph_type": "phrase",
   "pronunciation": "hebɨ:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "024c6853-a275-49fd-906c-b4885db73a46",
+  "sense": {
+    "024c6853-a275-49fd-906c-b4885db73a46": {
       "pos": "Noun",
       "gloss": {
         "en": "sister/brother.in.law",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

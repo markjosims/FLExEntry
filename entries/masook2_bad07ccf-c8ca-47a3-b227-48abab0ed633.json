@@ -3,11 +3,11 @@
   "entry_id": "masook2_bad07ccf-c8ca-47a3-b227-48abab0ed633",
   "morph_type": "stem",
   "pronunciation": "mãʃo:k̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "9f5d15a5-51ae-43d8-9199-e28dfde91a2b",
+  "sense": {
+    "9f5d15a5-51ae-43d8-9199-e28dfde91a2b": {
       "pos": "Noun",
       "gloss": {
         "en": "manioc.meal",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

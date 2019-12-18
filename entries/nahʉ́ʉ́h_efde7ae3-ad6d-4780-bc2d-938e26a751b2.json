@@ -3,16 +3,16 @@
   "entry_id": "nahʉ́ʉ́h_efde7ae3-ad6d-4780-bc2d-938e26a751b2",
   "morph_type": "stem",
   "pronunciation": "nahʌːh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990; Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8aa075ca-a6d4-4f87-b38a-00ec3971b01e",
+  "sense": {
+    "8aa075ca-a6d4-4f87-b38a-00ec3971b01e": {
       "pos": "",
       "gloss": {
         "en": "illness"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

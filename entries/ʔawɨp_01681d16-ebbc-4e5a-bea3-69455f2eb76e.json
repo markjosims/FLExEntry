@@ -3,11 +3,11 @@
   "entry_id": "ʔawɨp_01681d16-ebbc-4e5a-bea3-69455f2eb76e",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "a1f37a78-5a17-461d-bae5-242b45ee9b4d",
+  "sense": {
+    "a1f37a78-5a17-461d-bae5-242b45ee9b4d": {
       "pos": "Noun",
       "gloss": {
         "en": "relâmpago"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

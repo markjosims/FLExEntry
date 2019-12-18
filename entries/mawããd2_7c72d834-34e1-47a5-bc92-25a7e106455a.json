@@ -3,11 +3,11 @@
   "entry_id": "mawããd2_7c72d834-34e1-47a5-bc92-25a7e106455a",
   "morph_type": "stem",
   "pronunciation": "mãwã:d̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "f9e315ae-5729-4044-afd9-f6017857d66c",
+  "sense": {
+    "f9e315ae-5729-4044-afd9-f6017857d66c": {
       "pos": "Noun",
       "gloss": {
         "en": "pineapple",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

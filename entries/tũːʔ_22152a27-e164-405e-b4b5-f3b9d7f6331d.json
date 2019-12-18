@@ -3,11 +3,11 @@
   "entry_id": "tũːʔ_22152a27-e164-405e-b4b5-f3b9d7f6331d",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "35a53b96-a2d0-4e99-b500-b16d8f174a1b",
+  "sense": {
+    "35a53b96-a2d0-4e99-b500-b16d8f174a1b": {
       "pos": "Noun",
       "gloss": {
         "en": "solo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "hũːt2_2dab5f66-5578-47a2-bee1-414855d0f8eb",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "0479caf1-8bfe-4184-b42c-03656a81e03b",
+  "sense": {
+    "0479caf1-8bfe-4184-b42c-03656a81e03b": {
       "pos": "Noun",
       "gloss": {
         "en": "tabaco; fumo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

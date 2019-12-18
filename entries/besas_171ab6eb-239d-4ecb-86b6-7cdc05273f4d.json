@@ -3,16 +3,16 @@
   "entry_id": "besas_171ab6eb-239d-4ecb-86b6-7cdc05273f4d",
   "morph_type": "stem",
   "pronunciation": "beʔˈʃaʃ]",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "818c8b67-4e64-40c2-a043-455c37dd89e1",
+  "sense": {
+    "818c8b67-4e64-40c2-a043-455c37dd89e1": {
       "pos": "",
       "gloss": {
         "en": "rotten.smell",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-07T18:30:07Z"
 }

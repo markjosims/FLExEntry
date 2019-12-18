@@ -3,16 +3,16 @@
   "entry_id": "tés_2d3bbcbd-7d0b-4b91-a31b-949a65801bb4",
   "morph_type": "stem",
   "pronunciation": "tɛʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "95862617-887e-477c-98ca-9b7502d2a00b",
+  "sense": {
+    "95862617-887e-477c-98ca-9b7502d2a00b": {
       "pos": "Verb",
       "gloss": {
         "en": "hurt"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

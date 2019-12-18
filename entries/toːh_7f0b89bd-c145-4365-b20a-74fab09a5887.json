@@ -3,11 +3,11 @@
   "entry_id": "toːh_7f0b89bd-c145-4365-b20a-74fab09a5887",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d7ce1338-8451-43c5-b430-3a0f60d558f5",
+  "sense": {
+    "d7ce1338-8451-43c5-b430-3a0f60d558f5": {
       "pos": "Noun",
       "gloss": {
         "en": "quiexada"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

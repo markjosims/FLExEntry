@@ -3,11 +3,11 @@
   "entry_id": "juʔ1_7bb13b61-6e0f-4bd3-9889-18139d7bb2ac",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d108abdf-f26e-436f-bf25-080eac6d4842",
+  "sense": {
+    "d108abdf-f26e-436f-bf25-080eac6d4842": {
       "pos": "?",
       "gloss": {
         "en": "queimado"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "jahamaːd_ff8ca9d5-b389-4faf-88b6-3714f610b696",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "7ca6a82d-889c-4ffe-a188-5a4c9ee21eaf",
+  "sense": {
+    "7ca6a82d-889c-4ffe-a188-5a4c9ee21eaf": {
       "pos": "Noun",
       "gloss": {
         "en": "mutum"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

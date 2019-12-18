@@ -3,16 +3,16 @@
   "entry_id": "tʉ́2_e8a45bd9-e67b-4f28-ac1a-5e55f7c05c03",
   "morph_type": "stem",
   "pronunciation": "tʌʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0563e647-67c7-46a0-87d5-27bb4087d6df",
+  "sense": {
+    "0563e647-67c7-46a0-87d5-27bb4087d6df": {
       "pos": "Noun",
       "gloss": {
         "en": "food"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

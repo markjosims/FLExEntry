@@ -3,11 +3,11 @@
   "entry_id": "watuːɾ_6c6d6af3-914f-4223-af5b-893f529f5156",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "e75d1c68-c38d-49b5-b8c5-1ec453549fec",
+  "sense": {
+    "e75d1c68-c38d-49b5-b8c5-1ec453549fec": {
       "pos": "Noun",
       "gloss": {
         "en": "macaco.sp"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

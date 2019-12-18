@@ -3,16 +3,30 @@
   "entry_id": "me1_69935547-234c-452b-a397-06c63051952f",
   "morph_type": "stem",
   "pronunciation": "me",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "me2_b636faa8-d192-455f-a9c4-c233998d4085": {
+      "headword": "me",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:01:00Z",
+      "var_type": [
+        "Weir",
+        "1986; by means of"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8924887b-cdf7-4ff1-8f77-11972f9c2cfa",
+  "sense": {
+    "8924887b-cdf7-4ff1-8f77-11972f9c2cfa": {
       "pos": "posp",
       "gloss": {
         "pt": "com"
@@ -22,8 +36,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ɟakod_c6a20b3f-d2ad-402a-bcf7-ced8a9d76729",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "ef25923a-eb7e-4133-80e4-70925142054b",
+  "sense": {
+    "ef25923a-eb7e-4133-80e4-70925142054b": {
       "pos": "Noun",
       "gloss": {
         "en": "embaúba"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

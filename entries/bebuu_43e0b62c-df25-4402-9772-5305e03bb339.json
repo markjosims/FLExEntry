@@ -3,16 +3,16 @@
   "entry_id": "bebuu_43e0b62c-df25-4402-9772-5305e03bb339",
   "morph_type": "stem",
   "pronunciation": "beʔbu:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c3f32943-c934-4eb8-81e2-f360e8cc9a6c",
+  "sense": {
+    "c3f32943-c934-4eb8-81e2-f360e8cc9a6c": {
       "pos": "Noun",
       "gloss": {
         "en": "paxiuba.palm",
@@ -24,8 +24,8 @@
       },
       "reverse": "[('paxiuba', 'pt'), ('paxiuba palm', 'en')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-09-03T23:22:48Z"
 }

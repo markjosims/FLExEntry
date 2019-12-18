@@ -3,11 +3,11 @@
   "entry_id": "tamɛːʔ_507bc40f-6bb9-446c-9aab-0a875a05c74c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "25bcae45-59b5-4631-98fc-a9ef4b5c55a7",
+  "sense": {
+    "25bcae45-59b5-4631-98fc-a9ef4b5c55a7": {
       "pos": "adv?",
       "gloss": {
         "en": "no rio"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

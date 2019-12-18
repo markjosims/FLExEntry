@@ -3,16 +3,16 @@
   "entry_id": "na2_502c638d-8616-4812-b966-7966da16815b",
   "morph_type": "stem",
   "pronunciation": "na",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990; 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "6d89a734-ee54-41e1-aa28-cdce73716a0a",
+  "sense": {
+    "6d89a734-ee54-41e1-aa28-cdce73716a0a": {
       "pos": "pre",
       "gloss": {
         "en": "NEG",
@@ -21,8 +21,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-28T21:06:03Z"
 }

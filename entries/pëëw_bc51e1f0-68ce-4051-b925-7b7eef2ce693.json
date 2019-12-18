@@ -3,11 +3,11 @@
   "entry_id": "pëëw_bc51e1f0-68ce-4051-b925-7b7eef2ce693",
   "morph_type": "stem",
   "pronunciation": "pə:w",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "4b0fb19d-e66c-483b-9ab8-4dc75471caf3",
+  "sense": {
+    "4b0fb19d-e66c-483b-9ab8-4dc75471caf3": {
       "pos": "Noun",
       "gloss": {
         "en": "loincloth",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

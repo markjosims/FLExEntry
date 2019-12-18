@@ -3,7 +3,8 @@
   "entry_id": "dawëët_c3758ea2-d00a-4913-904a-8eee6d7c0ae1",
   "morph_type": "stem",
   "pronunciation": "daˈwǝ:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "82cbb80d-ed11-47dc-9f68-af19cb7de65d",
+  "sense": {
+    "82cbb80d-ed11-47dc-9f68-af19cb7de65d": {
       "pos": "adv",
       "gloss": {
         "en": "far",
@@ -28,8 +28,8 @@
       },
       "reverse": "",
       "note": "('check spelling ëë/yy?', 'phonology')",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

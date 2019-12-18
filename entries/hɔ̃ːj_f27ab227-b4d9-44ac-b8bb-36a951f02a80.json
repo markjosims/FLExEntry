@@ -3,11 +3,11 @@
   "entry_id": "hɔ̃ːj_f27ab227-b4d9-44ac-b8bb-36a951f02a80",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "c99946e4-d389-4fb0-9e05-d9f7b1872bf8",
+  "sense": {
+    "c99946e4-d389-4fb0-9e05-d9f7b1872bf8": {
       "pos": "Verb",
       "gloss": {
         "en": "escrever n.i."
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

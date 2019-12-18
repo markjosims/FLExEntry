@@ -3,11 +3,11 @@
   "entry_id": "jarakë1_677fa10c-0614-48de-92f5-dfdfe030aaac",
   "morph_type": "stem",
   "pronunciation": "jaɾakəʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "0ade739f-fd59-4fe0-90c7-fe807bdedd77",
+  "sense": {
+    "0ade739f-fd59-4fe0-90c7-fe807bdedd77": {
       "pos": "Noun",
       "gloss": {
         "en": "beer.log",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

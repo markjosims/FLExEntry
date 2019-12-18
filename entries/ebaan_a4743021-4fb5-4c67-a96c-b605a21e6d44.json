@@ -3,16 +3,16 @@
   "entry_id": "ebaan_a4743021-4fb5-4c67-a96c-b605a21e6d44",
   "morph_type": "stem",
   "pronunciation": "ʔe ˈbã:n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a7ca0748-82d5-4f99-8f89-0fef61c7c8ae",
+  "sense": {
+    "a7ca0748-82d5-4f99-8f89-0fef61c7c8ae": {
       "pos": "adj?",
       "gloss": {
         "en": "thick.surface",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-08T18:17:57Z"
 }

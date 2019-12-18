@@ -3,16 +3,16 @@
   "entry_id": "dõm karekẽẽt_79484fd0-7647-445a-8385-9f00f9238675",
   "morph_type": "phrase",
   "pronunciation": "dõm kaɾekɛ̃:t",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "72dfd244-8c02-4283-8a2b-8bffb49a0394",
+  "sense": {
+    "72dfd244-8c02-4283-8a2b-8bffb49a0394": {
       "pos": "v",
       "gloss": {
         "pt": "rabo.enrolado"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'dõm karekẽd_dba9ba48-2912-4dc8-bedc-4b8441e09274': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

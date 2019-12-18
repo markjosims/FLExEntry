@@ -3,16 +3,16 @@
   "entry_id": "tsebé_35ae34bc-cad7-4025-a65c-496e623e57cf",
   "morph_type": "stem",
   "pronunciation": "ɟebɛ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "80399299-65ed-4736-a370-954faf01dad7",
+  "sense": {
+    "80399299-65ed-4736-a370-954faf01dad7": {
       "pos": "v",
       "gloss": {
         "pt": "alegre"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'tsebee_5d57c0a2-1c6e-414c-bb6f-95d298c46385': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "karaba_7354ca9f-c488-41c2-aec5-27ce9f1a2a6c",
   "morph_type": "stem",
   "pronunciation": "kaɾabaʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "7ab1f647-029f-4dd9-b0fe-ed369c38af75",
+  "sense": {
+    "7ab1f647-029f-4dd9-b0fe-ed369c38af75": {
       "pos": "Noun",
       "gloss": {
         "en": "bow",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

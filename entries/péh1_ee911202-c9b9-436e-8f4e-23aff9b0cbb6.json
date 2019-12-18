@@ -3,7 +3,8 @@
   "entry_id": "péh1_ee911202-c9b9-436e-8f4e-23aff9b0cbb6",
   "morph_type": "stem",
   "pronunciation": "pɛh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f6b724d1-17b3-4b82-9c25-dbe8ab015da1",
+  "sense": {
+    "f6b724d1-17b3-4b82-9c25-dbe8ab015da1": {
       "pos": "n",
       "gloss": {
         "pt": "tipo.de"
@@ -26,8 +26,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "manäh_c495f6aa-c045-4ac5-93b7-4893ac314a2a",
   "morph_type": "stem",
   "pronunciation": "manʌh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "ba01ed64-5100-4894-b46f-287c2da93272",
+  "sense": {
+    "ba01ed64-5100-4894-b46f-287c2da93272": {
       "pos": "par?",
       "gloss": {
         "pt": "IMP NEG"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

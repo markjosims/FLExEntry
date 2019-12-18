@@ -3,16 +3,16 @@
   "entry_id": "sapuuw_37867b30-19ec-4639-8a17-3aa7b67aeaee",
   "morph_type": "stem",
   "pronunciation": "ʃaˈpu:w",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "2048e706-7de4-4538-bc0f-7f1b263c0806",
+  "sense": {
+    "2048e706-7de4-4538-bc0f-7f1b263c0806": {
       "pos": "Noun",
       "gloss": {
         "en": "lung",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-15T20:38:10Z"
 }

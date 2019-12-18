@@ -3,11 +3,11 @@
   "entry_id": "tahoh_a4a0b6ab-42e7-4223-95dc-11ad8b23e9ee",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5794f402-cb6e-49d8-80cc-f4e1fd567c8b",
+  "sense": {
+    "5794f402-cb6e-49d8-80cc-f4e1fd567c8b": {
       "pos": "Verb",
       "gloss": {
         "en": "cortar cabelo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

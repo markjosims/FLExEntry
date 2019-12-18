@@ -3,11 +3,11 @@
   "entry_id": "tsawaaj_bd4ddf53-09b2-485e-bb4b-06c84d176264",
   "morph_type": "stem",
   "pronunciation": "tʃ'awa:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1e5d684b-9692-43d8-bd75-2dc0d213702d",
+  "sense": {
+    "1e5d684b-9692-43d8-bd75-2dc0d213702d": {
       "pos": "Noun",
       "gloss": {
         "en": "opossum",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

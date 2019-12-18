@@ -3,16 +3,16 @@
   "entry_id": "hʹoo2_4113864d-2d85-4f29-909e-f8deb4a55023",
   "morph_type": "stem",
   "pronunciation": "ho̰:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0876d3e9-e52c-4b96-ad67-676bff348f78",
+  "sense": {
+    "0876d3e9-e52c-4b96-ad67-676bff348f78": {
       "pos": "n",
       "gloss": {
         "pt": "inambu pequeno"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

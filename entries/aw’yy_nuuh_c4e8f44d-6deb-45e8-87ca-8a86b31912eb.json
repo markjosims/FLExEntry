@@ -3,16 +3,16 @@
   "entry_id": "aw’yy nuuh_c4e8f44d-6deb-45e8-87ca-8a86b31912eb",
   "morph_type": "phrase",
   "pronunciation": "aˈwɨʔɨʔ nu:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "dbe0e39f-6614-48f0-a4f3-ebb77b6d2798",
+  "sense": {
+    "dbe0e39f-6614-48f0-a4f3-ebb77b6d2798": {
       "pos": "Noun",
       "gloss": {
         "en": "ant",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-15T20:25:53Z"
 }

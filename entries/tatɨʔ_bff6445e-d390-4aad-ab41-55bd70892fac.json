@@ -3,11 +3,11 @@
   "entry_id": "tatɨʔ_bff6445e-d390-4aad-ab41-55bd70892fac",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "97948c29-e3f3-441c-bf6e-5c833672d715",
+  "sense": {
+    "97948c29-e3f3-441c-bf6e-5c833672d715": {
       "pos": "n?",
       "gloss": {
         "en": "este"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

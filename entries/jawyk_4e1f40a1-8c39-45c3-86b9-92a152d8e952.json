@@ -3,16 +3,16 @@
   "entry_id": "jawyk_4e1f40a1-8c39-45c3-86b9-92a152d8e952",
   "morph_type": "stem",
   "pronunciation": "jaˈwɨk˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "09cf758e-2dba-455a-9678-dcae682566d1",
+  "sense": {
+    "09cf758e-2dba-455a-9678-dcae682566d1": {
       "pos": "",
       "gloss": {
         "en": "heavy",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-06T20:37:24Z"
 }

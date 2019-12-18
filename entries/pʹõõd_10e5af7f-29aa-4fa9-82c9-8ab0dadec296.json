@@ -3,16 +3,16 @@
   "entry_id": "pʹõõd_10e5af7f-29aa-4fa9-82c9-8ab0dadec296",
   "morph_type": "stem",
   "pronunciation": "põ̰:d",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d3963a49-bb42-498c-97c7-95ef55fd557b",
+  "sense": {
+    "d3963a49-bb42-498c-97c7-95ef55fd557b": {
       "pos": "n",
       "gloss": {
         "pt": "corda.de.subir(?)"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

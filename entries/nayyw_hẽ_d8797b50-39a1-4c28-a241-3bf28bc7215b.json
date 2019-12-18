@@ -3,16 +3,16 @@
   "entry_id": "nayyw hẽ_d8797b50-39a1-4c28-a241-3bf28bc7215b",
   "morph_type": "phrase",
   "pronunciation": "naɨ:w hɛ̃",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c0c5edbd-74b4-4633-b165-391c649d9aa5",
+  "sense": {
+    "c0c5edbd-74b4-4633-b165-391c649d9aa5": {
       "pos": "adv",
       "gloss": {
         "pt": "logo"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'nayyw_48c32115-3de9-4059-b1d6-c262a1704223': 'Unspecified Variant'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

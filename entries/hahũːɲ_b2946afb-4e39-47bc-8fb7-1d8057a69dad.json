@@ -3,11 +3,11 @@
   "entry_id": "hahũːɲ_b2946afb-4e39-47bc-8fb7-1d8057a69dad",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "80564ff1-b890-4683-8543-2f7d3ea725a3",
+  "sense": {
+    "80564ff1-b890-4683-8543-2f7d3ea725a3": {
       "pos": "Verb",
       "gloss": {
         "en": "não ter preguiça"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

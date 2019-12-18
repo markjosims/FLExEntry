@@ -3,16 +3,16 @@
   "entry_id": "kawed_401e72f5-e1dc-4968-bc4b-e9fc98db9a07",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "2f840eec-5f8d-4099-90d0-1da260eb302d",
+  "sense": {
+    "2f840eec-5f8d-4099-90d0-1da260eb302d": {
       "pos": "Noun",
       "gloss": {
         "en": "macaw.red",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T20:30:16Z"
 }

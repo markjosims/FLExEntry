@@ -3,16 +3,16 @@
   "entry_id": "ahʹook_35fa4e5d-3c45-485c-86fc-f0fe63c0413f",
   "morph_type": "stem",
   "pronunciation": "aho̰:k",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "ea5a29cc-72ea-4e5c-a30e-950944984663",
+  "sense": {
+    "ea5a29cc-72ea-4e5c-a30e-950944984663": {
       "pos": "v",
       "gloss": {
         "pt": "fazer.dabucurí"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'hehok_236c790d-119c-4355-a51b-357e4b32db4d': 'Habitual', 'ahoog_86909127-d6a9-47da-afae-0e5865240388': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

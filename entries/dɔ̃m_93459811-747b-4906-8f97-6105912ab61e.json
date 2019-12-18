@@ -3,11 +3,11 @@
   "entry_id": "dɔ̃m_93459811-747b-4906-8f97-6105912ab61e",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d02f6e29-6e20-4050-9033-3f7887e15ce2",
+  "sense": {
+    "d02f6e29-6e20-4050-9033-3f7887e15ce2": {
       "pos": "Noun",
       "gloss": {
         "en": "rabo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "etʹëëh1_8b0c5455-57ba-4527-b221-f5feb1dc4944",
   "morph_type": "stem",
   "pronunciation": "etə̰:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "004bf7ff-86e6-4e43-b24e-166a28b9023a",
+  "sense": {
+    "004bf7ff-86e6-4e43-b24e-166a28b9023a": {
       "pos": "v",
       "gloss": {
         "pt": "cheio.de.brocas"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'etʹëë_e8722275-3877-4fed-99c7-d79cb00d40ae': 'Não indicativo', 'etʹëëh2_fc228f01-64d1-4339-a57d-a5ac1cab8d3f': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

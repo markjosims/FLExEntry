@@ -3,16 +3,16 @@
   "entry_id": "ana_e31f4062-bf6c-4316-ba96-271f1e728541",
   "morph_type": "stem",
   "pronunciation": "ʔaˈnaʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "3aca7581-be15-4193-a1e2-d61ef473d34a",
+  "sense": {
+    "3aca7581-be15-4193-a1e2-d61ef473d34a": {
       "pos": "v",
       "gloss": {
         "en": "come",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

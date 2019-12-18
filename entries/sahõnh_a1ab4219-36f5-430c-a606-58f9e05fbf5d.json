@@ -3,16 +3,16 @@
   "entry_id": "sahõnh_a1ab4219-36f5-430c-a606-58f9e05fbf5d",
   "morph_type": "stem",
   "pronunciation": "ʃahõɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "47f25ff7-6c5b-48a8-90bf-80071db11447",
+  "sense": {
+    "47f25ff7-6c5b-48a8-90bf-80071db11447": {
       "pos": "n? pro?",
       "gloss": {
         "en": "all"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

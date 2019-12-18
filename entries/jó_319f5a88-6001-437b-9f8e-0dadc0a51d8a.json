@@ -3,7 +3,22 @@
   "entry_id": "jó_319f5a88-6001-437b-9f8e-0dadc0a51d8a",
   "morph_type": "stem",
   "pronunciation": "jɔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "yó_0c9dbc1c-c5c5-4656-9947-12f740b52735": {
+      "headword": "yó",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T02:48:53Z",
+      "var_type": [
+        "Weir",
+        "on.top.of"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
@@ -14,9 +29,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "daf97cf6-d8a0-4504-93d9-e9e5ba4c5843",
+  "sense": {
+    "daf97cf6-d8a0-4504-93d9-e9e5ba4c5843": {
       "pos": "adv",
       "gloss": {
         "en": "on",
@@ -28,10 +42,9 @@
       },
       "reverse": "",
       "note": "('Fieldnotes Epps/Obert; 2018', 'bibliography')",
-      "var_of_sense": {}
+      "these_vars": ""
     },
-    {
-      "sense_id": "b2381743-f8f7-4b32-b7c1-f8203f6f3261",
+    "b2381743-f8f7-4b32-b7c1-f8203f6f3261": {
       "pos": "Noun",
       "gloss": {
         "en": "back",
@@ -43,8 +56,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

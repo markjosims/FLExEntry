@@ -3,11 +3,11 @@
   "entry_id": "kajamaah_a1977c14-2ca4-4b0e-b40a-5f0653e2e6c0",
   "morph_type": "stem",
   "pronunciation": "kajabmã:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "89db112b-23a7-480c-bd7d-4e4666902cac",
+  "sense": {
+    "89db112b-23a7-480c-bd7d-4e4666902cac": {
       "pos": "Noun",
       "gloss": {
         "en": "capybara",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

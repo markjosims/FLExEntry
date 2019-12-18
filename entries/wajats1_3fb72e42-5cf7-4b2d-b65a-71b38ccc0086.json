@@ -3,16 +3,30 @@
   "entry_id": "wajats1_3fb72e42-5cf7-4b2d-b65a-71b38ccc0086",
   "morph_type": "stem",
   "pronunciation": "wajaɟ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "wajaɟ_c1817866-514a-499b-9b91-4dc9f2c9ccb8": {
+      "headword": "wajaɟ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:44:38Z",
+      "var_type": [
+        "Barbosa",
+        "peixe-boi"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "1257c87a-bca7-4f96-9f23-e98772692f8a",
+  "sense": {
+    "1257c87a-bca7-4f96-9f23-e98772692f8a": {
       "pos": "n",
       "gloss": {
         "pt": "peixe-boi"
@@ -22,8 +36,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

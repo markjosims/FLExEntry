@@ -3,11 +3,11 @@
   "entry_id": "ʃaːh_5b3da68a-6968-434c-b4b0-7f6f03dba96a",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "712567a4-87fb-40b6-9742-ec2eb1a9b757",
+  "sense": {
+    "712567a4-87fb-40b6-9742-ec2eb1a9b757": {
       "pos": "Noun",
       "gloss": {
         "en": "sobrinho (pl ʃa̰ːh)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

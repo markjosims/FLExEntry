@@ -3,16 +3,16 @@
   "entry_id": "gawẽn_becd4522-bfee-498e-b034-69e35d3915d9",
   "morph_type": "stem",
   "pronunciation": "gawɛ̃n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "85489b82-dc9d-4e03-ad2d-a136f079d042",
+  "sense": {
+    "85489b82-dc9d-4e03-ad2d-a136f079d042": {
       "pos": "v",
       "gloss": {
         "pt": "mexer"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'gawʹẽẽn_b9edea85-8937-43c2-84c8-a464e854301f': 'Habitual'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

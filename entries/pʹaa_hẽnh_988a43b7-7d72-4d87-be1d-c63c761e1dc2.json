@@ -3,16 +3,16 @@
   "entry_id": "pʹaa hẽnh_988a43b7-7d72-4d87-be1d-c63c761e1dc2",
   "morph_type": "phrase",
   "pronunciation": "pa̰: hɛ̃ɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f667416b-3d6c-47e3-af04-3f8dfa905b2d",
+  "sense": {
+    "f667416b-3d6c-47e3-af04-3f8dfa905b2d": {
       "pos": "adv",
       "gloss": {
         "pt": "de.novo"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

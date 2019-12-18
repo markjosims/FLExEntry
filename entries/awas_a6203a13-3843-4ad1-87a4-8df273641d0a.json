@@ -3,11 +3,11 @@
   "entry_id": "awas_a6203a13-3843-4ad1-87a4-8df273641d0a",
   "morph_type": "stem",
   "pronunciation": "ʔawaʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "56b8a4f3-9b5e-4bd6-be92-4fd601ead5cc",
+  "sense": {
+    "56b8a4f3-9b5e-4bd6-be92-4fd601ead5cc": {
       "pos": "Noun",
       "gloss": {
         "en": "pigweed",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ʔaʃop_f5f8196a-3021-4af8-b22f-7317b5d12710",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "cc670aac-f288-40ce-9795-9da0bfd83077",
+  "sense": {
+    "cc670aac-f288-40ce-9795-9da0bfd83077": {
       "pos": "v imp?",
       "gloss": {
         "en": "fique sentado!"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

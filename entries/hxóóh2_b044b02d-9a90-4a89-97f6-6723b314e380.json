@@ -3,16 +3,16 @@
   "entry_id": "hxóóh2_b044b02d-9a90-4a89-97f6-6723b314e380",
   "morph_type": "stem",
   "pronunciation": "hɔ̰ːh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1986; Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "15b1cb7d-2e50-4350-ba50-279aaaabe67b",
+  "sense": {
+    "15b1cb7d-2e50-4350-ba50-279aaaabe67b": {
       "pos": "Noun",
       "gloss": {
         "en": "canoe"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "tamiih_727b15c7-d50c-4a5b-bdf2-25524d64064d",
   "morph_type": "stem",
   "pronunciation": "taˈmi:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b23dc698-bc39-43bd-bd4b-4319d0640ead",
+  "sense": {
+    "b23dc698-bc39-43bd-bd4b-4319d0640ead": {
       "pos": "Noun",
       "gloss": {
         "en": "river",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T20:09:44Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "wawʹoos_713c2e49-683d-4b4c-b21a-cb6fbd07c005",
   "morph_type": "stem",
   "pronunciation": "wawo̰:ʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "16cb708c-838d-49e0-8f4f-fa9b6c847124",
+  "sense": {
+    "16cb708c-838d-49e0-8f4f-fa9b6c847124": {
       "pos": "n",
       "gloss": {
         "pt": "caba.sp"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

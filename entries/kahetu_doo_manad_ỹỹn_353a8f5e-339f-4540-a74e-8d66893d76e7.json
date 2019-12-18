@@ -3,11 +3,11 @@
   "entry_id": "kahetu doo manad ỹỹn_353a8f5e-339f-4540-a74e-8d66893d76e7",
   "morph_type": "phrase",
   "pronunciation": "kahetuʔ do:ʔ mãnãd̚ ʔɨ̃:n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "977d8588-e430-4c62-a415-24496dff5e0e",
+  "sense": {
+    "977d8588-e430-4c62-a415-24496dff5e0e": {
       "pos": "Noun",
       "gloss": {
         "en": "tattoo",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

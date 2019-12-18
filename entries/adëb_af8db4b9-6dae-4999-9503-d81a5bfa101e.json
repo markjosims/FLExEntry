@@ -3,16 +3,16 @@
   "entry_id": "adëb_af8db4b9-6dae-4999-9503-d81a5bfa101e",
   "morph_type": "stem",
   "pronunciation": "ʔadǝb˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "967dd8eb-840d-4ec3-bbf1-79adc3a6e411",
+  "sense": {
+    "967dd8eb-840d-4ec3-bbf1-79adc3a6e411": {
       "pos": "Noun",
       "gloss": {
         "en": "day",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-05T13:34:42Z"
 }

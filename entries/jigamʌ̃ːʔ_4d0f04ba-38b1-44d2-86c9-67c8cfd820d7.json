@@ -3,11 +3,11 @@
   "entry_id": "jigamʌ̃ːʔ_4d0f04ba-38b1-44d2-86c9-67c8cfd820d7",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "bc869fd1-952f-44e1-b921-03cd2cfafcef",
+  "sense": {
+    "bc869fd1-952f-44e1-b921-03cd2cfafcef": {
       "pos": "Noun",
       "gloss": {
         "en": "pomo de adão"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

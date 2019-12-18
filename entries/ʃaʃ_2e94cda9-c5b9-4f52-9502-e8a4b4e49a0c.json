@@ -3,11 +3,11 @@
   "entry_id": "ʃaʃ_2e94cda9-c5b9-4f52-9502-e8a4b4e49a0c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "e241dfab-fdcc-4326-8b88-69c726ec776b",
+  "sense": {
+    "e241dfab-fdcc-4326-8b88-69c726ec776b": {
       "pos": "Noun",
       "gloss": {
         "en": "aracu-branco"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "baros_075922fd-9874-48ce-8813-f6705117c88d",
   "morph_type": "stem",
   "pronunciation": "baɾoʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8e4c82e7-7bad-4968-96c6-675114c274a2",
+  "sense": {
+    "8e4c82e7-7bad-4968-96c6-675114c274a2": {
       "pos": "v",
       "gloss": {
         "pt": "aguado"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'barots_0fd1f641-6e7a-4918-b8d4-849ef14f2105': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

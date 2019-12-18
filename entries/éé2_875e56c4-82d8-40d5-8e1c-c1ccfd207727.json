@@ -3,16 +3,16 @@
   "entry_id": "éé2_875e56c4-82d8-40d5-8e1c-c1ccfd207727",
   "morph_type": "stem",
   "pronunciation": "ʔɛːʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1986; Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "af9b2d2b-6e9b-4497-8369-278ff0a21710",
+  "sense": {
+    "af9b2d2b-6e9b-4497-8369-278ff0a21710": {
       "pos": "Noun",
       "gloss": {
         "en": "father"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

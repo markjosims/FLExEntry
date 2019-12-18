@@ -3,11 +3,11 @@
   "entry_id": "hɯ̰̃ːw_d2f0e9be-4c7f-41dc-960b-912373df737f",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d863208c-1f1b-4e3d-a1b2-85a36274db2e",
+  "sense": {
+    "d863208c-1f1b-4e3d-a1b2-85a36274db2e": {
       "pos": "Noun",
       "gloss": {
         "en": "o que não presta mais"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

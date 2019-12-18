@@ -3,16 +3,16 @@
   "entry_id": "hʉ́ʉ́y_0c0a2b1e-27af-4512-aacb-4c4b8079e5b8",
   "morph_type": "stem",
   "pronunciation": "hʌːj",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "32433533-206e-4950-91f0-1aa1ea989767",
+  "sense": {
+    "32433533-206e-4950-91f0-1aa1ea989767": {
       "pos": "Noun",
       "gloss": {
         "en": "jungle"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

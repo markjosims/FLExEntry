@@ -3,16 +3,16 @@
   "entry_id": "her’oot_fcd85a56-cfb3-4e88-b636-3a81739ffd26",
   "morph_type": "stem",
   "pronunciation": "heˈɾoʔot˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "6fa82561-043e-4219-ac78-208d19594928",
+  "sense": {
+    "6fa82561-043e-4219-ac78-208d19594928": {
       "pos": "Verb",
       "gloss": {
         "en": "tell.story",
@@ -24,10 +24,9 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     },
-    {
-      "sense_id": "b0b1821a-b002-42b1-8e13-ebec54ae67bd",
+    "b0b1821a-b002-42b1-8e13-ebec54ae67bd": {
       "pos": "Verb",
       "gloss": {
         "en": "say",
@@ -39,8 +38,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-09T23:51:42Z"
 }

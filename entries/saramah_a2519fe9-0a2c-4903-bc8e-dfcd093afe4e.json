@@ -3,11 +3,11 @@
   "entry_id": "saramah?_a2519fe9-0a2c-4903-bc8e-dfcd093afe4e",
   "morph_type": "stem",
   "pronunciation": "ʃaɾabmãh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "79383229-00b4-4a3d-9e07-12b9c9180b6c",
+  "sense": {
+    "79383229-00b4-4a3d-9e07-12b9c9180b6c": {
       "pos": "Noun",
       "gloss": {
         "en": "praying.mantis",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

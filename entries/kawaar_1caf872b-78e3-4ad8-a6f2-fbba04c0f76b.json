@@ -3,11 +3,11 @@
   "entry_id": "kawaar_1caf872b-78e3-4ad8-a6f2-fbba04c0f76b",
   "morph_type": "stem",
   "pronunciation": "kawa:ɾᵊ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1d62e6b1-ad58-4a66-96a1-42b8b5d662e0",
+  "sense": {
+    "1d62e6b1-ad58-4a66-96a1-42b8b5d662e0": {
       "pos": "Noun",
       "gloss": {
         "en": "horse",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

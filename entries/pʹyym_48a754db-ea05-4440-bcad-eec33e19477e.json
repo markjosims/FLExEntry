@@ -3,16 +3,16 @@
   "entry_id": "pʹyym_48a754db-ea05-4440-bcad-eec33e19477e",
   "morph_type": "stem",
   "pronunciation": "pɨ̰:m",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "e08317a8-6964-4524-981c-ee61e958a38a",
+  "sense": {
+    "e08317a8-6964-4524-981c-ee61e958a38a": {
       "pos": "n",
       "gloss": {
         "pt": "veneno"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

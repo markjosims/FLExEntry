@@ -3,11 +3,11 @@
   "entry_id": "taʔɨ̃ːm_8b61590a-f5d2-4965-9171-adf36eb8f774",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "91fcc429-a0e7-4123-9aa4-b323e0660310",
+  "sense": {
+    "91fcc429-a0e7-4123-9aa4-b323e0660310": {
       "pos": "Noun",
       "gloss": {
         "en": "esposa dele"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

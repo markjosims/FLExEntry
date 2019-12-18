@@ -3,16 +3,16 @@
   "entry_id": "erét_2370f1d5-42bf-477a-bec0-cc27bf202068",
   "morph_type": "stem",
   "pronunciation": "eɾɛt",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "44dd6e4d-adc5-406d-9014-f21b3fff5bbd",
+  "sense": {
+    "44dd6e4d-adc5-406d-9014-f21b3fff5bbd": {
       "pos": "v",
       "gloss": {
         "pt": "deixar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'eréd_e2d456f2-b58b-42af-8dfb-538033b5131b': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

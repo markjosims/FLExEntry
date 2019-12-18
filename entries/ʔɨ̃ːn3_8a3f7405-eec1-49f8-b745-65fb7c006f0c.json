@@ -3,11 +3,11 @@
   "entry_id": "ʔɨ̃ːn3_8a3f7405-eec1-49f8-b745-65fb7c006f0c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "8b6ed0ed-2626-4761-81f9-72818d259523",
+  "sense": {
+    "8b6ed0ed-2626-4761-81f9-72818d259523": {
       "pos": "Noun",
       "gloss": {
         "en": "mulher"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

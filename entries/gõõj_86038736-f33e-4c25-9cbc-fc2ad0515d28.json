@@ -3,16 +3,16 @@
   "entry_id": "gõõj_86038736-f33e-4c25-9cbc-fc2ad0515d28",
   "morph_type": "stem",
   "pronunciation": "gõ:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "77c89938-b4b1-463d-9659-504f4c8f9ebe",
+  "sense": {
+    "77c89938-b4b1-463d-9659-504f4c8f9ebe": {
       "pos": "n",
       "gloss": {
         "pt": "acompanhamento ?)"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'gõj_e9a4ed5d-91c0-4580-8d52-9e06d2e7efbd': 'Unspecified Variant'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "ʃabuːʔ_1f9956bb-f8c8-4d6b-97f8-2ccc35787d60",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d952b179-0464-4d63-a82b-0f5454c00d36",
+  "sense": {
+    "d952b179-0464-4d63-a82b-0f5454c00d36": {
       "pos": "Noun",
       "gloss": {
         "en": "umbigo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

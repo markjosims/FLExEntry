@@ -3,11 +3,11 @@
   "entry_id": "madiːk2_33d37501-2096-43ca-8bdd-cfcc695acd7c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "23800307-c0e3-4964-99d4-fbdf66533a9d",
+  "sense": {
+    "23800307-c0e3-4964-99d4-fbdf66533a9d": {
       "pos": "Noun",
       "gloss": {
         "en": "açaí"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

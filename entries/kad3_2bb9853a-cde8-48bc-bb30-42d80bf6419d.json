@@ -3,11 +3,11 @@
   "entry_id": "kad3_2bb9853a-cde8-48bc-bb30-42d80bf6419d",
   "morph_type": "stem",
   "pronunciation": "kad̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "50faa7ec-22a0-4275-98da-c42da8f74b49",
+  "sense": {
+    "50faa7ec-22a0-4275-98da-c42da8f74b49": {
       "pos": "Noun",
       "gloss": {
         "en": "pat.uncle",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

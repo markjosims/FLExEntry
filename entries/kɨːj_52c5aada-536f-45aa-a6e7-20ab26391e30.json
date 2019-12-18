@@ -3,11 +3,11 @@
   "entry_id": "kɨːj_52c5aada-536f-45aa-a6e7-20ab26391e30",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "ba767581-2d95-42b9-bff6-a78b0d533812",
+  "sense": {
+    "ba767581-2d95-42b9-bff6-a78b0d533812": {
       "pos": "Noun",
       "gloss": {
         "en": "mosquito"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "hʉbnxaa_cb31e5a8-cf19-4967-8c75-ed31937289d9",
   "morph_type": "stem",
   "pronunciation": "həbna̰ːʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f588a331-9a9e-4d9f-8518-6cb3f39b4047",
+  "sense": {
+    "f588a331-9a9e-4d9f-8518-6cb3f39b4047": {
       "pos": "post?",
       "gloss": {
         "en": "cause"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

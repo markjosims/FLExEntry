@@ -3,16 +3,43 @@
   "entry_id": "waa1_36bdcbb1-66cb-47fc-a7ce-1204359c2a61",
   "morph_type": "stem",
   "pronunciation": "wa:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "waːʔ_a18d164c-7c73-40c4-90d8-a92ba34c3a2d": {
+      "headword": "waːʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:42:11Z",
+      "var_type": [
+        "Martins",
+        "comida"
+      ]
+    },
+    "waa2_cef9c55c-f3fb-48ad-a6de-8dcfe1dd8214": {
+      "headword": "waa",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:41:47Z",
+      "var_type": [
+        "Weir",
+        "food"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "96b1cb14-6139-46cc-9f56-c79855618866",
+  "sense": {
+    "96b1cb14-6139-46cc-9f56-c79855618866": {
       "pos": "n op",
       "gloss": {
         "pt": "comida"
@@ -22,8 +49,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

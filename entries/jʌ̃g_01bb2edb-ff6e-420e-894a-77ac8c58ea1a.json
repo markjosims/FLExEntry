@@ -3,11 +3,11 @@
   "entry_id": "jʌ̃g_01bb2edb-ff6e-420e-894a-77ac8c58ea1a",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "2930842e-2987-43fb-a6cf-824b62faa804",
+  "sense": {
+    "2930842e-2987-43fb-a6cf-824b62faa804": {
       "pos": "Verb",
       "gloss": {
         "en": "esmagar; forma marcada"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

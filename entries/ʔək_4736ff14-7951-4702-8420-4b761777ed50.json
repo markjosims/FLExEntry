@@ -3,11 +3,11 @@
   "entry_id": "ʔək_4736ff14-7951-4702-8420-4b761777ed50",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d601e12b-bd07-41ed-bf67-c37d2f645b84",
+  "sense": {
+    "d601e12b-bd07-41ed-bf67-c37d2f645b84": {
       "pos": "Noun",
       "gloss": {
         "en": "cuia"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

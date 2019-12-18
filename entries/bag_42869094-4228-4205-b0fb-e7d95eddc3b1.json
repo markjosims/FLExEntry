@@ -3,11 +3,11 @@
   "entry_id": "bag_42869094-4228-4205-b0fb-e7d95eddc3b1",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "39ca06f3-ff7a-41e7-961b-2050f42bbca1",
+  "sense": {
+    "39ca06f3-ff7a-41e7-961b-2050f42bbca1": {
       "pos": "Noun",
       "gloss": {
         "en": "luz"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

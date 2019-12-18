@@ -3,11 +3,11 @@
   "entry_id": "ʔaɾuːm_c6fbd4fe-be1a-4ff5-ab9b-e9f863abceef",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "19bc5a1a-3b46-4f15-908d-f339ff07508e",
+  "sense": {
+    "19bc5a1a-3b46-4f15-908d-f339ff07508e": {
       "pos": "Noun",
       "gloss": {
         "en": "espécie de banana"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

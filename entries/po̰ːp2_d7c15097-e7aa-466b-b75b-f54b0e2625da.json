@@ -3,11 +3,11 @@
   "entry_id": "po̰ːp2_d7c15097-e7aa-466b-b75b-f54b0e2625da",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "7b8190b9-ca06-4d72-9593-068a040e4d65",
+  "sense": {
+    "7b8190b9-ca06-4d72-9593-068a040e4d65": {
       "pos": "Noun",
       "gloss": {
         "en": "trovão"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

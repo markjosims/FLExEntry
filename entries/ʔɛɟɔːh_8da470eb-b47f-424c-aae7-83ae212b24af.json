@@ -3,11 +3,11 @@
   "entry_id": "ʔɛɟɔːh_8da470eb-b47f-424c-aae7-83ae212b24af",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5ab05320-805f-46fd-9d4a-a663932bd7da",
+  "sense": {
+    "5ab05320-805f-46fd-9d4a-a663932bd7da": {
       "pos": "Verb",
       "gloss": {
         "en": "florescer"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

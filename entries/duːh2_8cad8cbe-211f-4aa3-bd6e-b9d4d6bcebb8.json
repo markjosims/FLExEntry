@@ -3,11 +3,11 @@
   "entry_id": "duːh2_8cad8cbe-211f-4aa3-bd6e-b9d4d6bcebb8",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "e51661bd-1335-4d9e-b430-fce904f9fc90",
+  "sense": {
+    "e51661bd-1335-4d9e-b430-fce904f9fc90": {
       "pos": "Noun",
       "gloss": {
         "en": "fundo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

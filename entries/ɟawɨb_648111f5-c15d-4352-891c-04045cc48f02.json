@@ -3,11 +3,11 @@
   "entry_id": "ɟawɨb_648111f5-c15d-4352-891c-04045cc48f02",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "4d2eeda7-e400-4897-9e72-7fefc0de3b04",
+  "sense": {
+    "4d2eeda7-e400-4897-9e72-7fefc0de3b04": {
       "pos": "Noun",
       "gloss": {
         "en": "peixe-rebeca; bodó"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

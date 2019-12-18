@@ -3,16 +3,16 @@
   "entry_id": "mehëm_28471a19-ef36-4907-a039-ccf0e4bef3d6",
   "morph_type": "stem",
   "pronunciation": "me'hǝbm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "1437ba31-e115-4332-a0f1-841dd59837a6",
+  "sense": {
+    "1437ba31-e115-4332-a0f1-841dd59837a6": {
       "pos": "Verb",
       "gloss": {
         "pt": "benzer"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-08T18:36:45Z"
 }

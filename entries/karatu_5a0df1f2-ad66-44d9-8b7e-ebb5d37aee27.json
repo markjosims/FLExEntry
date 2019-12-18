@@ -3,16 +3,16 @@
   "entry_id": "karatu_5a0df1f2-ad66-44d9-8b7e-ebb5d37aee27",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "73f7e406-6f01-44da-81c6-8fc549a1bdf5",
+  "sense": {
+    "73f7e406-6f01-44da-81c6-8fc549a1bdf5": {
       "pos": "Noun",
       "gloss": {
         "en": "parrot",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T20:31:26Z"
 }

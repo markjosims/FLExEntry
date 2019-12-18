@@ -3,7 +3,8 @@
   "entry_id": "däk_5a08046d-1fe7-4f4c-90da-d3954401cd24",
   "morph_type": "stem",
   "pronunciation": "dʌk",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1986; 1990 (translated to Port. MS)",
@@ -11,9 +12,8 @@
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "450e9534-c055-4c95-bead-8ed86564fd80",
+  "sense": {
+    "450e9534-c055-4c95-bead-8ed86564fd80": {
       "pos": "n?",
       "gloss": {
         "en": "be.suspended",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

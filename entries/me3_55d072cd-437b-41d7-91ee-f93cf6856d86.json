@@ -3,16 +3,16 @@
   "entry_id": "me3_55d072cd-437b-41d7-91ee-f93cf6856d86",
   "morph_type": "stem",
   "pronunciation": "meʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1986",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "06d1acf7-f6fb-42db-8940-7f1670215cb0",
+  "sense": {
+    "06d1acf7-f6fb-42db-8940-7f1670215cb0": {
       "pos": "post",
       "gloss": {
         "en": "by means of"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

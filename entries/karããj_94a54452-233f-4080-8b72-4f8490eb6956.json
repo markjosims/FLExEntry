@@ -3,16 +3,16 @@
   "entry_id": "karããj_94a54452-233f-4080-8b72-4f8490eb6956",
   "morph_type": "stem",
   "pronunciation": "kaˈɾã:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "97310a99-7696-4de1-a7f8-e9f056f93b84",
+  "sense": {
+    "97310a99-7696-4de1-a7f8-e9f056f93b84": {
       "pos": "Noun",
       "gloss": {
         "en": "hook",
@@ -24,10 +24,9 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     },
-    {
-      "sense_id": "77696b8f-d6a1-489b-ae42-b131a18a44b6",
+    "77696b8f-d6a1-489b-ae42-b131a18a44b6": {
       "pos": "Noun",
       "gloss": {
         "en": "claw",
@@ -39,8 +38,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-27T19:56:22Z"
 }

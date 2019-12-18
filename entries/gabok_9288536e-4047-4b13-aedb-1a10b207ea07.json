@@ -3,16 +3,16 @@
   "entry_id": "gabok_9288536e-4047-4b13-aedb-1a10b207ea07",
   "morph_type": "stem",
   "pronunciation": "gabok",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "cartilha 4; lição 4",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "282db821-28d3-43a6-bfd5-5f739c562939",
+  "sense": {
+    "282db821-28d3-43a6-bfd5-5f739c562939": {
       "pos": "v?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-26T16:29:15Z"
 }

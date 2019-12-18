@@ -3,11 +3,11 @@
   "entry_id": "ji waa hood3_cbb41e7c-9ec2-42ff-84aa-d2129273d074",
   "morph_type": "phrase",
   "pronunciation": "jiʔ wa:ʔ ho:d̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "ddb34287-1f5d-45b0-9e17-9827fbd4087a",
+  "sense": {
+    "ddb34287-1f5d-45b0-9e17-9827fbd4087a": {
       "pos": "Noun",
       "gloss": {
         "en": "plate",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

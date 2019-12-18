@@ -3,11 +3,11 @@
   "entry_id": "hũːt1_ccfd21a0-acc5-4821-95f9-e6b5b9d5570d",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "9b090e17-00c9-4005-9551-b2e7093785bf",
+  "sense": {
+    "9b090e17-00c9-4005-9551-b2e7093785bf": {
       "pos": "Verb",
       "gloss": {
         "en": "derreter (n.i. huːd)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

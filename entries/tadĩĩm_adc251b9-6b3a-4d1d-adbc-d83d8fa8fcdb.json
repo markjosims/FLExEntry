@@ -3,16 +3,16 @@
   "entry_id": "tadĩĩm_adc251b9-6b3a-4d1d-adbc-d83d8fa8fcdb",
   "morph_type": "stem",
   "pronunciation": "tadĩ:m",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "e95687d3-d51a-4218-aed8-28ea4e3cf780",
+  "sense": {
+    "e95687d3-d51a-4218-aed8-28ea4e3cf780": {
       "pos": "v",
       "gloss": {
         "pt": "exugar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

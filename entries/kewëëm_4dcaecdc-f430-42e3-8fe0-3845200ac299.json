@@ -3,11 +3,11 @@
   "entry_id": "kewëëm_4dcaecdc-f430-42e3-8fe0-3845200ac299",
   "morph_type": "stem",
   "pronunciation": "kewə:bm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "e52b5899-cc5a-49fd-8c0a-2157199edfcb",
+  "sense": {
+    "e52b5899-cc5a-49fd-8c0a-2157199edfcb": {
       "pos": "Noun",
       "gloss": {
         "en": "flute",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

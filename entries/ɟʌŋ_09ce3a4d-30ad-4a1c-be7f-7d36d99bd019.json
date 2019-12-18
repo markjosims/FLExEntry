@@ -3,11 +3,11 @@
   "entry_id": "ɟʌŋ_09ce3a4d-30ad-4a1c-be7f-7d36d99bd019",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "51922532-79d3-4916-ac16-c4521d5bc7ee",
+  "sense": {
+    "51922532-79d3-4916-ac16-c4521d5bc7ee": {
       "pos": "Noun",
       "gloss": {
         "en": "barro"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

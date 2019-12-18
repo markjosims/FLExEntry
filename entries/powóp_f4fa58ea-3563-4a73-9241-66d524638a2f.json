@@ -3,16 +3,16 @@
   "entry_id": "powóp_f4fa58ea-3563-4a73-9241-66d524638a2f",
   "morph_type": "stem",
   "pronunciation": "powɔp",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 7",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "963113bc-c1d2-4eb4-82f8-9d0d67f0d8bf",
+  "sense": {
+    "963113bc-c1d2-4eb4-82f8-9d0d67f0d8bf": {
       "pos": "v?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

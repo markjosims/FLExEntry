@@ -3,11 +3,89 @@
   "entry_id": "akaaj yb_67407264-1414-46ba-9fff-54a210cc433c",
   "morph_type": "phrase",
   "pronunciation": "ʔaˈka:j  ʔɨb˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "akaaj_4356d4e1-bb4c-4d50-9e1f-0fd644063bfd": {
+      "headword": "akaaj",
+      "morph_type": "stem",
+      "pronunciation": "ʔaˈka:j",
+      "these_vars": "",
+      "note": [
+        [
+          "Fielndotes Epps/Obert; 2018",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "7b2f74a2-1187-430f-883d-bc7461515afc": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "cashew",
+            "pt": "cajú"
+          },
+          "def": {
+            "en": "cashew",
+            "pt": "cajú"
+          },
+          "reverse": "[('cashew', 'en'), ('cajú', 'pt')]",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-09-04T00:05:48Z",
+      "var_type": [
+        "true",
+        "Unspecified Complex Form"
+      ]
+    },
+    "yb1_be173977-3ad8-4fa1-8f07-e08f165fa2a3": {
+      "headword": "yb",
+      "morph_type": "stem",
+      "pronunciation": "ʔɨb˺",
+      "these_vars": {
+        "ʔɯb_7a96d893-f9f5-416c-9fa2-2cfd5ef8f8e7": {
+          "headword": "ʔɯb",
+          "morph_type": "stem",
+          "pronunciation": "",
+          "these_vars": "",
+          "note": null,
+          "sense": null,
+          "date": "2018-06-20T02:43:40Z",
+          "var_type": "Martins"
+        }
+      },
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "6a0d97cc-a657-454f-854f-61f46e7fb7c7": {
+          "pos": "n op",
+          "gloss": {
+            "en": "father",
+            "pt": "pai"
+          },
+          "def": {
+            "en": "father",
+            "pt": "pai"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": [
+        "true",
+        "Unspecified Complex Form"
+      ]
+    }
+  },
   "note": null,
-  "sense": [
-    {
-      "sense_id": "07fcc797-e4a0-4b58-9270-c96b85558f1c",
+  "sense": {
+    "07fcc797-e4a0-4b58-9270-c96b85558f1c": {
       "pos": "Noun",
       "gloss": {
         "en": "wild.cashew",
@@ -19,8 +97,8 @@
       },
       "reverse": "[('cajueiro do mato', 'pt'), ('wild.cashew', 'en')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-09-04T00:07:58Z"
 }

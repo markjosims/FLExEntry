@@ -3,11 +3,11 @@
   "entry_id": "boj_c23a0ba2-7d0a-4ada-838e-7864cf0a7b9c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5cd3bb62-df4f-45b7-9144-810db28487ab",
+  "sense": {
+    "5cd3bb62-df4f-45b7-9144-810db28487ab": {
       "pos": "Noun",
       "gloss": {
         "en": "pênis"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

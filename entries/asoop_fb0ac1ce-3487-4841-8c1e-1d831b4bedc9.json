@@ -3,16 +3,30 @@
   "entry_id": "asoop_fb0ac1ce-3487-4841-8c1e-1d831b4bedc9",
   "morph_type": "stem",
   "pronunciation": "aʃo:p",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "ʔaʃoːp_db2e58e0-1b35-4b39-9593-40e2679f821f": {
+      "headword": "ʔaʃoːp",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": "",
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T01:52:44Z",
+      "var_type": [
+        "Martins",
+        "subir do porto"
+      ]
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "ff3c1d3f-d6c2-41ac-97d2-91bfeff55db5",
+  "sense": {
+    "ff3c1d3f-d6c2-41ac-97d2-91bfeff55db5": {
       "pos": "v",
       "gloss": {
         "pt": "subir"
@@ -22,8 +36,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'asʹop_55e919f1-5e17-4f6d-9559-021124620cff': 'Unspecified Variant', 'asʹoop_71c0e137-a8b7-42b8-9ae2-97f2f748b234': 'Plural', 'asʹoob_f12910bc-5840-465c-a9f7-213f9742fa53': 'Unspecified Variant'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

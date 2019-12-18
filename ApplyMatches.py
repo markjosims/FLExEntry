@@ -8,7 +8,6 @@ Created on Fri Dec 13 20:31:29 2019
 
 import pandas as pd
 import json
-from os import path
 from PandasExcel import add_bom, remove_bom
 from ast import literal_eval
 
@@ -26,11 +25,24 @@ def main():
     
     for index, row in in_df.iterrows():
         entry_id = row['entry_id']
-        variants = row['variants'] # dict
+        variants = row['variants'] # list of dicts
         
         entry_dict = get_json_dict(entry_id)
         
+        merge_dicts(variants, entry_dict)
+
+# adds all entries from dict update to dict source
+# asserts that two dicts have no keys in common
+def merge_dicts(source, update):
+    assert type(source) is dict
+    assert type(update) is dict      
+    assert not any(k in source for k in update)
+    assert not any(k in update for k in source)
     
+    for k, v in update:
+        pass
+    
+    source.update(update)
 
 def rep_all(s, chars, tgt):
     for c in chars:

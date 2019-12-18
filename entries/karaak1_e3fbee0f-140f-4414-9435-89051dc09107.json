@@ -3,16 +3,16 @@
   "entry_id": "karaak1_e3fbee0f-140f-4414-9435-89051dc09107",
   "morph_type": "stem",
   "pronunciation": "kaɾa:k",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b9dc77e8-ae20-417f-bdb3-794ff26151c8",
+  "sense": {
+    "b9dc77e8-ae20-417f-bdb3-794ff26151c8": {
       "pos": "n",
       "gloss": {
         "pt": "galinha"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

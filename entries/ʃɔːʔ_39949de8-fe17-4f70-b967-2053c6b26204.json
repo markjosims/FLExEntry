@@ -3,11 +3,11 @@
   "entry_id": "ʃɔːʔ_39949de8-fe17-4f70-b967-2053c6b26204",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "2d26b07e-7bbd-4eec-93b1-1599dbf1673a",
+  "sense": {
+    "2d26b07e-7bbd-4eec-93b1-1599dbf1673a": {
       "pos": "Noun",
       "gloss": {
         "en": "tirar sorva"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

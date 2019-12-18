@@ -3,16 +3,16 @@
   "entry_id": "wén_18bcd0cb-09dc-459d-be66-b4bdaceee76d",
   "morph_type": "stem",
   "pronunciation": "wɛn",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "871493a5-6b9a-414b-8f7d-1db55c99f083",
+  "sense": {
+    "871493a5-6b9a-414b-8f7d-1db55c99f083": {
       "pos": "par",
       "gloss": {
         "pt": "por.isso"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

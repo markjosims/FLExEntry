@@ -3,16 +3,16 @@
   "entry_id": "heju_fedba8b8-eb2a-485b-921b-5cf055f61895",
   "morph_type": "stem",
   "pronunciation": "heˈjuʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d0a41f29-94de-4c97-a1ad-81b049e1ede3",
+  "sense": {
+    "d0a41f29-94de-4c97-a1ad-81b049e1ede3": {
       "pos": "Verb",
       "gloss": {
         "en": "burn.self",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-09T13:43:36Z"
 }

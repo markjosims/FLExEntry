@@ -3,11 +3,11 @@
   "entry_id": "ʔɯm2_56948ee3-6282-4ea9-842f-46e5f2484283",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "0756e835-a474-4cee-ae34-0eab4eb8a19f",
+  "sense": {
+    "0756e835-a474-4cee-ae34-0eab4eb8a19f": {
       "pos": "Verb",
       "gloss": {
         "en": "esperar"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

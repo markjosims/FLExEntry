@@ -3,11 +3,11 @@
   "entry_id": "maỹỹn_3ee29e3d-5352-4c3b-adf8-d17f0fcc0206",
   "morph_type": "stem",
   "pronunciation": "mãʔɨ̃:n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "81d67c22-186f-4d2e-9791-90a4682266aa",
+  "sense": {
+    "81d67c22-186f-4d2e-9791-90a4682266aa": {
       "pos": "Noun",
       "gloss": {
         "en": "mother.in.law",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

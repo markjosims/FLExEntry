@@ -3,11 +3,11 @@
   "entry_id": "wojapəm_90933864-369d-4eee-b3c2-cdc2141a85b2",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "c238bad4-14b9-4793-bde2-19e5914d8a2b",
+  "sense": {
+    "c238bad4-14b9-4793-bde2-19e5914d8a2b": {
       "pos": "Noun",
       "gloss": {
         "en": "morro"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

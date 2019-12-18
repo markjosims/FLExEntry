@@ -3,16 +3,16 @@
   "entry_id": "kabëë_1cd66356-7a6f-4152-b323-ad2a5c5aabae",
   "morph_type": "stem",
   "pronunciation": "kabə:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "36fbdbda-1ed2-467b-bd58-07e8fc91c667",
+  "sense": {
+    "36fbdbda-1ed2-467b-bd58-07e8fc91c667": {
       "pos": "v",
       "gloss": {
         "pt": "balançar.na.rede"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'kabʹëë_9688ec88-f529-4209-8733-51b35e8edfce': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

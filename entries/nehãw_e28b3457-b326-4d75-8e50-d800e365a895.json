@@ -3,16 +3,16 @@
   "entry_id": "nehãw_e28b3457-b326-4d75-8e50-d800e365a895",
   "morph_type": "stem",
   "pronunciation": "neʔhãw",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b25a8442-d86c-468d-a6e1-f8c40de75dde",
+  "sense": {
+    "b25a8442-d86c-468d-a6e1-f8c40de75dde": {
       "pos": "",
       "gloss": {
         "en": "dull",
@@ -21,8 +21,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-05T13:46:40Z"
 }

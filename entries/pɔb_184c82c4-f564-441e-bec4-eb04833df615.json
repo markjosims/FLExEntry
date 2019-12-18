@@ -3,11 +3,11 @@
   "entry_id": "pɔb_184c82c4-f564-441e-bec4-eb04833df615",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "786e1413-3779-4672-813a-23b202c1ac3c",
+  "sense": {
+    "786e1413-3779-4672-813a-23b202c1ac3c": {
       "pos": "Verb",
       "gloss": {
         "en": "estar estragado (p ex fruta caída)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

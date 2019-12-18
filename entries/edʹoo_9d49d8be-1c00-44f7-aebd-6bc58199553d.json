@@ -3,16 +3,16 @@
   "entry_id": "edʹoo_9d49d8be-1c00-44f7-aebd-6bc58199553d",
   "morph_type": "stem",
   "pronunciation": "edo̰:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "738bfde9-8123-4d10-80aa-c6d22cac9bdd",
+  "sense": {
+    "738bfde9-8123-4d10-80aa-c6d22cac9bdd": {
       "pos": "v",
       "gloss": {
         "pt": "pensar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'redʹoo_b006437b-912f-4b7b-a643-0be0f56b7cab': 'Unspecified Variant'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

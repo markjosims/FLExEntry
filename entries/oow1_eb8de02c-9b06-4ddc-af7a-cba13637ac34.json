@@ -3,16 +3,16 @@
   "entry_id": "oow1_eb8de02c-9b06-4ddc-af7a-cba13637ac34",
   "morph_type": "stem",
   "pronunciation": "o:w",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "c44033fb-f7ea-41e2-9277-e9771aa96ba3",
+  "sense": {
+    "c44033fb-f7ea-41e2-9277-e9771aa96ba3": {
       "pos": "n",
       "gloss": {
         "pt": "vovó/ô"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

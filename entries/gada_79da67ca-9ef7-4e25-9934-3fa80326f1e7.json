@@ -3,16 +3,16 @@
   "entry_id": "gada_79da67ca-9ef7-4e25-9934-3fa80326f1e7",
   "morph_type": "stem",
   "pronunciation": "gada",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a8001b80-aea8-4a40-af26-d4a9e704890f",
+  "sense": {
+    "a8001b80-aea8-4a40-af26-d4a9e704890f": {
       "pos": "v",
       "gloss": {
         "pt": "esperar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'gadaa_17659126-2402-4a4a-bc5a-71c1e9e0734f': 'Não indicativo', 'gedʹaa_1d0fab41-6b9c-423d-957f-9fa8add5d166': 'Ext.(?)', 'geda_be647e19-7632-4129-9578-86ae00434ad4': 'Plural'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

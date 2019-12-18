@@ -3,11 +3,11 @@
   "entry_id": "gawar’ëëb/gawar’yyb_88f5442a-e153-4784-ba0c-d6f0dd629fb3",
   "morph_type": "stem",
   "pronunciation": "k'awaɾəʔəb̚ k'awaɾɨʔɨb̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "8a636d4b-32b0-4a71-88fd-0a7404cabc7f",
+  "sense": {
+    "8a636d4b-32b0-4a71-88fd-0a7404cabc7f": {
       "pos": "Noun",
       "gloss": {
         "en": "tick",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "nadëb1_64797e4a-07d3-4f0b-a899-0a27e395ea25",
   "morph_type": "stem",
   "pronunciation": "nadəb",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "da5147b8-3e44-4243-9577-21e04d7b8a2a",
+  "sense": {
+    "da5147b8-3e44-4243-9577-21e04d7b8a2a": {
       "pos": "n",
       "gloss": {
         "en": "nadëb",
@@ -24,10 +24,9 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     },
-    {
-      "sense_id": "d6028c63-428d-48b1-8d69-4ac19bb52741",
+    "d6028c63-428d-48b1-8d69-4ac19bb52741": {
       "pos": "n",
       "gloss": {
         "en": "people",
@@ -39,8 +38,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

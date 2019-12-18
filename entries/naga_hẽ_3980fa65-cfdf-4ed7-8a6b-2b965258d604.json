@@ -3,16 +3,16 @@
   "entry_id": "naga hẽ_3980fa65-cfdf-4ed7-8a6b-2b965258d604",
   "morph_type": "phrase",
   "pronunciation": "naga hɛ̃",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0d4cf44d-0715-4fa1-8d3d-2f6f1f9029a1",
+  "sense": {
+    "0d4cf44d-0715-4fa1-8d3d-2f6f1f9029a1": {
       "pos": "adv",
       "gloss": {
         "pt": "hoje"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

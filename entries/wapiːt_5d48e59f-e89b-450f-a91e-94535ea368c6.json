@@ -3,11 +3,11 @@
   "entry_id": "wapiːt_5d48e59f-e89b-450f-a91e-94535ea368c6",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "4341ee7a-6fea-49e8-aed4-11164ddab9e0",
+  "sense": {
+    "4341ee7a-6fea-49e8-aed4-11164ddab9e0": {
       "pos": "Noun",
       "gloss": {
         "en": "maracajá"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

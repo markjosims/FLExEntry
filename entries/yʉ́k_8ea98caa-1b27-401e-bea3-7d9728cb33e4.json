@@ -3,16 +3,16 @@
   "entry_id": "yʉ́k_8ea98caa-1b27-401e-bea3-7d9728cb33e4",
   "morph_type": "stem",
   "pronunciation": "jʌk",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1986",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f1837912-357f-46ea-b0f5-83c00e1c9023",
+  "sense": {
+    "f1837912-357f-46ea-b0f5-83c00e1c9023": {
       "pos": "Verb",
       "gloss": {
         "en": "fall.multiple (pl?)"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

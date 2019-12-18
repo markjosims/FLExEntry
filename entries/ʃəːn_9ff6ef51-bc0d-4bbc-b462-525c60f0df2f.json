@@ -3,11 +3,11 @@
   "entry_id": "ʃəːn_9ff6ef51-bc0d-4bbc-b462-525c60f0df2f",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "cfe9901e-6345-4f27-a730-29761de0e492",
+  "sense": {
+    "cfe9901e-6345-4f27-a730-29761de0e492": {
       "pos": "Noun",
       "gloss": {
         "en": "cabelo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

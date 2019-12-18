@@ -3,16 +3,16 @@
   "entry_id": "sigõõh_a0ff43b0-a745-4f28-a13b-b693eab760a5",
   "morph_type": "stem",
   "pronunciation": "ʃiˈk’ɔ̃:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "7322fb76-b62e-4454-8e73-57a5c701cce0",
+  "sense": {
+    "7322fb76-b62e-4454-8e73-57a5c701cce0": {
       "pos": "Noun",
       "gloss": {
         "en": "star",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-08T17:08:13Z"
 }

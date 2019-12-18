@@ -3,16 +3,16 @@
   "entry_id": "wakããn_6de60702-4c52-4083-8679-c1460f9d3143",
   "morph_type": "stem",
   "pronunciation": "wakã:n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "03be15fe-2dfd-48de-945e-f2953ed6ccc0",
+  "sense": {
+    "03be15fe-2dfd-48de-945e-f2953ed6ccc0": {
       "pos": "n op",
       "gloss": {
         "pt": "parentes"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'wakãn ỹỹ_42f76161-a403-4bf8-b52f-0033ae31e7df': '1S Possessivo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

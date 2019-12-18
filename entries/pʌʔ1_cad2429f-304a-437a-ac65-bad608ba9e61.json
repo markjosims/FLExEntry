@@ -3,11 +3,11 @@
   "entry_id": "pʌʔ1_cad2429f-304a-437a-ac65-bad608ba9e61",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "7240f094-45be-4ac7-96fb-6bd0ebcb7f22",
+  "sense": {
+    "7240f094-45be-4ac7-96fb-6bd0ebcb7f22": {
       "pos": "Noun",
       "gloss": {
         "en": "pedra"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'pʌʔ2_2006fe18-cfbd-42da-9921-099b85ea5e4f': ('Spelling Variant', 'Barbosa 2005; pedra')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

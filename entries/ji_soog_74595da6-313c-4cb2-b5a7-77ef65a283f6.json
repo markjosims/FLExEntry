@@ -3,11 +3,11 @@
   "entry_id": "ji soog_74595da6-313c-4cb2-b5a7-77ef65a283f6",
   "morph_type": "phrase",
   "pronunciation": "jiʔ ʃo:g̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "0b09a44c-fd6f-44a4-9588-529a36ef66c9",
+  "sense": {
+    "0b09a44c-fd6f-44a4-9588-529a36ef66c9": {
       "pos": "Noun",
       "gloss": {
         "en": "hat",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

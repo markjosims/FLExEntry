@@ -3,11 +3,11 @@
   "entry_id": "ʃḭːʔ_87e2a37f-5fa9-4360-8557-ae895c42d81e",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "a18c21c3-5a35-44e6-be57-6356f3c9ae9a",
+  "sense": {
+    "a18c21c3-5a35-44e6-be57-6356f3c9ae9a": {
       "pos": "Verb",
       "gloss": {
         "en": "beliscar (ʃiʔ inf; ʃḭːʔ n.i.)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "doːh1_d9caa3ff-06cc-413b-a9c7-398060ef979c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "d3efb377-51f8-435e-95c9-7b26e1b0a9de",
+  "sense": {
+    "d3efb377-51f8-435e-95c9-7b26e1b0a9de": {
       "pos": "Noun",
       "gloss": {
         "en": "inexistente; negação"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

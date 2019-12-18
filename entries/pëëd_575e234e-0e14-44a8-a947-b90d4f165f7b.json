@@ -3,16 +3,16 @@
   "entry_id": "pëëd_575e234e-0e14-44a8-a947-b90d4f165f7b",
   "morph_type": "root",
   "pronunciation": "pǝ:d˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fielnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "6dbc31e9-a0e9-4739-93fa-9cc1d31ce07f",
+  "sense": {
+    "6dbc31e9-a0e9-4739-93fa-9cc1d31ce07f": {
       "pos": "Noun",
       "gloss": {
         "en": "cunuri",
@@ -24,8 +24,8 @@
       },
       "reverse": "[('cunuri', 'pt'), ('cunuri', 'en')]",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-08-24T00:32:53Z"
 }

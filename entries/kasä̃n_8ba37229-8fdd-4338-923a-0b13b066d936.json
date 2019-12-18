@@ -3,16 +3,16 @@
   "entry_id": "kasä̃n_8ba37229-8fdd-4338-923a-0b13b066d936",
   "morph_type": "stem",
   "pronunciation": "kaʃʌ̃n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "368c6261-51f4-4250-8989-35349bda0711",
+  "sense": {
+    "368c6261-51f4-4250-8989-35349bda0711": {
       "pos": "v",
       "gloss": {
         "pt": "fazer.fogo"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'kasʹỹỹn_884bad00-f1bd-4d0d-8a8c-495d4b5d4796': 'Habitual'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

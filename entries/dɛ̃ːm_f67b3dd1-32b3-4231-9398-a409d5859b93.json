@@ -3,11 +3,11 @@
   "entry_id": "dɛ̃ːm_f67b3dd1-32b3-4231-9398-a409d5859b93",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "454e5e34-990d-41ea-bef0-07cdfcb47e43",
+  "sense": {
+    "454e5e34-990d-41ea-bef0-07cdfcb47e43": {
       "pos": "Noun",
       "gloss": {
         "en": "espécie de árvore"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

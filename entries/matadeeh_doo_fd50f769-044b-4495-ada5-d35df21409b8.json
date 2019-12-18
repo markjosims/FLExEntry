@@ -3,11 +3,11 @@
   "entry_id": "matadeeh doo_fd50f769-044b-4495-ada5-d35df21409b8",
   "morph_type": "phrase",
   "pronunciation": "mãtade:h do:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "54f6aad2-e7ad-4f86-adb3-376354799375",
+  "sense": {
+    "54f6aad2-e7ad-4f86-adb3-376354799375": {
       "pos": "Noun",
       "gloss": {
         "en": "rattle",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

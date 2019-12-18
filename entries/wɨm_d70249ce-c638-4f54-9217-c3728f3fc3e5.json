@@ -3,11 +3,11 @@
   "entry_id": "wɨm_d70249ce-c638-4f54-9217-c3728f3fc3e5",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "da30a093-9487-4ef9-aab6-088a4e01187e",
+  "sense": {
+    "da30a093-9487-4ef9-aab6-088a4e01187e": {
       "pos": "Noun",
       "gloss": {
         "en": "quatipuru"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

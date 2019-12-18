@@ -3,16 +3,32 @@
   "entry_id": "gewõõm_2e184b1f-4cc5-4e46-ae1e-f9ec715f3722",
   "morph_type": "stem",
   "pronunciation": "gewõ:m",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "gewʹõõw_07c262a4-e950-44ab-ba8d-5b209013a2ee": {
+      "headword": "gewʹõõw",
+      "morph_type": "stem",
+      "pronunciation": "gewõ̰:w",
+      "these_vars": "",
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": null,
+      "date": "2018-03-27T02:37:10Z",
+      "var_type": "Não indicativo"
+    }
+  },
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "4ef3d7a0-0610-4c6b-86f6-f2faf6d604f2",
+  "sense": {
+    "4ef3d7a0-0610-4c6b-86f6-f2faf6d604f2": {
       "pos": "v",
       "gloss": {
         "pt": "enrolar"
@@ -22,8 +38,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-27T02:36:43Z"
 }

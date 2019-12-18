@@ -3,16 +3,16 @@
   "entry_id": "padëëk2_c5a1d925-6abb-4768-b075-d78b9ce0ee53",
   "morph_type": "stem",
   "pronunciation": "padə:k",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "996be76d-d27f-4c52-972f-368f85e36642",
+  "sense": {
+    "996be76d-d27f-4c52-972f-368f85e36642": {
       "pos": "v p",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'adäk2_13ad5580-ea3b-40e8-8104-6231cb60a98d': 'Singular', 'padäg2_2252b7eb-23bc-45e8-bc20-ce88472409b7': 'Não indicativo plural', 'padʹëëk_5605858b-fe54-44a5-8058-41087e4f5777': 'Plural humano'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

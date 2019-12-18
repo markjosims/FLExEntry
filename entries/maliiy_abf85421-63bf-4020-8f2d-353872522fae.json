@@ -3,16 +3,16 @@
   "entry_id": "maliiy_abf85421-63bf-4020-8f2d-353872522fae",
   "morph_type": "stem",
   "pronunciation": "maɾiːj",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1986",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "41eff7a0-e31d-4bd3-8634-93fbb58f342b",
+  "sense": {
+    "41eff7a0-e31d-4bd3-8634-93fbb58f342b": {
       "pos": "Noun",
       "gloss": {
         "en": "machete"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

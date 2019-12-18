@@ -3,16 +3,16 @@
   "entry_id": "kawajad yb_5091ec77-fa23-40f8-af80-3083c2a9ebea",
   "morph_type": "phrase",
   "pronunciation": "kawajad̚ ʔɨb̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "lit. veado-pai",
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "11943bf0-f2ef-4470-8902-485d421ff84a",
+  "sense": {
+    "11943bf0-f2ef-4470-8902-485d421ff84a": {
       "pos": "Noun",
       "gloss": {
         "en": "horse",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

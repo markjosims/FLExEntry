@@ -3,11 +3,11 @@
   "entry_id": "sok (sog?)_80913b3d-28ba-4da4-8c82-93874db73850",
   "morph_type": "phrase",
   "pronunciation": "ʃok̚  ʃog̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "80811e83-be04-40fd-95f2-a220bf016501",
+  "sense": {
+    "80811e83-be04-40fd-95f2-a220bf016501": {
       "pos": "Noun",
       "gloss": {
         "en": "daughter.in.law",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:56Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "mejũũ_08556f61-8d79-4825-b202-c10f6b715d04",
   "morph_type": "stem",
   "pronunciation": "mejũ:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d362da7b-f84d-47f5-8626-16875f0cc2da",
+  "sense": {
+    "d362da7b-f84d-47f5-8626-16875f0cc2da": {
       "pos": "v",
       "gloss": {
         "pt": "mandar"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'mejõ_e61e8c0f-1d91-40bf-af30-85c14aa432e1': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

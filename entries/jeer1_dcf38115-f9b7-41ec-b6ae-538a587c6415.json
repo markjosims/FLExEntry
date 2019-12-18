@@ -3,11 +3,11 @@
   "entry_id": "jeer1_dcf38115-f9b7-41ec-b6ae-538a587c6415",
   "morph_type": "stem",
   "pronunciation": "je:ɾᵊ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "02e376c3-19ae-4552-81a3-08938205c683",
+  "sense": {
+    "02e376c3-19ae-4552-81a3-08938205c683": {
       "pos": "Noun",
       "gloss": {
         "en": "bastard.plantain",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

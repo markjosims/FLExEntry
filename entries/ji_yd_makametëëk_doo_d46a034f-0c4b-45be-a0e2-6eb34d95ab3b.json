@@ -3,11 +3,11 @@
   "entry_id": "ji yd makametëëk doo_d46a034f-0c4b-45be-a0e2-6eb34d95ab3b",
   "morph_type": "phrase",
   "pronunciation": "jiʔ ʔɨd̚ mãkabmẽtə:k̚ do:ʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "c3db2917-c255-4eae-94d3-52993e397baf",
+  "sense": {
+    "c3db2917-c255-4eae-94d3-52993e397baf": {
       "pos": "Noun",
       "gloss": {
         "en": "school",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

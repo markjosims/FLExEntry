@@ -3,11 +3,11 @@
   "entry_id": "hoːh_a8ed36ac-b900-49b9-9623-69d3aa0f1558",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "4cc1321a-94fe-4c5c-a43b-52e94385b3c1",
+  "sense": {
+    "4cc1321a-94fe-4c5c-a43b-52e94385b3c1": {
       "pos": "Noun",
       "gloss": {
         "en": "fígado"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

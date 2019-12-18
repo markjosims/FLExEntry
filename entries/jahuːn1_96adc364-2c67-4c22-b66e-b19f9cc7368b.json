@@ -3,11 +3,11 @@
   "entry_id": "jahuːn1_96adc364-2c67-4c22-b66e-b19f9cc7368b",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "102ca3d3-aa4b-4aef-92c5-a1dba5a1f1f4",
+  "sense": {
+    "102ca3d3-aa4b-4aef-92c5-a1dba5a1f1f4": {
       "pos": "Noun",
       "gloss": {
         "en": "tamanduá bandiera"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'jahuːn2_0f3e0747-ec4b-4392-bcca-3709a8cade15': ('Spelling Variant', 'Barbosa 2005; tamanduá bandeira')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

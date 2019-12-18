@@ -3,16 +3,16 @@
   "entry_id": "bäp paah_5b916bfd-0668-4638-82cc-6e980917b4aa",
   "morph_type": "phrase",
   "pronunciation": "bʌp pa:h",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "b0ff496e-2353-4333-9178-eb4c29cd3f1e",
+  "sense": {
+    "b0ff496e-2353-4333-9178-eb4c29cd3f1e": {
       "pos": "adv",
       "gloss": {
         "pt": "cedo.de.manhã"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "bata_2a83b20d-dd53-4b7c-aac9-c6d4dab26109",
   "morph_type": "stem",
   "pronunciation": "bata",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 9",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "ea81e9aa-29dc-424f-8f46-b004cb0d4c84",
+  "sense": {
+    "ea81e9aa-29dc-424f-8f46-b004cb0d4c84": {
       "pos": "v?",
       "gloss": {
         "pt": "?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

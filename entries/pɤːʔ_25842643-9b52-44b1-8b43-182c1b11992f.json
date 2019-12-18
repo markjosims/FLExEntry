@@ -3,11 +3,11 @@
   "entry_id": "pɤːʔ_25842643-9b52-44b1-8b43-182c1b11992f",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "315b8253-768b-4e27-958a-67d3a274e4ce",
+  "sense": {
+    "315b8253-768b-4e27-958a-67d3a274e4ce": {
       "pos": "Noun",
       "gloss": {
         "en": "espécie de cobra"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

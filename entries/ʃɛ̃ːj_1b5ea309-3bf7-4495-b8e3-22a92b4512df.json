@@ -3,11 +3,11 @@
   "entry_id": "ʃɛ̃ːj_1b5ea309-3bf7-4495-b8e3-22a92b4512df",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "b8713fe5-b769-4c7b-9baa-a7cafacfbf62",
+  "sense": {
+    "b8713fe5-b769-4c7b-9baa-a7cafacfbf62": {
       "pos": "Noun",
       "gloss": {
         "en": "tapioca"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

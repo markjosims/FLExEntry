@@ -3,16 +3,16 @@
   "entry_id": "benäng_cc9d7f0b-5b7b-4bea-afb4-a27edf0f81fc",
   "morph_type": "stem",
   "pronunciation": "benʌŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "ddd2b4ec-c307-48b0-93d4-b348a33989bf",
+  "sense": {
+    "ddd2b4ec-c307-48b0-93d4-b348a33989bf": {
       "pos": "v",
       "gloss": {
         "pt": "nascer"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'benyy_421a6c85-bd98-49b7-9fe6-54dd3456e147': 'Não indicativo', 'benyyh_6fefb953-1586-49fc-9d1d-b2dd3084933a': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

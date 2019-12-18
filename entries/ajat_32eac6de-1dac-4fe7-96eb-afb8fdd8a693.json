@@ -3,16 +3,16 @@
   "entry_id": "ajat_32eac6de-1dac-4fe7-96eb-afb8fdd8a693",
   "morph_type": "stem",
   "pronunciation": "ʔaˈjat",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d86d7892-a9dd-4711-bde6-a91c478f0b29",
+  "sense": {
+    "d86d7892-a9dd-4711-bde6-a91c478f0b29": {
       "pos": "Verb",
       "gloss": {
         "en": "lie.down",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-10T15:39:39Z"
 }

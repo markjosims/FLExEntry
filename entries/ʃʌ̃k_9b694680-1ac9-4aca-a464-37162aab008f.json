@@ -3,11 +3,11 @@
   "entry_id": "ʃʌ̃k_9b694680-1ac9-4aca-a464-37162aab008f",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "982bd1ed-3ff1-4daa-8143-455e86ad502a",
+  "sense": {
+    "982bd1ed-3ff1-4daa-8143-455e86ad502a": {
       "pos": "Noun",
       "gloss": {
         "en": "tamatá"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

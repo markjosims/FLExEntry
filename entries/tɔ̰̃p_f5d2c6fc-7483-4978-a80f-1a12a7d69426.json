@@ -3,11 +3,11 @@
   "entry_id": "tɔ̰̃p_f5d2c6fc-7483-4978-a80f-1a12a7d69426",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "cf6d4de6-25d4-4745-9df7-8b8c3259055f",
+  "sense": {
+    "cf6d4de6-25d4-4745-9df7-8b8c3259055f": {
       "pos": "adv?",
       "gloss": {
         "en": "no fundo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'tɔ̰̃ːp1_1b10b3b5-155e-44cc-916b-7278638746c8': ('Spelling Variant', 'Barbosa 2005; no fundo (do rio)')}"
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

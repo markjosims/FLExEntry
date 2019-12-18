@@ -3,16 +3,16 @@
   "entry_id": "matug_4ea45a05-e572-439d-a59d-3e3dd960ec0f",
   "morph_type": "stem",
   "pronunciation": "maˈtug˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018z",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d85f760c-86aa-4633-8737-4733b853423f",
+  "sense": {
+    "d85f760c-86aa-4633-8737-4733b853423f": {
       "pos": "Noun",
       "gloss": {
         "en": "tortoise",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

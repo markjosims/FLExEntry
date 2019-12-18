@@ -3,11 +3,11 @@
   "entry_id": "jaw’ëëj yb_d4cdd465-b55a-4bd7-8f21-2ceac090d175",
   "morph_type": "phrase",
   "pronunciation": "jawəʔəj ʔɨb̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "ab9ad476-f6b1-45ed-ae99-e665b17d239b",
+  "sense": {
+    "ab9ad476-f6b1-45ed-ae99-e665b17d239b": {
       "pos": "Noun",
       "gloss": {
         "en": "white.fronted.spider.monkey",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

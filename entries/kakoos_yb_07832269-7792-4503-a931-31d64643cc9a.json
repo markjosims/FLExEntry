@@ -3,11 +3,11 @@
   "entry_id": "kakoos yb_07832269-7792-4503-a931-31d64643cc9a",
   "morph_type": "phrase",
   "pronunciation": "kako:ʃ ʔɨb̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "4b406dde-abeb-45c4-be61-d326a330ea83",
+  "sense": {
+    "4b406dde-abeb-45c4-be61-d326a330ea83": {
       "pos": "Noun",
       "gloss": {
         "en": "porcupine",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

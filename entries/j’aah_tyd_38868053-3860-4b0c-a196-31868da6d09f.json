@@ -3,7 +3,8 @@
   "entry_id": "j’aah tyd_38868053-3860-4b0c-a196-31868da6d09f",
   "morph_type": "phrase",
   "pronunciation": "jaʔah tɨd˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0a18fae4-f308-447d-a40d-7f39d3cfecdd",
+  "sense": {
+    "0a18fae4-f308-447d-a40d-7f39d3cfecdd": {
       "pos": "",
       "gloss": {
         "en": "intestines",
@@ -28,8 +28,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-06T20:49:57Z"
 }

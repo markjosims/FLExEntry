@@ -3,11 +3,11 @@
   "entry_id": "ɟuːk_4490816c-a10c-4d52-a75d-fe876900d6a0",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "580f13e7-b59e-4ea4-9832-41b0a5cf8323",
+  "sense": {
+    "580f13e7-b59e-4ea4-9832-41b0a5cf8323": {
       "pos": "Verb",
       "gloss": {
         "en": "coçar"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

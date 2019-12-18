@@ -3,16 +3,16 @@
   "entry_id": "h’yy katón_931239f4-7482-44c5-9eca-a3f41d7abc7c",
   "morph_type": "phrase",
   "pronunciation": "hɨʔɨʔ kaˈtɔn",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "2cdf9ac6-8951-440c-97c6-815df5effb42",
+  "sense": {
+    "2cdf9ac6-8951-440c-97c6-815df5effb42": {
       "pos": "Verb",
       "gloss": {
         "en": "be.sad",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-10T23:23:04Z"
 }

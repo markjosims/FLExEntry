@@ -3,16 +3,16 @@
   "entry_id": "hyyj_49643aa0-9b00-45bc-9a06-f4da8d189eaf",
   "morph_type": "stem",
   "pronunciation": "hɨ:j",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "62801980-7981-490f-89d1-8635452851b6",
+  "sense": {
+    "62801980-7981-490f-89d1-8635452851b6": {
       "pos": "n op",
       "gloss": {
         "pt": "comida.farelo"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

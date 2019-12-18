@@ -3,16 +3,16 @@
   "entry_id": "gagããm_9586128d-3a48-4a17-8edb-6ba1b01ee47d",
   "morph_type": "stem",
   "pronunciation": "gagã:m",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "cd2f91cd-cfee-4d62-899c-5b7f35a7c2fb",
+  "sense": {
+    "cd2f91cd-cfee-4d62-899c-5b7f35a7c2fb": {
       "pos": "v",
       "gloss": {
         "pt": "listrado.com.anéis"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

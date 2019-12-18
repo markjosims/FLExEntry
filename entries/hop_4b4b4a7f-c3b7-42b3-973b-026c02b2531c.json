@@ -3,11 +3,11 @@
   "entry_id": "hop_4b4b4a7f-c3b7-42b3-973b-026c02b2531c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "513983ac-d23c-4c40-a9a1-9fcfe69bee81",
+  "sense": {
+    "513983ac-d23c-4c40-a9a1-9fcfe69bee81": {
       "pos": "Verb",
       "gloss": {
         "en": "banhar-se (n.i. hob)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

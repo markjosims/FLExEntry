@@ -3,16 +3,16 @@
   "entry_id": "hamäh_611ef3be-8c5e-49a9-94c9-f1121405e643",
   "morph_type": "stem",
   "pronunciation": "hamʌh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "82e62d21-d2e9-4892-98c7-333a61d51295",
+  "sense": {
+    "82e62d21-d2e9-4892-98c7-333a61d51295": {
       "pos": "intj",
       "gloss": {
         "pt": "vamos"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

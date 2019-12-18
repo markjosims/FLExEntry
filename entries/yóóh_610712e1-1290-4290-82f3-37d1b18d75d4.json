@@ -3,16 +3,16 @@
   "entry_id": "yóóh_610712e1-1290-4290-82f3-37d1b18d75d4",
   "morph_type": "stem",
   "pronunciation": "jɔːh",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0db286de-5996-4c6a-b98d-192808062521",
+  "sense": {
+    "0db286de-5996-4c6a-b98d-192808062521": {
       "pos": "Verb",
       "gloss": {
         "en": "pierce"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "ɨb_3135659c-423f-4208-befc-ea379815ca59",
   "morph_type": "stem",
   "pronunciation": "ʔɨb",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "42d42c73-2b27-4491-b344-2161dd12c409",
+  "sense": {
+    "42d42c73-2b27-4491-b344-2161dd12c409": {
       "pos": "Noun",
       "gloss": {
         "en": "shaman"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

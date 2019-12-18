@@ -3,11 +3,11 @@
   "entry_id": "pɔw2_88f9d903-03e8-48a9-96ad-346c13f8af41",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "61736ba2-674e-430f-9473-12112d1eda3f",
+  "sense": {
+    "61736ba2-674e-430f-9473-12112d1eda3f": {
       "pos": "Noun",
       "gloss": {
         "en": "fruta (sp)"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

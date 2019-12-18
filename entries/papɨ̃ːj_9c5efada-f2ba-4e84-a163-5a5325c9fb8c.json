@@ -3,11 +3,11 @@
   "entry_id": "papɨ̃ːj_9c5efada-f2ba-4e84-a163-5a5325c9fb8c",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "bc6387cc-13b1-42f3-9cc3-ef59da11962e",
+  "sense": {
+    "bc6387cc-13b1-42f3-9cc3-ef59da11962e": {
       "pos": "Noun",
       "gloss": {
         "en": "sol"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

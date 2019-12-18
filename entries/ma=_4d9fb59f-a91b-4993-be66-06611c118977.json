@@ -3,11 +3,11 @@
   "entry_id": "ma=_4d9fb59f-a91b-4993-be66-06611c118977",
   "morph_type": "proclitic",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "7b7659de-3abd-4cfd-90fb-c4ac343b28cf",
+  "sense": {
+    "7b7659de-3abd-4cfd-90fb-c4ac343b28cf": {
       "pos": "pro",
       "gloss": {
         "en": "2sg.A",
@@ -18,8 +18,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-02T14:46:30Z"
 }

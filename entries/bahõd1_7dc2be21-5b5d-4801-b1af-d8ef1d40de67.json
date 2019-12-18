@@ -3,16 +3,16 @@
   "entry_id": "bahõd1_7dc2be21-5b5d-4801-b1af-d8ef1d40de67",
   "morph_type": "stem",
   "pronunciation": "bahõd",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "67b3cc34-0db1-4cb8-bd91-4336b8616c96",
+  "sense": {
+    "67b3cc34-0db1-4cb8-bd91-4336b8616c96": {
       "pos": "n",
       "gloss": {
         "pt": "rato.do.mato"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

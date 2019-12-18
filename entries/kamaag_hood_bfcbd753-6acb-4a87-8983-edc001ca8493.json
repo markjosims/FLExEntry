@@ -3,16 +3,16 @@
   "entry_id": "kamaag hood_bfcbd753-6acb-4a87-8983-edc001ca8493",
   "morph_type": "phrase",
   "pronunciation": "kabmã:g̚ ho:d̚",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "lit morto-lugar",
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "fea59cc2-6cf0-4fbb-af6e-d277b4133602",
+  "sense": {
+    "fea59cc2-6cf0-4fbb-af6e-d277b4133602": {
       "pos": "Noun",
       "gloss": {
         "en": "grave",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

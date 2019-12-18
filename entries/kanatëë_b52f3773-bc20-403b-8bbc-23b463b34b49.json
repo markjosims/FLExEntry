@@ -3,16 +3,16 @@
   "entry_id": "kanatëë_b52f3773-bc20-403b-8bbc-23b463b34b49",
   "morph_type": "stem",
   "pronunciation": "kanatə:",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "0e7142ba-03dd-499a-91f1-97b7c47f5d72",
+  "sense": {
+    "0e7142ba-03dd-499a-91f1-97b7c47f5d72": {
       "pos": "n",
       "gloss": {
         "pt": "companheiro"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

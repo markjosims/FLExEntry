@@ -3,11 +3,11 @@
   "entry_id": "matatoor_2de11573-a933-4e44-9f6d-079cf82e42fc",
   "morph_type": "stem",
   "pronunciation": "mãtato:ɾᵊ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "702b39fe-8ebe-419f-81d3-9e0a5616edbf",
+  "sense": {
+    "702b39fe-8ebe-419f-81d3-9e0a5616edbf": {
       "pos": "Noun",
       "gloss": {
         "en": "brown.wooly.monkey",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

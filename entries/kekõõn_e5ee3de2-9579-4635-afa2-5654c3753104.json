@@ -3,16 +3,16 @@
   "entry_id": "kekõõn_e5ee3de2-9579-4635-afa2-5654c3753104",
   "morph_type": "stem",
   "pronunciation": "kekõ:n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "encontrado em cartilha 4; lição 15",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "8c97fb0d-388c-49b6-aead-95e8e64e5584",
+  "sense": {
+    "8c97fb0d-388c-49b6-aead-95e8e64e5584": {
       "pos": "v?",
       "gloss": {
         "pt": "balançar?"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

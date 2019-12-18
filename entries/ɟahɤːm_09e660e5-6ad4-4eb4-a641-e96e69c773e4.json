@@ -3,11 +3,11 @@
   "entry_id": "ɟahɤːm_09e660e5-6ad4-4eb4-a641-e96e69c773e4",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "b2c3a9ef-7a11-46e7-9bd5-408e9b6abbb7",
+  "sense": {
+    "b2c3a9ef-7a11-46e7-9bd5-408e9b6abbb7": {
       "pos": "Noun",
       "gloss": {
         "en": "caranguejo"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

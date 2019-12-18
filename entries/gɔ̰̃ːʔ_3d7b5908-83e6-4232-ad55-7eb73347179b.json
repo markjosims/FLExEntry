@@ -3,11 +3,11 @@
   "entry_id": "gɔ̰̃ːʔ_3d7b5908-83e6-4232-ad55-7eb73347179b",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "f2f1944a-e78c-4316-b7bc-c3fc692bf253",
+  "sense": {
+    "f2f1944a-e78c-4316-b7bc-c3fc692bf253": {
       "pos": "Noun",
       "gloss": {
         "en": "macaco-prego"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

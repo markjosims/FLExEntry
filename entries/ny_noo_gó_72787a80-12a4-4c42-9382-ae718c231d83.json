@@ -3,16 +3,16 @@
   "entry_id": "ny noo gó_72787a80-12a4-4c42-9382-ae718c231d83",
   "morph_type": "phrase",
   "pronunciation": "nɨʔ nɔ̃: k’ɔʔ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "996a51fe-2d2b-4f82-ad73-94cc2506c26d",
+  "sense": {
+    "996a51fe-2d2b-4f82-ad73-94cc2506c26d": {
       "pos": "Question particle",
       "gloss": {
         "en": "when",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-07-11T00:01:31Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "kawajad1_f97b2e7e-498c-44ee-bd8b-e78d47d7c9c5",
   "morph_type": "stem",
   "pronunciation": "kawaˈjad˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d16e427b-e254-444c-b67d-839a724e75c1",
+  "sense": {
+    "d16e427b-e254-444c-b67d-839a724e75c1": {
       "pos": "n",
       "gloss": {
         "en": "deer",
@@ -24,8 +24,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

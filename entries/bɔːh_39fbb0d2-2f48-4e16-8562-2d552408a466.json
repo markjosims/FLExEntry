@@ -3,11 +3,11 @@
   "entry_id": "bɔːh_39fbb0d2-2f48-4e16-8562-2d552408a466",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "a69cd9ca-864f-47d5-af8f-a4ecc897c809",
+  "sense": {
+    "a69cd9ca-864f-47d5-af8f-a4ecc897c809": {
       "pos": "Noun",
       "gloss": {
         "en": "sobrinha"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

@@ -3,7 +3,8 @@
   "entry_id": "awyp_c03f1cde-a2d3-4391-b4fb-7570ba1cd909",
   "morph_type": "stem",
   "pronunciation": "ʔaˈwɨp˺",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",
@@ -14,9 +15,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "cc0a093c-aad2-425b-a4e7-8fde32d15024",
+  "sense": {
+    "cc0a093c-aad2-425b-a4e7-8fde32d15024": {
       "pos": "v",
       "gloss": {
         "en": "make.lightning",
@@ -28,8 +28,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'awyb_8a8b6eb1-52f7-4bc3-b7e1-c59a825a8e62': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

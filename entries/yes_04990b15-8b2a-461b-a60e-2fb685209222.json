@@ -3,16 +3,16 @@
   "entry_id": "yes_04990b15-8b2a-461b-a60e-2fb685209222",
   "morph_type": "stem",
   "pronunciation": "jeʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1990",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "a0099690-e26e-4ccf-9c51-05f474045139",
+  "sense": {
+    "a0099690-e26e-4ccf-9c51-05f474045139": {
       "pos": "Verb",
       "gloss": {
         "en": "be.scarred"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

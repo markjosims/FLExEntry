@@ -3,16 +3,16 @@
   "entry_id": "pʹop_663cf027-4684-4541-a231-ff7dea82110f",
   "morph_type": "stem",
   "pronunciation": "po̰p",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "624a9f07-aba3-4f23-904e-297103d593f3",
+  "sense": {
+    "624a9f07-aba3-4f23-904e-297103d593f3": {
       "pos": "adv",
       "gloss": {
         "pt": "no.alto"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

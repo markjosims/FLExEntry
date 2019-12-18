@@ -3,16 +3,16 @@
   "entry_id": "noo gasʹaas_d401b78b-b150-4992-8cd2-064c1842603b",
   "morph_type": "phrase",
   "pronunciation": "no: gaʃa̰:ʃ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "1ec2db2b-7969-4b48-aa67-c849aa347849",
+  "sense": {
+    "1ec2db2b-7969-4b48-aa67-c849aa347849": {
       "pos": "v",
       "gloss": {
         "pt": "ter.sapinho"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'noo gasaats_68f7c0da-4f7f-453c-825f-9cc7657e0e94': 'Não indicativo', 'noo gesas_84eda790-0a62-4669-99fe-ecf1595dc479': 'Plural'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

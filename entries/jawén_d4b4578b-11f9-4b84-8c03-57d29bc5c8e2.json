@@ -3,16 +3,16 @@
   "entry_id": "jawén_d4b4578b-11f9-4b84-8c03-57d29bc5c8e2",
   "morph_type": "stem",
   "pronunciation": "jawɛn",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "4ee6293a-38a6-4714-9569-27220f424e5a",
+  "sense": {
+    "4ee6293a-38a6-4714-9569-27220f424e5a": {
       "pos": "adv",
       "gloss": {
         "pt": "depois"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,16 +3,16 @@
   "entry_id": "egʹaak_e8a55d4c-33f7-4c02-9f26-544a6ffd5243",
   "morph_type": "stem",
   "pronunciation": "ega̰:k",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "800c7fc9-2b48-4677-a088-e7c1e7cbc3a2",
+  "sense": {
+    "800c7fc9-2b48-4677-a088-e7c1e7cbc3a2": {
       "pos": "v",
       "gloss": {
         "pt": "partir.madiera"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'egaag_ef05545d-dce0-494b-9a22-3d3474a9c500': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

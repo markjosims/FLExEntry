@@ -3,16 +3,16 @@
   "entry_id": "yahuun_6ec5b2d9-53a2-4e8b-8527-bb67d204eb18",
   "morph_type": "stem",
   "pronunciation": "jahuːn",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "e98061b8-8baf-4bfd-83f1-a3677d634d17",
+  "sense": {
+    "e98061b8-8baf-4bfd-83f1-a3677d634d17": {
       "pos": "Noun",
       "gloss": {
         "en": "anteater"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

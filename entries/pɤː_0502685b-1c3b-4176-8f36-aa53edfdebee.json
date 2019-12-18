@@ -3,11 +3,11 @@
   "entry_id": "pɤː_0502685b-1c3b-4176-8f36-aa53edfdebee",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "6e73f05f-7a74-4db6-91a1-3ffbedc46d2c",
+  "sense": {
+    "6e73f05f-7a74-4db6-91a1-3ffbedc46d2c": {
       "pos": "?",
       "gloss": {
         "en": "perto"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

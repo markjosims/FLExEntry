@@ -3,11 +3,11 @@
   "entry_id": "ɟɯ̰ːd_39590426-26b6-4758-88c2-a6b59247e283",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "6ebb19a2-df6c-455a-bf25-abfc8165f969",
+  "sense": {
+    "6ebb19a2-df6c-455a-bf25-abfc8165f969": {
       "pos": "Noun",
       "gloss": {
         "en": "cerne"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

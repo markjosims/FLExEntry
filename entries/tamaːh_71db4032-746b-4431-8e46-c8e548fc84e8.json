@@ -3,11 +3,11 @@
   "entry_id": "tamaːh_71db4032-746b-4431-8e46-c8e548fc84e8",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "cd0fc3fb-83fc-4473-938c-989573ab1b1c",
+  "sense": {
+    "cd0fc3fb-83fc-4473-938c-989573ab1b1c": {
       "pos": "post?",
       "gloss": {
         "en": "sem"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

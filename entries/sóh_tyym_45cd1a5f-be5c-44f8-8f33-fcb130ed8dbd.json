@@ -3,11 +3,11 @@
   "entry_id": "sóh tyym_45cd1a5f-be5c-44f8-8f33-fcb130ed8dbd",
   "morph_type": "phrase",
   "pronunciation": "ʃɔh tɨ:bm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "5b0a831f-77d1-4244-8abf-5711d66bd97c",
+  "sense": {
+    "5b0a831f-77d1-4244-8abf-5711d66bd97c": {
       "pos": "Noun",
       "gloss": {
         "en": "blow.dart",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }

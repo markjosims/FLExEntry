@@ -3,11 +3,11 @@
   "entry_id": "ʃeɾiːʔ/ʃɛɾiːʔ_e61dabba-1fcd-4f05-b237-1b741495f92a",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "2dcde15e-e320-4528-ba5d-eaed04480ec5",
+  "sense": {
+    "2dcde15e-e320-4528-ba5d-eaed04480ec5": {
       "pos": "Noun",
       "gloss": {
         "en": "periquito"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "po̰ːh2_54d92d11-2e4d-45ab-b4b2-76011f12d6a6",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "cb7feb53-d478-4882-9049-17678d9d5969",
+  "sense": {
+    "cb7feb53-d478-4882-9049-17678d9d5969": {
       "pos": "Noun",
       "gloss": {
         "en": "pimenta"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

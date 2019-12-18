@@ -3,11 +3,11 @@
   "entry_id": "wɤʔ_9acd178b-0827-43db-8efb-131bced2c948",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "f2196210-d7e3-488e-a17b-3e4913285f27",
+  "sense": {
+    "f2196210-d7e3-488e-a17b-3e4913285f27": {
       "pos": "Noun",
       "gloss": {
         "en": "céu"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

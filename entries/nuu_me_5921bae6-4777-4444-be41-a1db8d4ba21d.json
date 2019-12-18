@@ -3,16 +3,16 @@
   "entry_id": "nuu me_5921bae6-4777-4444-be41-a1db8d4ba21d",
   "morph_type": "phrase",
   "pronunciation": "nu: me",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "cd09681e-9844-4f3d-8ca5-67a43f1a3b79",
+  "sense": {
+    "cd09681e-9844-4f3d-8ca5-67a43f1a3b79": {
       "pos": "adv",
       "gloss": {
         "pt": "vezes"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

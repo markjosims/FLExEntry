@@ -3,16 +3,16 @@
   "entry_id": "ɨɨm_d43b320e-3a28-431e-897d-97757c461f9f",
   "morph_type": "stem",
   "pronunciation": "ʔɨːm",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "Weir 1994",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d7f78951-6d34-4d24-b872-dd997cccbdd7",
+  "sense": {
+    "d7f78951-6d34-4d24-b872-dd997cccbdd7": {
       "pos": "Noun",
       "gloss": {
         "en": "wife"
@@ -20,8 +20,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

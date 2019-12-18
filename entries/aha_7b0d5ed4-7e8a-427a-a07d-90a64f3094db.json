@@ -3,16 +3,16 @@
   "entry_id": "aha_7b0d5ed4-7e8a-427a-a07d-90a64f3094db",
   "morph_type": "stem",
   "pronunciation": "aha",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "75f04d15-d086-4211-9772-1a28fe91ff37",
+  "sense": {
+    "75f04d15-d086-4211-9772-1a28fe91ff37": {
       "pos": "v",
       "gloss": {
         "pt": "tirar.comida"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'ahaa_686c862e-f8bb-4b61-8c2d-d07f36bd5a6a': 'Não indicativo'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:52Z"
 }

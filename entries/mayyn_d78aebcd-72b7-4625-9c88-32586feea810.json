@@ -3,16 +3,16 @@
   "entry_id": "mayyn_d78aebcd-72b7-4625-9c88-32586feea810",
   "morph_type": "stem",
   "pronunciation": "maɨ:n",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "524e2ad3-3854-45ff-aad8-6ff4b5292003",
+  "sense": {
+    "524e2ad3-3854-45ff-aad8-6ff4b5292003": {
       "pos": "n",
       "gloss": {
         "pt": "sogra"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

@@ -3,11 +3,11 @@
   "entry_id": "naʔəŋ2_53d64a2f-8e76-45e0-912f-3064e781e9fa",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1615c031-a513-4957-b0df-606384a15ff1",
+  "sense": {
+    "1615c031-a513-4957-b0df-606384a15ff1": {
       "pos": "Noun",
       "gloss": {
         "en": "água"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

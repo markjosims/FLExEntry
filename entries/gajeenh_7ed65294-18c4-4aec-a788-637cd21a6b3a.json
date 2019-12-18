@@ -3,16 +3,16 @@
   "entry_id": "gajeenh_7ed65294-18c4-4aec-a788-637cd21a6b3a",
   "morph_type": "stem",
   "pronunciation": "gaje:ɲ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": [
     [
       "SIL 2011",
       "bibliography"
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "f7801daa-0d39-48f9-9f63-f852c4125e16",
+  "sense": {
+    "f7801daa-0d39-48f9-9f63-f852c4125e16": {
       "pos": "v",
       "gloss": {
         "pt": "abrir"
@@ -22,8 +22,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": "{'gajʹeej_0370d9a3-7912-458c-bb70-6097fb5de782': 'Não indicativo', 'gajénh_dd695d2b-de3a-48cb-8d65-cc1432ed82da': 'Habitual'}"
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

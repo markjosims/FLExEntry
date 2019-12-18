@@ -3,11 +3,11 @@
   "entry_id": "tʌ̰ːh_32b5d850-3ef4-4d75-b82b-0f2d5c089729",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "1bb8c657-ebc7-4baf-a2af-7a84d04bf789",
+  "sense": {
+    "1bb8c657-ebc7-4baf-a2af-7a84d04bf789": {
       "pos": "Noun",
       "gloss": {
         "en": "tapuru"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:53Z"
 }

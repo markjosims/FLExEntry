@@ -3,11 +3,11 @@
   "entry_id": "tatiʔ_0585473a-015e-4c8d-8204-f0cdcdef9673",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "3fb463f2-0bbd-44a1-b4b4-59d3b08d41f2",
+  "sense": {
+    "3fb463f2-0bbd-44a1-b4b4-59d3b08d41f2": {
       "pos": "pro?",
       "gloss": {
         "en": "aquele"
@@ -15,8 +15,8 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-06-20T05:09:54Z"
 }

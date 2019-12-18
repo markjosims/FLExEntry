@@ -3,7 +3,28 @@
   "entry_id": "adëëh hỹng_989b21e0-acb9-4328-a6ee-5a7508189a0a",
   "morph_type": "phrase",
   "pronunciation": "ʔaˈdǝ:h hɨ̃ŋ",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": {
+    "hyng_db4ae79c-798a-4209-b026-517e5edf7160": {
+      "headword": "hyng",
+      "morph_type": "phrase",
+      "pronunciation": "hɨŋ",
+      "these_vars": "",
+      "note": [
+        [
+          "encontrado em cartilha 4; lição 10; tem em Weir 1990 como (nɨng) 'baixar.rio'",
+          "bibliography"
+        ],
+        [
+          "found in cartilha 4; lição 10; given in Weir 1990 as (nɨng) 'go.downriver'",
+          ""
+        ]
+      ],
+      "sense": null,
+      "date": "2018-03-28T01:58:07Z",
+      "var_type": "Unspecified Variant"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -14,9 +35,8 @@
       ""
     ]
   ],
-  "sense": [
-    {
-      "sense_id": "d0ea0e92-b63d-499e-a71b-8d214de7f646",
+  "sense": {
+    "d0ea0e92-b63d-499e-a71b-8d214de7f646": {
       "pos": "v",
       "gloss": {
         "en": "fall.down",
@@ -28,8 +48,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2018-03-08T07:17:53Z"
 }

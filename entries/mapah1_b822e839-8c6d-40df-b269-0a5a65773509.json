@@ -3,11 +3,11 @@
   "entry_id": "mapah1_b822e839-8c6d-40df-b269-0a5a65773509",
   "morph_type": "stem",
   "pronunciation": "mãpah",
-  "variant": null,
+  "variant_of": null,
+  "these_vars": "",
   "note": null,
-  "sense": [
-    {
-      "sense_id": "484bdda3-653a-4e80-8dfc-8daaa88d5f4c",
+  "sense": {
+    "484bdda3-653a-4e80-8dfc-8daaa88d5f4c": {
       "pos": "Noun",
       "gloss": {
         "en": "papaya",
@@ -19,8 +19,8 @@
       },
       "reverse": "",
       "note": "",
-      "var_of_sense": {}
+      "these_vars": ""
     }
-  ],
+  },
   "date": "2019-01-14T03:46:55Z"
 }
