@@ -1,10 +1,32 @@
 {
-  "headword": "tsabud",
   "entry_id": "tsabud_a11cacd5-6a89-4610-a116-102feb4799f7",
+  "﻿headword": "tsabud",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "ɟabud_c59dda44-a224-4265-8c63-5a694be26e01": {
+      "﻿headword": "ɟabud",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "5c448d16-8b89-4bb2-a7c1-d917996d9267": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "poraquê"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    }
+  },
   "note": [
     [
       "Fielnotes Epps/Obert; 2018",

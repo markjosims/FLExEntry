@@ -1,10 +1,10 @@
 {
-  "headword": "maa ena",
   "entry_id": "maa ena_a462059e-7c9b-4426-90f3-c6f15c6241c3",
+  "﻿headword": "maa ena",
   "morph_type": "phrase",
   "pronunciation": "ma: ena",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'maa enaa_56b1a3e3-8588-4e67-9dad-5d1c67ab4eeb': 'Não indicativo'}"
+      "these_vars": "{'maa enaa_56b1a3e3-8588-4e67-9dad-5d1c67ab4eeb': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

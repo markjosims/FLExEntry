@@ -1,10 +1,37 @@
 {
-  "headword": "agyyt",
   "entry_id": "agyyt_844f1202-4d2e-4db2-bdb5-08c5213c41af",
+  "﻿headword": "agyyt",
   "morph_type": "stem",
   "pronunciation": "ʔaˈk’ɨ:t˺",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "gʉʉt_dc396093-f137-47ef-80dc-2bb879a4cf28": {
+      "﻿headword": "gʉʉt",
+      "morph_type": "stem",
+      "pronunciation": "gəːt",
+      "these_vars": null,
+      "note": [
+        [
+          "Weir 1994",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "b5687563-4e80-4e4c-8047-86179cf6fae2": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "be.standing"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

@@ -1,10 +1,10 @@
 {
-  "headword": "moo hajʹaa",
   "entry_id": "moo hajʹaa_06db6091-79d5-477c-a422-797dfc4e6c9b",
+  "﻿headword": "moo hajʹaa",
   "morph_type": "phrase",
   "pronunciation": "mo: haja̰:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'moo hajaa_4e172768-431f-4ec3-bae9-ac35eb37ca87': 'Não indicativo', 'mo hajʹaa_848df29e-e1a4-4336-95fe-fa222b76d202': 'Unspecified Variant'}"
+      "these_vars": "{'moo hajaa_4e172768-431f-4ec3-bae9-ac35eb37ca87': ('Não indicativo',), 'mo hajʹaa_848df29e-e1a4-4336-95fe-fa222b76d202': ('Unspecified Variant',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

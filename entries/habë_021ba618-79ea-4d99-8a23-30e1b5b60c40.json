@@ -1,10 +1,10 @@
 {
-  "headword": "habë",
   "entry_id": "habë_021ba618-79ea-4d99-8a23-30e1b5b60c40",
+  "﻿headword": "habë",
   "morph_type": "stem",
   "pronunciation": "habə",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'habëë_7bb289f9-6ac8-4f7f-8a8f-363b81b3c205': 'Não indicativo'}"
+      "these_vars": "{'habëë_7bb289f9-6ac8-4f7f-8a8f-363b81b3c205': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

@@ -1,10 +1,37 @@
 {
-  "headword": "awad",
   "entry_id": "awad3_62a55d3c-fa39-4a7a-8dbf-01f9b2c196bd",
+  "﻿headword": "awad",
   "morph_type": "stem",
   "pronunciation": "ʔawad̚",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "awad1_62af62ce-e032-4079-87dd-c24ef0653b3d": {
+      "﻿headword": "awad",
+      "morph_type": "stem",
+      "pronunciation": "ʔawad",
+      "these_vars": null,
+      "note": [
+        [
+          "Weir 1990; Weir 1994; Martins 2005",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "c450b8da-5ae2-4d74-b02b-6159d9ad6a32": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "jaguar"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": "{'awad2_89445911-1a22-4be0-8351-b396b535c72a': ('Spelling Variant', 'Martins 2005; onça')}"
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
   "note": null,
   "sense": {
     "b1f945c8-cc42-4ca1-afb2-a904de7bd4f5": {

@@ -1,10 +1,10 @@
 {
-  "headword": "hajẽm",
   "entry_id": "hajẽm_651f8cf6-18b6-4b11-9e4c-ef83d23e51d8",
+  "﻿headword": "hajẽm",
   "morph_type": "stem",
   "pronunciation": "hajɛ̃m",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'hajẽẽw_8b0edc48-833c-490b-b363-8e9f882ac0c8': 'Não indicativo', 'hajʹẽẽm_a7baa953-5476-4b76-817d-c30cd4ab3735': 'Habitual'}"
+      "these_vars": "{'hajẽẽw_8b0edc48-833c-490b-b363-8e9f882ac0c8': ('Não indicativo',), 'hajʹẽẽm_a7baa953-5476-4b76-817d-c30cd4ab3735': ('Habitual',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

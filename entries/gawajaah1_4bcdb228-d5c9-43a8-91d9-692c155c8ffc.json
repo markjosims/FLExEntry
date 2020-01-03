@@ -1,10 +1,10 @@
 {
-  "headword": "gawajaah",
   "entry_id": "gawajaah1_4bcdb228-d5c9-43a8-91d9-692c155c8ffc",
+  "﻿headword": "gawajaah",
   "morph_type": "stem",
   "pronunciation": "gawaja:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'gawajah_1c43c5f6-18af-437e-90c9-8506069bb3d1': 'Não indicativo', 'gawaja_bb44afa9-15eb-4d8f-91fb-f8ec0e2129cd': 'Não indicativo'}"
+      "these_vars": "{'gawajah_1c43c5f6-18af-437e-90c9-8506069bb3d1': ('Não indicativo',), 'gawaja_bb44afa9-15eb-4d8f-91fb-f8ec0e2129cd': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

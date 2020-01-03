@@ -1,15 +1,15 @@
 {
-  "headword": "ahõng",
   "entry_id": "ahõng_5eceaf57-d989-4dc1-9a1f-72045734eeed",
+  "﻿headword": "ahõng",
   "morph_type": "stem",
   "pronunciation": "ahõŋ",
   "variant_of": null,
   "these_vars": {
     "ahong_037fbb9c-c845-4e3d-9bc3-fe8bbf7c2a5f": {
-      "headword": "ahong",
+      "﻿headword": "ahong",
       "morph_type": "stem",
       "pronunciation": "ahoŋ",
-      "these_vars": "",
+      "these_vars": null,
       "note": [
         [
           "SIL 2011",
@@ -18,7 +18,30 @@
       ],
       "sense": null,
       "date": "2018-03-22T23:19:58Z",
-      "var_type": "Unspecified Variant"
+      "var_type": [
+        "Unspecified Variant"
+      ]
+    },
+    "hɔ̃ŋ_80287da4-afa8-4514-bff8-69b869150d60": {
+      "﻿headword": "hɔ̃ŋ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "2db63249-93ac-4a92-812e-587a136b2ed8": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "maduro"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
     }
   },
   "note": [

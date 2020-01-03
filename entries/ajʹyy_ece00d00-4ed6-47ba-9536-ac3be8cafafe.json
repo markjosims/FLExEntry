@@ -1,15 +1,36 @@
 {
-  "headword": "ajʹyy",
   "entry_id": "ajʹyy_ece00d00-4ed6-47ba-9536-ac3be8cafafe",
+  "﻿headword": "ajʹyy",
   "morph_type": "stem",
   "pronunciation": "ʔaˈjɨʔɨʔ",
   "variant_of": null,
   "these_vars": {
+    "ʔajɯːʔ_479ecbff-3f1d-44fc-907e-91ca5906164b": {
+      "﻿headword": "ʔajɯːʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "b8975cd4-98ac-4c2a-a061-98710a997288": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "homem (pl ʔajɯ̰ːʔ)"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    },
     "ajyy_df084789-d41c-4e8a-9b94-bded23eaa2d8": {
-      "headword": "ajyy",
+      "﻿headword": "ajyy",
       "morph_type": "stem",
       "pronunciation": "ajɨ:",
-      "these_vars": "",
+      "these_vars": null,
       "note": [
         [
           "SIL 2011",
@@ -18,7 +39,9 @@
       ],
       "sense": null,
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Plural"
+      "var_type": [
+        "Plural"
+      ]
     }
   },
   "note": [
@@ -40,7 +63,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ajyy_df084789-d41c-4e8a-9b94-bded23eaa2d8': 'Plural'}"
+      "these_vars": "{'ajyy_df084789-d41c-4e8a-9b94-bded23eaa2d8': ('Plural',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

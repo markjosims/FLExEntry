@@ -1,10 +1,10 @@
 {
-  "headword": "basong",
   "entry_id": "basong_061b4156-051a-46d0-8236-0cd083292685",
+  "﻿headword": "basong",
   "morph_type": "stem",
   "pronunciation": "baʃoŋ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'besoh_43382369-637a-4e7b-91a8-d2a15d6e474d': 'Plural', 'basoo_627305fe-b9ca-4756-a2db-7d18e6125b3a': 'Não indicativo', 'basooh1_8408d89c-9412-4407-be64-483c830901dd': 'Não indicativo'}"
+      "these_vars": "{'besoh_43382369-637a-4e7b-91a8-d2a15d6e474d': ('Plural',), 'basoo_627305fe-b9ca-4756-a2db-7d18e6125b3a': ('Não indicativo',), 'basooh1_8408d89c-9412-4407-be64-483c830901dd': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

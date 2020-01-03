@@ -10,47 +10,95 @@ import pandas as pd
 import json
 from PandasExcel import add_bom, remove_bom
 from ast import literal_eval
+from time import time
+from GenerateLexDir import main as to_json
 
-in_file   = 'headword_matches_processed.csv'
+# decorator
+def time_exec(f):
+    def g(*args, **kwargs):
+        start = time()
+        f(*args, **kwargs)
+        end = time()
+        print(str(f), end-start)
+    return g
+
+
+in_file = 'headword_matches_processed.csv'
+master  = 'flexicon.csv'
 default_tags = ('SIL Dict 2011',
                 'Weir',
                 'Martins',
-                'Barbosa')
+                'Barbosa',
+                'Cartilhas')
 
+@time_exec
 def main():
-    in_df = pd.read_csv(in_file)
+    in_df = pd.read_csv(in_file, index_col='entry_id', keep_default_na=False)
     remove_bom(in_df)
-    # read col 'variants' as native python types
-    in_df.loc[:, 'variants'] = [literal_eval(row) for row in in_df['variants']]
+    flexicon = pd.read_csv(master, index_col='entry_id', keep_default_na=False)
+    remove_bom(flexicon)
     
-    for index, row in in_df.iterrows():
-        entry_id = row['entry_id']
+    # read col 'these_vars' as native python types
+    literal_eval_col(in_df, 'variants')
+    literal_eval_col(flexicon, 'these_vars')
+    literal_eval_col(flexicon, 'variant_of')
+    
+    print(len(flexicon))
+    for entry_id, row in in_df.iterrows():
+        assert entry_id in in_df.index
         variants = row['variants'] # list of dicts
         
-        entry_dict = get_json_dict(entry_id)
-        transfer_variants(variants, entry_dict)
+        entry_row = flexicon.loc[entry_id]
+        these_vars = entry_row['these_vars']
+        these_vars = {} if not these_vars else these_vars
+        transfer_variants(these_vars, variants, flexicon)
+        
+        if not these_vars:
+            continue
         
         # update in_df so transferred tags are removed
-        in_df.at[index, 'variants'] = variants
+        in_df.at[entry_id, 'variants'] = variants
+        
+        # add new variants to flexicon
+        flexicon.at[entry_id, 'these_vars'] = these_vars
+        
+        # update variant_of for each of these_vars
+        for var_id, var_type in these_vars.items():
+            variant_of = flexicon.at[var_id, 'variant_of']
+            variant_of = {} if not variant_of else variant_of
+            variant_of[entry_id] = var_type
+            flexicon.at[var_id, 'variant_of'] = variant_of
+    
+    # ignore rows w/ empty data
+    print(len(flexicon))
+    has_data = [bool(x) for x in in_df['variants']]
+    print(len(in_df))
+    in_df = in_df[has_data]
+    print(len(in_df))
+    
+    add_bom(in_df)
+    in_df.to_csv(in_file)
+    
+    add_bom(flexicon)
+    flexicon.to_csv(master)
+    
+    to_json()
+
 
 # adds all entries from dict update to dict source
 # asserts that two dicts have no keys in common
-def transfer_variants(source, update):
-    assert type(source) is dict
-    assert type(update) is dict      
+def transfer_variants(source, update, flexicon):
+    assert type(source) is dict, source
+    assert type(update) is dict, update
     assert not any(k in source for k in update)
     assert not any(k in update for k in source)
     
-    for k, v in update.copy():
-        if k in default_tags:
+    for k, v in update.copy().items():
+        if v in default_tags:
             source[k] = update.pop(k)
-        if 'DELETE' in k:
+        elif 'DELETE' in v.upper():
             update.pop(k)
-
-def rep_all(s, chars, tgt):
-    for c in chars:
-        s = s.replace(c, tgt)
-    return s
+            flexicon.drop(k, inplace=True)
 
 def get_json_dict(eid):
     filehead = eid
@@ -67,6 +115,14 @@ def get_json_dict(eid):
             print(f'Could not find {filename}. Please enter the correctly'+\
                   ' typed json file below:')
             filename = input()
+            
+def rep_all(s, chars, tgt):
+    for c in chars:
+        s = s.replace(c, tgt)
+    return s
+
+def literal_eval_col(df, col):
+    df.at[:, col] = [literal_eval(row) if row else None for row in df[col]]
 
 if __name__ == '__main__':
     main()

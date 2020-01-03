@@ -1,10 +1,39 @@
 {
-  "headword": "jaw’ëëj",
   "entry_id": "jaw’ëëj_ca32c043-64c6-4e57-bc22-bf16c5a11551",
+  "﻿headword": "jaw’ëëj",
   "morph_type": "stem",
   "pronunciation": "jawəʔəj",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "jawʹëëj_7fe321e9-23f6-4491-9470-7bad482bbd8e": {
+      "﻿headword": "jawʹëëj",
+      "morph_type": "stem",
+      "pronunciation": "jawə̰:j",
+      "these_vars": null,
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "a5e2b283-ba66-4a9a-b6d5-0d00c197061a": {
+          "pos": "n",
+          "gloss": {
+            "pt": "macaco.prego"
+          },
+          "def": {
+            "pt": "esp. de macaco (macacao rego)"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": "SIL Dict 2011"
+    }
+  },
   "note": null,
   "sense": {
     "f2830f31-931d-40cd-b8cb-627d1284a204": {

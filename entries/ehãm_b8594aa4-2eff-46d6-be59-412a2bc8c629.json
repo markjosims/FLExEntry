@@ -1,10 +1,10 @@
 {
-  "headword": "ehãm",
   "entry_id": "ehãm_b8594aa4-2eff-46d6-be59-412a2bc8c629",
+  "﻿headword": "ehãm",
   "morph_type": "stem",
   "pronunciation": "ʔeˈhãm",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",
@@ -24,7 +24,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ehãw_0631abaa-832b-4f9c-a680-67323f0bec57': 'Não indicativo', 'ehʹããm_bbd4f12e-b495-4a13-93ac-e28286042fcd': 'Causativo'}"
+      "these_vars": "{'ehãw_0631abaa-832b-4f9c-a680-67323f0bec57': ('Não indicativo',), 'ehʹããm_bbd4f12e-b495-4a13-93ac-e28286042fcd': ('Causativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

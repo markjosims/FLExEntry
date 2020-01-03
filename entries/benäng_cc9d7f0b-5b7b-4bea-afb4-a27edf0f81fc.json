@@ -1,10 +1,10 @@
 {
-  "headword": "benäng",
   "entry_id": "benäng_cc9d7f0b-5b7b-4bea-afb4-a27edf0f81fc",
+  "﻿headword": "benäng",
   "morph_type": "stem",
   "pronunciation": "benʌŋ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'benyy_421a6c85-bd98-49b7-9fe6-54dd3456e147': 'Não indicativo', 'benyyh_6fefb953-1586-49fc-9d1d-b2dd3084933a': 'Não indicativo'}"
+      "these_vars": "{'benyy_421a6c85-bd98-49b7-9fe6-54dd3456e147': ('Não indicativo',), 'benyyh_6fefb953-1586-49fc-9d1d-b2dd3084933a': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

@@ -1,15 +1,15 @@
 {
-  "headword": "tä",
   "entry_id": "tä_5ea024ce-8d5b-461c-ae96-97daffe5dbb0",
+  "﻿headword": "tä",
   "morph_type": "stem",
   "pronunciation": "tʌ",
   "variant_of": null,
   "these_vars": {
     "tʌʔ_41669841-777f-4779-84d5-7b7bd263f7c5": {
-      "headword": "tʌʔ",
+      "﻿headword": "tʌʔ",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:40:27Z",
@@ -19,10 +19,10 @@
       ]
     },
     "tʉ́1_d009493f-0c14-4cfc-a8a5-0d54484ed84b": {
-      "headword": "tʉ́",
+      "﻿headword": "tʉ́",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:39:42Z",

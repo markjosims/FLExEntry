@@ -1,10 +1,10 @@
 {
-  "headword": "tsebé",
   "entry_id": "tsebé_35ae34bc-cad7-4025-a65c-496e623e57cf",
+  "﻿headword": "tsebé",
   "morph_type": "stem",
   "pronunciation": "ɟebɛ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'tsebee_5d57c0a2-1c6e-414c-bb6f-95d298c46385': 'Não indicativo'}"
+      "these_vars": "{'tsebee_5d57c0a2-1c6e-414c-bb6f-95d298c46385': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

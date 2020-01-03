@@ -1,15 +1,15 @@
 {
-  "headword": "moo nʹaa kawʹaat",
   "entry_id": "moo nʹaa kawʹaat_82d0dccc-bff7-4bfb-802a-812407c55172",
+  "﻿headword": "moo nʹaa kawʹaat",
   "morph_type": "root",
   "pronunciation": "mo: na̰: kawa̰:t",
   "variant_of": null,
   "these_vars": {
     "mo nʹaa kawʹaat_11949e62-048c-4747-ae3a-be8077dfb1de": {
-      "headword": "mo nʹaa kawʹaat",
+      "﻿headword": "mo nʹaa kawʹaat",
       "morph_type": "phrase",
       "pronunciation": "mo na̰: kawa̰:t",
-      "these_vars": "",
+      "these_vars": null,
       "note": [
         [
           "encontrado en cartilha 4; lição 2",
@@ -18,13 +18,15 @@
       ],
       "sense": null,
       "date": "2018-03-20T23:00:19Z",
-      "var_type": "Unspecified Variant"
+      "var_type": [
+        "Unspecified Variant"
+      ]
     },
     "moo nʹaa kawʹaad_5def2f37-5800-4787-845c-d76a8cb9435c": {
-      "headword": "moo nʹaa kawʹaad",
+      "﻿headword": "moo nʹaa kawʹaad",
       "morph_type": "phrase",
       "pronunciation": "mo: na̰: kawa̰:d",
-      "these_vars": "",
+      "these_vars": null,
       "note": [
         [
           "SIL 2011",
@@ -33,7 +35,9 @@
       ],
       "sense": null,
       "date": "2018-03-20T22:58:41Z",
-      "var_type": "Não indicativo"
+      "var_type": [
+        "Não indicativo"
+      ]
     }
   },
   "note": [

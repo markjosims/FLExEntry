@@ -1,10 +1,10 @@
 {
-  "headword": "awẽn",
   "entry_id": "awẽn_67ab9868-f5fd-4e70-ba5e-05f6f1fc08f3",
+  "﻿headword": "awẽn",
   "morph_type": "stem",
   "pronunciation": "awɛ̃n",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'awʹẽẽn_a22c479e-38d0-468c-b169-fd203006e2ce': 'Habitual'}"
+      "these_vars": "{'awʹẽẽn_a22c479e-38d0-468c-b169-fd203006e2ce': ('Habitual',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

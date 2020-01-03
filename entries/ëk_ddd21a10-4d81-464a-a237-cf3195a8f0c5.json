@@ -1,10 +1,32 @@
 {
-  "headword": "ëk",
   "entry_id": "ëk_ddd21a10-4d81-464a-a237-cf3195a8f0c5",
+  "﻿headword": "ëk",
   "morph_type": "stem",
   "pronunciation": "ʔək̚",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "ʔək_4736ff14-7951-4702-8420-4b761777ed50": {
+      "﻿headword": "ʔək",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "d601e12b-bd07-41ed-bf67-c37d2f645b84": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "cuia"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Barbosa"
+    }
+  },
   "note": null,
   "sense": {
     "7100abc4-9bd6-43f5-941c-96428bf53eb3": {

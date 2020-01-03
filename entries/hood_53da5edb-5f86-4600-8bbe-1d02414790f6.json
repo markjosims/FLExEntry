@@ -1,10 +1,32 @@
 {
-  "headword": "hood",
   "entry_id": "hood_53da5edb-5f86-4600-8bbe-1d02414790f6",
+  "﻿headword": "hood",
   "morph_type": "stem",
   "pronunciation": "ho:d˺",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "huːd_b2369c93-dd34-408b-8ca3-82a40aa1adee": {
+      "﻿headword": "huːd",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "abe5b97c-448f-4f6c-ac6a-bdda6bfa9e1b": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "areia"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Barbosa"
+    }
+  },
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",

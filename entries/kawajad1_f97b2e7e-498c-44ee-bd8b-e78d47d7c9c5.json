@@ -1,10 +1,32 @@
 {
-  "headword": "kawajad",
   "entry_id": "kawajad1_f97b2e7e-498c-44ee-bd8b-e78d47d7c9c5",
+  "﻿headword": "kawajad",
   "morph_type": "stem",
   "pronunciation": "kawaˈjad˺",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "gawajad_42f86ba0-9354-4a12-85ca-fb6bb7981ef6": {
+      "﻿headword": "gawajad",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "51c7984c-72b2-48b7-8a3c-2175df367d62": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "veado"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Barbosa"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

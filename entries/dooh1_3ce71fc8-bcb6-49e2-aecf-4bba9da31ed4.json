@@ -1,10 +1,58 @@
 {
-  "headword": "dooh",
   "entry_id": "dooh1_3ce71fc8-bcb6-49e2-aecf-4bba9da31ed4",
+  "﻿headword": "dooh",
   "morph_type": "stem",
   "pronunciation": "do:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "doːh1_d9caa3ff-06cc-413b-a9c7-398060ef979c": {
+      "﻿headword": "doːh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "d3efb377-51f8-435e-95c9-7b26e1b0a9de": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "inexistente; negação"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    },
+    "dooh2_f50666b1-7d7e-449a-8205-0cda6a02f920": {
+      "﻿headword": "dooh",
+      "morph_type": "stem",
+      "pronunciation": "doːh",
+      "these_vars": null,
+      "note": [
+        [
+          "Weir 1994",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "daced675-7fe4-4fa2-b6fe-0a7a33a8cd6e": {
+          "pos": "pro?",
+          "gloss": {
+            "en": "NEG"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": "{'doːh2_f09ac595-bfa8-49ef-8682-d9715ae4591b': ('Spelling Variant', 'Martins 2005; inexistente; negação')}"
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",

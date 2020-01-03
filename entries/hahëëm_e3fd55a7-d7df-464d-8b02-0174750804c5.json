@@ -1,10 +1,10 @@
 {
-  "headword": "hahëëm",
   "entry_id": "hahëëm_e3fd55a7-d7df-464d-8b02-0174750804c5",
+  "﻿headword": "hahëëm",
   "morph_type": "stem",
   "pronunciation": "haˈhǝ:bm",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert 2018",
@@ -24,7 +24,7 @@
       },
       "reverse": "",
       "note": "('verb or adjective?', 'grammar')",
-      "these_vars": "{'hahëëw_fd77a6ed-fbcc-4d9a-9f75-6c822da7adec': 'Não indicativo'}"
+      "these_vars": "{'hahëëw_fd77a6ed-fbcc-4d9a-9f75-6c822da7adec': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

@@ -1,10 +1,10 @@
 {
-  "headword": "baros",
   "entry_id": "baros_075922fd-9874-48ce-8813-f6705117c88d",
+  "﻿headword": "baros",
   "morph_type": "stem",
   "pronunciation": "baɾoʃ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'barots_0fd1f641-6e7a-4918-b8d4-849ef14f2105': 'Não indicativo'}"
+      "these_vars": "{'barots_0fd1f641-6e7a-4918-b8d4-849ef14f2105': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

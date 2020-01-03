@@ -1,10 +1,10 @@
 {
-  "headword": "etsẽẽ",
   "entry_id": "etsẽẽ_3c9fcac0-22c9-49be-a2d2-1be15de41af7",
+  "﻿headword": "etsẽẽ",
   "morph_type": "stem",
   "pronunciation": "eɟɛ̃:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'etsʹẽẽ_4cc08e25-0d5f-42c1-ad63-075b211df095': 'Não indicativo'}"
+      "these_vars": "{'etsʹẽẽ_4cc08e25-0d5f-42c1-ad63-075b211df095': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

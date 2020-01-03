@@ -1,10 +1,10 @@
 {
-  "headword": "ajäm",
   "entry_id": "ajäm_a28f3a39-1a03-4329-9382-9bab24145953",
+  "﻿headword": "ajäm",
   "morph_type": "stem",
   "pronunciation": "ʔaʔjʌbm",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",
@@ -24,7 +24,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ajʹëëm_a98bd84d-6f62-4ef1-810c-16bea0535dee': 'Plural'}"
+      "these_vars": "{'ajʹëëm_a98bd84d-6f62-4ef1-810c-16bea0535dee': ('Plural',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

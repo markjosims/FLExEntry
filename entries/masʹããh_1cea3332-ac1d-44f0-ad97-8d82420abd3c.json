@@ -1,10 +1,37 @@
 {
-  "headword": "masʹããh",
   "entry_id": "masʹããh_1cea3332-ac1d-44f0-ad97-8d82420abd3c",
+  "﻿headword": "masʹããh",
   "morph_type": "stem",
   "pronunciation": "maʃã̰:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "masxãah_5ecd9230-e108-4922-aecb-9b7a921ae9b2": {
+      "﻿headword": "masxãah",
+      "morph_type": "stem",
+      "pronunciation": "maʃã̰ːh",
+      "these_vars": null,
+      "note": [
+        [
+          "Weir 1990",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "c8403b45-cc68-47ac-9602-2b09017e0c40": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "pet"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
   "note": [
     [
       "SIL 2011",
@@ -22,7 +49,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'masããh_d3e5e124-59db-47e3-b010-06d79c06c710': 'Plural'}"
+      "these_vars": "{'masããh_d3e5e124-59db-47e3-b010-06d79c06c710': ('Plural',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

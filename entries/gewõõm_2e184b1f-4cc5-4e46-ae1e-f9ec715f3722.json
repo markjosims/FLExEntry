@@ -1,15 +1,15 @@
 {
-  "headword": "gewõõm",
   "entry_id": "gewõõm_2e184b1f-4cc5-4e46-ae1e-f9ec715f3722",
+  "﻿headword": "gewõõm",
   "morph_type": "stem",
   "pronunciation": "gewõ:m",
   "variant_of": null,
   "these_vars": {
     "gewʹõõw_07c262a4-e950-44ab-ba8d-5b209013a2ee": {
-      "headword": "gewʹõõw",
+      "﻿headword": "gewʹõõw",
       "morph_type": "stem",
       "pronunciation": "gewõ̰:w",
-      "these_vars": "",
+      "these_vars": null,
       "note": [
         [
           "SIL 2011",
@@ -18,7 +18,9 @@
       ],
       "sense": null,
       "date": "2018-03-27T02:37:10Z",
-      "var_type": "Não indicativo"
+      "var_type": [
+        "Não indicativo"
+      ]
     }
   },
   "note": [

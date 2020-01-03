@@ -1,15 +1,15 @@
 {
-  "headword": "ee",
   "entry_id": "ee_3721b800-dbe1-4f4c-a11b-ecaeda9dda09",
+  "﻿headword": "ee",
   "morph_type": "stem",
   "pronunciation": "e:",
   "variant_of": null,
   "these_vars": {
     "éé1_b19c52f4-5052-4e8e-9a2d-6a29d18a7b33": {
-      "headword": "éé",
+      "﻿headword": "éé",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:21:05Z",

@@ -1,10 +1,39 @@
 {
-  "headword": "panʹaa",
   "entry_id": "panʹaa2_167b4818-2852-44f2-aef7-66c8c4ba3c2d",
+  "﻿headword": "panʹaa",
   "morph_type": "stem",
   "pronunciation": "pana̰:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "panʹaa1_4809c58f-bd46-4e6d-bb36-653e0b1ae33e": {
+      "﻿headword": "panʹaa",
+      "morph_type": "stem",
+      "pronunciation": "pana̰:",
+      "these_vars": null,
+      "note": [
+        [
+          "encontrado em cartilha 4; lição 9",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "f1ef09d9-7c3b-4206-9e37-2401aa4cb06b": {
+          "pos": "v?",
+          "gloss": {
+            "pt": "?"
+          },
+          "def": {
+            "pt": "?"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": "Cartilhas"
+    }
+  },
   "note": [
     [
       "SIL 2011",

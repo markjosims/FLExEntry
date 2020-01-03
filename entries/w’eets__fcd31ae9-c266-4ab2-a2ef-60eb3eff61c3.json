@@ -1,10 +1,60 @@
 {
-  "headword": "w’eets",
   "entry_id": "w’eets _fcd31ae9-c266-4ab2-a2ef-60eb3eff61c3",
+  "﻿headword": "w’eets",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "wʹeets_574901cb-b566-4eb9-a4ef-ed3b3331ef75": {
+      "﻿headword": "wʹeets",
+      "morph_type": "stem",
+      "pronunciation": "wḛ:ɟ",
+      "these_vars": null,
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "ab1899b3-906e-4bf8-8f7b-137f1974abb8": {
+          "pos": "n",
+          "gloss": {
+            "pt": "tatu.sp"
+          },
+          "def": {
+            "pt": "esp. de tatu"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": "SIL Dict 2011"
+    },
+    "wɛːɟ_6884ab96-6eac-4ba5-928f-9d985edf2221": {
+      "﻿headword": "wɛːɟ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "57c4344b-4285-4409-a785-9beee15496e1": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "tatu"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Barbosa"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

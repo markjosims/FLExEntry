@@ -1,10 +1,10 @@
 {
-  "headword": "asëëk",
   "entry_id": "asëëk_a66ea5e8-0c6b-4415-bf0f-ed7c04faaca2",
+  "﻿headword": "asëëk",
   "morph_type": "stem",
   "pronunciation": "ʔaˈʃǝ:k˺",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011; Fieldnotes Epps/Obert; 2018",
@@ -24,7 +24,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'asʹëëg_071fd2b5-c8ec-405b-a840-71a0419d0870': 'Não indicativo'}"
+      "these_vars": "{'asʹëëg_071fd2b5-c8ec-405b-a840-71a0419d0870': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

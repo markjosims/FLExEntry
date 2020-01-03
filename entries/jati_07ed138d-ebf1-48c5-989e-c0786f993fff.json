@@ -1,19 +1,21 @@
 {
-  "headword": "jati",
   "entry_id": "jati_07ed138d-ebf1-48c5-989e-c0786f993fff",
+  "﻿headword": "jati",
   "morph_type": "stem",
   "pronunciation": "jati",
   "variant_of": null,
   "these_vars": {
     "jatiʔ_0b1cceca-d60b-4282-966e-c4c7872762fe": {
-      "headword": "jatiʔ",
+      "﻿headword": "jatiʔ",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:45:44Z",
-      "var_type": "Barbosa"
+      "var_type": [
+        "Barbosa"
+      ]
     }
   },
   "note": [
@@ -33,7 +35,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'jat_a953c0b2-bd7e-45ad-8a54-821e3aa417b3': 'Unspecified Variant'}"
+      "these_vars": "{'jat_a953c0b2-bd7e-45ad-8a54-821e3aa417b3': ('Unspecified Variant',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

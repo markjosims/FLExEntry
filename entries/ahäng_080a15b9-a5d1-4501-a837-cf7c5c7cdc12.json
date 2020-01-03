@@ -1,10 +1,39 @@
 {
-  "headword": "ahäng",
   "entry_id": "ahäng_080a15b9-a5d1-4501-a837-cf7c5c7cdc12",
+  "﻿headword": "ahäng",
   "morph_type": "stem",
   "pronunciation": "ahʌŋ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "häng_9c3d24d0-89e3-4dbc-87a1-9a9ceca642a6": {
+      "﻿headword": "häng",
+      "morph_type": "stem",
+      "pronunciation": "hʌŋ",
+      "these_vars": null,
+      "note": [
+        [
+          "encontrado em cartilha 4; licão 14",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "d53410b3-307e-4e17-9710-01c6015cee6b": {
+          "pos": "?",
+          "gloss": {
+            "pt": "?"
+          },
+          "def": {
+            "pt": "?"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": "Cartilhas"
+    }
+  },
   "note": [
     [
       "SIL 2011",
@@ -22,7 +51,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'dahäng_8ab640ce-f06d-48f7-bdac-ab47cd48ff0a': 'Causativo', 'ahëë_c341ea39-5565-4c4d-9307-015889a92233': 'Não indicativo', 'ahëëh_f552375d-10e3-4742-a485-933874754632': 'Não indicativo'}"
+      "these_vars": "{'dahäng_8ab640ce-f06d-48f7-bdac-ab47cd48ff0a': ('Causativo',), 'ahëë_c341ea39-5565-4c4d-9307-015889a92233': ('Não indicativo',), 'ahëëh_f552375d-10e3-4742-a485-933874754632': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

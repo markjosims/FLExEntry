@@ -1,10 +1,32 @@
 {
-  "headword": "takʹëp",
   "entry_id": "takʹëp_713254c9-c9a3-408e-89d8-f85183abb1e8",
+  "﻿headword": "takʹëp",
   "morph_type": "stem",
   "pronunciation": "takə̰p",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "takɤ̰p_05bff17e-0f67-47a7-8c0f-aaeb5194a218": {
+      "﻿headword": "takɤ̰p",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "f36dee8c-63a9-493d-80bb-eee92d8ec9df": {
+          "pos": "?",
+          "gloss": {
+            "en": "forte"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    }
+  },
   "note": [
     [
       "SIL 2011",

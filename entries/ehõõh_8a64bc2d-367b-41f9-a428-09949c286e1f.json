@@ -1,10 +1,10 @@
 {
-  "headword": "ehõõh",
   "entry_id": "ehõõh_8a64bc2d-367b-41f9-a428-09949c286e1f",
+  "﻿headword": "ehõõh",
   "morph_type": "stem",
   "pronunciation": "ehõ:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ehõh_272fe292-0223-4908-b56f-97b4b133c35d': 'Não indicativo', 'ehõ1_a8fa89b0-15ca-4fdd-ac22-2cbe425fae9d': 'Não indicativo'}"
+      "these_vars": "{'ehõh_272fe292-0223-4908-b56f-97b4b133c35d': ('Não indicativo',), 'ehõ1_a8fa89b0-15ca-4fdd-ac22-2cbe425fae9d': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

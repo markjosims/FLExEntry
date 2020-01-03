@@ -1,15 +1,15 @@
 {
-  "headword": "hajõk",
   "entry_id": "hajõk_4c2a000d-241d-4b5a-b205-8c46b9773691",
+  "﻿headword": "hajõk",
   "morph_type": "stem",
   "pronunciation": "hajõk",
   "variant_of": null,
   "these_vars": {
     "hajõng_95f4de6d-163c-402c-b86e-db380334691a": {
-      "headword": "hajõng",
+      "﻿headword": "hajõng",
       "morph_type": "stem",
       "pronunciation": "hajõŋ",
-      "these_vars": "",
+      "these_vars": null,
       "note": [
         [
           "SIL 2011",
@@ -18,7 +18,9 @@
       ],
       "sense": null,
       "date": "2018-03-21T21:46:47Z",
-      "var_type": "Não humano"
+      "var_type": [
+        "Não humano"
+      ]
     }
   },
   "note": [
@@ -38,7 +40,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'hajõõh_2a633761-8222-43c0-8d5e-76122088df50': 'Não indicativo', 'hajõõ_b23141fb-d829-45df-8736-bc21544328dc': 'Não indicativo'}"
+      "these_vars": "{'hajõõh_2a633761-8222-43c0-8d5e-76122088df50': ('Não indicativo',), 'hajõõ_b23141fb-d829-45df-8736-bc21544328dc': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

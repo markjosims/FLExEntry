@@ -1,10 +1,32 @@
 {
-  "headword": "sawyk",
   "entry_id": "sawyk_4639249a-4c4d-48ec-92ad-2cda852204b8",
+  "﻿headword": "sawyk",
   "morph_type": "root",
   "pronunciation": "ʃaˈwɨk˺",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "ʃawɯk_687394cd-d7e8-4953-99e3-6c1caa551f59": {
+      "﻿headword": "ʃawɯk",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "142636db-f2e9-469c-a661-1a759966d7e4": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "algodão"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

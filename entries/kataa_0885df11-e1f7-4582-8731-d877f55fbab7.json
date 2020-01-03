@@ -1,10 +1,10 @@
 {
-  "headword": "kataa",
   "entry_id": "kataa_0885df11-e1f7-4582-8731-d877f55fbab7",
+  "﻿headword": "kataa",
   "morph_type": "stem",
   "pronunciation": "kata:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'kata_3eb7ccd4-c020-4a9f-aa39-6024fd8231ea': 'Não indicativo'}"
+      "these_vars": "{'kata_3eb7ccd4-c020-4a9f-aa39-6024fd8231ea': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

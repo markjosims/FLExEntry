@@ -1,10 +1,10 @@
 {
-  "headword": "gasuut",
   "entry_id": "gasuut_9632a1a7-9906-4402-a57d-f36a3ae766f1",
+  "﻿headword": "gasuut",
   "morph_type": "stem",
   "pronunciation": "gaʃu:t",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'gasʹuut_ce036a88-6b65-4bfd-817b-ba8e1b160321': 'Unspecified Variant', 'gasud_e4ab1a59-cfa0-4c4e-92be-da6ffff659be': 'Não indicativo'}"
+      "these_vars": "{'gasʹuut_ce036a88-6b65-4bfd-817b-ba8e1b160321': ('Unspecified Variant',), 'gasud_e4ab1a59-cfa0-4c4e-92be-da6ffff659be': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

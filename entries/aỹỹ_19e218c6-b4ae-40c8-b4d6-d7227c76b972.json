@@ -1,10 +1,10 @@
 {
-  "headword": "aỹỹ",
   "entry_id": "aỹỹ_19e218c6-b4ae-40c8-b4d6-d7227c76b972",
+  "﻿headword": "aỹỹ",
   "morph_type": "stem",
   "pronunciation": "aɨ̃:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'aä̃_74df2d38-d4c9-40fb-98a2-8b980f93bfde': 'Não indicativo', 'aỹỹh_c99a1e11-f4d3-4fbd-b8e4-ef98dc3ac38b': 'Unspecified Variant', 'aä̃h_cc1d9e62-4139-45c2-8acc-9b552effdc3d': 'Não indicativo'}"
+      "these_vars": "{'aä̃_74df2d38-d4c9-40fb-98a2-8b980f93bfde': ('Não indicativo',), 'aỹỹh_c99a1e11-f4d3-4fbd-b8e4-ef98dc3ac38b': ('Unspecified Variant',), 'aä̃h_cc1d9e62-4139-45c2-8acc-9b552effdc3d': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

@@ -1,10 +1,32 @@
 {
-  "headword": "wii",
   "entry_id": "wii_8a4348e9-3bfb-46f0-8cd1-c70242ed07b9",
+  "﻿headword": "wii",
   "morph_type": "stem",
   "pronunciation": "wiː",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "wiːʔ_6775cf67-0f92-4ae5-a67c-dcd6102dce40": {
+      "﻿headword": "wiːʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "d981f041-ae13-4d75-86fa-f048cf69dfbf": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "pêlo"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

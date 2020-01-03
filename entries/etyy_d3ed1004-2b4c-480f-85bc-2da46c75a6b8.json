@@ -1,10 +1,10 @@
 {
-  "headword": "etyy",
   "entry_id": "etyy_d3ed1004-2b4c-480f-85bc-2da46c75a6b8",
+  "﻿headword": "etyy",
   "morph_type": "stem",
   "pronunciation": "etɨ:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ety_047db998-72df-46aa-a083-13e0b004ec6c': 'Não indicativo', 'etʹyy_a39997f8-1af1-4566-b7a9-c7b7b33e8687': 'Plural'}"
+      "these_vars": "{'ety_047db998-72df-46aa-a083-13e0b004ec6c': ('Não indicativo',), 'etʹyy_a39997f8-1af1-4566-b7a9-c7b7b33e8687': ('Plural',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

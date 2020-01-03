@@ -1,10 +1,10 @@
 {
-  "headword": "erih",
   "entry_id": "erih_fda709d5-d037-4b44-9d89-2168a98aa9c6",
+  "﻿headword": "erih",
   "morph_type": "stem",
   "pronunciation": "eɾih",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'eriih_7b220d07-1e11-4f11-b07f-4cefc59183e6': 'Não indicativo', 'erii_acd22ffd-8fe5-4349-baeb-04dca25ccb2c': 'Não indicativo', 'erʹiih_ae31ae98-7acb-45bd-aa66-ec86365b6ebc': 'Habitual'}"
+      "these_vars": "{'eriih_7b220d07-1e11-4f11-b07f-4cefc59183e6': ('Não indicativo',), 'erii_acd22ffd-8fe5-4349-baeb-04dca25ccb2c': ('Não indicativo',), 'erʹiih_ae31ae98-7acb-45bd-aa66-ec86365b6ebc': ('Habitual',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

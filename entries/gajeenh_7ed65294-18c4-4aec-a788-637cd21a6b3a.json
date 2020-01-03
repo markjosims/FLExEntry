@@ -1,10 +1,10 @@
 {
-  "headword": "gajeenh",
   "entry_id": "gajeenh_7ed65294-18c4-4aec-a788-637cd21a6b3a",
+  "﻿headword": "gajeenh",
   "morph_type": "stem",
   "pronunciation": "gaje:ɲ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'gajʹeej_0370d9a3-7912-458c-bb70-6097fb5de782': 'Não indicativo', 'gajénh_dd695d2b-de3a-48cb-8d65-cc1432ed82da': 'Habitual'}"
+      "these_vars": "{'gajʹeej_0370d9a3-7912-458c-bb70-6097fb5de782': ('Não indicativo',), 'gajénh_dd695d2b-de3a-48cb-8d65-cc1432ed82da': ('Habitual',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

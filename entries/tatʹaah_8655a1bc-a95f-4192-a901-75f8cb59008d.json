@@ -1,10 +1,10 @@
 {
-  "headword": "tatʹaah",
   "entry_id": "tatʹaah_8655a1bc-a95f-4192-a901-75f8cb59008d",
+  "﻿headword": "tatʹaah",
   "morph_type": "stem",
   "pronunciation": "tata̰:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'tataah_3a4ece63-7d15-430f-a569-fd308bf3fa91': 'Plural'}"
+      "these_vars": "{'tataah_3a4ece63-7d15-430f-a569-fd308bf3fa91': ('Plural',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

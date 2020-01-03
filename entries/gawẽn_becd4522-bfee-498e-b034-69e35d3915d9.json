@@ -1,10 +1,10 @@
 {
-  "headword": "gawẽn",
   "entry_id": "gawẽn_becd4522-bfee-498e-b034-69e35d3915d9",
+  "﻿headword": "gawẽn",
   "morph_type": "stem",
   "pronunciation": "gawɛ̃n",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'gawʹẽẽn_b9edea85-8937-43c2-84c8-a464e854301f': 'Habitual'}"
+      "these_vars": "{'gawʹẽẽn_b9edea85-8937-43c2-84c8-a464e854301f': ('Habitual',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

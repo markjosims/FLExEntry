@@ -1,10 +1,32 @@
 {
-  "headword": "nag’aad",
   "entry_id": "nag’aad_a2653c1c-526b-4da1-aaeb-c2f393797942",
+  "﻿headword": "nag’aad",
   "morph_type": "stem",
   "pronunciation": "nãʔk’aʔad˺",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "naga̰ːd_00bdbea3-65ff-4c88-bb09-064fdb77ec72": {
+      "﻿headword": "naga̰ːd",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "062365d9-1fcd-4828-980d-5fbacad0019b": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "língua"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Barbosa"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

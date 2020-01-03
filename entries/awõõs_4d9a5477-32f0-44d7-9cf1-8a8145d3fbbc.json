@@ -1,10 +1,10 @@
 {
-  "headword": "awõõs",
   "entry_id": "awõõs_4d9a5477-32f0-44d7-9cf1-8a8145d3fbbc",
+  "﻿headword": "awõõs",
   "morph_type": "stem",
   "pronunciation": "awõ:ʃ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'hewõs_6a72a230-5be6-4f74-bedc-23bea92fa0be': 'Habitual', 'awʹõõj_787ee2a4-05a5-4f61-8dd9-caf10e842f21': 'Não indicativo'}"
+      "these_vars": "{'hewõs_6a72a230-5be6-4f74-bedc-23bea92fa0be': ('Habitual',), 'awʹõõj_787ee2a4-05a5-4f61-8dd9-caf10e842f21': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

@@ -1,10 +1,10 @@
 {
-  "headword": "gekyyt",
   "entry_id": "gekyyt_1b466a7a-b3c8-47da-8acd-7e0bfbcdf964",
+  "﻿headword": "gekyyt",
   "morph_type": "stem",
   "pronunciation": "gekɨ:t",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'gekyyd_6ca636af-94eb-4d80-9f67-97948451f2bc': 'Não indicativo'}"
+      "these_vars": "{'gekyyd_6ca636af-94eb-4d80-9f67-97948451f2bc': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

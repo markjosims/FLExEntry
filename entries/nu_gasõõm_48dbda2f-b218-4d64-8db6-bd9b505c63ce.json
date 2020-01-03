@@ -1,10 +1,10 @@
 {
-  "headword": "nu gasõõm",
   "entry_id": "nu gasõõm_48dbda2f-b218-4d64-8db6-bd9b505c63ce",
+  "﻿headword": "nu gasõõm",
   "morph_type": "phrase",
   "pronunciation": "nu gaʃõ:m",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'nu gesʹõõm_d6c8f2ab-2832-4af0-8120-e601cb6bbe5e': 'Causativo'}"
+      "these_vars": "{'nu gesʹõõm_d6c8f2ab-2832-4af0-8120-e601cb6bbe5e': ('Causativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

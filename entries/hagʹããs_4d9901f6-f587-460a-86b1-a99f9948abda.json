@@ -1,10 +1,10 @@
 {
-  "headword": "hagʹããs",
   "entry_id": "hagʹããs_4d9901f6-f587-460a-86b1-a99f9948abda",
+  "﻿headword": "hagʹããs",
   "morph_type": "stem",
   "pronunciation": "hagã̰:ʃ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'hagãã_9183270e-5327-4a33-a59f-40e4d8f81281': 'Não indicativo'}"
+      "these_vars": "{'hagãã_9183270e-5327-4a33-a59f-40e4d8f81281': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

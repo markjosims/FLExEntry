@@ -1,10 +1,10 @@
 {
-  "headword": "ỹỹh",
   "entry_id": "ỹỹh_b5117bd5-2007-42dc-8931-e60f4bb08b70",
+  "﻿headword": "ỹỹh",
   "morph_type": "stem",
   "pronunciation": "ʔɨ̃:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011; Weir 1984; Barbosa 2005",
@@ -23,7 +23,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ỹỹ3_1fab850f-da95-4fff-8e60-596d84365d2f': 'Unspecified Variant', 'ỹ_acdb0c0b-2c0f-454f-91d1-eea4498bebf7': 'Unspecified Variant'}"
+      "these_vars": "{'ỹỹ3_1fab850f-da95-4fff-8e60-596d84365d2f': ('Unspecified Variant',), 'ỹ_acdb0c0b-2c0f-454f-91d1-eea4498bebf7': ('Unspecified Variant',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

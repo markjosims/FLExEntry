@@ -1,10 +1,10 @@
 {
-  "headword": "karak",
   "entry_id": "karak_6f6f498f-e045-44a7-b814-505bba4b8eb4",
+  "﻿headword": "karak",
   "morph_type": "stem",
   "pronunciation": "kaɾak",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'karag_62409d92-e1a8-40e3-88f3-053f8d755bcb': 'Não indicativo'}"
+      "these_vars": "{'karag_62409d92-e1a8-40e3-88f3-053f8d755bcb': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

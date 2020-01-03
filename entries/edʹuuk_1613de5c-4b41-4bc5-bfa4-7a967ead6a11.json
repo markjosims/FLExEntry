@@ -1,10 +1,10 @@
 {
-  "headword": "edʹuuk",
   "entry_id": "edʹuuk_1613de5c-4b41-4bc5-bfa4-7a967ead6a11",
+  "﻿headword": "edʹuuk",
   "morph_type": "stem",
   "pronunciation": "edṵ:k",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'eduug_a29d5713-9f30-4d79-81a8-adc977ac1a6f': 'Não indicativo', 'heduk_d6de556b-cde9-46ca-b990-7e56b4c53cf0': 'Habitual'}"
+      "these_vars": "{'eduug_a29d5713-9f30-4d79-81a8-adc977ac1a6f': ('Não indicativo',), 'heduk_d6de556b-cde9-46ca-b990-7e56b4c53cf0': ('Habitual',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

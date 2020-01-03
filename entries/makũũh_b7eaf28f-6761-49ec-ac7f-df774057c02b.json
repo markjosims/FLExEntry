@@ -1,10 +1,10 @@
 {
-  "headword": "makũũh",
   "entry_id": "makũũh_b7eaf28f-6761-49ec-ac7f-df774057c02b",
+  "﻿headword": "makũũh",
   "morph_type": "stem",
   "pronunciation": "makũ:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'dakä_088d21b3-b72e-422c-baab-2a35b7838500': 'Não indicativo', 'dakë_9477178e-c20a-43b8-b4e9-7a91edfad5f8': 'Unspecified Variant'}"
+      "these_vars": "{'dakä_088d21b3-b72e-422c-baab-2a35b7838500': ('Não indicativo',), 'dakë_9477178e-c20a-43b8-b4e9-7a91edfad5f8': ('Unspecified Variant',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

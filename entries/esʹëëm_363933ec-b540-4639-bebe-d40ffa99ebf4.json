@@ -1,10 +1,10 @@
 {
-  "headword": "esʹëëm",
   "entry_id": "esʹëëm_363933ec-b540-4639-bebe-d40ffa99ebf4",
+  "﻿headword": "esʹëëm",
   "morph_type": "stem",
   "pronunciation": "eʃə̰:m",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'esëëm_16100f6e-6631-4c79-a44b-51edf7117834': 'Não indicativo'}"
+      "these_vars": "{'esëëm_16100f6e-6631-4c79-a44b-51edf7117834': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

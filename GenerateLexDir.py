@@ -28,13 +28,14 @@ def main():
     literal_eval_col(flex_df, 'variant_of')
     literal_eval_col(flex_df, 'note')
     literal_eval_col(flex_df, 'sense')
+    literal_eval_col(flex_df, 'these_vars')
     literal_eval_col(senses, 'gloss')
     literal_eval_col(senses, 'def')
     
     generate_lex_dir(flex_df, senses)
 
 def generate_lex_dir(df1, df2):
-    clean_dir(r'\entries\*.json')
+    clean_dir(r'/entries/*.json')
     entries_df = df1
     senses_df = df2
     # indices of entries that aren't variants
@@ -124,8 +125,8 @@ def get_vars_from_id(entry_id, these_vars, parent_df, variants):
         var_data['var_type'] = var_data['variant_of'][entry_id]
         
         # call recursively if variant might itself have variants
-        if var_data['these_vars'] is None:
-            get_vars_from_id(var_data['entry_id'], variants, variants)        
+        if var_data['these_vars'] and all(type(x) is str for x in var_data['these_vars'].values()):
+            get_vars_from_id(var_data['entry_id'], var_data['these_vars'], variants, variants)        
         var_data.pop('variant_of')
         var_data.pop('index')     
         var_data.pop('entry_id')

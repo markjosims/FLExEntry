@@ -1,10 +1,10 @@
 {
-  "headword": "erét",
   "entry_id": "erét_2370f1d5-42bf-477a-bec0-cc27bf202068",
+  "﻿headword": "erét",
   "morph_type": "stem",
   "pronunciation": "eɾɛt",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'eréd_e2d456f2-b58b-42af-8dfb-538033b5131b': 'Não indicativo'}"
+      "these_vars": "{'eréd_e2d456f2-b58b-42af-8dfb-538033b5131b': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

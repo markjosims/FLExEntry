@@ -1,15 +1,41 @@
 {
-  "headword": "me",
   "entry_id": "me1_69935547-234c-452b-a397-06c63051952f",
+  "﻿headword": "me",
   "morph_type": "stem",
   "pronunciation": "me",
   "variant_of": null,
   "these_vars": {
+    "me3_55d072cd-437b-41d7-91ee-f93cf6856d86": {
+      "﻿headword": "me",
+      "morph_type": "stem",
+      "pronunciation": "meʔ",
+      "these_vars": null,
+      "note": [
+        [
+          "Weir 1986",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "06d1acf7-f6fb-42db-8940-7f1670215cb0": {
+          "pos": "post",
+          "gloss": {
+            "en": "by means of"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    },
     "me2_b636faa8-d192-455f-a9c4-c233998d4085": {
-      "headword": "me",
+      "﻿headword": "me",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:01:00Z",

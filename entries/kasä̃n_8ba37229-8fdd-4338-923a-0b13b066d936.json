@@ -1,10 +1,10 @@
 {
-  "headword": "kasä̃n",
   "entry_id": "kasä̃n_8ba37229-8fdd-4338-923a-0b13b066d936",
+  "﻿headword": "kasä̃n",
   "morph_type": "stem",
   "pronunciation": "kaʃʌ̃n",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'kasʹỹỹn_884bad00-f1bd-4d0d-8a8c-495d4b5d4796': 'Habitual'}"
+      "these_vars": "{'kasʹỹỹn_884bad00-f1bd-4d0d-8a8c-495d4b5d4796': ('Habitual',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

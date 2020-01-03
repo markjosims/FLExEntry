@@ -1,10 +1,10 @@
 {
-  "headword": "hepũũ",
   "entry_id": "hepũũ_ef03e002-08aa-40c2-9509-41327e679084",
+  "﻿headword": "hepũũ",
   "morph_type": "stem",
   "pronunciation": "hepũ:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'hepõ_804ba3dc-742b-4d69-ba4c-969cb0d34c1f': 'Não indicativo'}"
+      "these_vars": "{'hepõ_804ba3dc-742b-4d69-ba4c-969cb0d34c1f': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

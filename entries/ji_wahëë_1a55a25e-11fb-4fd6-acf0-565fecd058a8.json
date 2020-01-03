@@ -1,10 +1,32 @@
 {
-  "headword": "ji wahëë",
   "entry_id": "[ji] wahëë_1a55a25e-11fb-4fd6-acf0-565fecd058a8",
+  "﻿headword": "ji wahëë",
   "morph_type": "phrase",
   "pronunciation": "jiʔ  wahə:ʔ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "wahɤ̰ːh_ce80171b-4d63-4f72-9f46-5068f63719ab": {
+      "﻿headword": "wahɤ̰ːh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "60d34763-61bd-4c10-8dc1-54fe5ae9f3e7": {
+          "pos": "?",
+          "gloss": {
+            "en": "velho (pl wahɤh)"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    }
+  },
   "note": null,
   "sense": {
     "dd96ef39-6955-46ff-9a0c-cd2e3915751e": {

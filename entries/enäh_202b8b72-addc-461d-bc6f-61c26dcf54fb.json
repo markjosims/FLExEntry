@@ -1,10 +1,10 @@
 {
-  "headword": "enäh",
   "entry_id": "enäh_202b8b72-addc-461d-bc6f-61c26dcf54fb",
+  "﻿headword": "enäh",
   "morph_type": "stem",
   "pronunciation": "enʌh",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'enä_7325b2db-5108-4af0-a8cd-e247a9f21bba': 'Unspecified Variant', 'anäng_87bfc426-0444-4acf-b0cd-90d0356238ad': 'Singular', 'enʹyyh_cbe8134d-62cd-4d0d-9468-b2c7810b1282': 'Não indicativo plural'}"
+      "these_vars": "{'enä_7325b2db-5108-4af0-a8cd-e247a9f21bba': ('Unspecified Variant',), 'anäng_87bfc426-0444-4acf-b0cd-90d0356238ad': ('Singular',), 'enʹyyh_cbe8134d-62cd-4d0d-9468-b2c7810b1282': ('Não indicativo plural',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

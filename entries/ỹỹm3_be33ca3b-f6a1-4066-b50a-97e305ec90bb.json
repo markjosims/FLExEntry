@@ -1,10 +1,78 @@
 {
-  "headword": "ỹỹm",
   "entry_id": "ỹỹm3_be33ca3b-f6a1-4066-b50a-97e305ec90bb",
+  "﻿headword": "ỹỹm",
   "morph_type": "stem",
   "pronunciation": "ʔɨ̃:m",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "ỹỹm1_c5454b3c-10c6-4bf4-936d-38c30dd989de": {
+      "﻿headword": "ỹỹm",
+      "morph_type": "stem",
+      "pronunciation": "ɨ̃:m",
+      "these_vars": {
+        "ʔɯ̃ːm_8eef767c-3fb7-4571-9881-73f96ce8c26b": {
+          "﻿headword": "ʔɯ̃ːm",
+          "morph_type": "stem",
+          "pronunciation": "",
+          "these_vars": null,
+          "note": null,
+          "sense": null,
+          "date": "2018-06-20T02:41:34Z",
+          "var_type": [
+            "Martins"
+          ]
+        }
+      },
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "32600c78-a96b-4def-aa2b-f3c475c42fb6": {
+          "pos": "n",
+          "gloss": {
+            "pt": "esposa"
+          },
+          "def": {
+            "pt": "esposa"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": "{'ä̃m ỹỹ_374ae5f9-5ac8-48f8-90d8-7c8e0fb479a3': ('1S Possessivo',)}"
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": "SIL Dict 2011"
+    },
+    "ɨɨm_d43b320e-3a28-431e-897d-97757c461f9f": {
+      "﻿headword": "ɨɨm",
+      "morph_type": "stem",
+      "pronunciation": "ʔɨːm",
+      "these_vars": null,
+      "note": [
+        [
+          "Weir 1994",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "d7f78951-6d34-4d24-b872-dd997cccbdd7": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "wife"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
   "note": null,
   "sense": {
     "86b314ed-0e13-40a6-a039-afad42e7d999": {

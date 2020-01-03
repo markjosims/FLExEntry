@@ -1,10 +1,37 @@
 {
-  "headword": "péh",
   "entry_id": "péh1_ee911202-c9b9-436e-8f4e-23aff9b0cbb6",
+  "﻿headword": "péh",
   "morph_type": "stem",
   "pronunciation": "pɛh",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "péh2_185742c8-a9c5-4745-b66a-a8f4f48aaf5c": {
+      "﻿headword": "péh",
+      "morph_type": "stem",
+      "pronunciation": "pɛh",
+      "these_vars": null,
+      "note": [
+        [
+          "Weir 1990; Weir 1994",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "ce5eec29-84d1-4460-9820-3988b7210159": {
+          "pos": "Pronoun",
+          "gloss": {
+            "en": "NON.REF; a.one"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
   "note": [
     [
       "SIL 2011",

@@ -1,10 +1,100 @@
 {
-  "headword": "h’ooh",
   "entry_id": "h’ooh_c95ea861-4c45-4a1a-8ef3-688bec4eb1f7",
+  "﻿headword": "h’ooh",
   "morph_type": "stem",
   "pronunciation": "hoʔoh",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "ho̰ːh_44f1f84c-e4df-4217-88eb-ef261c0b564d": {
+      "﻿headword": "ho̰ːh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "176decf8-595f-47a6-9543-1a421d970c1d": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "canoa"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    },
+    "hxóóh2_b044b02d-9a90-4a89-97f6-6723b314e380": {
+      "﻿headword": "hxóóh",
+      "morph_type": "stem",
+      "pronunciation": "hɔ̰ːh",
+      "these_vars": null,
+      "note": [
+        [
+          "Weir 1986; Weir 1990",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "15b1cb7d-2e50-4350-ba50-279aaaabe67b": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "canoe"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    },
+    "hʹooh_cdd344c3-6d2f-4e37-b2a3-cf9d784437f7": {
+      "﻿headword": "hʹooh",
+      "morph_type": "stem",
+      "pronunciation": "ho̰:h",
+      "these_vars": {
+        "hxóóh1_178bc5f8-645e-425a-95ce-d0d549384d8d": {
+          "﻿headword": "hxóóh",
+          "morph_type": "stem",
+          "pronunciation": "",
+          "these_vars": null,
+          "note": null,
+          "sense": null,
+          "date": "2018-06-20T02:36:15Z",
+          "var_type": [
+            "Weir",
+            "1986; 1990; canoe"
+          ]
+        }
+      },
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "bcb81019-a9e2-487c-a95d-81fc3143d276": {
+          "pos": "n",
+          "gloss": {
+            "pt": "canoa"
+          },
+          "def": {
+            "pt": "canoa"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": "{'hʹoo1_746c2ad7-35e8-4088-9b55-252da268e7a8': ('Unspecified Variant',)}"
+        }
+      },
+      "date": "2018-03-08T07:17:52Z",
+      "var_type": "SIL Dict 2011"
+    }
+  },
   "note": null,
   "sense": {
     "bfdc9110-4da5-460e-a610-c90b3f4e6aa0": {

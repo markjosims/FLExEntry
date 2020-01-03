@@ -1,10 +1,10 @@
 {
-  "headword": "kasuk",
   "entry_id": "kasuk_80e22748-ddc0-473f-87d0-b27542f25c00",
+  "﻿headword": "kasuk",
   "morph_type": "stem",
   "pronunciation": "kaʃuk",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'kasug_0a6b31fb-6433-4d7b-b051-c162f4767c39': 'Não indicativo', 'kesuk_e88be7eb-f37b-4e0c-a513-0e71556555c9': 'Plural'}"
+      "these_vars": "{'kasug_0a6b31fb-6433-4d7b-b051-c162f4767c39': ('Não indicativo',), 'kesuk_e88be7eb-f37b-4e0c-a513-0e71556555c9': ('Plural',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

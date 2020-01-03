@@ -1,15 +1,15 @@
 {
-  "headword": "tarabʹiir",
   "entry_id": "tarabʹiir_0f63a383-1083-460b-8cde-add3326cf317",
+  "﻿headword": "tarabʹiir",
   "morph_type": "stem",
   "pronunciation": "taɾabḭ:ɾ",
   "variant_of": null,
   "these_vars": {
     "taɾabḭɾ_7419cdf8-6b8c-44f5-9517-0b846de8ecca": {
-      "headword": "taɾabḭɾ",
+      "﻿headword": "taɾabḭɾ",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:28:32Z",

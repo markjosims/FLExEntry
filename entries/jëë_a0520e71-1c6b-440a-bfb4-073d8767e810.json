@@ -1,10 +1,32 @@
 {
-  "headword": "jëë",
   "entry_id": "jëë_a0520e71-1c6b-440a-bfb4-073d8767e810",
+  "﻿headword": "jëë",
   "morph_type": "stem",
   "pronunciation": "jə:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "jɤːʔ_2d1daa55-a783-476e-a7fa-47d1ef2527ac": {
+      "﻿headword": "jɤːʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "d5c887de-287d-41c6-a53b-81aa31936d71": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "pupunha"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

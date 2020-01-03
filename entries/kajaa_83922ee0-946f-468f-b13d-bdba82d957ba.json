@@ -1,10 +1,10 @@
 {
-  "headword": "kajaa",
   "entry_id": "kajaa_83922ee0-946f-468f-b13d-bdba82d957ba",
+  "﻿headword": "kajaa",
   "morph_type": "stem",
   "pronunciation": "kaja:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'kaja_661cf15c-fe73-4d92-997c-a7572c531f9b': 'Não indicativo'}"
+      "these_vars": "{'kaja_661cf15c-fe73-4d92-997c-a7572c531f9b': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

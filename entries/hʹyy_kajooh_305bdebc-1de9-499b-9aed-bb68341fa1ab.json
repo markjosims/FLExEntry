@@ -1,10 +1,10 @@
 {
-  "headword": "hʹyy kajooh",
   "entry_id": "hʹyy kajooh_305bdebc-1de9-499b-9aed-bb68341fa1ab",
+  "﻿headword": "hʹyy kajooh",
   "morph_type": "phrase",
   "pronunciation": "hɨ̰: kajo:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'hʹyy kajóh_41a3ada6-f6f8-47fe-9b36-cea84bd65459': 'Não indicativo'}"
+      "these_vars": "{'hʹyy kajóh_41a3ada6-f6f8-47fe-9b36-cea84bd65459': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

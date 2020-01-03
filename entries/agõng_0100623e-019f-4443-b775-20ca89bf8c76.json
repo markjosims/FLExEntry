@@ -1,10 +1,39 @@
 {
-  "headword": "agõng",
   "entry_id": "agõng_0100623e-019f-4443-b775-20ca89bf8c76",
+  "﻿headword": "agõng",
   "morph_type": "stem",
   "pronunciation": "agõŋ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "gõng_ad75e40d-e34f-4639-8ee4-f2636198b312": {
+      "﻿headword": "gõng",
+      "morph_type": "stem",
+      "pronunciation": "gõŋ",
+      "these_vars": null,
+      "note": [
+        [
+          "em cartilha 4; lição 1",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "326a56ee-0d71-4230-8bfc-7a1799534060": {
+          "pos": "v?",
+          "gloss": {
+            "pt": "dor?"
+          },
+          "def": {
+            "pt": "dor?"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-04-03T23:23:26Z",
+      "var_type": "Cartilhas"
+    }
+  },
   "note": [
     [
       "SIL 2011",
@@ -22,7 +51,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'agõõ&#xA;agõõh_1d766776-1931-480e-977b-b58d276ced0d': 'Não indicativo', 'agõõh_6c755d0f-ffd9-4912-88d2-daaf488e9cf3': 'Não indicativo'}"
+      "these_vars": "{'agõõ&#xA;agõõh_1d766776-1931-480e-977b-b58d276ced0d': ('Não indicativo',), 'agõõh_6c755d0f-ffd9-4912-88d2-daaf488e9cf3': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

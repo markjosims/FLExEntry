@@ -1,10 +1,10 @@
 {
-  "headword": "tatók",
   "entry_id": "tatók_543193f1-37f9-46ea-8153-ae2c27968997",
+  "﻿headword": "tatók",
   "morph_type": "stem",
   "pronunciation": "tatɔk",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'tatóg_5dbc36fa-c1b5-4ad1-a024-87bd445212cb': 'Não indicativo'}"
+      "these_vars": "{'tatóg_5dbc36fa-c1b5-4ad1-a024-87bd445212cb': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

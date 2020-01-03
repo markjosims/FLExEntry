@@ -1,10 +1,10 @@
 {
-  "headword": "kän",
   "entry_id": "kän_b741c8ef-a073-4471-bcae-05183a264d67",
+  "﻿headword": "kän",
   "morph_type": "stem",
   "pronunciation": "kʌn",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'kä_12d603c5-ea9b-450b-a27c-e4cbb8b6a5ff': 'Não indicativo'}"
+      "these_vars": "{'kä_12d603c5-ea9b-450b-a27c-e4cbb8b6a5ff': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

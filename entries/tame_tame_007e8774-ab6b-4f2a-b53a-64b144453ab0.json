@@ -1,10 +1,10 @@
 {
-  "headword": "tame tame",
   "entry_id": "tame tame_007e8774-ab6b-4f2a-b53a-64b144453ab0",
+  "﻿headword": "tame tame",
   "morph_type": "phrase",
   "pronunciation": "tame tame",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'tame_31e29a2f-491b-4003-a502-dfec5bc71c0f': 'Unspecified Variant'}"
+      "these_vars": "{'tame_31e29a2f-491b-4003-a502-dfec5bc71c0f': ('Unspecified Variant',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

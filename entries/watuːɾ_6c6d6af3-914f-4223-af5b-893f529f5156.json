@@ -1,10 +1,32 @@
 {
-  "headword": "watuːɾ",
   "entry_id": "watuːɾ_6c6d6af3-914f-4223-af5b-893f529f5156",
+  "﻿headword": "watuːɾ",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "watoːɾ_aab6381d-36d6-4393-8125-63736f1d57b6": {
+      "﻿headword": "watoːɾ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "f43e8d53-f658-4d03-8c6e-95b303755000": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "macaco bicó"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Barbosa"
+    }
+  },
   "note": null,
   "sense": {
     "e75d1c68-c38d-49b5-b8c5-1ec453549fec": {

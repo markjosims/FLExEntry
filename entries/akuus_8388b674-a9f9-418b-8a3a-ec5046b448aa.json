@@ -1,10 +1,10 @@
 {
-  "headword": "akuus",
   "entry_id": "akuus_8388b674-a9f9-418b-8a3a-ec5046b448aa",
+  "﻿headword": "akuus",
   "morph_type": "stem",
   "pronunciation": "aku:ʃ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'akus_532675cd-55f8-4daf-91ac-6fb60478016d': 'Unspecified Variant', 'akʹuuts_c9e21d27-da30-451c-b986-8b1d12530f77': 'Não indicativo'}"
+      "these_vars": "{'akus_532675cd-55f8-4daf-91ac-6fb60478016d': ('Unspecified Variant',), 'akʹuuts_c9e21d27-da30-451c-b986-8b1d12530f77': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

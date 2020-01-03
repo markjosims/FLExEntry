@@ -1,10 +1,32 @@
 {
-  "headword": "soo",
   "entry_id": "soo1_8d4ce206-887a-448d-a7db-8239d7cbeccf",
+  "﻿headword": "soo",
   "morph_type": "stem",
   "pronunciation": "ʃo:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "ʃoːʔ_634a34c1-ac25-46b2-88d0-2498c1253e6f": {
+      "﻿headword": "ʃoːʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "8def5833-b8b1-4d95-9184-9914570fbf27": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "espécie de pássaro"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    }
+  },
   "note": [
     [
       "SIL 2011",

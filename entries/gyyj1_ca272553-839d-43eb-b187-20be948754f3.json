@@ -1,10 +1,53 @@
 {
-  "headword": "gyyj",
   "entry_id": "gyyj1_ca272553-839d-43eb-b187-20be948754f3",
+  "﻿headword": "gyyj",
   "morph_type": "stem",
   "pronunciation": "k’ɨ:j",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "gɯːj_23115afe-da53-4a27-bc35-b9c7d1324594": {
+      "﻿headword": "gɯːj",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "bcee88ee-f31a-46c1-915d-8bcaede552b7": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "mosquito"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    },
+    "kɨːj_52c5aada-536f-45aa-a6e7-20ab26391e30": {
+      "﻿headword": "kɨːj",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "ba767581-2d95-42b9-bff6-a78b0d533812": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "mosquito"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

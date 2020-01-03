@@ -1,10 +1,10 @@
 {
-  "headword": "agëëm",
   "entry_id": "agëëm_25a0d00f-c8c7-4836-8947-123a3ffb510a",
+  "﻿headword": "agëëm",
   "morph_type": "stem",
   "pronunciation": "agə:m",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "aparece em lição 5 junto ao refixo rab- uma vez e ram- utra",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'agʹëëm_6c7780ef-c5f7-4b37-aeb1-04d62d9fcad3': 'Plural', 'agëëw_fed1af91-ed98-4f70-8102-6ace3ab29b77': 'Não indicativo'}"
+      "these_vars": "{'agʹëëm_6c7780ef-c5f7-4b37-aeb1-04d62d9fcad3': ('Plural',), 'agëëw_fed1af91-ed98-4f70-8102-6ace3ab29b77': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

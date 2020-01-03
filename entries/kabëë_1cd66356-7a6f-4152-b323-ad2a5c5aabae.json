@@ -1,10 +1,10 @@
 {
-  "headword": "kabëë",
   "entry_id": "kabëë_1cd66356-7a6f-4152-b323-ad2a5c5aabae",
+  "﻿headword": "kabëë",
   "morph_type": "stem",
   "pronunciation": "kabə:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'kabʹëë_9688ec88-f529-4209-8733-51b35e8edfce': 'Não indicativo'}"
+      "these_vars": "{'kabʹëë_9688ec88-f529-4209-8733-51b35e8edfce': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

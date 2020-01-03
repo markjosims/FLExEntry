@@ -1,10 +1,10 @@
 {
-  "headword": "mahãk",
   "entry_id": "mahãk_b0401ac4-598b-400e-a2bf-4a8f36e25144",
+  "﻿headword": "mahãk",
   "morph_type": "stem",
   "pronunciation": "mahãk",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'mahãg_2e2ca2cc-1788-4303-bf33-129ffd28dd59': 'Não indicativo'}"
+      "these_vars": "{'mahãg_2e2ca2cc-1788-4303-bf33-129ffd28dd59': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

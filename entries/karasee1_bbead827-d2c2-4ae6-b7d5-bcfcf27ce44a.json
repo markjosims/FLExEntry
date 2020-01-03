@@ -1,10 +1,10 @@
 {
-  "headword": "karasee",
   "entry_id": "karasee1_bbead827-d2c2-4ae6-b7d5-bcfcf27ce44a",
+  "﻿headword": "karasee",
   "morph_type": "stem",
   "pronunciation": "kaɾaʃe:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'karese_b9d3c621-d2c9-41de-88b3-c40939cb6741': 'Plural'}"
+      "these_vars": "{'karese_b9d3c621-d2c9-41de-88b3-c40939cb6741': ('Plural',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

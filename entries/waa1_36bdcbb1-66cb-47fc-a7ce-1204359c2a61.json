@@ -1,15 +1,15 @@
 {
-  "headword": "waa",
   "entry_id": "waa1_36bdcbb1-66cb-47fc-a7ce-1204359c2a61",
+  "﻿headword": "waa",
   "morph_type": "stem",
   "pronunciation": "wa:",
   "variant_of": null,
   "these_vars": {
     "waːʔ_a18d164c-7c73-40c4-90d8-a92ba34c3a2d": {
-      "headword": "waːʔ",
+      "﻿headword": "waːʔ",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:42:11Z",
@@ -19,10 +19,10 @@
       ]
     },
     "waa2_cef9c55c-f3fb-48ad-a6de-8dcfe1dd8214": {
-      "headword": "waa",
+      "﻿headword": "waa",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:41:47Z",

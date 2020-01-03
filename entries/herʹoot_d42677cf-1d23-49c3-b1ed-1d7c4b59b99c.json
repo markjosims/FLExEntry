@@ -1,10 +1,10 @@
 {
-  "headword": "herʹoot",
   "entry_id": "herʹoot_d42677cf-1d23-49c3-b1ed-1d7c4b59b99c",
+  "﻿headword": "herʹoot",
   "morph_type": "stem",
   "pronunciation": "eɾo̰:t",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'merʹood_1662b162-c4ec-4d14-b1cf-05095739c61b': 'Não indicativo'}"
+      "these_vars": "{'merʹood_1662b162-c4ec-4d14-b1cf-05095739c61b': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

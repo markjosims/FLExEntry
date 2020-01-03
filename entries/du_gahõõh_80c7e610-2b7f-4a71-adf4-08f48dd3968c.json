@@ -1,10 +1,10 @@
 {
-  "headword": "du gahõõh",
   "entry_id": "du gahõõh_80c7e610-2b7f-4a71-adf4-08f48dd3968c",
+  "﻿headword": "du gahõõh",
   "morph_type": "phrase",
   "pronunciation": "du gahõ:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'du gahõ_4e616741-d400-4f88-b628-3ec6f301c861': 'Não indicativo', 'du gahõh_e6e93f5e-5975-47f5-b06e-f0b1bb893ed1': 'Não indicativo'}"
+      "these_vars": "{'du gahõ_4e616741-d400-4f88-b628-3ec6f301c861': ('Não indicativo',), 'du gahõh_e6e93f5e-5975-47f5-b06e-f0b1bb893ed1': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

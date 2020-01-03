@@ -1,10 +1,39 @@
 {
-  "headword": "aj’oog",
   "entry_id": "aj’oog_4eda5c75-4a85-49e4-b922-0ae5fbf34b5f",
+  "﻿headword": "aj’oog",
   "morph_type": "stem",
   "pronunciation": "ʔajoʔog̚",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "ajʹoog_38df0e26-795c-4c4f-bea0-45589ea48f94": {
+      "﻿headword": "ajʹoog",
+      "morph_type": "stem",
+      "pronunciation": "ajo̰:g",
+      "these_vars": null,
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "94c8ba0f-9835-4903-b693-5ae769bc6a53": {
+          "pos": "n",
+          "gloss": {
+            "pt": "lontra.sp"
+          },
+          "def": {
+            "pt": "esp. de lontra"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": "SIL Dict 2011"
+    }
+  },
   "note": null,
   "sense": {
     "782aa7e4-2f8a-444f-a532-bbad6310f3c0": {

@@ -1,10 +1,10 @@
 {
-  "headword": "abʹëëh",
   "entry_id": "abʹëëh_61005ddd-f254-40c6-b2cd-2f1a0e5ce7b4",
+  "﻿headword": "abʹëëh",
   "morph_type": "stem",
   "pronunciation": "abə̰:h",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'dabëëh_01834ee1-a032-4bfb-8827-07f2ace9c99f': 'Causativo', 'abëëh_6e59c75d-2c2e-434c-b175-579c2363b6c5': 'Não indicativo'}"
+      "these_vars": "{'dabëëh_01834ee1-a032-4bfb-8827-07f2ace9c99f': ('Causativo',), 'abëëh_6e59c75d-2c2e-434c-b175-579c2363b6c5': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

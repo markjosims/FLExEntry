@@ -1,10 +1,10 @@
 {
-  "headword": "gasyyp",
   "entry_id": "gasyyp_892b7b19-8365-483e-8237-9c74d12d8d0f",
+  "﻿headword": "gasyyp",
   "morph_type": "stem",
   "pronunciation": "gaʃɨ:p",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'gasʹyyb_264b5412-5901-455b-bb3f-bed8595fe801': 'Não indicativo'}"
+      "these_vars": "{'gasʹyyb_264b5412-5901-455b-bb3f-bed8595fe801': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

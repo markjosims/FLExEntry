@@ -1,10 +1,53 @@
 {
-  "headword": "ji tyyng",
   "entry_id": "ji tyyng_72aa4577-3522-4de8-83c7-e71442e19efd",
+  "﻿headword": "ji tyyng",
   "morph_type": "phrase",
   "pronunciation": "jiʔ tɨ:gŋ",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "tyng_1ca2ceb7-661e-409f-8ba9-0beae1fb5929": {
+      "﻿headword": "tyng",
+      "morph_type": "stem",
+      "pronunciation": "tɨŋ",
+      "these_vars": {
+        "tɨng1_8ef7e938-fe6a-492d-96b1-39cea57d23a8": {
+          "﻿headword": "tɨng",
+          "morph_type": "stem",
+          "pronunciation": "",
+          "these_vars": null,
+          "note": null,
+          "sense": null,
+          "date": "2018-06-20T03:36:37Z",
+          "var_type": [
+            "Weir",
+            "1990; support"
+          ]
+        }
+      },
+      "note": [
+        [
+          "SIL 2011",
+          "bibliography"
+        ]
+      ],
+      "sense": {
+        "c9a3c10b-6b24-4630-9530-07df88a2fd2b": {
+          "pos": "n",
+          "gloss": {
+            "pt": "banco"
+          },
+          "def": {
+            "pt": "banco; mesa; soporte"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "var_type": "SIL Dict 2011"
+    }
+  },
   "note": null,
   "sense": {
     "dc924d53-b4ed-4cad-9854-aee76fc00c3e": {

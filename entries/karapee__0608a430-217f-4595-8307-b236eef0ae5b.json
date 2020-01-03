@@ -1,15 +1,15 @@
 {
-  "headword": "karapee",
   "entry_id": "karapee _0608a430-217f-4595-8307-b236eef0ae5b",
+  "﻿headword": "karapee",
   "morph_type": "stem",
   "pronunciation": "kaɾaˈpe:ʔ",
   "variant_of": null,
   "these_vars": {
     "karepé_7c800678-ce5e-401e-abba-a2b95fbbf65c": {
-      "headword": "karepé",
+      "﻿headword": "karepé",
       "morph_type": "stem",
       "pronunciation": "kaɾeʔˈpɛʔ",
-      "these_vars": "",
+      "these_vars": null,
       "note": [
         [
           "Fieldnotes Epps/Obert; 2018",
@@ -33,7 +33,9 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Plural"
+      "var_type": [
+        "Plural"
+      ]
     }
   },
   "note": [

@@ -1,10 +1,32 @@
 {
-  "headword": "awän",
   "entry_id": "awän_16edbafa-9f23-4587-bd92-330bd1726f90",
+  "﻿headword": "awän",
   "morph_type": "stem",
   "pronunciation": "ʔaˈwʌdn",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "awʌn_bdb900a7-eb03-4db1-bcc3-312f4043d469": {
+      "﻿headword": "awʌn",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "41c2c506-3d35-4d69-a5ac-b41c6d2f9410": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "nome de uma cachoeira"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "var_type": "Martins"
+    }
+  },
   "note": [
     [
       "Fieldnotes Epps/Obert; 2018",

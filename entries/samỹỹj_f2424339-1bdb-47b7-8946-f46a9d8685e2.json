@@ -1,10 +1,32 @@
 {
-  "headword": "samỹỹj",
   "entry_id": "samỹỹj_f2424339-1bdb-47b7-8946-f46a9d8685e2",
+  "﻿headword": "samỹỹj",
   "morph_type": "stem",
   "pronunciation": "ʃabmɨ̃:j",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": {
+    "ʃamɨːj_20f68242-8fb8-4ac0-8e64-e117d15b6046": {
+      "﻿headword": "ʃamɨːj",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "b616e164-3b19-4c85-a5f5-471cc1bcf48b": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "guariba"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
   "note": null,
   "sense": {
     "f774eb9b-d3b4-4be6-b75c-62eb83c2bd23": {

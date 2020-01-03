@@ -1,10 +1,10 @@
 {
-  "headword": "ty kawõõt",
   "entry_id": "ty kawõõt_c9573917-f207-4d1c-b308-940b99075dc7",
+  "﻿headword": "ty kawõõt",
   "morph_type": "phrase",
   "pronunciation": "tɨ kawõ:t",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ty kawʹõõd_6feabb71-d7d5-49ea-8177-21a79088b2eb': 'Não indicativo'}"
+      "these_vars": "{'ty kawʹõõd_6feabb71-d7d5-49ea-8177-21a79088b2eb': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

@@ -1,10 +1,10 @@
 {
-  "headword": "ahʹỹỹt",
   "entry_id": "ahʹỹỹt_bc76a4f6-6266-4537-88b9-2837a102a9e1",
+  "﻿headword": "ahʹỹỹt",
   "morph_type": "stem",
   "pronunciation": "ahɨ̰̃:t",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ahỹỹd_a2061f1b-ce83-48f5-8762-78c35e84e54a': 'Não indicativo'}"
+      "these_vars": "{'ahỹỹd_a2061f1b-ce83-48f5-8762-78c35e84e54a': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

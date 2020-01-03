@@ -1,25 +1,27 @@
 {
-  "headword": "ji",
   "entry_id": "ji_5c846915-d6fc-437b-8c7d-67cffc4f1362",
+  "﻿headword": "ji",
   "morph_type": "stem",
   "pronunciation": "ji",
   "variant_of": null,
   "these_vars": {
     "jiʔ1_31b0b311-2998-49fa-8b37-12703241099c": {
-      "headword": "jiʔ",
+      "﻿headword": "jiʔ",
       "morph_type": "stem",
       "pronunciation": "",
-      "these_vars": "",
+      "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:47:51Z",
-      "var_type": "Martins"
+      "var_type": [
+        "Martins"
+      ]
     },
     "ji wii_a32a18a4-6f7b-485f-970d-b32459229373": {
-      "headword": "ji wii",
+      "﻿headword": "ji wii",
       "morph_type": "phrase",
       "pronunciation": "jiʔˈwi:ʔ",
-      "these_vars": "",
+      "these_vars": null,
       "note": [
         [
           "Fieldnotes Epps/Obert; 2018",

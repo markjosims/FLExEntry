@@ -1,10 +1,10 @@
 {
-  "headword": "edʹoo",
   "entry_id": "edʹoo_9d49d8be-1c00-44f7-aebd-6bc58199553d",
+  "﻿headword": "edʹoo",
   "morph_type": "stem",
   "pronunciation": "edo̰:",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'redʹoo_b006437b-912f-4b7b-a643-0be0f56b7cab': 'Unspecified Variant'}"
+      "these_vars": "{'redʹoo_b006437b-912f-4b7b-a643-0be0f56b7cab': ('Unspecified Variant',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

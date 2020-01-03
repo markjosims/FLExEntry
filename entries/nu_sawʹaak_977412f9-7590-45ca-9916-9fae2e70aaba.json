@@ -1,10 +1,10 @@
 {
-  "headword": "nu sawʹaak",
   "entry_id": "nu sawʹaak_977412f9-7590-45ca-9916-9fae2e70aaba",
+  "﻿headword": "nu sawʹaak",
   "morph_type": "phrase",
   "pronunciation": "nu ʃawa̰:k",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'nu sawaag_d4230c17-b08e-494c-a5de-7c931fd7e20c': 'Unspecified Variant'}"
+      "these_vars": "{'nu sawaag_d4230c17-b08e-494c-a5de-7c931fd7e20c': ('Unspecified Variant',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

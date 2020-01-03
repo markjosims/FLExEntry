@@ -1,20 +1,20 @@
 {
-  "headword": "wéén tëëg",
   "entry_id": "wéén tëëg_c58137ca-5fbf-4bf7-9557-d9503bd26be0",
+  "﻿headword": "wéén tëëg",
   "morph_type": "phrase",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "tëëg_b227568f-8dc2-4857-96ad-54678f3975b5": {
-      "headword": "tëëg",
+      "﻿headword": "tëëg",
       "morph_type": "stem",
       "pronunciation": "tə:g",
       "these_vars": {
         "təːg_d66c1b30-0dde-4131-8a4c-b3729eefddf7": {
-          "headword": "təːg",
+          "﻿headword": "təːg",
           "morph_type": "stem",
           "pronunciation": "",
-          "these_vars": "",
+          "these_vars": null,
           "note": null,
           "sense": null,
           "date": "2018-06-20T03:33:08Z",

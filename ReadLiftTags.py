@@ -49,6 +49,8 @@ def read_entry(r, id_only=False):
     assert open_tag.startswith('<entry')
     
     entry_id = get_xml_kwarg(open_tag, 'id')
+    if entry_id.startswith('='):
+        entry_id = ' ' + entry_id
     if not id_only:
         entry_data = {k:None for k in entry_keys.values()}
         entry_data['note'] = []
@@ -68,7 +70,7 @@ def read_entry(r, id_only=False):
                     if key in ('note', 'sense'):
                         entry_data[key].append(data)
                     elif key == 'variant_of':
-                        entry_data[key][data[0]] = data[1] if len(data) == 2 else data[1:]
+                        entry_data[key][data[0]] = data[1:]
                     else:
                         assert not entry_data[key]
                         entry_data[key] = data

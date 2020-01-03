@@ -1,10 +1,10 @@
 {
-  "headword": "ahyk",
   "entry_id": "ahyk1_19582167-dacf-4d9e-8112-341aec945697",
+  "﻿headword": "ahyk",
   "morph_type": "stem",
   "pronunciation": "ahɨk",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ahyk2_1d767c30-7dd2-4d0a-bb47-35c23e55617a': 'Não indicativo plural', 'ahyh_2ff28388-2e02-4fbd-b9cd-d074c4addb71': 'Causativo não indicativo', 'ahyy1_61e60646-ec61-45fe-ad25-484258f826ec': 'Causativo', 'ahyyh1_7491ca4e-d841-47c4-9f9e-cfc66b856aa8': 'Causativo', 'ahyng1_948af76d-5c81-4b9d-b78b-770ef275326e': 'Singular', 'ahy_a30f5324-3ce8-466a-bc10-6c3b80ae6656': 'Causativo não indicativo'}"
+      "these_vars": "{'ahyk2_1d767c30-7dd2-4d0a-bb47-35c23e55617a': ('Não indicativo plural',), 'ahyh_2ff28388-2e02-4fbd-b9cd-d074c4addb71': ('Causativo não indicativo',), 'ahyy1_61e60646-ec61-45fe-ad25-484258f826ec': ('Causativo',), 'ahyyh1_7491ca4e-d841-47c4-9f9e-cfc66b856aa8': ('Causativo',), 'ahyng1_948af76d-5c81-4b9d-b78b-770ef275326e': ('Singular',), 'ahy_a30f5324-3ce8-466a-bc10-6c3b80ae6656': ('Causativo não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

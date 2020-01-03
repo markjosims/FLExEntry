@@ -1,10 +1,10 @@
 {
-  "headword": "egʹaak",
   "entry_id": "egʹaak_e8a55d4c-33f7-4c02-9f26-544a6ffd5243",
+  "﻿headword": "egʹaak",
   "morph_type": "stem",
   "pronunciation": "ega̰:k",
   "variant_of": null,
-  "these_vars": "",
+  "these_vars": null,
   "note": [
     [
       "SIL 2011",
@@ -22,7 +22,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'egaag_ef05545d-dce0-494b-9a22-3d3474a9c500': 'Não indicativo'}"
+      "these_vars": "{'egaag_ef05545d-dce0-494b-9a22-3d3474a9c500': ('Não indicativo',)}"
     }
   },
   "date": "2018-03-08T07:17:53Z"
