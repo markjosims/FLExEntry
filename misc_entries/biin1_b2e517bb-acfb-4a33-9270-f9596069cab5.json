@@ -1,0 +1,54 @@
+{
+  "entry_id": "biin1_b2e517bb-acfb-4a33-9270-f9596069cab5",
+  "headword": "biin",
+  "morph_type": "stem",
+  "pronunciation": "bi:n",
+  "variant_of": null,
+  "these_vars": {
+    "biin2_d5f5134a-adda-4de8-949a-b01dde299ee5": {
+      "headword": "biin",
+      "morph_type": "stem",
+      "pronunciation": "biːn",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "Weir 1994"
+        ]
+      },
+      "sense": {
+        "6c538c3e-c9e2-4c56-856c-455bef81dc6d": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "medicine"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "f1490919-44a1-4678-9ecc-0bbb37f55c01": {
+      "pos": "n",
+      "gloss": {
+        "pt": "remédio"
+      },
+      "def": {
+        "pt": "remédio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

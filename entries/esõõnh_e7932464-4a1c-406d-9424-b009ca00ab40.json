@@ -1,34 +1,29 @@
 {
   "entry_id": "esõõnh_e7932464-4a1c-406d-9424-b009ca00ab40",
-  "﻿headword": "esõõnh",
+  "headword": "esõõnh",
   "morph_type": "stem",
   "pronunciation": "eʃõ:ɲ",
   "variant_of": null,
   "these_vars": {
     "asõõnh_d8625861-b01b-44af-93d5-88d49e688367": {
-      "﻿headword": "asõõnh",
+      "headword": "asõõnh",
       "morph_type": "stem",
       "pronunciation": "aʃõ:ɲ",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-23T05:05:47Z",
-      "var_type": [
-        "Unspecified Variant"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "237b528b-7ef8-44c8-9738-2355398685e4": {
       "pos": "v",
@@ -40,7 +35,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'hesʹõõnh_300d2f0c-dd62-4b9d-a43b-5e8f7747620d': ('Habitual',), 'esʹõõj_47398d7b-e389-44c6-af78-714635f7215e': ('Não indicativo',)}"
+      "these_vars": "{'hesʹõõnh_300d2f0c-dd62-4b9d-a43b-5e8f7747620d': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'esʹõõj_47398d7b-e389-44c6-af78-714635f7215e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

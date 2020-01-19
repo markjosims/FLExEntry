@@ -1,16 +1,13 @@
 {
   "entry_id": "s’ỹỹw_b90d8855-d8de-43c3-a4b2-c876c27d497c",
-  "﻿headword": "s’ỹỹw",
+  "headword": "s’ỹỹw",
   "morph_type": "stem",
   "pronunciation": "ʃɨ̃ʔɨ̃w",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "5a40707f-ff6a-4c4b-9e2e-d72bcb4c9a68": {
       "pos": "Noun",

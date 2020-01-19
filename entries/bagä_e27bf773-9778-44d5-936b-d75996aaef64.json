@@ -1,16 +1,13 @@
 {
   "entry_id": "bagä_e27bf773-9778-44d5-936b-d75996aaef64",
-  "﻿headword": "bagä",
+  "headword": "bagä",
   "morph_type": "stem",
   "pronunciation": "baʔˈk’ǝʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "d7b4dcc9-b1f5-4cf8-83bc-9c62e88d5739": {
       "pos": "Verb",

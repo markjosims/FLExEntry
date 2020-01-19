@@ -1,16 +1,13 @@
 {
   "entry_id": "aw’yy nuuh_c4e8f44d-6deb-45e8-87ca-8a86b31912eb",
-  "﻿headword": "aw’yy nuuh",
+  "headword": "aw’yy nuuh",
   "morph_type": "phrase",
   "pronunciation": "aˈwɨʔɨʔ nu:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "dbe0e39f-6614-48f0-a4f3-ebb77b6d2798": {
       "pos": "Noun",

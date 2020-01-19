@@ -1,30 +1,28 @@
 {
   "entry_id": "sʹoow_6a95cdaa-7d5e-4688-95a3-6ecb4731f4a4",
-  "﻿headword": "sʹoow",
+  "headword": "sʹoow",
   "morph_type": "stem",
   "pronunciation": "ʃo̰:w",
   "variant_of": null,
   "these_vars": {
     "sxóów_d752672e-6661-479c-bdf7-29b0468d85a3": {
-      "﻿headword": "sxóów",
+      "headword": "sxóów",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:21:16Z",
-      "var_type": [
-        "Weir",
-        "1986; blowgun"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir",
+        "summary": "1986; blowgun"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "06856efc-d5ef-4167-b89d-65ae48cca0fe": {
       "pos": "n",

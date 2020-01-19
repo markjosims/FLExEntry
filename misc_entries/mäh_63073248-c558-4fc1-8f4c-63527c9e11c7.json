@@ -1,0 +1,28 @@
+{
+  "entry_id": "mäh_63073248-c558-4fc1-8f4c-63527c9e11c7",
+  "headword": "mäh",
+  "morph_type": "stem",
+  "pronunciation": "mʌh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "f32eca7d-3619-4f93-b6fa-8152c459e7b3": {
+      "pos": "par",
+      "gloss": {
+        "pt": "relatado abreviação?)"
+      },
+      "def": {
+        "pt": "relatado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "asuu_844f59f2-271d-44ac-98c6-25f13b1b75cf",
+  "headword": "asuu",
+  "morph_type": "stem",
+  "pronunciation": "aʃu:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "c53f2fbb-8c11-46bf-980a-49a8c5d51bd7": {
+      "pos": "v",
+      "gloss": {
+        "pt": "costurar"
+      },
+      "def": {
+        "pt": "costurar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'asung_5eb52b6b-ef0f-4d9d-aca8-90a2eb3d10dd': ('Não indicativo',), 'yasuuh_da900b5e-4e52-47a4-bd9d-01f7d6d64609': ('Unspecified Variant',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

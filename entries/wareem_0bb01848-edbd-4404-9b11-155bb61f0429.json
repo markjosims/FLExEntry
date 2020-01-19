@@ -1,16 +1,13 @@
 {
   "entry_id": "wareem_0bb01848-edbd-4404-9b11-155bb61f0429",
-  "﻿headword": "wareem",
+  "headword": "wareem",
   "morph_type": "stem",
   "pronunciation": "waˈɾe:bm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "09b33e05-02c4-48be-a02b-c4ecfe355f80": {
       "pos": "Verb",

@@ -1,12 +1,12 @@
 {
   "entry_id": "duuh_1c1e2650-1809-4f40-a148-33b3a990262f",
-  "﻿headword": "duuh",
+  "headword": "duuh",
   "morph_type": "stem",
   "pronunciation": "du:h",
   "variant_of": null,
   "these_vars": {
     "duːh2_8cad8cbe-211f-4aa3-bd6e-b9d4d6bcebb8": {
-      "﻿headword": "duːh",
+      "headword": "duːh",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,25 +27,23 @@
       "var_type": "Martins"
     },
     "duːh1_b4bc3933-afcd-45d9-9eea-c1dc19d0f3b5": {
-      "﻿headword": "duːh",
+      "headword": "duːh",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:16:50Z",
-      "var_type": [
-        "Martins",
-        "fundo"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins",
+        "summary": "fundo"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "034a0409-242f-4bb1-a927-c33794ddb359": {
       "pos": "n op",

@@ -1,0 +1,28 @@
+{
+  "entry_id": "waraja_683c1d7f-eef3-4a57-a336-e0efda31e702",
+  "headword": "waraja",
+  "morph_type": "stem",
+  "pronunciation": "waɾaja",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "a9f29c8b-73ea-49d4-9031-1586721fd962": {
+      "pos": "n",
+      "gloss": {
+        "pt": "tatu.canastro"
+      },
+      "def": {
+        "pt": "tatu canastro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,16 +1,13 @@
 {
   "entry_id": "nuuj jé_5771cfc1-30a5-421d-bff1-2c45eb76fff9",
-  "﻿headword": "nuuj jé",
+  "headword": "nuuj jé",
   "morph_type": "phrase",
   "pronunciation": "nu:j jɛ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "6ca11793-9b86-4f94-885f-bd6293980612": {
       "pos": "adv",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'nuujé_cb9e8dad-2386-4f1b-a020-011a13313b11': ('Unspecified Variant',)}"
+      "these_vars": "{'nuujé_cb9e8dad-2386-4f1b-a020-011a13313b11': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

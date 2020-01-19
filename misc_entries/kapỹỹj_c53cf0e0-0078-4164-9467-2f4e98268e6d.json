@@ -1,0 +1,28 @@
+{
+  "entry_id": "kapỹỹj_c53cf0e0-0078-4164-9467-2f4e98268e6d",
+  "headword": "kapỹỹj",
+  "morph_type": "stem",
+  "pronunciation": "kapɨ̃:j",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "53b25d44-42ea-4911-a93d-5e5d7ce8b07a": {
+      "pos": "n",
+      "gloss": {
+        "pt": "igarapé"
+      },
+      "def": {
+        "pt": "igarapé"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,16 +1,13 @@
 {
   "entry_id": "nadëb1_64797e4a-07d3-4f0b-a899-0a27e395ea25",
-  "﻿headword": "nadëb",
+  "headword": "nadëb",
   "morph_type": "stem",
   "pronunciation": "nadəb",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "da5147b8-3e44-4243-9577-21e04d7b8a2a": {
       "pos": "n",

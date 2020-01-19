@@ -1,16 +1,13 @@
 {
   "entry_id": "kããn s’ëëb_a88957b3-2fb8-4636-9c28-fc547cc51306",
-  "﻿headword": "kããn s’ëëb",
+  "headword": "kããn s’ëëb",
   "morph_type": "phrase",
   "pronunciation": "kã:n ʃəʔəb̚",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "lit. cana feito",
-      ""
-    ]
-  ],
+  "note": {
+    "Note": "lit. cana feito"
+  },
   "sense": {
     "f035b45c-778c-47e1-b960-a5c5268c0195": {
       "pos": "Noun",

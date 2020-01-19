@@ -1,16 +1,13 @@
 {
   "entry_id": "atsóm_02a79639-e72e-482a-98fe-e2a3e76d3f81",
-  "﻿headword": "atsóm",
+  "headword": "atsóm",
   "morph_type": "stem",
   "pronunciation": "ʔaˈɉ’ɔbm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "4bcb3e10-ba0a-4e58-8984-5b1a542a42f6": {
       "pos": "Verb",

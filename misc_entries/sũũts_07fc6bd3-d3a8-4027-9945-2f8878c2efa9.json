@@ -1,0 +1,41 @@
+{
+  "entry_id": "sũũts_07fc6bd3-d3a8-4027-9945-2f8878c2efa9",
+  "headword": "sũũts",
+  "morph_type": "stem",
+  "pronunciation": "ʃũ:ɟ",
+  "variant_of": null,
+  "these_vars": {
+    "ʃũːɟ_45f4d90f-6540-418c-a6ce-a30c452fdfb8": {
+      "headword": "ʃũːɟ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:23:18Z",
+      "var_type": [
+        "Martins"
+      ]
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "345923ca-f0b1-4f5e-8a2f-7180506bb109": {
+      "pos": "n op",
+      "gloss": {
+        "pt": "cordão.umbilical"
+      },
+      "def": {
+        "pt": "cordão umbilical"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

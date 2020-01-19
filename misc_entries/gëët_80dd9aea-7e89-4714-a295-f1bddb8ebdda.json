@@ -1,0 +1,28 @@
+{
+  "entry_id": "gëët_80dd9aea-7e89-4714-a295-f1bddb8ebdda",
+  "headword": "gëët",
+  "morph_type": "stem",
+  "pronunciation": "gə:t",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "3f036fac-b519-4356-8dd9-1eea00075b41": {
+      "pos": "v",
+      "gloss": {
+        "pt": "apertar"
+      },
+      "def": {
+        "pt": "apertar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

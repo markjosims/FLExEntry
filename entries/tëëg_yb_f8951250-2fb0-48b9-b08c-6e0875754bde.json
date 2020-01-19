@@ -1,16 +1,13 @@
 {
   "entry_id": "tëëg yb_f8951250-2fb0-48b9-b08c-6e0875754bde",
-  "﻿headword": "tëëg yb",
+  "headword": "tëëg yb",
   "morph_type": "phrase",
   "pronunciation": "tə:g̚ ʔɨb̚",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "lit fogo-pai",
-      ""
-    ]
-  ],
+  "note": {
+    "Note": "lit fogo-pai"
+  },
   "sense": {
     "9068c69b-0cd3-4422-b34b-e0c0473cc182": {
       "pos": "Noun",

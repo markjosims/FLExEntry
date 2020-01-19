@@ -1,0 +1,28 @@
+{
+  "entry_id": "hʹëëw_1925e868-c252-4c83-b711-33d6d98f1f69",
+  "headword": "hʹëëw",
+  "morph_type": "stem",
+  "pronunciation": "hə̰:w",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "5e3bf1cc-888a-4210-b875-93ad75d7001d": {
+      "pos": "n",
+      "gloss": {
+        "pt": "caiarara"
+      },
+      "def": {
+        "pt": "esp. de macaco (caiarara)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

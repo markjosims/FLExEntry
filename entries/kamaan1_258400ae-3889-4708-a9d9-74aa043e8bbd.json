@@ -1,16 +1,13 @@
 {
   "entry_id": "kamaan1_258400ae-3889-4708-a9d9-74aa043e8bbd",
-  "﻿headword": "kamaan",
+  "headword": "kamaan",
   "morph_type": "root",
   "pronunciation": "kaˈma:n",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "5877717c-b38c-4b01-a40f-bf7b85770b22": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "beans",
         "pt": "feijão"
       },
-      "reverse": "[('feijão', 'pt'), ('beans', 'en')]",
+      "reverse": "{'pt': 'feijão', 'en': 'beans'}",
       "note": "",
       "these_vars": ""
     }

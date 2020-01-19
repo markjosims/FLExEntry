@@ -1,16 +1,13 @@
 {
   "entry_id": "tsahã_a603bcea-d99c-4de3-91ae-71277e16d7ac",
-  "﻿headword": "tsahã",
+  "headword": "tsahã",
   "morph_type": "stem",
   "pronunciation": "ɟahã",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "7be0dd72-8c78-40e3-8938-84d254258169": {
       "pos": "n",

@@ -1,16 +1,13 @@
 {
   "entry_id": "jamad_275da60d-aa15-4ba5-9b8a-77e7ba77e471",
-  "﻿headword": "jamad",
+  "headword": "jamad",
   "morph_type": "stem",
   "pronunciation": "jamad",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "73d6af73-d8d9-4e0f-a1a3-57898a23cf41": {
       "pos": "n",

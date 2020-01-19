@@ -1,6 +1,6 @@
 {
   "entry_id": "dawug1_ac591af6-0795-4611-a12b-d1011e5600b1",
-  "﻿headword": "dawug",
+  "headword": "dawug",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
@@ -15,7 +15,7 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "these_vars": "{'dawug2_55cf9274-5e64-45ec-938b-4b57786cd164': ('Spelling Variant', 'Barbosa 2005; zogue-zogue')}"
+      "these_vars": "{'dawug2_55cf9274-5e64-45ec-938b-4b57786cd164': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; zogue-zogue'}}"
     }
   },
   "date": "2018-06-20T05:09:53Z"

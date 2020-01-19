@@ -1,16 +1,13 @@
 {
   "entry_id": "abok_3f0ad664-b876-46e5-a273-9d4bf73b784f",
-  "﻿headword": "abok",
+  "headword": "abok",
   "morph_type": "stem",
   "pronunciation": "abok",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "55535f72-0df3-46a6-afb5-b7548ad7a287": {
       "pos": "v p",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'aboo_35be7096-61b9-46e8-a14b-3a6eedcc31c8': ('Não indicativo',), 'wät1_5d09351b-974c-44f1-80d1-83bd54c0c5c3': ('Singular',), 'abooh_75980a60-b041-4e09-8baa-7c31b0755126': ('Não indicativo',), 'abong_b38517f0-46a2-413f-8d38-3a185a63b3c6': ('Plural',)}"
+      "these_vars": "{'aboo_35be7096-61b9-46e8-a14b-3a6eedcc31c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'wät1_5d09351b-974c-44f1-80d1-83bd54c0c5c3': {'type': '_component-lexeme', 'variant-type': 'Singular'}, 'abooh_75980a60-b041-4e09-8baa-7c31b0755126': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'abong_b38517f0-46a2-413f-8d38-3a185a63b3c6': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

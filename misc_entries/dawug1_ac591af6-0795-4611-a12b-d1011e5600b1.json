@@ -1,0 +1,22 @@
+{
+  "entry_id": "dawug1_ac591af6-0795-4611-a12b-d1011e5600b1",
+  "headword": "dawug",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "a7bd6b88-c9ce-4b22-a227-8ad7e1b0ea09": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de macaco"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'dawug2_55cf9274-5e64-45ec-938b-4b57786cd164': ('Spelling Variant', 'Barbosa 2005; zogue-zogue')}"
+    }
+  },
+  "date": "2018-06-20T05:09:53Z"
+}

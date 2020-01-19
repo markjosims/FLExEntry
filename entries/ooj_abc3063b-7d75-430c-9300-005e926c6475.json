@@ -1,16 +1,13 @@
 {
   "entry_id": "ooj_abc3063b-7d75-430c-9300-005e926c6475",
-  "﻿headword": "ooj",
+  "headword": "ooj",
   "morph_type": "stem",
   "pronunciation": "[ʔo:j]",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "14811108-3b59-4c9c-8e11-d81a6507a241": {
       "pos": "Noun",

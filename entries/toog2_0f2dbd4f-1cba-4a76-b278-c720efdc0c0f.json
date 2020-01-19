@@ -1,21 +1,18 @@
 {
   "entry_id": "toog2_0f2dbd4f-1cba-4a76-b278-c720efdc0c0f",
-  "﻿headword": "toog",
+  "headword": "toog",
   "morph_type": "stem",
   "pronunciation": "to:g̚",
   "variant_of": null,
   "these_vars": {
     "toog1_fc56d0a8-16ea-459f-9fff-c846b615c3e0": {
-      "﻿headword": "toog",
+      "headword": "toog",
       "morph_type": "stem",
       "pronunciation": "to:g",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "0fbb1173-0c04-4673-8d50-a28d9b2b0fc5": {
           "pos": "n op",
@@ -27,7 +24,7 @@
           },
           "reverse": "",
           "note": "",
-          "these_vars": "{'tok ỹỹ_3aee6c29-2602-4601-b146-47cf62c3c463': ('1S Possessivo',)}"
+          "these_vars": "{'tok ỹỹ_3aee6c29-2602-4601-b146-47cf62c3c463': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
         }
       },
       "date": "2018-03-08T07:17:53Z",

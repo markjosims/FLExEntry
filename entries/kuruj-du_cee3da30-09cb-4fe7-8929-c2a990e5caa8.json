@@ -1,16 +1,13 @@
 {
   "entry_id": "kuruj-du_cee3da30-09cb-4fe7-8929-c2a990e5caa8",
-  "﻿headword": "kuruj-du",
+  "headword": "kuruj-du",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "f075ca89-d15f-4718-8aed-dca11b0b6dc3": {
       "pos": "Noun",

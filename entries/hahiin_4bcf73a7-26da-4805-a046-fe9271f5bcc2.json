@@ -1,16 +1,13 @@
 {
   "entry_id": "hahiin_4bcf73a7-26da-4805-a046-fe9271f5bcc2",
-  "﻿headword": "hahiin",
+  "headword": "hahiin",
   "morph_type": "stem",
   "pronunciation": "haˈhi:dn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "254f244f-4991-48fb-901b-854eddda65f0": {
       "pos": "adj?",

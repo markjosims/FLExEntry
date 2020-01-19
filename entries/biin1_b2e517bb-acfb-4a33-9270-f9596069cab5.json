@@ -1,21 +1,18 @@
 {
   "entry_id": "biin1_b2e517bb-acfb-4a33-9270-f9596069cab5",
-  "﻿headword": "biin",
+  "headword": "biin",
   "morph_type": "stem",
   "pronunciation": "bi:n",
   "variant_of": null,
   "these_vars": {
     "biin2_d5f5134a-adda-4de8-949a-b01dde299ee5": {
-      "﻿headword": "biin",
+      "headword": "biin",
       "morph_type": "stem",
       "pronunciation": "biːn",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1994"
+      },
       "sense": {
         "6c538c3e-c9e2-4c56-856c-455bef81dc6d": {
           "pos": "Noun",
@@ -32,12 +29,9 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "f1490919-44a1-4678-9ecc-0bbb37f55c01": {
       "pos": "n",

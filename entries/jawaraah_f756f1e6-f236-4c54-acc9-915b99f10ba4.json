@@ -1,16 +1,13 @@
 {
   "entry_id": "jawaraah_f756f1e6-f236-4c54-acc9-915b99f10ba4",
-  "﻿headword": "jawaraah",
+  "headword": "jawaraah",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "331de161-2cdb-4dde-96ea-28db0a6d28ee": {
       "pos": "Noun",

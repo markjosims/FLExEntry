@@ -1,16 +1,13 @@
 {
   "entry_id": "bareä̃m duuh_0708e024-79a0-4338-a334-67e1b020722f",
-  "﻿headword": "bareä̃m duuh",
+  "headword": "bareä̃m duuh",
   "morph_type": "phrase",
   "pronunciation": "baɾeʌ̃m du:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "5ed87031-8faa-4805-9bd7-492143782ee2": {
       "pos": "n",

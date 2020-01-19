@@ -1,35 +1,33 @@
 {
   "entry_id": "kanapiih2_bd918020-46ec-4386-951e-fac4fbba4784",
-  "﻿headword": "kanapiih",
+  "headword": "kanapiih",
   "morph_type": "stem",
   "pronunciation": "kadnãpi:h",
   "variant_of": null,
   "these_vars": {
     "kanapiih1_47fe5b8e-3eb3-4166-9d21-9e255bfeb45d": {
-      "﻿headword": "kanapiih",
+      "headword": "kanapiih",
       "morph_type": "stem",
       "pronunciation": "kanapi:h",
       "these_vars": {
         "kanapĩh_acaedd39-1e2a-40d8-8ed5-c35abb7ae198": {
-          "﻿headword": "kanapĩh",
+          "headword": "kanapĩh",
           "morph_type": "stem",
           "pronunciation": "",
           "these_vars": null,
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:54:03Z",
-          "var_type": [
-            "Barbosa",
-            "beiju"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Barbosa",
+            "summary": "beiju"
+          }
         }
       },
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "6230e381-e2e5-4d64-90d6-35e1063883ad": {
           "pos": "n",

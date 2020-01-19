@@ -1,16 +1,13 @@
 {
   "entry_id": "boog1_62ca10cf-1f6b-4649-90fa-b022c5c34283",
-  "﻿headword": "boog",
+  "headword": "boog",
   "morph_type": "stem",
   "pronunciation": "bo:g",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "a549cbf1-2e6e-4204-a158-d3a52b25819e": {
       "pos": "n",
@@ -22,7 +19,7 @@
         "en": "manioc",
         "pt": "mandioca"
       },
-      "reverse": "[('manioc', 'en'), ('mandioca', 'pt')]",
+      "reverse": "{'en': 'manioc', 'pt': 'mandioca'}",
       "note": "",
       "these_vars": ""
     }

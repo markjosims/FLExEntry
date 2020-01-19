@@ -1,16 +1,13 @@
 {
   "entry_id": "nag_2beee218-2c56-4926-8789-ec8a1e7f34dc",
-  "﻿headword": "nag",
+  "headword": "nag",
   "morph_type": "stem",
   "pronunciation": "nag",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "bc02741a-4853-4647-b4a2-14fc32e4e4ee": {
       "pos": "Verb",

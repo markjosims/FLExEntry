@@ -1,21 +1,18 @@
 {
   "entry_id": "ets’iip_224610c4-9086-404b-a319-cce171760df8",
-  "﻿headword": "ets’iip",
+  "headword": "ets’iip",
   "morph_type": "stem",
   "pronunciation": "ʔeʔˈtʃiʔip",
   "variant_of": null,
   "these_vars": {
     "etsʹiip_960c07c6-153e-4dfa-a2ae-494e5b37ed87": {
-      "﻿headword": "etsʹiip",
+      "headword": "etsʹiip",
       "morph_type": "stem",
       "pronunciation": "eɟḭ:p",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "f5591d94-8100-464a-8565-8894df7da50c": {
           "pos": "v",
@@ -34,12 +31,9 @@
       "var_type": "SIL Dict 2011"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "113550bd-0759-4e15-b2a5-049956cbc1b5": {
       "pos": "",

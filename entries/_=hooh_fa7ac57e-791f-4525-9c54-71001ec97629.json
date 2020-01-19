@@ -1,16 +1,13 @@
 {
   "entry_id": " =hooh_fa7ac57e-791f-4525-9c54-71001ec97629",
-  "﻿headword": " =hooh",
+  "headword": " =hooh",
   "morph_type": "stem",
   "pronunciation": "hɔ:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "6b2ff4fa-cb5b-4d7a-92b1-0c0446cfdfc6": {
       "pos": "Noun",

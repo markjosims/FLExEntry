@@ -1,16 +1,13 @@
 {
   "entry_id": "tawarẽẽh1_025c1d2a-ce6b-4f4a-89c6-58f7995ce55a",
-  "﻿headword": "tawarẽẽh",
+  "headword": "tawarẽẽh",
   "morph_type": "stem",
   "pronunciation": "tawaˈɾẽ:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "edf56ebd-dec5-40c2-8444-09892cd2d358": {
       "pos": "n",

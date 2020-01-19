@@ -1,34 +1,32 @@
 {
   "entry_id": "p’ooh1_8351b529-6dec-4374-bbcc-30b2cb59847d",
-  "﻿headword": "p’ooh",
+  "headword": "p’ooh",
   "morph_type": "stem",
   "pronunciation": "poʔoh",
   "variant_of": null,
   "these_vars": {
     "pʹooh_273cba08-0c9f-4d9f-94d9-781b09b51113": {
-      "﻿headword": "pʹooh",
+      "headword": "pʹooh",
       "morph_type": "stem",
       "pronunciation": "po̰:h",
       "these_vars": {
         "pɔ̰ːh_305a16c3-890b-41f0-bce8-2203310fd843": {
-          "﻿headword": "pɔ̰ːh",
+          "headword": "pɔ̰ːh",
           "morph_type": "stem",
           "pronunciation": "",
           "these_vars": null,
           "note": null,
           "sense": null,
           "date": "2018-06-20T03:13:14Z",
-          "var_type": [
-            "Martins"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Martins"
+          }
         }
       },
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "342e53f6-409d-440d-a08f-0915cce2e678": {
           "pos": "n",
@@ -47,7 +45,7 @@
       "var_type": "SIL Dict 2011"
     },
     "po̰ːh2_54d92d11-2e4d-45ab-b4b2-76011f12d6a6": {
-      "﻿headword": "po̰ːh",
+      "headword": "po̰ːh",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -68,12 +66,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "86d16bb4-a2a6-4698-85d5-5452423b4cfc": {
       "pos": "",
@@ -85,7 +80,7 @@
         "en": "hot pepper",
         "pt": "pimenta"
       },
-      "reverse": "[('pimenta', 'pt'), ('hot pepperzz', 'en')]",
+      "reverse": "{'pt': 'pimenta', 'en': 'hot pepperzz'}",
       "note": "",
       "these_vars": ""
     }

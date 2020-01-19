@@ -1,12 +1,12 @@
 {
   "entry_id": "bʹaah_20a69c66-ccf7-44e3-80f2-9c04da85502d",
-  "﻿headword": "bʹaah",
+  "headword": "bʹaah",
   "morph_type": "stem",
   "pronunciation": "baʔah",
   "variant_of": null,
   "these_vars": {
     "taba̰ːh_de71206e-e9a3-466d-9f04-99311263ecfd": {
-      "﻿headword": "taba̰ːh",
+      "headword": "taba̰ːh",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "7644a77e-3284-4770-98db-81984eed5c1c": {
       "pos": "n",
@@ -44,9 +41,9 @@
         "en": "tree",
         "pt": "árvore"
       },
-      "reverse": "[('tree', 'en'), ('árvore', 'pt')]",
+      "reverse": "{'en': 'tree', 'pt': 'árvore'}",
       "note": "",
-      "these_vars": "{'baah_1bbf905d-bed6-4e38-82d9-a99ca6472ddc': ('Plural',)}"
+      "these_vars": "{'baah_1bbf905d-bed6-4e38-82d9-a99ca6472ddc': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

@@ -1,20 +1,14 @@
 {
   "entry_id": "gʹaad hẽnh_a823ec1b-7c9e-457a-8b30-7bd4fa76f088",
-  "﻿headword": "gʹaad hẽnh",
+  "headword": "gʹaad hẽnh",
   "morph_type": "phrase",
   "pronunciation": "ga̰:d hɛ̃ɲ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ],
-    [
-      "adv op???",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011",
+    "Note": "adv op???"
+  },
   "sense": {
     "55b8d752-142d-42f1-b9f2-d9f7dcc3c2ef": {
       "pos": "adv op",

@@ -1,21 +1,18 @@
 {
   "entry_id": "kad3_2bb9853a-cde8-48bc-bb30-42d80bf6419d",
-  "﻿headword": "kad",
+  "headword": "kad",
   "morph_type": "stem",
   "pronunciation": "kad̚",
   "variant_of": null,
   "these_vars": {
     "kad2_18021c0e-2b82-4a41-9660-30edf844b0a1": {
-      "﻿headword": "kad",
+      "headword": "kad",
       "morph_type": "stem",
       "pronunciation": "kad",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1990; Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1990; Weir 1994"
+      },
       "sense": {
         "a2730ec1-e427-463d-97e0-b0290c016311": {
           "pos": "Noun",
@@ -32,16 +29,13 @@
       "var_type": "Weir"
     },
     "kad1_ac90fcde-0e6b-43ae-a428-b693aca454e0": {
-      "﻿headword": "kad",
+      "headword": "kad",
       "morph_type": "stem",
       "pronunciation": "kad",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "d717f4e3-80ca-4d95-81d9-20781aadb84e": {
           "pos": "n",

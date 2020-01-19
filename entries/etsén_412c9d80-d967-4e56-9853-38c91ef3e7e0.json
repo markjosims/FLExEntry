@@ -1,16 +1,13 @@
 {
   "entry_id": "etsén_412c9d80-d967-4e56-9853-38c91ef3e7e0",
-  "﻿headword": "etsén",
+  "headword": "etsén",
   "morph_type": "stem",
   "pronunciation": "ʔeˈtʃ’ɛdn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "1f28a180-d670-4a3c-b78d-affe87b98f8a": {
       "pos": "Verb",

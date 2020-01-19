@@ -1,16 +1,13 @@
 {
   "entry_id": "akãã_b98e7e00-49af-471c-bb4a-1cbc7265657d",
-  "﻿headword": "akãã",
+  "headword": "akãã",
   "morph_type": "stem",
   "pronunciation": "akã:",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "99df7779-2ec1-4827-a925-dadc899e8c89": {
       "pos": "v",

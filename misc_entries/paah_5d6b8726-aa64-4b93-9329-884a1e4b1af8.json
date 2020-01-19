@@ -1,0 +1,28 @@
+{
+  "entry_id": "paah_5d6b8726-aa64-4b93-9329-884a1e4b1af8",
+  "headword": "paah",
+  "morph_type": "stem",
+  "pronunciation": "pa:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "18bb2726-1e99-418a-ad5b-537ea67f2ac5": {
+      "pos": "par",
+      "gloss": {
+        "pt": "passado"
+      },
+      "def": {
+        "pt": "passado; terminado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'paa_2087aff1-e889-4f5e-981c-e1f275c4e308': ('Unspecified Variant',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

@@ -1,16 +1,13 @@
 {
   "entry_id": "noo keham_0456f9ea-7465-48e4-9c8e-0237e472be1c",
-  "﻿headword": "noo keham",
+  "headword": "noo keham",
   "morph_type": "phrase",
   "pronunciation": "nɔ̃:keʔˈhabm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "67813880-b0ef-4e72-8cc0-55dda9bf5e6f": {
       "pos": "Verb",

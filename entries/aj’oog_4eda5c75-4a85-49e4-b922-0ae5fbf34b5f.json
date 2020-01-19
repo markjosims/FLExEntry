@@ -1,21 +1,18 @@
 {
   "entry_id": "aj’oog_4eda5c75-4a85-49e4-b922-0ae5fbf34b5f",
-  "﻿headword": "aj’oog",
+  "headword": "aj’oog",
   "morph_type": "stem",
   "pronunciation": "ʔajoʔog̚",
   "variant_of": null,
   "these_vars": {
     "ajʹoog_38df0e26-795c-4c4f-bea0-45589ea48f94": {
-      "﻿headword": "ajʹoog",
+      "headword": "ajʹoog",
       "morph_type": "stem",
       "pronunciation": "ajo̰:g",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "94c8ba0f-9835-4903-b693-5ae769bc6a53": {
           "pos": "n",

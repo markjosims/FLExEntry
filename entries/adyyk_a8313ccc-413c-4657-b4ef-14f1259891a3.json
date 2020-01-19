@@ -1,21 +1,18 @@
 {
   "entry_id": "adyyk_a8313ccc-413c-4657-b4ef-14f1259891a3",
-  "﻿headword": "adyyk",
+  "headword": "adyyk",
   "morph_type": "stem",
   "pronunciation": "adɨ:k",
   "variant_of": null,
   "these_vars": {
     "dyyk_6a1391bb-1f7a-4415-8f8e-23390fb46721": {
-      "﻿headword": "dyyk",
+      "headword": "dyyk",
       "morph_type": "stem",
       "pronunciation": "dɨ:k",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; lição 17",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; lição 17"
+      },
       "sense": {
         "1f31e411-b8d6-4065-9a00-dbe41c015322": {
           "pos": "?",
@@ -34,12 +31,9 @@
       "var_type": "Cartilhas"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "fc0c1443-58ce-424e-b411-917a8b0275d0": {
       "pos": "v",
@@ -51,7 +45,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'adʹyyk_1d10f37c-f112-4be6-bd67-9d50e4e71caa': ('Plural',), 'adyg_2e052b4b-7f72-4fa2-a40e-142713b2261c': ('Não indicativo',)}"
+      "these_vars": "{'adʹyyk_1d10f37c-f112-4be6-bd67-9d50e4e71caa': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'adyg_2e052b4b-7f72-4fa2-a40e-142713b2261c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

@@ -1,16 +1,13 @@
 {
   "entry_id": "her’oot_fcd85a56-cfb3-4e88-b636-3a81739ffd26",
-  "﻿headword": "her’oot",
+  "headword": "her’oot",
   "morph_type": "stem",
   "pronunciation": "heˈɾoʔot˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "6fa82561-043e-4219-ac78-208d19594928": {
       "pos": "Verb",

@@ -1,12 +1,12 @@
 {
   "entry_id": "soo1_8d4ce206-887a-448d-a7db-8239d7cbeccf",
-  "﻿headword": "soo",
+  "headword": "soo",
   "morph_type": "stem",
   "pronunciation": "ʃo:",
   "variant_of": null,
   "these_vars": {
     "ʃoːʔ_634a34c1-ac25-46b2-88d0-2498c1253e6f": {
-      "﻿headword": "ʃoːʔ",
+      "headword": "ʃoːʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "10c3e729-69b1-41ac-b7bb-5c81a0eee289": {
       "pos": "n",

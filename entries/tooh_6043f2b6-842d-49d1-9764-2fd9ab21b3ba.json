@@ -1,21 +1,18 @@
 {
   "entry_id": "tooh_6043f2b6-842d-49d1-9764-2fd9ab21b3ba",
-  "﻿headword": "tooh",
+  "headword": "tooh",
   "morph_type": "stem",
   "pronunciation": "to:h",
   "variant_of": null,
   "these_vars": {
     "tóóh_18f789fd-8b37-49ce-9f44-303247b20dde": {
-      "﻿headword": "tóóh",
+      "headword": "tóóh",
       "morph_type": "stem",
       "pronunciation": "tɔːh",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1994"
+      },
       "sense": {
         "d379da3f-efe2-4e2f-b1d4-7c3bfa01bd2c": {
           "pos": "Noun",
@@ -32,7 +29,7 @@
       "var_type": "Weir"
     },
     "toːh_7f0b89bd-c145-4365-b20a-74fab09a5887": {
-      "﻿headword": "toːh",
+      "headword": "toːh",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,

@@ -1,16 +1,13 @@
 {
   "entry_id": "yiti_5bfb89d7-3578-42e9-8438-80ffbbac6144",
-  "﻿headword": "yiti",
+  "headword": "yiti",
   "morph_type": "stem",
   "pronunciation": "jitiʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1986",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1986"
+  },
   "sense": {
     "834ef68f-d3e2-47c7-8452-6b2a93779466": {
       "pos": "adv?",

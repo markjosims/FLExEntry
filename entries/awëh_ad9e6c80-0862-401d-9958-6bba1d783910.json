@@ -1,85 +1,74 @@
 {
   "entry_id": "awëh_ad9e6c80-0862-401d-9958-6bba1d783910",
-  "﻿headword": "awëh",
+  "headword": "awëh",
   "morph_type": "stem",
   "pronunciation": "ʔaˈwǝh",
   "variant_of": null,
   "these_vars": {
     "aw&apos;ëë_17f873bb-0102-4908-bf53-10dcf9a80e4c": {
-      "﻿headword": "aw'ëë",
+      "headword": "aw'ëë",
       "morph_type": "stem",
       "pronunciation": "awə̰:",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-22T16:44:40Z",
-      "var_type": [
-        "Plural"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Plural"
+      }
     },
     "awëë_5f29ef42-d977-431b-b92e-22c38ee3a8cc": {
-      "﻿headword": "awëë",
+      "headword": "awëë",
       "morph_type": "stem",
       "pronunciation": "awə:",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-22T16:44:02Z",
-      "var_type": [
-        "Não indicativo"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Não indicativo"
+      }
     },
     "awëëh2_8393e2f2-37ff-47c8-a761-cb942a7e9830": {
-      "﻿headword": "awëëh",
+      "headword": "awëëh",
       "morph_type": "stem",
       "pronunciation": "awə̰:h",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-22T16:45:13Z",
-      "var_type": [
-        "Plural"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Plural"
+      }
     },
     "awëëh1_bae5902d-b878-446f-9bd5-90947c8ab976": {
-      "﻿headword": "awëëh",
+      "headword": "awëëh",
       "morph_type": "stem",
       "pronunciation": "awə:h",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-22T16:44:07Z",
-      "var_type": [
-        "Não indicativo"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Não indicativo"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "c0c1298f-d950-4c9f-9feb-acf2ce7bfe06": {
       "pos": "v",

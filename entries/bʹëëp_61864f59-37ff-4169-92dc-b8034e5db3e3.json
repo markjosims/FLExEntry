@@ -1,16 +1,13 @@
 {
   "entry_id": "bʹëëp_61864f59-37ff-4169-92dc-b8034e5db3e3",
-  "﻿headword": "bʹëëp",
+  "headword": "bʹëëp",
   "morph_type": "stem",
   "pronunciation": "bə̰:p",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "f1c818c6-44a5-4e92-ae12-4bebeb71ac8c": {
       "pos": "adv",

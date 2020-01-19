@@ -1,16 +1,13 @@
 {
   "entry_id": "akyd_12fe21f8-bb0e-4ae4-b9d8-6a5754cbcb92",
-  "﻿headword": "akyd",
+  "headword": "akyd",
   "morph_type": "stem",
   "pronunciation": "akɨd",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 15",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 15"
+  },
   "sense": {
     "880998ae-bfd2-4d3d-86d3-d0dde93b5c51": {
       "pos": "v?",

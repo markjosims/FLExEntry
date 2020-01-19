@@ -1,0 +1,28 @@
+{
+  "entry_id": "sʹĩĩs_04a67789-1620-4fc0-84d2-208fb49de8d2",
+  "headword": "sʹĩĩs",
+  "morph_type": "stem",
+  "pronunciation": "ʃḭ̃:ʃ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "b717cb48-a126-4b12-8c82-feec7dd8c359": {
+      "pos": "n",
+      "gloss": {
+        "pt": "banana.sp"
+      },
+      "def": {
+        "pt": "esp. de banana"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

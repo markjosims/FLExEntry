@@ -1,12 +1,12 @@
 {
   "entry_id": "tu_983b21ad-1243-49cf-850f-b9211c029c37",
-  "﻿headword": "tu",
+  "headword": "tu",
   "morph_type": "stem",
   "pronunciation": "tu",
   "variant_of": null,
   "these_vars": {
     "tuʔ1_642a1cd9-3436-4208-94d8-0df53611f237": {
-      "﻿headword": "tuʔ",
+      "headword": "tuʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,7 +27,7 @@
       "var_type": "Martins"
     },
     "tuʔ2_b248ee55-a422-4c2e-80f5-bd1273f20230": {
-      "﻿headword": "tuʔ",
+      "headword": "tuʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -48,12 +48,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "9594296f-8151-41f3-bad7-157332bf3d01": {
       "pos": "n op",

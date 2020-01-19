@@ -1,0 +1,28 @@
+{
+  "entry_id": "tsʹoog_9e1ed034-5c26-4a40-a9ed-6952de801cd2",
+  "headword": "tsʹoog",
+  "morph_type": "stem",
+  "pronunciation": "ɟo̰:g",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "4dda01e3-4cc8-4051-809a-ec2534727c54": {
+      "pos": "n",
+      "gloss": {
+        "pt": "cipó.sp"
+      },
+      "def": {
+        "pt": "esp. de cipó"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

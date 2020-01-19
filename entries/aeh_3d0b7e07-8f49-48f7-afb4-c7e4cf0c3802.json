@@ -1,16 +1,13 @@
 {
   "entry_id": "aeh_3d0b7e07-8f49-48f7-afb4-c7e4cf0c3802",
-  "﻿headword": "aeh",
+  "headword": "aeh",
   "morph_type": "stem",
   "pronunciation": "ʔeh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "e24b937d-f986-4e73-a3bd-5b6b59a0a01a": {
       "pos": "adj",
@@ -24,7 +21,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'aeeh_09e8dc25-0156-4bd0-991f-71b4cf82372a': ('Não indicativo',), 'aee_3d4097da-3f43-4698-ba2e-27aa24c0da6b': ('Não indicativo',)}"
+      "these_vars": "{'aeeh_09e8dc25-0156-4bd0-991f-71b4cf82372a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'aee_3d4097da-3f43-4698-ba2e-27aa24c0da6b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     },
     "0cd8054f-f383-43b9-a8f7-77956756bf4c": {
       "pos": "adj",
@@ -37,7 +34,7 @@
         "pt": "grosso"
       },
       "reverse": "",
-      "note": "("for sticks; see entry ''e baan' - thick for fabrics; leafs etc", 'semantics')",
+      "note": "{'semantics': "for sticks; see entry ''e baan' - thick for fabrics; leafs etc"}",
       "these_vars": ""
     }
   },

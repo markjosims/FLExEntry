@@ -1,12 +1,12 @@
 {
   "entry_id": "atsuuk_7ed2ad67-026d-4534-83c1-b37b8b08324d",
-  "﻿headword": "atsuuk",
+  "headword": "atsuuk",
   "morph_type": "stem",
   "pronunciation": "ʔaˈtʃ’u:k˺",
   "variant_of": null,
   "these_vars": {
     "ɟuːk_4490816c-a10c-4d52-a75d-fe876900d6a0": {
-      "﻿headword": "ɟuːk",
+      "headword": "ɟuːk",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "03a706b5-ef04-420c-8fb2-379d85310c4d": {
       "pos": "Verb",

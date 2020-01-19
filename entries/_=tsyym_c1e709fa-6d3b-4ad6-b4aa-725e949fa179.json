@@ -1,16 +1,13 @@
 {
   "entry_id": " =tsyym_c1e709fa-6d3b-4ad6-b4aa-725e949fa179",
-  "﻿headword": " =tsyym",
+  "headword": " =tsyym",
   "morph_type": "stem",
   "pronunciation": "tʃ’ɨ:bm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "5959e1f7-66f6-4b2e-a04b-005053e9df1a": {
       "pos": "Noun",

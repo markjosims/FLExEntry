@@ -1,12 +1,12 @@
 {
   "entry_id": "ajat_32eac6de-1dac-4fe7-96eb-afb8fdd8a693",
-  "﻿headword": "ajat",
+  "headword": "ajat",
   "morph_type": "stem",
   "pronunciation": "ʔaˈjat",
   "variant_of": null,
   "these_vars": {
     "ʔajat_c5b4a15c-8d79-4996-b956-443c2143e1b7": {
-      "﻿headword": "ʔajat",
+      "headword": "ʔajat",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "d86d7892-a9dd-4711-bde6-a91c478f0b29": {
       "pos": "Verb",

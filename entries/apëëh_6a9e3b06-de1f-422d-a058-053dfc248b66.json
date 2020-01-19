@@ -1,16 +1,13 @@
 {
   "entry_id": "apëëh_6a9e3b06-de1f-422d-a058-053dfc248b66",
-  "﻿headword": "apëëh",
+  "headword": "apëëh",
   "morph_type": "stem",
   "pronunciation": "ʔaˈpǝ:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "9e115803-4f5c-4b6a-8e46-1329d406801f": {
       "pos": "adj?",

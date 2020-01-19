@@ -1,16 +1,13 @@
 {
   "entry_id": "bʹoow_58f3af21-562e-4ed9-a323-803b746fa4b6",
-  "﻿headword": "bʹoow",
+  "headword": "bʹoow",
   "morph_type": "stem",
   "pronunciation": "bo̰:w",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "98b46c4c-76e6-465d-9645-6c4d2ad40186": {
       "pos": "n",

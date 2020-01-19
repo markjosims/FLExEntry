@@ -1,16 +1,13 @@
 {
   "entry_id": "taju_b9feb5fe-8bc7-4677-bb98-57e7f4463a3d",
-  "﻿headword": "taju",
+  "headword": "taju",
   "morph_type": "stem",
   "pronunciation": "taˈjuʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "cd1bdf95-2c19-4544-bf47-692a2029f954": {
       "pos": "Noun",

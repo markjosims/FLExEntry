@@ -1,0 +1,26 @@
+{
+  "entry_id": "na3_fa915d92-ea88-4f0a-9ced-ef2f7a30fe8d",
+  "headword": "na",
+  "morph_type": "stem",
+  "pronunciation": "naʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "Weir 1994"
+    ]
+  },
+  "sense": {
+    "d0d38716-1ab4-4ba1-9100-61f1fe7c00d2": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "come n.i."
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z"
+}

@@ -1,12 +1,12 @@
 {
   "entry_id": "gyyj1_ca272553-839d-43eb-b187-20be948754f3",
-  "﻿headword": "gyyj",
+  "headword": "gyyj",
   "morph_type": "stem",
   "pronunciation": "k’ɨ:j",
   "variant_of": null,
   "these_vars": {
     "gɯːj_23115afe-da53-4a27-bc35-b9c7d1324594": {
-      "﻿headword": "gɯːj",
+      "headword": "gɯːj",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,7 +27,7 @@
       "var_type": "Martins"
     },
     "kɨːj_52c5aada-536f-45aa-a6e7-20ab26391e30": {
-      "﻿headword": "kɨːj",
+      "headword": "kɨːj",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -48,12 +48,9 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "9c645386-7abf-4605-9da2-a61424ff0549": {
       "pos": "Noun",

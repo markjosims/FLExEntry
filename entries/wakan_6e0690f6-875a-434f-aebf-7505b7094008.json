@@ -1,21 +1,18 @@
 {
   "entry_id": "wakan_6e0690f6-875a-434f-aebf-7505b7094008",
-  "﻿headword": "wakan",
+  "headword": "wakan",
   "morph_type": "stem",
   "pronunciation": "wakadn",
   "variant_of": null,
   "these_vars": {
     "wakããn_6de60702-4c52-4083-8679-c1460f9d3143": {
-      "﻿headword": "wakããn",
+      "headword": "wakããn",
       "morph_type": "stem",
       "pronunciation": "wakã:n",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "03be15fe-2dfd-48de-945e-f2953ed6ccc0": {
           "pos": "n op",
@@ -27,7 +24,7 @@
           },
           "reverse": "",
           "note": "",
-          "these_vars": "{'wakãn ỹỹ_42f76161-a403-4bf8-b52f-0033ae31e7df': ('1S Possessivo',)}"
+          "these_vars": "{'wakãn ỹỹ_42f76161-a403-4bf8-b52f-0033ae31e7df': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
         }
       },
       "date": "2018-03-08T07:17:53Z",

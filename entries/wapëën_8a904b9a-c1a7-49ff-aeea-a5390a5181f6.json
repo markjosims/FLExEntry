@@ -1,16 +1,13 @@
 {
   "entry_id": "wapëën_8a904b9a-c1a7-49ff-aeea-a5390a5181f6",
-  "﻿headword": "wapëën",
+  "headword": "wapëën",
   "morph_type": "stem",
   "pronunciation": "waˈpǝ:dn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "00b261d7-dcc3-4ead-a393-e6216cc86b5a": {
       "pos": "Verb",

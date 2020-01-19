@@ -1,16 +1,13 @@
 {
   "entry_id": "ganebëëh_519371ad-8e47-436a-b8ee-7bea8506ff09",
-  "﻿headword": "ganebëëh",
+  "headword": "ganebëëh",
   "morph_type": "stem",
   "pronunciation": "k’aneʔˈbǝ:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "96c6ae87-80bf-4259-96bf-3a7dcadd4b79": {
       "pos": "",

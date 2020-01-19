@@ -1,16 +1,13 @@
 {
   "entry_id": "ehëën_6c137c3e-c6ba-42fc-8e6c-d92b4e367289",
-  "﻿headword": "ehëën",
+  "headword": "ehëën",
   "morph_type": "stem",
   "pronunciation": "ʔeˈhǝ:dn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "aa41c4ae-2f91-4f5f-8ac5-8e5a43ad4bcc": {
       "pos": "Verb",

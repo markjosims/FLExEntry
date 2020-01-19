@@ -1,12 +1,12 @@
 {
   "entry_id": "sëën_89e12256-aa4d-4789-a64e-fc333256a009",
-  "﻿headword": "sëën",
+  "headword": "sëën",
   "morph_type": "stem",
   "pronunciation": "ʃǝ:dn",
   "variant_of": null,
   "these_vars": {
     "ʃəːn_9ff6ef51-bc0d-4bbc-b462-525c60f0df2f": {
-      "﻿headword": "ʃəːn",
+      "headword": "ʃəːn",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "5c784c5b-38e2-421f-add2-dffe0f786aec": {
       "pos": "Noun",

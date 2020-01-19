@@ -1,34 +1,29 @@
 {
   "entry_id": "atëë_0d9d214a-224c-47c4-8261-fdf54959927e",
-  "﻿headword": "atëë",
+  "headword": "atëë",
   "morph_type": "stem",
   "pronunciation": "atə:",
   "variant_of": null,
   "these_vars": {
     "atä_bea2f230-58cd-4dad-b1ce-8c45fb65e026": {
-      "﻿headword": "atä",
+      "headword": "atä",
       "morph_type": "stem",
       "pronunciation": "atʌ",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-27T02:57:14Z",
-      "var_type": [
-        "Não indicativo"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Não indicativo"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "2903a35a-dc21-4dd6-a722-910e841f93f6": {
       "pos": "v",

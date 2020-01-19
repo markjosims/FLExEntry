@@ -1,16 +1,13 @@
 {
   "entry_id": "pooh_bdd27c96-ea96-4676-845e-c97461c4e435",
-  "﻿headword": "pooh",
+  "headword": "pooh",
   "morph_type": "stem",
   "pronunciation": "poːh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "0866d6e1-87fa-40cb-b705-df42ad61f8ee": {
       "pos": "Noun",

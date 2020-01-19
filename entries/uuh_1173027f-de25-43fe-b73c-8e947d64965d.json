@@ -1,16 +1,13 @@
 {
   "entry_id": "uuh_1173027f-de25-43fe-b73c-8e947d64965d",
-  "﻿headword": "uuh",
+  "headword": "uuh",
   "morph_type": "stem",
   "pronunciation": "u:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "c0ac1101-c428-4c3a-a9ed-0e4e1e566349": {
       "pos": "n op",

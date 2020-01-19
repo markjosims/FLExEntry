@@ -1,16 +1,13 @@
 {
   "entry_id": "basõõ_2b475341-a5d9-486f-be00-c1190b84224d",
-  "﻿headword": "basõõ",
+  "headword": "basõõ",
   "morph_type": "stem",
   "pronunciation": "baʃõ:",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 10",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 10"
+  },
   "sense": {
     "dab0ecc1-ad16-432a-a1aa-ab00d62e355a": {
       "pos": "v?",

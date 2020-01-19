@@ -1,16 +1,13 @@
 {
   "entry_id": "ɨnh_314efd94-d358-473e-b24c-e05b4d9e7dd8",
-  "﻿headword": "ɨnh",
+  "headword": "ɨnh",
   "morph_type": "stem",
   "pronunciation": "ʔɨɲ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "b0d1e1b0-370b-46d9-9d8f-47e49e80aa7d": {
       "pos": "Noun",

@@ -1,12 +1,12 @@
 {
   "entry_id": "h’ëëb_2d2a4415-053e-4b4e-bf26-6a3fb35e5a49",
-  "﻿headword": "h’ëëb",
+  "headword": "h’ëëb",
   "morph_type": "stem",
   "pronunciation": "hǝʔǝb",
   "variant_of": null,
   "these_vars": {
     "hɯ̰ːb_030b2a7d-4650-45f3-a4e4-5c6c0edeb33e": {
-      "﻿headword": "hɯ̰ːb",
+      "headword": "hɯ̰ːb",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,20 +27,14 @@
       "var_type": "Martins"
     },
     "h’ëëb tym_e85dddba-34fd-4ea5-af27-e708019a241b": {
-      "﻿headword": "h’ëëb tym",
+      "headword": "h’ëëb tym",
       "morph_type": "phrase",
       "pronunciation": "hǝʔǝb tɨbm",
       "these_vars": null,
-      "note": [
-        [
-          "Fieldnotes Epps/Obert; 2018",
-          "bibliography"
-        ],
-        [
-          "problem: hǝʔǝb tɨbm or hɨʔɨb  tɨbm",
-          ""
-        ]
-      ],
+      "note": {
+        "bibliography": "Fieldnotes Epps/Obert; 2018",
+        "Note": "problem: hǝʔǝb tɨbm or hɨʔɨb  tɨbm"
+      },
       "sense": {
         "0ae94279-77ea-4c59-9569-2bf818736740": {
           "pos": "Noun",
@@ -53,26 +47,21 @@
             "pt": "coração"
           },
           "reverse": "",
-          "note": "('Lit.: Semente do peito', 'semantics')",
+          "note": "{'semantics': 'Lit.: Semente do peito'}",
           "these_vars": ""
         }
       },
       "date": "2018-07-27T19:58:36Z",
-      "var_type": [
-        "Unspecified Complex Form"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "complex-form-type": "Unspecified Complex Form"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "(ji) h’ëëb",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+    "Note": "(ji) h’ëëb"
+  },
   "sense": {
     "7a84a616-3137-4875-b24d-2750ed412c13": {
       "pos": "n op",

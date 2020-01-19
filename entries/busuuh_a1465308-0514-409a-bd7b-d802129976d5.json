@@ -1,16 +1,13 @@
 {
   "entry_id": "busuuh_a1465308-0514-409a-bd7b-d802129976d5",
-  "﻿headword": "busuuh",
+  "headword": "busuuh",
   "morph_type": "stem",
   "pronunciation": "buʃu:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 2",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 2"
+  },
   "sense": {
     "b1601ccf-4cca-4c12-8c21-e57e47975ec6": {
       "pos": "v?",

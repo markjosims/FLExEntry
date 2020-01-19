@@ -1,16 +1,13 @@
 {
   "entry_id": "hood t’ëe_0cacc161-ee56-462a-8da8-c01ad97228a4",
-  "﻿headword": "hood t’ëe",
+  "headword": "hood t’ëe",
   "morph_type": "phrase",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "38ba27d4-a60a-4277-96c5-3949aff74510": {
       "pos": "Noun",

@@ -1,16 +1,13 @@
 {
   "entry_id": "éé2_875e56c4-82d8-40d5-8e1c-c1ccfd207727",
-  "﻿headword": "éé",
+  "headword": "éé",
   "morph_type": "stem",
   "pronunciation": "ʔɛːʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1986; Weir 1990",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1986; Weir 1990"
+  },
   "sense": {
     "af9b2d2b-6e9b-4497-8369-278ff0a21710": {
       "pos": "Noun",

@@ -1,12 +1,12 @@
 {
   "entry_id": "jëë_a0520e71-1c6b-440a-bfb4-073d8767e810",
-  "﻿headword": "jëë",
+  "headword": "jëë",
   "morph_type": "stem",
   "pronunciation": "jə:",
   "variant_of": null,
   "these_vars": {
     "jɤːʔ_2d1daa55-a783-476e-a7fa-47d1ef2527ac": {
-      "﻿headword": "jɤːʔ",
+      "headword": "jɤːʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "b487a001-f2e9-4175-8ca9-4720edda4966": {
       "pos": "n",
@@ -44,7 +41,7 @@
         "en": "peach palm",
         "pt": "pupunha"
       },
-      "reverse": "[('pupunha', 'pt'), ('peach palm', 'en')]",
+      "reverse": "{'pt': 'pupunha', 'en': 'peach palm'}",
       "note": "",
       "these_vars": ""
     }

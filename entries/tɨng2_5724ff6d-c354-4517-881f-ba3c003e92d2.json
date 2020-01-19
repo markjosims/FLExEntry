@@ -1,16 +1,13 @@
 {
   "entry_id": "tɨng2_5724ff6d-c354-4517-881f-ba3c003e92d2",
-  "﻿headword": "tɨng",
+  "headword": "tɨng",
   "morph_type": "stem",
   "pronunciation": "tɨŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990"
+  },
   "sense": {
     "8e788101-8a78-4ef3-8bd4-f6fd04a269a3": {
       "pos": "Noun",

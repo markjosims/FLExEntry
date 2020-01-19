@@ -1,16 +1,13 @@
 {
   "entry_id": "edas_b9570cff-1945-4547-b57e-71047f8dc573",
-  "﻿headword": "edas",
+  "headword": "edas",
   "morph_type": "stem",
   "pronunciation": "ʔeˈdaʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "cd5eb76c-c0a8-40be-905c-1cf2da368b56": {
       "pos": "v",

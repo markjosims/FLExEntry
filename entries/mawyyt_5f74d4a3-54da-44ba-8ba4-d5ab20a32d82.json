@@ -1,16 +1,13 @@
 {
   "entry_id": "mawyyt_5f74d4a3-54da-44ba-8ba4-d5ab20a32d82",
-  "﻿headword": "mawyyt",
+  "headword": "mawyyt",
   "morph_type": "stem",
   "pronunciation": "maˈwɨ:t˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "fe520e06-4fa1-4776-bac3-15ad10a04fbe": {
       "pos": "Verb",

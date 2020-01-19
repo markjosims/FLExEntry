@@ -1,16 +1,13 @@
 {
   "entry_id": "datyyw_f27f2550-ca80-4719-96a6-9b6f7e39c6d0",
-  "﻿headword": "datyyw",
+  "headword": "datyyw",
   "morph_type": "stem",
   "pronunciation": "datɨ:w",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "cc96d952-97c0-4b33-bae6-1ae5e68108ca": {
       "pos": "n",

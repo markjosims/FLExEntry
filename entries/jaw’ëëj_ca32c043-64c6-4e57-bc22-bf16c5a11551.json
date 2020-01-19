@@ -1,21 +1,18 @@
 {
   "entry_id": "jaw’ëëj_ca32c043-64c6-4e57-bc22-bf16c5a11551",
-  "﻿headword": "jaw’ëëj",
+  "headword": "jaw’ëëj",
   "morph_type": "stem",
   "pronunciation": "jawəʔəj",
   "variant_of": null,
   "these_vars": {
     "jawʹëëj_7fe321e9-23f6-4491-9470-7bad482bbd8e": {
-      "﻿headword": "jawʹëëj",
+      "headword": "jawʹëëj",
       "morph_type": "stem",
       "pronunciation": "jawə̰:j",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "a5e2b283-ba66-4a9a-b6d5-0d00c197061a": {
           "pos": "n",

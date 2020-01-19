@@ -1,0 +1,28 @@
+{
+  "entry_id": "awëënh_5d354e7a-373f-43e7-a04d-51fa7ec24097",
+  "headword": "awëënh",
+  "morph_type": "stem",
+  "pronunciation": "awə:ɲ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "af14f041-4eb0-4cc5-a2b4-4eca984911d4": {
+      "pos": "v",
+      "gloss": {
+        "pt": "descer.para.rio"
+      },
+      "def": {
+        "pt": "descer para o rio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'gawëëj_1029c2ef-cd3b-4bc9-8838-8dc00dd5d4a2': ('Unspecified Variant',), 'awëëj_8ff17ad3-9807-456b-bb12-d3247732d93d': ('Não indicativo',), 'awʹëënh_d154c3a3-1087-4193-8222-fe3e794662eb': ('Plural',), 'awänh_e47da50d-5c62-4eec-b99a-3bea55c9fa4d': ('Causativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

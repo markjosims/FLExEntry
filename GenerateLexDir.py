@@ -8,9 +8,13 @@ Created on Mon Nov 18 21:38:32 2019
 import json
 import os
 import pandas as pd
-from glob import glob 
+from shutil import rmtree
 from ast import literal_eval
 from time import time
+
+master = 'flexicon.csv'
+senses = 'flex_senses.csv'
+out = 'entries'
 
 # decorator
 def time_exec(f):
@@ -18,13 +22,18 @@ def time_exec(f):
         start = time()
         f(*args, **kwargs)
         end = time()
-        print(str(f), end-start)
+        (str(f), end-start)
     return g
 
 def main():
     flex_df = pd.read_csv('flexicon.csv', keep_default_na=False)
     senses =  pd.read_csv('flex_senses.csv', keep_default_na=False)
     
+    flex_df, senses = literal_eval_dfs(flex_df, senses)
+    
+    generate_lex_dir(flex_df, senses)
+    
+def literal_eval_dfs(flex_df, senses):
     literal_eval_col(flex_df, 'variant_of')
     literal_eval_col(flex_df, 'note')
     literal_eval_col(flex_df, 'sense')
@@ -32,12 +41,11 @@ def main():
     literal_eval_col(senses, 'gloss')
     literal_eval_col(senses, 'def')
     
-    generate_lex_dir(flex_df, senses)
+    return flex_df, senses
+    
 
-def generate_lex_dir(df1, df2):
-    clean_dir(r'/entries/*.json')
-    entries_df = df1
-    senses_df = df2
+def generate_lex_dir(entries_df, senses_df):
+    clean_dir(out)
     # indices of entries that aren't variants
     headwords = [not x for x in entries_df['variant_of'] ]
     # all entries that are variables
@@ -137,7 +145,6 @@ def get_vars_from_id(entry_id, these_vars, parent_df, variants):
 def get_senses_from_id(entry_id, these_senses, parent_df, senses_df):    
     if not these_senses:
         return
-
     has_sense = senses_df[[bool(row_id) and row_id in these_senses for row_id in senses_df['sense_id']]]
     out = {}
     
@@ -147,7 +154,7 @@ def get_senses_from_id(entry_id, these_senses, parent_df, senses_df):
         data.pop('sense_id')
         out[sense_id] = data
     
-    index = parent_df.loc[lambda df : df['entry_id'] == entry_id].index[0]    
+    index = parent_df.loc[lambda df : df['entry_id'] == entry_id].index[0]
     parent_df.at[index, 'sense'] = out
 
 # creates a json file for each headword
@@ -159,7 +166,7 @@ def write_json_dir(headwords):
         filehead = data['entry_id']
         filehead = rep_all(filehead, '/ ', '_')
         filehead = rep_all(filehead, '()[]? ', '')
-        filename = 'entries/' + filehead + '.json'
+        filename = out + '\\' + filehead + '.json'
         temp = json.dumps(data, indent=2)
         temp = temp.encode('utf8')
         with open(filename, 'w', encoding='utf8') as f:
@@ -168,9 +175,13 @@ def write_json_dir(headwords):
             
 def clean_dir(folder):
     wd = os.getcwd()
-    files = glob(wd+folder)
-    for f in files:
-        os.remove(f)
+    folder_path = wd+'\\'+folder
+    try:
+        rmtree(folder_path)
+    except FileNotFoundError:
+        pass
+    os.mkdir(folder_path)
+
         
 def rep_all(s, chars, tgt):        
     for c in chars:

@@ -1,16 +1,13 @@
 {
   "entry_id": "jawëk_11b99d8c-9b68-4e6b-869d-e3530425e72b",
-  "﻿headword": "jawëk",
+  "headword": "jawëk",
   "morph_type": "root",
   "pronunciation": "jaˈwǝk˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "3c8e5517-d5a2-45e6-8a6c-a4a5b6a3086a": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "japurá",
         "pt": "japurá"
       },
-      "reverse": "[('japurá', 'pt'), ('japurá', 'en')]",
+      "reverse": "{'pt': 'japurá', 'en': 'japurá'}",
       "note": "",
       "these_vars": ""
     }

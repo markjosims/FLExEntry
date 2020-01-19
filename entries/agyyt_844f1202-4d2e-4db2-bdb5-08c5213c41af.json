@@ -1,21 +1,18 @@
 {
   "entry_id": "agyyt_844f1202-4d2e-4db2-bdb5-08c5213c41af",
-  "﻿headword": "agyyt",
+  "headword": "agyyt",
   "morph_type": "stem",
   "pronunciation": "ʔaˈk’ɨ:t˺",
   "variant_of": null,
   "these_vars": {
     "gʉʉt_dc396093-f137-47ef-80dc-2bb879a4cf28": {
-      "﻿headword": "gʉʉt",
+      "headword": "gʉʉt",
       "morph_type": "stem",
       "pronunciation": "gəːt",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1994"
+      },
       "sense": {
         "b5687563-4e80-4e4c-8047-86179cf6fae2": {
           "pos": "Verb",
@@ -32,16 +29,10 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "problem:ʔaˈk’ɨ:t˺ or ʔaˈk’ǝ:t˺",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
+    "Note": "problem:ʔaˈk’ɨ:t˺ or ʔaˈk’ǝ:t˺"
+  },
   "sense": {
     "9b1c0686-0243-47e2-a490-9ac118639250": {
       "pos": "Verb",

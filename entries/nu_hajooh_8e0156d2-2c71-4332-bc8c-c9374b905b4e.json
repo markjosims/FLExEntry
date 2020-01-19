@@ -1,16 +1,13 @@
 {
   "entry_id": "nu hajooh_8e0156d2-2c71-4332-bc8c-c9374b905b4e",
-  "﻿headword": "nu hajooh",
+  "headword": "nu hajooh",
   "morph_type": "phrase",
   "pronunciation": "nu hajo:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "a42313c2-bde0-4404-9e5a-2b132e0b8fb4": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'nu hajóh_6bf1f3bb-dcb1-4824-a92d-de6b44718126': ('Não indicativo',)}"
+      "these_vars": "{'nu hajóh_6bf1f3bb-dcb1-4824-a92d-de6b44718126': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

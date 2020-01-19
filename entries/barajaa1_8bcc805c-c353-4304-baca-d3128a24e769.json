@@ -1,16 +1,13 @@
 {
   "entry_id": "barajaa1_8bcc805c-c353-4304-baca-d3128a24e769",
-  "﻿headword": "barajaa",
+  "headword": "barajaa",
   "morph_type": "stem",
   "pronunciation": "ˈbaɾaja:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "a65dc2f6-4c79-409b-a3c8-c4bd2307b7e9": {
       "pos": "n",
@@ -22,7 +19,7 @@
         "en": "avocado",
         "pt": "abacate"
       },
-      "reverse": "[('abacate', 'pt'), ('avocado', 'en')]",
+      "reverse": "{'pt': 'abacate', 'en': 'avocado'}",
       "note": "",
       "these_vars": ""
     }

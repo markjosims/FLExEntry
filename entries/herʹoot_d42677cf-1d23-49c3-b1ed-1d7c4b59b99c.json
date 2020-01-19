@@ -1,16 +1,13 @@
 {
   "entry_id": "herʹoot_d42677cf-1d23-49c3-b1ed-1d7c4b59b99c",
-  "﻿headword": "herʹoot",
+  "headword": "herʹoot",
   "morph_type": "stem",
   "pronunciation": "eɾo̰:t",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "4fa64b65-6c56-41ec-8d5b-fc6912a436ac": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'merʹood_1662b162-c4ec-4d14-b1cf-05095739c61b': ('Não indicativo',)}"
+      "these_vars": "{'merʹood_1662b162-c4ec-4d14-b1cf-05095739c61b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

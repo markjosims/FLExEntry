@@ -1,21 +1,18 @@
 {
   "entry_id": "atëëd2_d301533a-4748-4f8d-bbfc-ef485aae93c3",
-  "﻿headword": "atëëd",
+  "headword": "atëëd",
   "morph_type": "stem",
   "pronunciation": "ʔatə:d̚",
   "variant_of": null,
   "these_vars": {
     "atëëd1_95b72b78-8ccd-4c61-a213-45127865783a": {
-      "﻿headword": "atëëd",
+      "headword": "atëëd",
       "morph_type": "stem",
       "pronunciation": "atə:d",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "a43f239c-e7dd-4388-bfe2-b10029dae56e": {
           "pos": "n",

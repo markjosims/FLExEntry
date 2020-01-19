@@ -1,0 +1,26 @@
+{
+  "entry_id": "bʉ́_9c5a8183-7e90-4fe7-95fd-6b9e17603291",
+  "headword": "bʉ́",
+  "morph_type": "stem",
+  "pronunciation": "bʌʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "Weir 1986; Weir 1990"
+    ]
+  },
+  "sense": {
+    "764be976-ed27-495c-921b-c40cb3a6f56b": {
+      "pos": "post",
+      "gloss": {
+        "en": "ABL"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z"
+}

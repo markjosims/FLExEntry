@@ -1,16 +1,13 @@
 {
   "entry_id": "mayb1_349e4dd8-a1ef-4b14-9928-97ae00ed26e5",
-  "﻿headword": "mayb",
+  "headword": "mayb",
   "morph_type": "stem",
   "pronunciation": "maɨb",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "7e16fe29-401f-4e39-85c3-e1d2131c90f1": {
       "pos": "n op",

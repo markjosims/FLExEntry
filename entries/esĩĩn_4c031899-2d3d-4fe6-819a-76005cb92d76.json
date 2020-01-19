@@ -1,16 +1,13 @@
 {
   "entry_id": "esĩĩn_4c031899-2d3d-4fe6-819a-76005cb92d76",
-  "﻿headword": "esĩĩn",
+  "headword": "esĩĩn",
   "morph_type": "stem",
   "pronunciation": "ʔeˈʃĩ:n",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "2c141c62-5936-4788-9b52-0fe3f3a42093": {
       "pos": "v",

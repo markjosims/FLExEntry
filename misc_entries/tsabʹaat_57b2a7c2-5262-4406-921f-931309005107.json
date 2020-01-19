@@ -1,0 +1,28 @@
+{
+  "entry_id": "tsabʹaat_57b2a7c2-5262-4406-921f-931309005107",
+  "headword": "tsabʹaat",
+  "morph_type": "stem",
+  "pronunciation": "ɟaba̰:t",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "c5dadd4f-a0d6-4385-bc10-bb1ff25313e5": {
+      "pos": "v",
+      "gloss": {
+        "pt": "torcer"
+      },
+      "def": {
+        "pt": "torcer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'tsabaad_f222e48e-84ab-4825-ad8f-88b9481a8a1b': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

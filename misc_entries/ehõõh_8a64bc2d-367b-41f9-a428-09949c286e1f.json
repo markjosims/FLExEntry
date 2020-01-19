@@ -1,0 +1,28 @@
+{
+  "entry_id": "ehõõh_8a64bc2d-367b-41f9-a428-09949c286e1f",
+  "headword": "ehõõh",
+  "morph_type": "stem",
+  "pronunciation": "ehõ:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "89b3b010-5833-4aa0-86cb-ff2294313459": {
+      "pos": "v",
+      "gloss": {
+        "pt": "lenha.queima.bem"
+      },
+      "def": {
+        "pt": "lenha que queima bem"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ehõh_272fe292-0223-4908-b56f-97b4b133c35d': ('Não indicativo',), 'ehõ1_a8fa89b0-15ca-4fdd-ac22-2cbe425fae9d': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "hajʹaa_0e588062-5b1b-40b9-be20-57b3c3c79c71",
+  "headword": "hajʹaa",
+  "morph_type": "stem",
+  "pronunciation": "haja̰:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "9f7fc33b-9323-4f28-9524-ede88d422f89": {
+      "pos": "v",
+      "gloss": {
+        "pt": "conseguir"
+      },
+      "def": {
+        "pt": "saber; terminar; conseguir; atar; fazer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'haja_49f6d689-75ba-4e67-ac49-a2dc99d9a511': ('Unspecified Variant',), 'hajaa_db4bc457-c4d3-407e-9132-32165df1027e': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

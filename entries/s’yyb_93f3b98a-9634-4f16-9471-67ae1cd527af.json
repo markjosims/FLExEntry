@@ -1,16 +1,13 @@
 {
   "entry_id": "s’yyb_93f3b98a-9634-4f16-9471-67ae1cd527af",
-  "﻿headword": "s’yyb",
+  "headword": "s’yyb",
   "morph_type": "root",
   "pronunciation": "ʃɨʔɨb˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "573b632d-62f5-4dce-9acf-898e32afec13": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "bitterwood",
         "pt": "envira"
       },
-      "reverse": "[('bitterwood', 'en'), ('envira', 'pt')]",
+      "reverse": "{'en': 'bitterwood', 'pt': 'envira'}",
       "note": "",
       "these_vars": ""
     }

@@ -1,0 +1,61 @@
+{
+  "entry_id": "hʹyy gadajang_a5194e98-c0fc-42dd-83b2-c4d9365b077e",
+  "headword": "hʹyy gadajang",
+  "morph_type": "phrase",
+  "pronunciation": "hɨ̰: gadajaŋ",
+  "variant_of": null,
+  "these_vars": {
+    "hʹyy gadajah_4ae5f5e5-3408-4e14-8d13-cbfa3f84c827": {
+      "headword": "hʹyy gadajah",
+      "morph_type": "phrase",
+      "pronunciation": "hɨ̰: gadajah",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "SIL 2011"
+        ]
+      },
+      "sense": null,
+      "date": "2018-03-22T16:11:36Z",
+      "var_type": [
+        "Não indicativo"
+      ]
+    },
+    "hʹyy gadaja_d963132e-822f-4bbd-a36a-54d8c61f0326": {
+      "headword": "hʹyy gadaja",
+      "morph_type": "phrase",
+      "pronunciation": "hɨ̰: gadaja",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "SIL 2011"
+        ]
+      },
+      "sense": null,
+      "date": "2018-03-22T16:10:38Z",
+      "var_type": [
+        "Não indicativo"
+      ]
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "664dc772-03cd-4987-bcfd-992dd5c23347": {
+      "pos": "v",
+      "gloss": {
+        "pt": "contente"
+      },
+      "def": {
+        "pt": "ficar alegre; contente"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T16:09:01Z"
+}

@@ -1,16 +1,13 @@
 {
   "entry_id": "wäng_32c1318b-5ca9-4b72-a7b9-e465bcd32c3a",
-  "﻿headword": "wäng",
+  "headword": "wäng",
   "morph_type": "stem",
   "pronunciation": "wʌgŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "69c3e3d8-7d77-4e76-ba73-ae45869eba44": {
       "pos": "n",
@@ -22,7 +19,7 @@
         "en": "seje palm",
         "pt": "patauá"
       },
-      "reverse": "[('patauá', 'pt'), ('seje palm', 'en')]",
+      "reverse": "{'pt': 'patauá', 'en': 'seje palm'}",
       "note": "",
       "these_vars": ""
     }

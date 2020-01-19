@@ -1,21 +1,18 @@
 {
   "entry_id": "yb2_1cc95316-b9fe-4093-9b14-e9c016496d4a",
-  "﻿headword": "yb",
+  "headword": "yb",
   "morph_type": "stem",
   "pronunciation": "ʔɨb̚",
   "variant_of": null,
   "these_vars": {
     "ɨb_3135659c-423f-4208-befc-ea379815ca59": {
-      "﻿headword": "ɨb",
+      "headword": "ɨb",
       "morph_type": "stem",
       "pronunciation": "ʔɨb",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1994"
+      },
       "sense": {
         "42d42c73-2b27-4491-b344-2161dd12c409": {
           "pos": "Noun",

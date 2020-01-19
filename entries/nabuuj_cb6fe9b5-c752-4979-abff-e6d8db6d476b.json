@@ -1,20 +1,14 @@
 {
   "entry_id": "nabuuj_cb6fe9b5-c752-4979-abff-e6d8db6d476b",
-  "﻿headword": "nabuuj",
+  "headword": "nabuuj",
   "morph_type": "stem",
   "pronunciation": "naˈbu:j",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "(ji) nabuuj",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
+    "Note": "(ji) nabuuj"
+  },
   "sense": {
     "439b0ade-ce1c-48c9-83ac-8deba397e943": {
       "pos": "Noun",

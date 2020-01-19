@@ -1,42 +1,31 @@
 {
   "entry_id": "adëëh hỹng_989b21e0-acb9-4328-a6ee-5a7508189a0a",
-  "﻿headword": "adëëh hỹng",
+  "headword": "adëëh hỹng",
   "morph_type": "phrase",
   "pronunciation": "ʔaˈdǝ:h hɨ̃ŋ",
   "variant_of": null,
   "these_vars": {
     "hyng_db4ae79c-798a-4209-b026-517e5edf7160": {
-      "﻿headword": "hyng",
+      "headword": "hyng",
       "morph_type": "phrase",
       "pronunciation": "hɨŋ",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; lição 10; tem em Weir 1990 como (nɨng) 'baixar.rio'",
-          "bibliography"
-        ],
-        [
-          "found in cartilha 4; lição 10; given in Weir 1990 as (nɨng) 'go.downriver'",
-          ""
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; lição 10; tem em Weir 1990 como (nɨng) 'baixar.rio'",
+        "Note": "found in cartilha 4; lição 10; given in Weir 1990 as (nɨng) 'go.downriver'"
+      },
       "sense": null,
       "date": "2018-03-28T01:58:07Z",
-      "var_type": [
-        "Unspecified Variant"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "hỹng necessary?",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
+    "Note": "hỹng necessary?"
+  },
   "sense": {
     "d0ea0e92-b63d-499e-a71b-8d214de7f646": {
       "pos": "v",

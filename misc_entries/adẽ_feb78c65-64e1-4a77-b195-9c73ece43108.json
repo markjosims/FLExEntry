@@ -1,0 +1,28 @@
+{
+  "entry_id": "adẽ_feb78c65-64e1-4a77-b195-9c73ece43108",
+  "headword": "adẽ",
+  "morph_type": "stem",
+  "pronunciation": "adɛ̃",
+  "variant_of": null,
+  "these_vars": {},
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "43f96be7-1ea9-44dd-93fd-c547fd72a028": {
+      "pos": "v",
+      "gloss": {
+        "pt": "derreter"
+      },
+      "def": {
+        "pt": "derreter"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

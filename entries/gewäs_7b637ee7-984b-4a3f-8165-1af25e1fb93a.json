@@ -1,16 +1,13 @@
 {
   "entry_id": "gewäs_7b637ee7-984b-4a3f-8165-1af25e1fb93a",
-  "﻿headword": "gewäs",
+  "headword": "gewäs",
   "morph_type": "stem",
   "pronunciation": "gewʌʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 9",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 9"
+  },
   "sense": {
     "2afc47f2-57a2-452f-97a7-ea21364d0f2c": {
       "pos": "?",

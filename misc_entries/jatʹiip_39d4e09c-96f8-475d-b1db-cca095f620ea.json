@@ -1,0 +1,28 @@
+{
+  "entry_id": "jatʹiip_39d4e09c-96f8-475d-b1db-cca095f620ea",
+  "headword": "jatʹiip",
+  "morph_type": "stem",
+  "pronunciation": "jatḭ:p",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "5ccb98dd-f3e9-4c12-80a4-d28e01af9fbe": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "cedo.de.manhã"
+      },
+      "def": {
+        "pt": "cedo de manhã"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

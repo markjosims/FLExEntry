@@ -1,16 +1,13 @@
 {
   "entry_id": "gabok_9288536e-4047-4b13-aedb-1a10b207ea07",
-  "﻿headword": "gabok",
+  "headword": "gabok",
   "morph_type": "stem",
   "pronunciation": "gabok",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "cartilha 4; lição 4",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "cartilha 4; lição 4"
+  },
   "sense": {
     "282db821-28d3-43a6-bfd5-5f739c562939": {
       "pos": "v?",

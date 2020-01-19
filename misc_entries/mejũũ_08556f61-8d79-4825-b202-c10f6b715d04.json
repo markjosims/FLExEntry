@@ -1,0 +1,28 @@
+{
+  "entry_id": "mejũũ_08556f61-8d79-4825-b202-c10f6b715d04",
+  "headword": "mejũũ",
+  "morph_type": "stem",
+  "pronunciation": "mejũ:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "d362da7b-f84d-47f5-8626-16875f0cc2da": {
+      "pos": "v",
+      "gloss": {
+        "pt": "mandar"
+      },
+      "def": {
+        "pt": "mandar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'mejõ_e61e8c0f-1d91-40bf-af30-85c14aa432e1': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

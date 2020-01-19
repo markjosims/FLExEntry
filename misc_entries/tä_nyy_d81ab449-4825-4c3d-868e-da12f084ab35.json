@@ -1,0 +1,28 @@
+{
+  "entry_id": "tä nyy_d81ab449-4825-4c3d-868e-da12f084ab35",
+  "headword": "tä nyy",
+  "morph_type": "phrase",
+  "pronunciation": "tʌ nɨ:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "28b93402-207f-4897-bcc9-bc03eac8c7f2": {
+      "pos": "n",
+      "gloss": {
+        "pt": "isca"
+      },
+      "def": {
+        "pt": "isca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ta nyy_0c041358-e3a3-4af9-bd2e-8f9a831c1cfd': ('Unspecified Variant',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

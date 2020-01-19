@@ -1,12 +1,12 @@
 {
   "entry_id": "puh1_57bb72df-4cf6-4402-bd61-4bed152962c0",
-  "﻿headword": "puh",
+  "headword": "puh",
   "morph_type": "stem",
   "pronunciation": "puh",
   "variant_of": null,
   "these_vars": {
     "puh4_3e5a002d-3c9a-4d6e-b54d-d47c7a488500": {
-      "﻿headword": "puh",
+      "headword": "puh",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,25 +27,23 @@
       "var_type": "Martins"
     },
     "puh3_a5bb9430-9753-43ce-9a45-921f401b2cf1": {
-      "﻿headword": "puh",
+      "headword": "puh",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:14:10Z",
-      "var_type": [
-        "Martins",
-        "espuma"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins",
+        "summary": "espuma"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "e5c980c3-0c6d-4eda-a360-d37a5e7c831d": {
       "pos": "n",

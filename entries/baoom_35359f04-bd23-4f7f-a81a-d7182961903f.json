@@ -1,16 +1,13 @@
 {
   "entry_id": "baoom_35359f04-bd23-4f7f-a81a-d7182961903f",
-  "﻿headword": "baoom",
+  "headword": "baoom",
   "morph_type": "stem",
   "pronunciation": "bao:m",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 17",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 17"
+  },
   "sense": {
     "e6913542-93c7-4295-bd41-d28397f714d6": {
       "pos": "?",

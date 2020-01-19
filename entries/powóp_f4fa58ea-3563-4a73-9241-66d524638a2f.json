@@ -1,16 +1,13 @@
 {
   "entry_id": "powóp_f4fa58ea-3563-4a73-9241-66d524638a2f",
-  "﻿headword": "powóp",
+  "headword": "powóp",
   "morph_type": "stem",
   "pronunciation": "powɔp",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 7",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 7"
+  },
   "sense": {
     "963113bc-c1d2-4eb4-82f8-9d0d67f0d8bf": {
       "pos": "v?",

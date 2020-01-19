@@ -1,0 +1,31 @@
+{
+  "entry_id": "ta_c0e73567-fba2-4e50-87f1-ea99f887fc7c",
+  "headword": "ta",
+  "morph_type": "stem",
+  "pronunciation": "ta",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ],
+    "Note": [
+      "[merge with ta=]"
+    ]
+  },
+  "sense": {
+    "3f87d70b-ee06-4051-b104-acebd4df65d9": {
+      "pos": "pro",
+      "gloss": {
+        "pt": "3S"
+      },
+      "def": {
+        "pt": "(d)ele"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

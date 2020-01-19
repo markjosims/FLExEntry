@@ -1,12 +1,12 @@
 {
   "entry_id": "se_44710235-cb36-41d3-88f8-7a88edc7df2b",
-  "﻿headword": "se",
+  "headword": "se",
   "morph_type": "stem",
   "pronunciation": "ʃe",
   "variant_of": null,
   "these_vars": {
     "ʃeʔ_136f03ea-0223-4179-830f-577d41fa039e": {
-      "﻿headword": "ʃeʔ",
+      "headword": "ʃeʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "3c8fd640-4ed2-4cb7-ab5b-7ecf87503e1e": {
       "pos": "n",

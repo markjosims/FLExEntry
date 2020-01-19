@@ -1,0 +1,30 @@
+{
+  "entry_id": "bä2_d715fe9e-35d6-4cb9-b7dd-ca28a1e3c7a4",
+  "headword": "bä",
+  "morph_type": "stem",
+  "pronunciation": "bʌ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ],
+    "Note": [
+      "Weir 1986"
+    ]
+  },
+  "sense": {
+    "fd202b45-8ee4-4aec-a77d-4e432ca61bb1": {
+      "pos": "posp",
+      "gloss": {
+        "en": "ABL",
+        "pt": "ABL"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-04-03T21:26:14Z"
+}

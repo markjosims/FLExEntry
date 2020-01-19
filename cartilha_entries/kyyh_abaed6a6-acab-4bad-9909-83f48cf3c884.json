@@ -1,0 +1,28 @@
+{
+  "entry_id": "kyyh_abaed6a6-acab-4bad-9909-83f48cf3c884",
+  "headword": "kyyh",
+  "morph_type": "stem",
+  "pronunciation": "kɨ:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "encontrado em cartilha 4; lições 5  13"
+    ]
+  },
+  "sense": {
+    "c20b16fb-880d-4de4-aa1c-8ecbe9fd00d1": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "fazer.som?"
+      },
+      "def": {
+        "pt": "fazer.som?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

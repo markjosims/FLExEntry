@@ -1,16 +1,13 @@
 {
   "entry_id": "wëm_429bd290-09e2-451d-876e-1e9f8f1d97e2",
-  "﻿headword": "wëm",
+  "headword": "wëm",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "3313f063-f11e-42fa-8245-db61f737cbd3": {
       "pos": "Noun",

@@ -1,0 +1,28 @@
+{
+  "entry_id": "masook1_c48a21f1-805b-46a2-b9e7-706d9679045a",
+  "headword": "masook",
+  "morph_type": "stem",
+  "pronunciation": "maʃo:k",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "2541a40e-9b1f-4d71-a082-76c038d57610": {
+      "pos": "n",
+      "gloss": {
+        "pt": "mandioca.farinha"
+      },
+      "def": {
+        "pt": "farinha de mandioca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

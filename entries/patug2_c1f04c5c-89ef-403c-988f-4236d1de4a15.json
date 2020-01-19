@@ -1,12 +1,12 @@
 {
   "entry_id": "patug2_c1f04c5c-89ef-403c-988f-4236d1de4a15",
-  "﻿headword": "patug",
+  "headword": "patug",
   "morph_type": "stem",
   "pronunciation": "patug̚",
   "variant_of": null,
   "these_vars": {
     "patuk2_2e68cc00-c5fe-4d28-ae84-197a9603094c": {
-      "﻿headword": "patuk",
+      "headword": "patuk",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,30 +27,28 @@
       "var_type": "Barbosa"
     },
     "patug1_68ff8d38-34fa-472c-87a3-4bada7ef12a6": {
-      "﻿headword": "patug",
+      "headword": "patug",
       "morph_type": "stem",
       "pronunciation": "patug",
       "these_vars": {
         "patuk1_19d93933-7d2f-4546-8ad9-1659bbd4153a": {
-          "﻿headword": "patuk",
+          "headword": "patuk",
           "morph_type": "stem",
           "pronunciation": "",
           "these_vars": null,
           "note": null,
           "sense": null,
           "date": "2018-06-20T03:11:24Z",
-          "var_type": [
-            "Barbosa",
-            "marido"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Barbosa",
+            "summary": "marido"
+          }
         }
       },
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "3575cb14-4aff-468a-b74d-b936a17cca8a": {
           "pos": "n op",
@@ -62,7 +60,7 @@
           },
           "reverse": "",
           "note": "",
-          "these_vars": "{'patʹuuk_95ecf63c-72cb-4662-a1a4-a330039fb0be': ('Plural',), 'patuk ỹỹ_a22ec753-2a35-49b2-b385-7c338a490e70': ('1S Possessivo',)}"
+          "these_vars": "{'patʹuuk_95ecf63c-72cb-4662-a1a4-a330039fb0be': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'patuk ỹỹ_a22ec753-2a35-49b2-b385-7c338a490e70': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
         }
       },
       "date": "2018-03-08T07:17:53Z",

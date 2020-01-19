@@ -1,12 +1,12 @@
 {
   "entry_id": "t’ëëng_7fad6677-006f-46f7-991e-8fd6199e5d12",
-  "﻿headword": "t’ëëng",
+  "headword": "t’ëëng",
   "morph_type": "stem",
   "pronunciation": "təʔəgŋ",
   "variant_of": null,
   "these_vars": {
     "tɯ̰ːŋ_8809f33f-e595-4f96-8d4d-cd4b936414ca": {
-      "﻿headword": "tɯ̰ːŋ",
+      "headword": "tɯ̰ːŋ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,30 +27,28 @@
       "var_type": "Martins"
     },
     "tʹëëng_fddfb54c-17be-4610-a9d5-8a92c52ddb9e": {
-      "﻿headword": "tʹëëng",
+      "headword": "tʹëëng",
       "morph_type": "stem",
       "pronunciation": "tə̰:ŋ",
       "these_vars": {
         "tə̰ːŋ_0cda8480-70b4-4ab5-aad4-b1e682a0bf8a": {
-          "﻿headword": "tə̰ːŋ",
+          "headword": "tə̰ːŋ",
           "morph_type": "stem",
           "pronunciation": "",
           "these_vars": null,
           "note": null,
           "sense": null,
           "date": "2018-06-20T03:33:56Z",
-          "var_type": [
-            "Barbosa",
-            "anta"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Barbosa",
+            "summary": "anta"
+          }
         }
       },
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "c0a6c825-9f69-489a-a521-a815b1afeffa": {
           "pos": "n",

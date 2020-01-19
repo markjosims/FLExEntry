@@ -1,0 +1,28 @@
+{
+  "entry_id": "tsyym saä̃k_3d016d8a-6f9c-4d56-b8fc-92ef945a3b59",
+  "headword": "tsyym saä̃k",
+  "morph_type": "phrase",
+  "pronunciation": "ɟɨ:m ʃaʔʌ̃k",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "5815ae25-464e-47cd-885c-0f3ead580498": {
+      "pos": "v",
+      "gloss": {
+        "pt": "aleijado"
+      },
+      "def": {
+        "pt": "aleijado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'tsyym saä̃g_97e34555-4d0b-4147-8a9a-70e47767437c': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

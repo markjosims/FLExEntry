@@ -1,16 +1,13 @@
 {
   "entry_id": "janooh_022d930d-b619-4a77-8ff4-fa5ea30739e8",
-  "﻿headword": "janooh",
+  "headword": "janooh",
   "morph_type": "stem",
   "pronunciation": "jaˈno:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "9e409799-d500-44e1-97b4-66925497edde": {
       "pos": "",

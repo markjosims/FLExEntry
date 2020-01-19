@@ -1,16 +1,13 @@
 {
   "entry_id": "jaah_73c5535f-972b-4711-b80a-904d9c468a08",
-  "﻿headword": "jaah",
+  "headword": "jaah",
   "morph_type": "stem",
   "pronunciation": "ja:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "c9f767f7-b1b3-4859-b9bf-21721018cdf4": {
       "pos": "Question particle",

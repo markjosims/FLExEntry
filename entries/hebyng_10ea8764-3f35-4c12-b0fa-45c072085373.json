@@ -1,16 +1,13 @@
 {
   "entry_id": "hebyng_10ea8764-3f35-4c12-b0fa-45c072085373",
-  "﻿headword": "hebyng",
+  "headword": "hebyng",
   "morph_type": "stem",
   "pronunciation": "heʔˈbɨgŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "a55cb9af-ae77-4d37-be9b-21ca0a24233d": {
       "pos": "Verb",

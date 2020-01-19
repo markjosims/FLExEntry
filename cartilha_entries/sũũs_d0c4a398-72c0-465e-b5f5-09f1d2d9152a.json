@@ -1,0 +1,28 @@
+{
+  "entry_id": "sũũs_d0c4a398-72c0-465e-b5f5-09f1d2d9152a",
+  "headword": "sũũs",
+  "morph_type": "stem",
+  "pronunciation": "ʃũ:ʃ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "encontrado em cartilha 4; lição 16"
+    ]
+  },
+  "sense": {
+    "1755e571-3327-4dda-80ab-ed46a26ecc93": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "limpar.nariz?"
+      },
+      "def": {
+        "pt": "limpar.nariz?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

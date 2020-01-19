@@ -1,34 +1,29 @@
 {
   "entry_id": "kadoo_a513c054-bea8-4c2d-8908-2cad00d509c8",
-  "﻿headword": "kadoo",
+  "headword": "kadoo",
   "morph_type": "stem",
   "pronunciation": "kado:",
   "variant_of": null,
   "these_vars": {
     "kado_3e326eb0-8e07-4c3e-8921-bd1519b9edac": {
-      "﻿headword": "kado",
+      "headword": "kado",
       "morph_type": "stem",
       "pronunciation": "kado",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-22T21:21:26Z",
-      "var_type": [
-        "Não indicativo"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Não indicativo"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "6b9308c9-92c1-4405-bc5e-78d7ea232d3d": {
       "pos": "v",

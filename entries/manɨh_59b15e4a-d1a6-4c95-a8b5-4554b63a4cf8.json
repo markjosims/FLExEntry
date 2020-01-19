@@ -1,16 +1,13 @@
 {
   "entry_id": "manɨh_59b15e4a-d1a6-4c95-a8b5-4554b63a4cf8",
-  "﻿headword": "manɨh",
+  "headword": "manɨh",
   "morph_type": "stem",
   "pronunciation": "manɨh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "0ac6008a-f953-448f-ade2-b00e79a69d60": {
       "pos": "manɨh",

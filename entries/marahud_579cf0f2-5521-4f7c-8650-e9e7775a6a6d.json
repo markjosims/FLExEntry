@@ -1,16 +1,13 @@
 {
   "entry_id": "marahud_579cf0f2-5521-4f7c-8650-e9e7775a6a6d",
-  "﻿headword": "marahud",
+  "headword": "marahud",
   "morph_type": "root",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fielnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fielnotes Epps/Obert; 2018"
+  },
   "sense": {
     "8ba94715-1409-488a-b573-ab5ec502feb8": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "single",
         "pt": "solteiro"
       },
-      "reverse": "[('soleteiro', 'pt'), ('single', 'en')]",
+      "reverse": "{'pt': 'soleteiro', 'en': 'single'}",
       "note": "",
       "these_vars": ""
     },
@@ -36,7 +33,7 @@
         "en": "tannia",
         "pt": "taioba.branca"
       },
-      "reverse": "[('taioba.branca', 'pt'), ('tannia', 'en')]",
+      "reverse": "{'pt': 'taioba.branca', 'en': 'tannia'}",
       "note": "",
       "these_vars": ""
     }

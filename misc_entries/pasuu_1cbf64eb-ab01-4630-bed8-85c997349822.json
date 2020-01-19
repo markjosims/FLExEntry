@@ -1,0 +1,28 @@
+{
+  "entry_id": "pasuu_1cbf64eb-ab01-4630-bed8-85c997349822",
+  "headword": "pasuu",
+  "morph_type": "stem",
+  "pronunciation": "paʃu:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "c3226410-55bc-4a39-b5d5-665bccb6854d": {
+      "pos": "v",
+      "gloss": {
+        "pt": "espalhar"
+      },
+      "def": {
+        "pt": "espalhar; empurrar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'pasu_8af74d2a-1563-4ce6-8093-50ac023117f5': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

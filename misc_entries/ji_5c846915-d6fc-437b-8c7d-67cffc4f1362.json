@@ -1,0 +1,41 @@
+{
+  "entry_id": "ji_5c846915-d6fc-437b-8c7d-67cffc4f1362",
+  "headword": "ji",
+  "morph_type": "stem",
+  "pronunciation": "ji",
+  "variant_of": null,
+  "these_vars": {
+    "jiʔ1_31b0b311-2998-49fa-8b37-12703241099c": {
+      "headword": "jiʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T02:47:51Z",
+      "var_type": [
+        "Martins"
+      ]
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "3bf27487-edce-4483-aa54-0f2a1ae679ed": {
+      "pos": "pro",
+      "gloss": {
+        "pt": "gente"
+      },
+      "def": {
+        "pt": "gente"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

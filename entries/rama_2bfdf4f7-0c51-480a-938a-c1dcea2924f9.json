@@ -1,16 +1,13 @@
 {
   "entry_id": "rama_2bfdf4f7-0c51-480a-938a-c1dcea2924f9",
-  "﻿headword": "rama",
+  "headword": "rama",
   "morph_type": "stem",
   "pronunciation": "ɾama",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 11",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 11"
+  },
   "sense": {
     "2903878f-fea7-478b-a1bd-4c7c6a4ab183": {
       "pos": "?",

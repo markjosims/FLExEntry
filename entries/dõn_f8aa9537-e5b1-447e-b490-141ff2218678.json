@@ -1,16 +1,13 @@
 {
   "entry_id": "dõn_f8aa9537-e5b1-447e-b490-141ff2218678",
-  "﻿headword": "dõn",
+  "headword": "dõn",
   "morph_type": "stem",
   "pronunciation": "dõn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "eecdf965-0dfa-439b-9d66-bc36ac5865bb": {
       "pos": "n",

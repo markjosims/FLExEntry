@@ -1,16 +1,13 @@
 {
   "entry_id": "wʉh (n.i. wʉʉh)_fd3e48ba-64e1-44b1-994c-c83710ef13a4",
-  "﻿headword": "wʉh (n.i. wʉʉh)",
+  "headword": "wʉh (n.i. wʉʉh)",
   "morph_type": "phrase",
   "pronunciation": "wəh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990; Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990; Weir 1994"
+  },
   "sense": {
     "6d063f8b-7562-436f-9259-acbe34c333c9": {
       "pos": "Verb",

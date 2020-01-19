@@ -1,16 +1,13 @@
 {
   "entry_id": "ëër_139ca9bb-450f-4124-8497-3fa5f304fa62",
-  "﻿headword": "ëër",
+  "headword": "ëër",
   "morph_type": "stem",
   "pronunciation": "ʔǝǝɾǝ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "2ead3007-e5a6-45a3-bafa-401642bb2ba8": {
       "pos": "Pronoun",

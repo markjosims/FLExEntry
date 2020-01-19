@@ -1,0 +1,28 @@
+{
+  "entry_id": "ty2_aff14eee-a080-4359-931b-8e0eba6379ba",
+  "headword": "ty",
+  "morph_type": "stem",
+  "pronunciation": "tɨ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "8f40b299-9b38-442a-a95c-cff1264ef2df": {
+      "pos": "n",
+      "gloss": {
+        "pt": "rosto"
+      },
+      "def": {
+        "pt": "rosto; olho"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,16 +1,13 @@
 {
   "entry_id": "up_9453ebb2-95f3-4c63-99be-f8fd8d157001",
-  "﻿headword": "up",
+  "headword": "up",
   "morph_type": "stem",
   "pronunciation": "up",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "c332dfe8-c85d-496a-856c-e14ed05ee193": {
       "pos": "suf",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ub_b2935fa1-6836-45aa-91fb-4b6f277f70dc': ('Não indicativo',)}"
+      "these_vars": "{'ub_b2935fa1-6836-45aa-91fb-4b6f277f70dc': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

@@ -1,17 +1,17 @@
-﻿sense_id,pos,gloss,def,reverse,note,these_vars
+sense_id,pos,gloss,def,reverse,note,these_vars
 e92169c5-ce3e-4a09-9da4-f6860afd0478,Noun,{'en': 'cipó'},,,,
 802366cc-fff6-4c35-bff4-a403f4b4130d,Noun,"{'en': 'small.basket', 'pt': 'cesto.pequeno'}","{'en': 'basket; small', 'pt': 'cesto pequeno'}",,,
-a0d825d5-a0ae-402d-8201-6805e39cad0b,n,{'pt': 'árvore.sp'},{'pt': 'esp. de árvore; tinta para pintar s cuias de casca dessa árvore'},,,"{'tame_31e29a2f-491b-4003-a502-dfec5bc71c0f': ('Unspecified Variant',)}"
+a0d825d5-a0ae-402d-8201-6805e39cad0b,n,{'pt': 'árvore.sp'},{'pt': 'esp. de árvore; tinta para pintar s cuias de casca dessa árvore'},,,"{'tame_31e29a2f-491b-4003-a502-dfec5bc71c0f': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 2e7ced09-86a7-4ad6-a7a0-e36f9523d65a,Noun,{'en': 'pajé (pl sɤ̰ːw)'},,,,
 062365d9-1fcd-4828-980d-5fbacad0019b,Noun,{'en': 'língua'},,,,
-1040d54b-f002-4f07-826d-01add3578cf8,v,{'pt': 'começar'},{'pt': 'começar'},,,"{'du do_f04e460e-1fca-47d3-a451-15fe4f773b94': ('Não indicativo',)}"
+1040d54b-f002-4f07-826d-01add3578cf8,v,{'pt': 'começar'},{'pt': 'começar'},,,"{'du do_f04e460e-1fca-47d3-a451-15fe4f773b94': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 8ea40d2d-71df-47cf-b1f1-d95a3bdb6476,Noun,{'en': 'seu abdômen'},,,,
-6e8e07f3-28a9-4adb-b230-f819c944b12a,v,{'pt': '?'},{'pt': 'dor associada à pressão do pus'},,,"{'agõõ&#xA;agõõh_1d766776-1931-480e-977b-b58d276ced0d': ('Não indicativo',), 'agõõh_6c755d0f-ffd9-4912-88d2-daaf488e9cf3': ('Não indicativo',)}"
+6e8e07f3-28a9-4adb-b230-f819c944b12a,v,{'pt': '?'},{'pt': 'dor associada à pressão do pus'},,,"{'agõõ&#xA;agõõh_1d766776-1931-480e-977b-b58d276ced0d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'agõõh_6c755d0f-ffd9-4912-88d2-daaf488e9cf3': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 6c7274f4-8b5b-442d-9e05-9dfbff1f938a,v imp,{'pt': 'me.da'},{'pt': 'me da'},,,
 a1f37a78-5a17-461d-bae5-242b45ee9b4d,Noun,{'en': 'relâmpago'},,,,
 2930842e-2987-43fb-a6cf-824b62faa804,Verb,{'en': 'esmagar; forma marcada'},,,,
-0a53e4ac-73b8-4116-9c0c-091bf6a6a02f,n,{'pt': 'rede'},,,,"{'jak ỹỹ_20ea7807-0cbe-4ee3-a129-919380bcf6fc': ('1S Possessivo',)}"
-a5ff997c-ff1b-4fa9-a8d0-3d48dd8bd76a,v,{'pt': 'espantar'},{'pt': 'afugentar; espantar'},,,"{'habëë_7bb289f9-6ac8-4f7f-8a8f-363b81b3c205': ('Não indicativo',)}"
+0a53e4ac-73b8-4116-9c0c-091bf6a6a02f,n,{'pt': 'rede'},,,,"{'jak ỹỹ_20ea7807-0cbe-4ee3-a129-919380bcf6fc': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
+a5ff997c-ff1b-4fa9-a8d0-3d48dd8bd76a,v,{'pt': 'espantar'},{'pt': 'afugentar; espantar'},,,"{'habëë_7bb289f9-6ac8-4f7f-8a8f-363b81b3c205': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 9e409799-d500-44e1-97b4-66925497edde,,"{'en': 'shoulder', 'pt': 'ombro'}","{'en': 'shoulder', 'pt': 'ombro'}",,,
 3954f8c6-283b-4e9f-a9b1-5e9ea6096fcc,adv?,"{'en': 'again', 'pt': 'de.novo'}","{'en': 'again', 'pt': 'de.novo'}",,,
 a8675526-039d-459c-b4c8-c3434645200d,,"{'en': 'die', 'pt': 'morrer'}","{'en': 'die', 'pt': 'morrer'}",,,
@@ -38,41 +38,41 @@ b76b93ca-1032-4a40-9a95-1031ce3ca8d9,,"{'en': 'NMRL:1', 'pt': 'NMRL:1'}","{'en':
 6e73f05f-7a74-4db6-91a1-3ffbedc46d2c,?,{'en': 'perto'},,,,
 fab5e3b9-7ef3-4340-9ee4-d9cdfc149c07,Noun,{'en': 'cará'},,,,
 3fb463f2-0bbd-44a1-b4b4-59d3b08d41f2,pro?,{'en': 'aquele'},,,,
-98417052-1b46-4bec-8fe4-035586275105,v,{'pt': 'caçar'},{'pt': 'caçar'},,,"{'eboh_479d7d4d-db5a-43de-ab6b-6ec74ab9881e': ('Não indicativo',), 'ebʹooh_9993bde4-2888-40e6-b27e-800fa235ee59': ('Plural',)}"
-18d91980-ef6d-425a-b7ca-30734e93614f,v,{'pt': 'custar'},{'pt': 'custar; durar muito'},,,"{'esʹëëb_9f29486e-c14a-498d-b807-a3b7daaa0252': ('Não indicativo',)}"
+98417052-1b46-4bec-8fe4-035586275105,v,{'pt': 'caçar'},{'pt': 'caçar'},,,"{'eboh_479d7d4d-db5a-43de-ab6b-6ec74ab9881e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ebʹooh_9993bde4-2888-40e6-b27e-800fa235ee59': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
+18d91980-ef6d-425a-b7ca-30734e93614f,v,{'pt': 'custar'},{'pt': 'custar; durar muito'},,,"{'esʹëëb_9f29486e-c14a-498d-b807-a3b7daaa0252': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 1bc07424-3f32-458c-b32e-b0cccc692b49,Noun,{'en': 'farinha'},,,,
 f36dee8c-63a9-493d-80bb-eee92d8ec9df,?,{'en': 'forte'},,,,
 84c2724b-c6d7-4e74-aeb2-f5cdf30b47b7,Noun,{'en': 'papagaio.sp'},,,,
 ec6b2a91-b8ab-44f3-8200-648010fa9137,n,"{'en': 'child.sg', 'pt': 'criança.sg'}","{'en': 'child (sg)', 'pt': 'criança (sg) companham ou trabalham ara uma pessoa'}",,,
-ac8a1843-388b-427b-918b-43d78bca995f,v,{'pt': 'ter.cheiro'},{'pt': 'ter cheiro'},,,"{'besoh_43382369-637a-4e7b-91a8-d2a15d6e474d': ('Plural',), 'basoo_627305fe-b9ca-4756-a2db-7d18e6125b3a': ('Não indicativo',), 'basooh1_8408d89c-9412-4407-be64-483c830901dd': ('Não indicativo',)}"
+ac8a1843-388b-427b-918b-43d78bca995f,v,{'pt': 'ter.cheiro'},{'pt': 'ter cheiro'},,,"{'besoh_43382369-637a-4e7b-91a8-d2a15d6e474d': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'basoo_627305fe-b9ca-4756-a2db-7d18e6125b3a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'basooh1_8408d89c-9412-4407-be64-483c830901dd': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 783a338a-818d-4a66-9784-aae54e3af35a,adv,"{'en': 'well', 'pt': 'bem'}","{'en': 'well', 'pt': 'bem; bom'}",,,
-3145b43d-25c5-4e04-84cc-e13164a051a2,v,{'pt': 'fazer'},{'pt': 'fazer; conseguir'},,,"{'moo hajaa_4e172768-431f-4ec3-bae9-ac35eb37ca87': ('Não indicativo',), 'mo hajʹaa_848df29e-e1a4-4336-95fe-fa222b76d202': ('Unspecified Variant',)}"
+3145b43d-25c5-4e04-84cc-e13164a051a2,v,{'pt': 'fazer'},{'pt': 'fazer; conseguir'},,,"{'moo hajaa_4e172768-431f-4ec3-bae9-ac35eb37ca87': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'mo hajʹaa_848df29e-e1a4-4336-95fe-fa222b76d202': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 0bcbba71-1078-42e3-b6dc-dc251e2d8e8e,Noun,"{'en': 'small.drum', 'pt': 'tambor'}","{'en': 'drum (small)', 'pt': 'tambor'}",,,
 5ed87031-8faa-4805-9bd7-492143782ee2,n,{'pt': 'pessoa.medrosa'},{'pt': 'pessoa medrosa'},,,
-8e4c82e7-7bad-4968-96c6-675114c274a2,v,{'pt': 'aguado'},{'pt': 'aguado'},,,"{'barots_0fd1f641-6e7a-4918-b8d4-849ef14f2105': ('Não indicativo',)}"
+8e4c82e7-7bad-4968-96c6-675114c274a2,v,{'pt': 'aguado'},{'pt': 'aguado'},,,"{'barots_0fd1f641-6e7a-4918-b8d4-849ef14f2105': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 4b406dde-abeb-45c4-be61-d326a330ea83,Noun,"{'en': 'porcupine', 'pt': 'cuandu'}","{'en': 'porcupine', 'pt': 'cuandu; porco-espinho'}",,,
 ab6100d4-bae8-44a2-8b89-ad9b4dd741bc,n,{'pt': 'flecha'},{'pt': 'flecha; planta que se faz flecha'},,,
-5d24971c-7fce-49dc-9988-bb1f09205e3c,adv,{'pt': 'amanhã'},{'pt': 'amanhã'},,,"{'jat_a953c0b2-bd7e-45ad-8a54-821e3aa417b3': ('Unspecified Variant',)}"
+5d24971c-7fce-49dc-9988-bb1f09205e3c,adv,{'pt': 'amanhã'},{'pt': 'amanhã'},,,"{'jat_a953c0b2-bd7e-45ad-8a54-821e3aa417b3': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 5a92a4b9-5c68-4cbb-8d09-4b2115434816,Noun,{'en': 'areia'},,,,
 345923ca-f0b1-4f5e-8a2f-7180506bb109,n op,{'pt': 'cordão.umbilical'},{'pt': 'cordão umbilical'},,,
-8ac899b5-87a0-4f40-8381-223334c53938,v,{'pt': 'sentar.no.chão'},{'pt': 'sentar no chão; estar'},,,"{'dahäng_8ab640ce-f06d-48f7-bdac-ab47cd48ff0a': ('Causativo',), 'ahëë_c341ea39-5565-4c4d-9307-015889a92233': ('Não indicativo',), 'ahëëh_f552375d-10e3-4742-a485-933874754632': ('Não indicativo',)}"
+8ac899b5-87a0-4f40-8381-223334c53938,v,{'pt': 'sentar.no.chão'},{'pt': 'sentar no chão; estar'},,,"{'dahäng_8ab640ce-f06d-48f7-bdac-ab47cd48ff0a': {'type': '_component-lexeme', 'variant-type': 'Causativo'}, 'ahëë_c341ea39-5565-4c4d-9307-015889a92233': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ahëëh_f552375d-10e3-4742-a485-933874754632': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 ce786d73-57e0-470c-866a-4d542a027653,onom,{'pt': 'levantar.coisa'},{'pt': 'exclamação (grito) quando evanta alguma coisa pesada'},,,
 7fbd2f47-c78c-4fd7-9aa5-89ad13550e63,,"{'en': 'NMRL:2', 'pt': 'NMRL:2'}","{'en': 'two', 'pt': 'dois'}",,,
 c72b8439-5d2b-4279-bda9-8034d3430c1b,Noun,"{'en': 'kapok', 'pt': 'sumaumeira'}","{'en': 'kapok', 'pt': 'sumaumeira'}",,,
-d362da7b-f84d-47f5-8626-16875f0cc2da,v,{'pt': 'mandar'},{'pt': 'mandar'},,,"{'mejõ_e61e8c0f-1d91-40bf-af30-85c14aa432e1': ('Não indicativo',)}"
+d362da7b-f84d-47f5-8626-16875f0cc2da,v,{'pt': 'mandar'},{'pt': 'mandar'},,,"{'mejõ_e61e8c0f-1d91-40bf-af30-85c14aa432e1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 eef2d335-3c5d-48a4-a68f-0de3984365f8,v,{'pt': 'lavar'},{'pt': 'lavar'},,,
 daa9b5d2-cb3b-43ed-9e12-bc80b1f2e5ae,Verb,{'en': 'sup.with.finger'},,,,
-cd962a77-92e5-4f64-8d18-27b4f9b75d40,v,{'pt': 'encontrar-se'},{'pt': 'encontar-se'},,,"{'kata_3eb7ccd4-c020-4a9f-aa39-6024fd8231ea': ('Não indicativo',)}"
+cd962a77-92e5-4f64-8d18-27b4f9b75d40,v,{'pt': 'encontrar-se'},{'pt': 'encontar-se'},,,"{'kata_3eb7ccd4-c020-4a9f-aa39-6024fd8231ea': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 30859a9b-4532-4025-856e-a30d0505d8e6,n,{'pt': 'cipó.sp'},{'pt': 'esp. de cipó'},,,
 28976492-decb-410a-aac6-75cd5b7073ae,Noun,"{'en': 'name', 'pt': 'nome'}","{'en': 'name', 'pt': 'nome'}",,,
 50255f76-792d-44fc-b78b-e281cea44e2e,Noun,{'en': 'roça'},,,,
 71701844-6504-4d95-853e-158eb0eb8caa,Noun,"{'en': 'guan', 'pt': 'jacu'}","{'en': 'guan', 'pt': 'jacu'}",,,
-cda22660-faca-483a-8a4f-06875d500273,n,{'pt': 'inimigo'},{'pt': 'inimigo'},,,"{'majẽ ỹỹ_6c0165cc-4959-42c0-93b9-412aca283abd': ('1S Possessivo',)}"
+cda22660-faca-483a-8a4f-06875d500273,n,{'pt': 'inimigo'},{'pt': 'inimigo'},,,"{'majẽ ỹỹ_6c0165cc-4959-42c0-93b9-412aca283abd': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
 51922532-79d3-4916-ac16-c4521d5bc7ee,Noun,{'en': 'barro'},,,,
 9b92b2cb-bb24-4ffd-bb03-3b21acf80bd0,n,"{'en': 'açaí.palm', 'pt': 'açaí'}","{'en': 'açai palm', 'pt': 'açai'}",,,
 b2c3a9ef-7a11-46e7-9bd5-408e9b6abbb7,Noun,{'en': 'caranguejo'},,,,
 36e6dd1e-e554-49e0-9e40-7164c8216f21,Noun,"{'en': 'blood', 'pt': 'sangue'}","{'en': 'blood', 'pt': 'sangue'}",,,
-ccb1c736-e479-487d-aa05-d74fb2f3f1cc,Noun,"{'en': 'brazil.nut', 'pt': 'castanha.do.pará'}","{'en': 'brazil nut; Bertholletia excelsa', 'pt': 'castanha do pará; Bertholletia excelsa'}","[('castanha.do.pará', 'pt'), ('brazil.nut', 'en')]",,
+ccb1c736-e479-487d-aa05-d74fb2f3f1cc,Noun,"{'en': 'brazil.nut', 'pt': 'castanha.do.pará'}","{'en': 'brazil nut; Bertholletia excelsa', 'pt': 'castanha do pará; Bertholletia excelsa'}","{'pt': 'castanha.do.pará', 'en': 'brazil.nut'}",,
 6d7a0e30-f14e-4502-be6f-a87ec5630571,Noun,"{'en': 'hammock.string', 'pt': 'fio.de.rede'}","{'en': 'string used to hang hammock', 'pt': 'corda para atar rede'}",,,
 5e00ef76-a98a-4519-b41f-43937d925e04,adj?,"{'en': 'rotten', 'pt': 'estragado'}","{'en': 'rotten', 'pt': 'estragado'}",,,
 09b33e05-02c4-48be-a02b-c4ecfe355f80,Verb,"{'en': 'turn', 'pt': 'virar'}","{'en': 'turn something', 'pt': 'virar algo'}",,,
@@ -86,8 +86,8 @@ cd383986-03c5-4ff6-946a-35e2df176d23,Verb,{'en': 'be.dark'},,,,
 3c1dd3c6-40e8-45b7-94ad-9bcad18ab8e8,Noun,"{'en': 'dove', 'pt': 'pomba'}","{'en': 'dove', 'pt': 'pomba'}",,,
 b90a6d38-f813-4919-b37a-cc271428068a,Noun,{'en': 'macaquinho'},,,,
 162e4c96-fbb5-41c6-a8f0-dcd86f33eca2,Noun,{'en': 'terra'},,,,
-c8087b0a-6d12-4c1a-8fa8-ad6bc18e9a88,Noun,"{'en': 'genipap', 'pt': 'genipapo'}","{'en': 'genipap', 'pt': 'genipapo'}","[('genipap', 'en'), ('genipapo', 'pt')]",,
-9f7fc33b-9323-4f28-9524-ede88d422f89,v,{'pt': 'conseguir'},{'pt': 'saber; terminar; conseguir; atar; fazer'},,,"{'haja_49f6d689-75ba-4e67-ac49-a2dc99d9a511': ('Unspecified Variant',), 'hajaa_db4bc457-c4d3-407e-9132-32165df1027e': ('Não indicativo',)}"
+c8087b0a-6d12-4c1a-8fa8-ad6bc18e9a88,Noun,"{'en': 'genipap', 'pt': 'genipapo'}","{'en': 'genipap', 'pt': 'genipapo'}","{'en': 'genipap', 'pt': 'genipapo'}",,
+9f7fc33b-9323-4f28-9524-ede88d422f89,v,{'pt': 'conseguir'},{'pt': 'saber; terminar; conseguir; atar; fazer'},,,"{'haja_49f6d689-75ba-4e67-ac49-a2dc99d9a511': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'hajaa_db4bc457-c4d3-407e-9132-32165df1027e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 09da2923-e6d9-40fd-be0d-ddc17b8f36fe,Noun,"{'en': 'daughter', 'pt': 'filha'}","{'en': 'daughter', 'pt': 'filha'}",,,
 a5b82222-a737-4e50-89de-da16ef801861,n,{'pt': 'do.gapó'},{'pt': 'esp. de manioca (do gapó)'},,,
 814d3c1a-fc0d-4a28-ab96-64634384e8ad,adv?,{'pt': 'mais(?)'},{'pt': 'mais(?)'},,,
@@ -95,7 +95,7 @@ d3963a49-bb42-498c-97c7-95ef55fd557b,n,{'pt': 'corda.de.subir(?)'},{'pt': 'peda�
 a55cb9af-ae77-4d37-be9b-21ca0a24233d,Verb,"{'en': 'ashamed', 'pt': 'estar.envergonhado'}","{'en': 'ashamed', 'pt': 'estar.envergonhado'}",,,
 c0ac1101-c428-4c3a-a9ed-0e4e1e566349,n op,{'pt': 'pedaço'},{'pt': 'pedaço; parte pequena'},,,
 73f727e6-1c00-46d4-b551-16b7d12a7c7c,Noun,"{'en': 'caatinga', 'pt': 'caatinga'}","{'en': 'caatinga', 'pt': 'caatinga'}",,,
-3c8e5517-d5a2-45e6-8a6c-a4a5b6a3086a,Noun,"{'en': 'japurá', 'pt': 'japurá'}","{'en': 'japurá', 'pt': 'japurá'}","[('japurá', 'pt'), ('japurá', 'en')]",,
+3c8e5517-d5a2-45e6-8a6c-a4a5b6a3086a,Noun,"{'en': 'japurá', 'pt': 'japurá'}","{'en': 'japurá', 'pt': 'japurá'}","{'pt': 'japurá', 'en': 'japurá'}",,
 24591e08-6e9a-4017-823b-a34774d951a7,v?,{'pt': 'espirrar?'},{'pt': 'espirrar?'},,,
 880998ae-bfd2-4d3d-86d3-d0dde93b5c51,v?,{'pt': 'subir.árvore?'},{'pt': 'subir.árvore?'},,,
 43f16ff4-801c-4b6b-ace9-7d04e33857cf,Noun,{'en': 'peixe'},,,,
@@ -104,18 +104,18 @@ ccbaf3eb-73fc-4e76-8268-65f8dfd8aba0,Noun,{'en': 'sobrinho'},,,,
 2ead3007-e5a6-45a3-bafa-401642bb2ba8,Pronoun,"{'en': '1PLincl', 'pt': '1PLincl'}","{'en': 'we (inclusive)', 'pt': 'nós (inclusive)'}",,,
 6f428c2e-845f-4b62-84f1-291273a9cafd,Noun,{'en': 'espécie de pássaro'},,,,
 c2076cad-81e1-4e98-8ec1-9cb00525e238,Verb,{'en': 'lay.egg'},,,,
-570e5c28-f344-441a-93a2-fa6f7607504f,v,{'pt': 'passar'},{'pt': 'passar'},,,"{'tabʹëës_165c7249-49ef-4561-ad26-55ac9174f93b': ('Plural',), 'tabëëj_d4908e65-d8aa-4e7d-8966-be47f303219e': ('Não indicativo',)}"
-bde7cccc-62dd-44d2-8f11-219d8b8e40a8,v,{'pt': 'brincar'},{'pt': 'brincar'},,,"{'masuuj_4c9cc54a-4523-4687-8cb3-d1241b4f9c64': ('Não indicativo',), 'masʹuunh_8559bd94-3002-47fa-9bdb-d233c00c1b13': ('Plural',)}"
+570e5c28-f344-441a-93a2-fa6f7607504f,v,{'pt': 'passar'},{'pt': 'passar'},,,"{'tabʹëës_165c7249-49ef-4561-ad26-55ac9174f93b': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'tabëëj_d4908e65-d8aa-4e7d-8966-be47f303219e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+bde7cccc-62dd-44d2-8f11-219d8b8e40a8,v,{'pt': 'brincar'},{'pt': 'brincar'},,,"{'masuuj_4c9cc54a-4523-4687-8cb3-d1241b4f9c64': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'masʹuunh_8559bd94-3002-47fa-9bdb-d233c00c1b13': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 869ac389-45ec-4ea1-bd54-bac70424c73b,Noun,"{'en': 'fishing.stick', 'pt': 'vara.pesca'}","{'en': 'stick for fishing', 'pt': 'vara para pescar'}",,,
 505d0581-c996-409b-99cd-59a5fbf20d3d,Noun,"{'en': 'small.drum', 'pt': 'tambor'}","{'en': 'drum (small)', 'pt': 'tambor'}",,,
 afe2c3c2-e63c-4828-b924-a3ecff2a390e,Noun,{'en': 'aracoã'},,,,
-4720225d-9cb6-43ec-ab59-dfb89b42b27a,adv,{'pt': 'há.muito.tempo'},{'pt': 'há muito tempo'},,,"{'pʹooj up_d243caec-72a6-40fa-a4e3-d9422bad97fc': ('Unspecified Variant',)}"
+4720225d-9cb6-43ec-ab59-dfb89b42b27a,adv,{'pt': 'há.muito.tempo'},{'pt': 'há muito tempo'},,,"{'pʹooj up_d243caec-72a6-40fa-a4e3-d9422bad97fc': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 74a76c65-88dd-4672-be6c-418ece822d56,Noun,"{'en': 'tipiti', 'pt': 'tipiti'}","{'en': 'tipiti (manioc squeezer)', 'pt': 'tipiti'}",,,
-b986d563-6ca9-49bc-8bcc-867155a5b0e9,v,{'pt': 'pescar'},{'pt': 'pescar com arpão'},,,"{'eduug_a29d5713-9f30-4d79-81a8-adc977ac1a6f': ('Não indicativo',), 'heduk_d6de556b-cde9-46ca-b990-7e56b4c53cf0': ('Habitual',)}"
+b986d563-6ca9-49bc-8bcc-867155a5b0e9,v,{'pt': 'pescar'},{'pt': 'pescar com arpão'},,,"{'eduug_a29d5713-9f30-4d79-81a8-adc977ac1a6f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'heduk_d6de556b-cde9-46ca-b990-7e56b4c53cf0': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 1ec5c496-b253-497a-9daf-0f3edb0fb00e,Noun,{'en': 'espécie de fruta'},,,,
 9cefa735-d18d-434b-bde0-61102d140d37,Verb,"{'en': 'spit', 'pt': 'cuspir'}","{'en': 'spit', 'pt': 'cuspir'}",,,
 125852b9-9c3d-49dc-ac87-02e3bdbc19a7,par,{'pt': 'para'},{'pt': 'para; vai ser'},,,
-49875121-3e4e-4cd8-a4b4-4c61dcf5e10b,Noun,"{'en': 'pineapple', 'pt': 'abacaxi'}","{'en': 'pineapple', 'pt': 'abacaxi'}","[('pineapple', 'en'), ('abacaxi', 'pt')]",,
+49875121-3e4e-4cd8-a4b4-4c61dcf5e10b,Noun,"{'en': 'pineapple', 'pt': 'abacaxi'}","{'en': 'pineapple', 'pt': 'abacaxi'}","{'en': 'pineapple', 'pt': 'abacaxi'}",,
 5f3a89d8-db19-4cc0-9e59-a02da258eaf4,,"{'en': 'hot', 'pt': 'quente'}","{'en': 'hot (sun)', 'pt': 'quente (sol)'}",,,
 b9e2ce71-7e64-4bc5-a0f2-5a4e97d81265,Noun,"{'en': 'waterfall', 'pt': 'cachoeira'}","{'en': 'waterfall; rapid', 'pt': 'cachoeira'}",,,
 3d19d54b-cde9-433d-bdfc-e0b527952a93,Verb,{'en': 'abeirar'},,,,
@@ -131,10 +131,10 @@ c2e3e355-dadb-4b30-a3a1-0f2249aeb1b0,Noun,{'en': 'aracu'},,,,
 871493a5-6b9a-414b-8f7d-1db55c99f083,par,{'pt': 'por.isso'},{'pt': 'por isso'},,,
 d379da3f-efe2-4e2f-b1d4-7c3bfa01bd2c,Noun,{'en': 'wild.pig'},,,,
 5e3bf1cc-888a-4210-b875-93ad75d7001d,n,{'pt': 'caiarara'},{'pt': 'esp. de macaco (caiarara)'},,,
-edaa2fe3-4960-4bab-925d-b9cc58a4932a,v,{'pt': 'baixar'},{'pt': 'baixar'},,,"{'ahyk2_1d767c30-7dd2-4d0a-bb47-35c23e55617a': ('Não indicativo plural',), 'ahyh_2ff28388-2e02-4fbd-b9cd-d074c4addb71': ('Causativo não indicativo',), 'ahyy1_61e60646-ec61-45fe-ad25-484258f826ec': ('Causativo',), 'ahyyh1_7491ca4e-d841-47c4-9f9e-cfc66b856aa8': ('Causativo',), 'ahyng1_948af76d-5c81-4b9d-b78b-770ef275326e': ('Singular',), 'ahy_a30f5324-3ce8-466a-bc10-6c3b80ae6656': ('Causativo não indicativo',)}"
+edaa2fe3-4960-4bab-925d-b9cc58a4932a,v,{'pt': 'baixar'},{'pt': 'baixar'},,,"{'ahyk2_1d767c30-7dd2-4d0a-bb47-35c23e55617a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo plural'}, 'ahyh_2ff28388-2e02-4fbd-b9cd-d074c4addb71': {'type': '_component-lexeme', 'variant-type': 'Causativo não indicativo'}, 'ahyy1_61e60646-ec61-45fe-ad25-484258f826ec': {'type': '_component-lexeme', 'variant-type': 'Causativo'}, 'ahyyh1_7491ca4e-d841-47c4-9f9e-cfc66b856aa8': {'type': '_component-lexeme', 'variant-type': 'Causativo'}, 'ahyng1_948af76d-5c81-4b9d-b78b-770ef275326e': {'type': '_component-lexeme', 'variant-type': 'Singular'}, 'ahy_a30f5324-3ce8-466a-bc10-6c3b80ae6656': {'type': '_component-lexeme', 'variant-type': 'Causativo não indicativo'}}"
 c987cc54-829f-4cd0-a31f-7adf3b7383cb,v,"{'en': 'steal', 'pt': 'roubar'}","{'en': 'steal', 'pt': 'roubar'}",,,
 a30e3b70-c810-4aca-937c-18b141f14842,Noun,{'en': 'aracu'},,,,
-bed4129c-a622-42e6-81b2-2372039e7c4f,v,{'pt': 'dormir'},{'pt': 'dormir'},,,"{'aä̃_74df2d38-d4c9-40fb-98a2-8b980f93bfde': ('Não indicativo',), 'aỹỹh_c99a1e11-f4d3-4fbd-b8e4-ef98dc3ac38b': ('Unspecified Variant',), 'aä̃h_cc1d9e62-4139-45c2-8acc-9b552effdc3d': ('Não indicativo',)}"
+bed4129c-a622-42e6-81b2-2372039e7c4f,v,{'pt': 'dormir'},{'pt': 'dormir'},,,"{'aä̃_74df2d38-d4c9-40fb-98a2-8b980f93bfde': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'aỹỹh_c99a1e11-f4d3-4fbd-b8e4-ef98dc3ac38b': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'aä̃h_cc1d9e62-4139-45c2-8acc-9b552effdc3d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 227bbe98-e800-43d7-9785-c7cc771c892c,n op,{'pt': 'cara'},{'pt': 'rosto; cara'},,,
 2013ecbc-5f4a-4cd3-a741-d2c7ae4696b6,?,{'en': 'estragado'},,,,
 dd96ef39-6955-46ff-9a0c-cd2e3915751e,Noun,"{'en': 'chief', 'pt': 'chefe'}","{'en': 'chief/leader', 'pt': 'chefe'}",,,
@@ -142,28 +142,28 @@ e54b181c-9272-4054-96a3-d187d22e3133,n,"{'en': 'woodpecker', 'pt': 'pica.pau'}",
 e7ebf375-f74f-4014-8dda-2500f242b2c4,Noun,"{'en': 'anaconda', 'pt': 'sucuri'}","{'en': 'anaconda', 'pt': 'sucuri'}",,,
 41d7a879-295b-4bd6-ba70-fe96b8648c69,v,{'pt': 'providenciar'},{'pt': 'providenciar'},,,
 d69496ab-5a91-4287-91a7-69f70883fabb,adv,{'pt': 'no.chão'},{'pt': 'no chão'},,,
-c21a69eb-2fc8-4068-b4e8-4f1715bb29e3,v,{'pt': 'cortar'},{'pt': 'cortar'},,,"{'gekyyd_6ca636af-94eb-4d80-9f67-97948451f2bc': ('Não indicativo',)}"
+c21a69eb-2fc8-4068-b4e8-4f1715bb29e3,v,{'pt': 'cortar'},{'pt': 'cortar'},,,"{'gekyyd_6ca636af-94eb-4d80-9f67-97948451f2bc': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 6c2fa845-b2f0-4fc9-bedb-58c69c91a817,Noun,{'en': 'som de quebrar'},,,,
 b8713fe5-b769-4c7b-9baa-a7cafacfbf62,Noun,{'en': 'tapioca'},,,,
 f3a70c40-7c7d-4b86-9b69-e929a8077078,Noun,"{'en': 'bowl', 'pt': 'tijela'}","{'en': 'bowl', 'pt': 'tijela'}",,,
-62b8ed0f-48aa-4a8a-a1c8-3f7ac323e420,Noun,"{'en': 'amazon.treegrape', 'pt': 'cucura'}","{'en': 'amazon tree grape', 'pt': 'cucura'}","[('cucura', 'pt'), ('amazon tree grape', 'en')]",,
-f607def6-b1c8-48ba-b317-5b53c0c63def,Noun,"{'en': 'maize', 'pt': 'milho'}","{'en': 'maize', 'pt': 'milho'}","[('milho', 'pt'), ('maize', 'en')]",,
+62b8ed0f-48aa-4a8a-a1c8-3f7ac323e420,Noun,"{'en': 'amazon.treegrape', 'pt': 'cucura'}","{'en': 'amazon tree grape', 'pt': 'cucura'}","{'pt': 'cucura', 'en': 'amazon tree grape'}",,
+f607def6-b1c8-48ba-b317-5b53c0c63def,Noun,"{'en': 'maize', 'pt': 'milho'}","{'en': 'maize', 'pt': 'milho'}","{'pt': 'milho', 'en': 'maize'}",,
 f6dfd01c-5879-4c4c-9632-14981c14bdb8,Noun,"{'en': 'fishing.bait', 'pt': 'isca'}","{'en': 'bait for fishing', 'pt': 'isca /  minhoca'}",,,
 034a0409-242f-4bb1-a927-c33794ddb359,n op,{'pt': 'nádegas'},{'pt': 'nádegas; assento; começo; nício'},,,
-fb5814dc-f021-4a7b-9d1d-f915783599a7,n,"{'en': 'banana', 'pt': 'banana'}","{'en': 'banana', 'pt': 'banana'}","[('banana', 'en'), ('banana', 'pt')]",,
+fb5814dc-f021-4a7b-9d1d-f915783599a7,n,"{'en': 'banana', 'pt': 'banana'}","{'en': 'banana', 'pt': 'banana'}","{'en': 'banana', 'pt': 'banana'}",,
 836ad4c9-a6c7-4f78-a151-73df4f95dc80,Noun,"{'en': 'louse', 'pt': 'piolho'}","{'en': 'louse', 'pt': 'piolho'}",,,
 c9a3c10b-6b24-4630-9530-07df88a2fd2b,n,{'pt': 'banco'},{'pt': 'banco; mesa; soporte'},,,
 1d62e6b1-ad58-4a66-96a1-42b8b5d662e0,Noun,"{'en': 'horse', 'pt': 'cavalho'}","{'en': 'horse', 'pt': 'cavalho'}",,,
 34330419-dc42-43bc-ab6b-d5dc2d38c9f4,Verb,"{'en': 'throw', 'pt': 'jogar'}","{'en': 'throw', 'pt': 'jogar'}",,,
-c3226410-55bc-4a39-b5d5-665bccb6854d,v,{'pt': 'espalhar'},{'pt': 'espalhar; empurrar'},,,"{'pasu_8af74d2a-1563-4ce6-8093-50ac023117f5': ('Não indicativo',)}"
+c3226410-55bc-4a39-b5d5-665bccb6854d,v,{'pt': 'espalhar'},{'pt': 'espalhar; empurrar'},,,"{'pasu_8af74d2a-1563-4ce6-8093-50ac023117f5': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 dcfab601-614d-4575-a398-e017af602de9,Noun,"{'en': 'father', 'pt': 'pai'}","{'en': 'father', 'pt': 'pai'}",,,
-36fbdbda-1ed2-467b-bd58-07e8fc91c667,v,{'pt': 'balançar.na.rede'},{'pt': 'balançar na rede'},,,"{'kabʹëë_9688ec88-f529-4209-8733-51b35e8edfce': ('Não indicativo',)}"
-7d518733-f39a-48c8-aaca-fa05792a8534,n,{'pt': 'xerimbabo'},{'pt': 'xerimbabo'},,,"{'masããh_d3e5e124-59db-47e3-b010-06d79c06c710': ('Plural',)}"
+36fbdbda-1ed2-467b-bd58-07e8fc91c667,v,{'pt': 'balançar.na.rede'},{'pt': 'balançar na rede'},,,"{'kabʹëë_9688ec88-f529-4209-8733-51b35e8edfce': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+7d518733-f39a-48c8-aaca-fa05792a8534,n,{'pt': 'xerimbabo'},{'pt': 'xerimbabo'},,,"{'masããh_d3e5e124-59db-47e3-b010-06d79c06c710': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 1df41774-55b8-4973-9205-89e0e4227579,Adverb,"{'en': 'other', 'pt': 'outro'}","{'en': 'other', 'pt': 'outro'}",,,
 42ca101b-9b7b-44a3-bba8-06371025ae57,Noun,"{'en': 'bed', 'pt': 'cama'}","{'en': 'bed', 'pt': 'cama'}",,,
 65e77116-ae98-458d-adc0-4fe54f86f75c,par,{'pt': 'na.qual.de'},{'pt': 'na qualidade de; finalidade'},,,
 a9305d63-b9fb-4256-bac0-17c01afd996b,Noun,"{'en': 'fire.ant', 'pt': 'formiga.de.fogo'}","{'en': 'fireant', 'pt': 'formiga de fogo'}",,,
-11fdfbfa-53aa-48c9-aafc-e5d7e21ee9b4,n,{'pt': 'companheiro'},{'pt': 'companheiro'},,,"{'hataa_7341f5d4-0dea-4b5d-b519-76b8be9caaca': ('Plural',)}"
+11fdfbfa-53aa-48c9-aafc-e5d7e21ee9b4,n,{'pt': 'companheiro'},{'pt': 'companheiro'},,,"{'hataa_7341f5d4-0dea-4b5d-b519-76b8be9caaca': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 f2d07da7-9c0b-4bd0-831d-65b21f468c5e,Noun,{'en': 'centopéia'},,,,
 72733021-466a-4a16-94e5-d21941dcf352,Noun,"{'en': 'chili.pepper', 'pt': 'pimenta'}","{'en': 'chili pepper', 'pt': 'pimenta'}",,,
 b332b324-ee35-454a-b08f-5fd45203d43e,n,{'pt': 'tio'},{'pt': 'tio (irmão do pai)'},,,
@@ -174,10 +174,10 @@ c7a2c4a8-ff89-487f-864a-c17e145afd69,Noun,{'en': 'espécie de formiga'},,,,
 2b775815-ec9a-42e8-9363-9942211f79b4,Noun,{'en': 'surucuá'},,,,
 23c728ee-f682-4321-a428-e44f46b16f56,,"{'en': 'true', 'pt': 'verdade'}","{'en': 'true', 'pt': 'verdade'}",,,
 d952b179-0464-4d63-a82b-0f5454c00d36,Noun,{'en': 'umbigo'},,,,
-95d309a8-a9c1-4233-9460-e9a32e63560f,v p,{'pt': 'têm'},{'pt': 'têm; existir p.'},,,"{'enä_7325b2db-5108-4af0-a8cd-e247a9f21bba': ('Unspecified Variant',), 'anäng_87bfc426-0444-4acf-b0cd-90d0356238ad': ('Singular',), 'enʹyyh_cbe8134d-62cd-4d0d-9468-b2c7810b1282': ('Não indicativo plural',)}"
+95d309a8-a9c1-4233-9460-e9a32e63560f,v p,{'pt': 'têm'},{'pt': 'têm; existir p.'},,,"{'enä_7325b2db-5108-4af0-a8cd-e247a9f21bba': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'anäng_87bfc426-0444-4acf-b0cd-90d0356238ad': {'type': '_component-lexeme', 'variant-type': 'Singular'}, 'enʹyyh_cbe8134d-62cd-4d0d-9468-b2c7810b1282': {'type': '_component-lexeme', 'variant-type': 'Não indicativo plural'}}"
 3522cb26-4f57-44c7-a8cc-ac4d324a6079,Verb,{'en': 'go.downriver'},,,,
 4d203bd3-3f0f-4b32-ab99-b512db4caacf,Noun,"{'en': 'spear', 'pt': 'lança'}","{'en': 'spear', 'pt': 'lança'}",,,
-7644a77e-3284-4770-98db-81984eed5c1c,n,"{'en': 'tree', 'pt': 'árvore'}","{'en': 'tree', 'pt': 'árvore'}","[('tree', 'en'), ('árvore', 'pt')]",,"{'baah_1bbf905d-bed6-4e38-82d9-a99ca6472ddc': ('Plural',)}"
+7644a77e-3284-4770-98db-81984eed5c1c,n,"{'en': 'tree', 'pt': 'árvore'}","{'en': 'tree', 'pt': 'árvore'}","{'en': 'tree', 'pt': 'árvore'}",,"{'baah_1bbf905d-bed6-4e38-82d9-a99ca6472ddc': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 b616e164-3b19-4c85-a5f5-471cc1bcf48b,Noun,{'en': 'guariba'},,,,
 b73b7515-b3b9-455f-a50e-ae902d5e2a13,Noun,{'en': 'arraia'},,,,
 1f46caf8-3abc-4a6b-beb5-5554c6fd7c05,Verb,"{'en': 'fish.w.line', 'pt': 'pescar.cm.linha'}","{'en': 'fish (with line)', 'pt': 'pescar (com linha)'}",,,
@@ -185,38 +185,38 @@ b73b7515-b3b9-455f-a50e-ae902d5e2a13,Noun,{'en': 'arraia'},,,,
 35a53b96-a2d0-4e99-b500-b16d8f174a1b,Noun,{'en': 'solo'},,,,
 a4aea16f-64e1-4bdc-8411-ad2ed5a6900c,v,{'pt': 'bater.vento'},{'pt': 'bater vento; acenar com a mão'},,,
 113550bd-0759-4e15-b2a5-049956cbc1b5,,"{'en': 'sick', 'pt': 'doente'}","{'en': 'sick', 'pt': 'doente'}",,,
-31005f5c-fc42-4d7e-bfc2-ce2205c6c02a,Noun,{'en': 'grandmother'},,,,"{'hoːɲ_12c41686-e869-484c-9271-c446bb344e90': ('Spelling Variant', 'Martins 2005; avó')}"
+31005f5c-fc42-4d7e-bfc2-ce2205c6c02a,Noun,{'en': 'grandmother'},,,,"{'hoːɲ_12c41686-e869-484c-9271-c446bb344e90': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; avó'}}"
 ba0f6a91-81d7-49e3-be04-7eeb0297efb0,n,{'pt': 'cipó.sp'},{'pt': 'esp. de cipó'},,,
 ee28e349-2c82-4d8c-964e-f023c132303d,Noun,"{'en': 'armpit', 'pt': 'axila'}","{'en': 'armpit', 'pt': 'axila'}",,,
 9b56016f-db2a-4a00-bf9e-6b98f74cc95b,Noun,"{'en': 'sauva', 'pt': 'saúva'}","{'en': 'sauva', 'pt': 'saúva'}",,,
 bcee88ee-f31a-46c1-915d-8bcaede552b7,Noun,{'en': 'mosquito'},,,,
-44dd6e4d-adc5-406d-9014-f21b3fff5bbd,v,{'pt': 'deixar'},{'pt': 'deixar'},,,"{'eréd_e2d456f2-b58b-42af-8dfb-538033b5131b': ('Não indicativo',)}"
+44dd6e4d-adc5-406d-9014-f21b3fff5bbd,v,{'pt': 'deixar'},{'pt': 'deixar'},,,"{'eréd_e2d456f2-b58b-42af-8dfb-538033b5131b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 ba35b885-67b8-42fc-9792-c3e8ff5f2f1e,Noun,"{'en': 'chicha', 'pt': 'caxiri'}","{'en': 'chicha (manioc beer)', 'pt': 'caxiri; chicha de mandioca'}",,,
 b6bb5c0e-0f82-44d6-94fe-a7c2d106d127,?,{'pt': '?'},,,,
 b71f8e84-f4a4-49b2-8f8b-e4e22f4e5fc6,n,{'pt': 'lambe.olhos'},{'pt': 'esp. de inseto (lambe-olhos)'},,,
 8054291c-6943-4437-8a8c-1bc5c59d0fb4,Noun,"{'en': 'feather.headdress', 'pt': 'cangatara'}","{'en': 'feather headdress', 'pt': 'enfeite de penas; cangatara'}",,,
 3fa066c6-2cc5-4ef0-821a-7b7cebd84252,n,{'pt': 'chifre'},{'pt': 'chifre'},,,
-5877717c-b38c-4b01-a40f-bf7b85770b22,Noun,"{'en': 'beans', 'pt': 'feijão'}","{'en': 'beans', 'pt': 'feijão'}","[('feijão', 'pt'), ('beans', 'en')]",,
+5877717c-b38c-4b01-a40f-bf7b85770b22,Noun,"{'en': 'beans', 'pt': 'feijão'}","{'en': 'beans', 'pt': 'feijão'}","{'pt': 'feijão', 'en': 'beans'}",,
 315b8253-768b-4e27-958a-67d3a274e4ce,Noun,{'en': 'espécie de cobra'},,,,
-cb6e0add-0958-4286-a975-1f7436e47ba6,v,{'pt': 'derrubar'},{'pt': 'derrubar árvores; fazer roça'},,,"{'agʹëëm_6c7780ef-c5f7-4b37-aeb1-04d62d9fcad3': ('Plural',), 'agëëw_fed1af91-ed98-4f70-8102-6ace3ab29b77': ('Não indicativo',)}"
+cb6e0add-0958-4286-a975-1f7436e47ba6,v,{'pt': 'derrubar'},{'pt': 'derrubar árvores; fazer roça'},,,"{'agʹëëm_6c7780ef-c5f7-4b37-aeb1-04d62d9fcad3': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'agëëw_fed1af91-ed98-4f70-8102-6ace3ab29b77': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 f4a48a32-b937-40f5-bc30-b63c9b147668,Noun,{'en': 'fogo'},,,,
 2cf0af13-a581-44af-8efa-53491821bdcb,Verb,{'en': 'tocar flauta; forma marcada'},,,,
 4f28851e-1c45-48d6-a628-c0f98b840ed6,v,{'pt': '?'},{'pt': '?'},,,
 c885426e-5fbe-48a4-8b7b-731f2c04eccc,Noun,"{'en': 'large.drum', 'pt': 'tambor.grande'}","{'en': 'drum (large signal)', 'pt': 'tambor grande'}",,,
-4dfc33d6-18cb-42d0-ac07-83fa43d80266,,"{'en': 'eye', 'pt': 'olho'}","{'en': 'eye', 'pt': 'olho'}",,"('(ji) matym', 'grammar')",
+4dfc33d6-18cb-42d0-ac07-83fa43d80266,,"{'en': 'eye', 'pt': 'olho'}","{'en': 'eye', 'pt': 'olho'}",,{'grammar': '(ji) matym'},
 342e53f6-409d-440d-a08f-0915cce2e678,n,{'pt': 'pimenta'},{'pt': 'pimenta'},,,
 73d6af73-d8d9-4e0f-a1a3-57898a23cf41,n,{'pt': 'abiu'},{'pt': 'esp. de árvore/fruta (abiu)'},,,
 476c7bd5-b1bc-48c0-9d80-a0878f5be183,Noun,{'en': 'caibro'},,,,
 9a719628-d2e0-4766-a5a5-4f76a9aec468,Verb,{'en': 'want'},,,,
 1437ba31-e115-4332-a0f1-841dd59837a6,Verb,{'pt': 'benzer'},{'pt': 'benzer'},,,
 17ffc5b1-8803-4b0c-be28-8aa42432cfcd,?,{'pt': '?'},{'pt': '?'},,,
-7dcc9d37-24d1-443d-baa0-f0e869a73880,Noun,"{'en': 'vine', 'pt': 'cipó'}","{'en': 'vine', 'pt': 'cipó'}","[('vine', 'en'), ('cipó', 'pt')]",,
-0f54e79a-55e6-42a4-8d23-a909fd2bb52f,v,{'pt': 'encontrar'},{'pt': 'encontrar'},,,"{'awyyd_98bfe604-99a5-4e00-b2b6-35b535dd8535': ('Não indicativo',)}"
+7dcc9d37-24d1-443d-baa0-f0e869a73880,Noun,"{'en': 'vine', 'pt': 'cipó'}","{'en': 'vine', 'pt': 'cipó'}","{'en': 'vine', 'pt': 'cipó'}",,
+0f54e79a-55e6-42a4-8d23-a909fd2bb52f,v,{'pt': 'encontrar'},{'pt': 'encontrar'},,,"{'awyyd_98bfe604-99a5-4e00-b2b6-35b535dd8535': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 67c332e6-9e7c-4da6-a3cd-36feba618322,Noun,{'en': 'distância'},,,,
 097cba48-5a3b-43b6-9b56-37d8060efb00,Verb,"{'en': 'squeeze', 'pt': 'espremer'}","{'en': 'squeeze', 'pt': 'espremer'}",,,
 ea81e9aa-29dc-424f-8f46-b004cb0d4c84,v?,{'pt': '?'},{'pt': '?'},,,
 cbfe62a9-8104-4198-b7b9-17425b60f145,,,,,,
-13d917cc-9f14-4a79-962c-832df62443ac,Noun,"{'en': 'achiote; Bixa orellana', 'pt': 'urucum; Bixa orellana'}","{'en': 'achiote', 'pt': 'urucum'}","[('urucum', 'pt'), ('achiote', 'en')]",,
+13d917cc-9f14-4a79-962c-832df62443ac,Noun,"{'en': 'achiote; Bixa orellana', 'pt': 'urucum; Bixa orellana'}","{'en': 'achiote', 'pt': 'urucum'}","{'pt': 'urucum', 'en': 'achiote'}",,
 8ae5181b-cda7-4e3c-baa8-8ae86830291c,Noun,{'en': 'caju'},,,,
 dab0ecc1-ad16-432a-a1aa-ab00d62e355a,v?,{'pt': '?'},{'pt': '?'},,,
 50faa7ec-22a0-4275-98da-c42da8f74b49,Noun,"{'en': 'pat.uncle', 'pt': 'tio paterno'}","{'en': 'paternal uncle', 'pt': 'tio paterno'}",,,
@@ -248,32 +248,32 @@ ca80116d-2820-40c9-9cb0-b8778d1876e1,,"{'en': 'NMRL:3', 'pt': 'NMRL:3'}","{'en':
 2dc97e07-7a50-4b60-9c45-06506daa7bbc,Noun,"{'en': 'roof.thatch.palm', 'pt': 'caraná'}","{'en': 'palm for roof thatch', 'pt': 'caraná'}",,,
 a955cc38-8e49-4f30-b38f-938eed9ecacc,Noun,"{'en': 'mat.aunt', 'pt': 'tia materna'}","{'en': 'maternal aunt', 'pt': 'tia materna'}",,,
 54f1c665-1b46-4363-9617-61dcfd708da1,n,{'pt': 'camundongo'},{'pt': 'camundongo'},,,
-6d44c7c4-3bcc-4f96-843a-22907d1b941d,n,"{'en': 'ucuqui', 'pt': 'ucuqui'}","{'en': 'ucuqui', 'pt': 'ucuqui'}","[('ucuqui', 'en'), ('ucuqui', 'pt')]",,
+6d44c7c4-3bcc-4f96-843a-22907d1b941d,n,"{'en': 'ucuqui', 'pt': 'ucuqui'}","{'en': 'ucuqui', 'pt': 'ucuqui'}","{'en': 'ucuqui', 'pt': 'ucuqui'}",,
 477e6ffe-d8c1-4195-ae84-7a5d6279e634,Verb,"{'en': 'be.alive', 'pt': 'estar.vivo'}","{'en': 'be alive', 'pt': 'estar vivo'}",,,
 8477b726-76d0-4630-9a39-a67f1840cdb1,Noun,"{'en': 'duck', 'pt': 'pato'}","{'en': 'duck', 'pt': 'pato'}",,,
-01b184a8-ee9b-4f84-85b6-ae1dcafd9c1f,v,{'pt': 'estar.com.prisa'},{'pt': 'estar com prisa'},,,"{'hʹyy kajóh_41a3ada6-f6f8-47fe-9b36-cea84bd65459': ('Não indicativo',)}"
+01b184a8-ee9b-4f84-85b6-ae1dcafd9c1f,v,{'pt': 'estar.com.prisa'},{'pt': 'estar com prisa'},,,"{'hʹyy kajóh_41a3ada6-f6f8-47fe-9b36-cea84bd65459': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 893e8de4-9a30-4b6f-ac35-447491dd3cf8,n op,{'pt': 'lado'},{'pt': 'lado'},,,
 03e6f82a-7611-4839-bd55-ca2a21c0f20b,?,{'en': 'bem assado'},,,,
 f354e744-876b-4083-b01e-60028d0f77dc,Noun,"{'en': 'hallucinogenic.snuff', 'pt': 'paricá'}","{'en': 'hallucinogenic snuff', 'pt': 'paricá; yopo'}",,,
-0ef79b2f-85ed-4b7f-b5e4-d5b549e3111d,Noun,"{'en': 'rubber.tree', 'pt': 'seringueira'}","{'en': 'rubber tree', 'pt': 'seringueira'}","[('rubber tree', 'en'), ('seringueira', 'pt')]",,
+0ef79b2f-85ed-4b7f-b5e4-d5b549e3111d,Noun,"{'en': 'rubber.tree', 'pt': 'seringueira'}","{'en': 'rubber tree', 'pt': 'seringueira'}","{'en': 'rubber tree', 'pt': 'seringueira'}",,
 ee444718-1be5-4be0-a9d0-4313d0a7a7c8,Noun,"{'en': 'snail', 'pt': 'caracol'}","{'en': 'snail', 'pt': 'caracol'}",,,
 79d2e301-7bfd-4988-a779-174c6bb00c67,Noun,"{'en': 'mushroom', 'pt': 'cogumelo'}","{'en': 'mushroom', 'pt': 'cogumelo'}",,,
 42d42c73-2b27-4491-b344-2161dd12c409,Noun,{'en': 'shaman'},,,,
 b0d1e1b0-370b-46d9-9d8f-47e49e80aa7d,Noun,{'en': 'sister'},,,,
-fb412a69-3838-4492-87dd-2d5971e0cd4c,Noun,"{'en': 'sun', 'pt': 'sol'}","{'en': 'sun', 'pt': 'sol'}",,"('here any notes about meaning variants in texts?', '')",
-daf97cf6-d8a0-4504-93d9-e9e5ba4c5843,adv,"{'en': 'on', 'pt': 'em.cima'}","{'en': 'on', 'pt': 'em cima'}",,"('Fieldnotes Epps/Obert; 2018', 'bibliography')",
+fb412a69-3838-4492-87dd-2d5971e0cd4c,Noun,"{'en': 'sun', 'pt': 'sol'}","{'en': 'sun', 'pt': 'sol'}",,{'Note': 'here any notes about meaning variants in texts?'},
+daf97cf6-d8a0-4504-93d9-e9e5ba4c5843,adv,"{'en': 'on', 'pt': 'em.cima'}","{'en': 'on', 'pt': 'em cima'}",,{'bibliography': 'Fieldnotes Epps/Obert; 2018'},
 b2381743-f8f7-4b32-b7c1-f8203f6f3261,Noun,"{'en': 'back', 'pt': 'costas'}","{'en': 'back', 'pt': 'costas'}",,,
 559c521f-3b95-4108-8659-26f41a622fab,Noun,"{'en': 'tapioca.starch', 'pt': 'goma.de.tapioca'}","{'en': 'starch (tapioca; other)', 'pt': 'goma de tapioca'}",,,
 52fae732-8d15-4f01-a9f0-41c450dbcc2f,Pronoun,"{'en': '2SG', 'pt': '2SG'}","{'en': 'you', 'pt': 'você'}",,,
 3a2bf46f-772c-4af4-8cf4-9c12bf26ef00,Verb,{'en': 'be.dirty'},,,,
-1fac5b2e-aea1-4a02-9450-9d9f9c569943,n,{'pt': 'curupira'},{'pt': 'esp. de espírito (curupira)'},,,"{'rahana_9124a74d-9b78-4331-acbf-99f4a85482e2': ('Unspecified Variant',)}"
+1fac5b2e-aea1-4a02-9450-9d9f9c569943,n,{'pt': 'curupira'},{'pt': 'esp. de espírito (curupira)'},,,"{'rahana_9124a74d-9b78-4331-acbf-99f4a85482e2': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 96a1f748-5b3d-4976-8903-e1f536a20685,adv?,{'en': 'yesterday'},,,,
 1bb8c657-ebc7-4baf-a2af-7a84d04bf789,Noun,{'en': 'tapuru'},,,,
-69c3e3d8-7d77-4e76-ba73-ae45869eba44,n,"{'en': 'seje.palm', 'pt': 'patauá'}","{'en': 'seje palm', 'pt': 'patauá'}","[('patauá', 'pt'), ('seje palm', 'en')]",,
+69c3e3d8-7d77-4e76-ba73-ae45869eba44,n,"{'en': 'seje.palm', 'pt': 'patauá'}","{'en': 'seje palm', 'pt': 'patauá'}","{'pt': 'patauá', 'en': 'seje palm'}",,
 aff1e536-598d-40b6-bdd7-9a0374155414,posp,"{'en': 'in', 'pt': 'dentro'}","{'en': 'in', 'pt': 'dentro'}",,,
 d86d7892-a9dd-4711-bde6-a91c478f0b29,Verb,"{'en': 'lie.down', 'pt': 'deitar.chão'}","{'en': 'lie down (ground)', 'pt': 'deitar no chão'}",,,
 8514105d-85ef-4e8d-b4af-d88e0e619b08,Noun,{'en': 'bacaba'},,,,
-d2c9ce0b-546e-43b9-a0e7-7e44fd4015d9,adj?,"{'en': 'right', 'pt': 'direito'}","{'en': 'right', 'pt': 'direito'}",,"('right arm', 'semantics')",
+d2c9ce0b-546e-43b9-a0e7-7e44fd4015d9,adj?,"{'en': 'right', 'pt': 'direito'}","{'en': 'right', 'pt': 'direito'}",,{'semantics': 'right arm'},
 3a98b7ec-cc98-47f2-93f7-51cdce1288a4,Verb,{'en': 'exist'},,,,
 d73132b7-a04f-4f16-9bfd-c1fb641a572b,Noun,"{'en': 'bone', 'pt': 'osso'}","{'en': 'bone', 'pt': 'osso'}",,,
 e8d5b466-564e-48b0-8fb0-8f1694a5bac2,Noun,{'en': 'paca'},,,,
@@ -281,7 +281,7 @@ bea45299-150a-4803-a691-dec03ee04a56,Verb,{'en': 'arrancar'},,,,
 93c83df7-d344-4e25-a4da-d3967f4e2261,n,"{'en': 'carana.leaf', 'pt': 'folha;caraná'}","{'en': 'carana leaf', 'pt': 'folha de caraná'}",,,
 a94a5328-8617-4879-a786-42ceb1a0493b,posp op,{'pt': 'com'},{'pt': 'com; ao mismo tempo'},,,
 23800307-c0e3-4964-99d4-fbdf66533a9d,Noun,{'en': 'açaí'},,,,
-81cd25b1-644e-410e-99c6-b16a0bf88e44,Noun,"{'en': 'arrow.cane', 'pt': 'cana.para.flechas'}","{'en': 'arrow cane', 'pt': 'cana para flecha'}","[('cana para flechas', 'pt'), ('arrow cane', 'en')]",,
+81cd25b1-644e-410e-99c6-b16a0bf88e44,Noun,"{'en': 'arrow.cane', 'pt': 'cana.para.flechas'}","{'en': 'arrow cane', 'pt': 'cana para flecha'}","{'pt': 'cana para flechas', 'en': 'arrow cane'}",,
 c36bb89d-00db-425c-b65e-c38171ca9e29,Noun,"{'en': 'owl', 'pt': 'coruja'}","{'en': 'owl', 'pt': 'coruja'}",,,
 9b14e810-f57a-4971-9f55-079ec8d00c49,n,{'pt': 'tia'},{'pt': 'tia; irmã de mãe'},,,
 15a7f818-801a-4e3d-8a36-d10a4c1ced69,Verb,{'en': 'ir para o porto (pl wʌ̰ːɲ)'},,,,
@@ -290,17 +290,17 @@ c36bb89d-00db-425c-b65e-c38171ca9e29,Noun,"{'en': 'owl', 'pt': 'coruja'}","{'en'
 7b63a098-c903-4a56-8c78-37a2026696a5,Verb,{'en': 'stop.to.rest'},,,,
 e6913542-93c7-4295-bd41-d28397f714d6,?,{'pt': '?'},{'pt': '?'},,,
 977d8588-e430-4c62-a415-24496dff5e0e,Noun,"{'en': 'tattoo', 'pt': 'tatuagem'}","{'en': 'tattoo', 'pt': 'tatuagem'}",,,
-80399299-65ed-4736-a370-954faf01dad7,v,{'pt': 'alegre'},{'pt': 'alegre'},,,"{'tsebee_5d57c0a2-1c6e-414c-bb6f-95d298c46385': ('Não indicativo',)}"
+80399299-65ed-4736-a370-954faf01dad7,v,{'pt': 'alegre'},{'pt': 'alegre'},,,"{'tsebee_5d57c0a2-1c6e-414c-bb6f-95d298c46385': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 131ef9f8-6924-4dcd-aca2-95649bc19992,Noun,{'en': 'rolinha'},,,,
 4d5986eb-80cc-4290-ba32-6a5c0bf242ce,Verb,{'en': 'be.many (n.i. yõoh)'},,,,
-ea5a29cc-72ea-4e5c-a30e-950944984663,v,{'pt': 'fazer.dabucurí'},{'pt': 'fazer dabucurí'},,,"{'hehok_236c790d-119c-4355-a51b-357e4b32db4d': ('Habitual',), 'ahoog_86909127-d6a9-47da-afae-0e5865240388': ('Não indicativo',)}"
+ea5a29cc-72ea-4e5c-a30e-950944984663,v,{'pt': 'fazer.dabucurí'},{'pt': 'fazer dabucurí'},,,"{'hehok_236c790d-119c-4355-a51b-357e4b32db4d': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'ahoog_86909127-d6a9-47da-afae-0e5865240388': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 05c4584e-1443-44fd-9486-3bc91caee603,Noun,"{'en': 'mosquito', 'pt': 'mosquito'}","{'en': 'mosquito', 'pt': 'mosquito; carapana'}",,,
-ba794672-8472-4124-b5f7-1edbb9cff671,v,{'pt': 'vender'},{'pt': 'vender'},,,"{'esëëm_16100f6e-6631-4c79-a44b-51edf7117834': ('Não indicativo',)}"
+ba794672-8472-4124-b5f7-1edbb9cff671,v,{'pt': 'vender'},{'pt': 'vender'},,,"{'esëëm_16100f6e-6631-4c79-a44b-51edf7117834': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 3177cdee-1741-4b37-82c7-6c7ffe9a60aa,Noun,"{'en': 'deer', 'pt': 'veado'}","{'en': 'deer', 'pt': 'veado; cariacu'}",,,
 96b1cb14-6139-46cc-9f56-c79855618866,n op,{'pt': 'comida'},{'pt': 'comida (sendo não carne nem eixe)'},,,
 cf8a0bc5-548b-4c32-86e6-a7ef047f07f1,n,{'pt': 'papai'},{'pt': 'papai'},,,
 2048e706-7de4-4538-bc0f-7f1b263c0806,Noun,"{'en': 'lung', 'pt': 'pulmão'}","{'en': 'lung', 'pt': 'pulmão'}",,,
-2d320eec-efb1-4489-8abf-fbe5892aae3f,v,{'pt': 'dançar.no.dabucurí'},{'pt': 'dançar no dabucuri'},,,"{'asʹããm_99362fa3-10cc-4f03-a0ce-6e14fa37d7c0': ('Plural',)}"
+2d320eec-efb1-4489-8abf-fbe5892aae3f,v,{'pt': 'dançar.no.dabucurí'},{'pt': 'dançar no dabucuri'},,,"{'asʹããm_99362fa3-10cc-4f03-a0ce-6e14fa37d7c0': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 d77f95a1-7fb5-4d01-8bb9-fcdac0f24568,adv?,{'en': 'slowly'},,,,
 0a18fae4-f308-447d-a40d-7f39d3cfecdd,,"{'en': 'intestines', 'pt': 'intestino'}","{'en': 'intestines', 'pt': 'intestino'}",,,
 94c8ba0f-9835-4903-b693-5ae769bc6a53,n,{'pt': 'lontra.sp'},{'pt': 'esp. de lontra'},,,
@@ -314,8 +314,8 @@ a4987c29-e90e-401a-8e77-c45e82ec9b5c,v,{'pt': 'secar'},{'pt': 'secar'},,,
 a69cd9ca-864f-47d5-af8f-a4ecc897c809,Noun,{'en': 'sobrinha'},,,,
 903adfbe-343b-4267-b1a1-10e5581a01b6,pre,"{'en': 'inside.of', 'pt': 'dentro'}",,,,
 80053013-c657-44d3-8d22-0da572795c66,Noun,"{'en': 'soil', 'pt': 'terra'}","{'en': 'soil', 'pt': 'terra'}",,,
-83d91993-9d85-4caf-a5cc-3b4a6de77067,v,"{'en': 'thin', 'pt': 'fino'}","{'en': 'thin', 'pt': 'fino'}",,"('for humans?', 'semantics')",
-5e258d04-075c-4fb5-96a5-c8798ff6952f,v p,{'pt': 'tirar'},{'pt': 'tirar; capinar'},,,"{'asog_87882610-dbd6-4886-8420-10e5264fbfd6': ('Não indicativo',), 'adoo _ffb10994-9087-43c5-a1e5-3f3380e7547a': ('Singular',)}"
+83d91993-9d85-4caf-a5cc-3b4a6de77067,v,"{'en': 'thin', 'pt': 'fino'}","{'en': 'thin', 'pt': 'fino'}",,{'semantics': 'for humans?'},
+5e258d04-075c-4fb5-96a5-c8798ff6952f,v p,{'pt': 'tirar'},{'pt': 'tirar; capinar'},,,"{'asog_87882610-dbd6-4886-8420-10e5264fbfd6': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'adoo _ffb10994-9087-43c5-a1e5-3f3380e7547a': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
 4206a1ef-2c25-4191-bcc9-85cae9d60a8d,Verb,{'en': 'be.in.movement.MULT (pl?)'},,,,
 5d8ff8df-f180-4f41-a5fb-8fb50f018ec0,Noun,{'en': 'espécie de fruta silvestre'},,,,
 8c1aad7d-4892-42d9-ae54-1bb16ebcef00,?,{'pt': '?'},{'pt': '?'},,,
@@ -323,18 +323,18 @@ a69cd9ca-864f-47d5-af8f-a4ecc897c809,Noun,{'en': 'sobrinha'},,,,
 62285e6e-c5d7-4c31-a345-f82637101376,suf,{'pt': 'ADV'},{'pt': 'sufixo adverbial'},,,
 7e68776b-8660-4a6d-bafa-6fc04b4c9f3c,?,{'en': 'tecido'},,,,
 07ecff83-e944-42d5-b2df-8c6f1b64d368,n,"{'en': 'traira.fish', 'pt': 'traíra'}","{'en': 'traira fish', 'pt': 'traira'}",,,
-c182021e-4e21-4bef-8a36-872fd3dfca47,v,{'pt': 'pedir'},{'pt': 'pedir; comprar'},,,"{'etsʹẽẽ_4cc08e25-0d5f-42c1-ad63-075b211df095': ('Não indicativo',)}"
+c182021e-4e21-4bef-8a36-872fd3dfca47,v,{'pt': 'pedir'},{'pt': 'pedir; comprar'},,,"{'etsʹẽẽ_4cc08e25-0d5f-42c1-ad63-075b211df095': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 353e48ef-4d93-42c5-858c-3c3e323b753d,Noun,{'en': 'espécie de gafanhoto'},,,,
 5da179b1-99a9-4303-8ff3-6f45db72be24,Noun,"{'en': 'disposable.basket', 'pt': 'cesto.descartável'}","{'en': 'basket; generic/disposable', 'pt': 'cesto descartável'}",,,
 d5260a10-522d-4ebb-bad3-a7b77381e7c5,par,"{'en': 'NEG', 'pt': 'NEG'}","{'en': 'no', 'pt': 'não; algo inexistente; egativo'}",,,
-5815ae25-464e-47cd-885c-0f3ead580498,v,{'pt': 'aleijado'},{'pt': 'aleijado'},,,"{'tsyym saä̃g_97e34555-4d0b-4147-8a9a-70e47767437c': ('Não indicativo',)}"
-e24b937d-f986-4e73-a3bd-5b6b59a0a01a,adj,"{'en': 'big', 'pt': 'grande'}","{'en': 'big', 'pt': 'grande'}",,,"{'aeeh_09e8dc25-0156-4bd0-991f-71b4cf82372a': ('Não indicativo',), 'aee_3d4097da-3f43-4698-ba2e-27aa24c0da6b': ('Não indicativo',)}"
-0cd8054f-f383-43b9-a8f7-77956756bf4c,adj,"{'en': 'thick', 'pt': 'grosso'}","{'en': 'thick', 'pt': 'grosso'}",,"(""for sticks; see entry ''e baan' - thick for fabrics; leafs etc"", 'semantics')",
+5815ae25-464e-47cd-885c-0f3ead580498,v,{'pt': 'aleijado'},{'pt': 'aleijado'},,,"{'tsyym saä̃g_97e34555-4d0b-4147-8a9a-70e47767437c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+e24b937d-f986-4e73-a3bd-5b6b59a0a01a,adj,"{'en': 'big', 'pt': 'grande'}","{'en': 'big', 'pt': 'grande'}",,,"{'aeeh_09e8dc25-0156-4bd0-991f-71b4cf82372a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'aee_3d4097da-3f43-4698-ba2e-27aa24c0da6b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+0cd8054f-f383-43b9-a8f7-77956756bf4c,adj,"{'en': 'thick', 'pt': 'grosso'}","{'en': 'thick', 'pt': 'grosso'}",,"{'semantics': ""for sticks; see entry ''e baan' - thick for fabrics; leafs etc""}",
 5c4087cc-f303-484d-aa07-5c1b30efbcae,Noun,"{'en': 'smoke', 'pt': 'fumaça'}","{'en': 'smoke', 'pt': 'fumaça'}",,,
 86d4ca5d-1c9f-4117-8774-ad915272b7c0,Noun,"{'en': 'wing', 'pt': 'asa'}","{'en': 'wing', 'pt': 'asa'}",,,
 f2f1944a-e78c-4316-b7bc-c3fc692bf253,Noun,{'en': 'macaco-prego'},,,,
 1d385f81-22c4-462b-a592-0f33f08e6469,Verb,{'en': 'estar.em.movimento'},,,,
-7d751aa3-1b35-4a2a-9c4b-60a29dcba06a,Noun,"{'en': 'cotton', 'pt': 'algodão'}","{'en': 'cotton', 'pt': 'algodão'}","[('cotton', 'en'), ('algodão', 'pt')]",,
+7d751aa3-1b35-4a2a-9c4b-60a29dcba06a,Noun,"{'en': 'cotton', 'pt': 'algodão'}","{'en': 'cotton', 'pt': 'algodão'}","{'en': 'cotton', 'pt': 'algodão'}",,
 384ceb20-ad1e-49e0-9735-8dae2ec53394,Noun,"{'en': 'snake', 'pt': 'cobra'}","{'en': 'sanke (generic)', 'pt': 'cobra (generico)'}",,,
 1ea34d7f-91ac-4226-baeb-2754b4dfddc4,v?,{'pt': '?'},{'pt': '?'},,,
 6477dcb2-a559-4f61-96b5-a8d8a8772f12,n,"{'en': 'night', 'pt': 'noite'}","{'en': 'night', 'pt': 'noite'}",,,
@@ -342,7 +342,7 @@ f2f1944a-e78c-4316-b7bc-c3fc692bf253,Noun,{'en': 'macaco-prego'},,,,
 9bc0787b-776f-4b24-a29b-4627de52eabe,n,"{'en': 'tooth', 'pt': 'dente'}","{'en': 'tooth', 'pt': 'dente'}",,,
 00dc1fc9-9d03-4ae0-baf4-8f3a229ba4b1,n,"{'en': 'key', 'pt': 'chave'}","{'en': 'key', 'pt': 'chave'}",,,
 81d67c22-186f-4d2e-9791-90a4682266aa,Noun,"{'en': 'mother.in.law', 'pt': 'sogra'}","{'en': 'mother-in-law', 'pt': 'sogra'}",,,
-55535f72-0df3-46a6-afb5-b7548ad7a287,v p,{'pt': 'andar'},{'pt': 'andar; viver; estar em movi- ento'},,,"{'aboo_35be7096-61b9-46e8-a14b-3a6eedcc31c8': ('Não indicativo',), 'wät1_5d09351b-974c-44f1-80d1-83bd54c0c5c3': ('Singular',), 'abooh_75980a60-b041-4e09-8baa-7c31b0755126': ('Não indicativo',), 'abong_b38517f0-46a2-413f-8d38-3a185a63b3c6': ('Plural',)}"
+55535f72-0df3-46a6-afb5-b7548ad7a287,v p,{'pt': 'andar'},{'pt': 'andar; viver; estar em movi- ento'},,,"{'aboo_35be7096-61b9-46e8-a14b-3a6eedcc31c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'wät1_5d09351b-974c-44f1-80d1-83bd54c0c5c3': {'type': '_component-lexeme', 'variant-type': 'Singular'}, 'abooh_75980a60-b041-4e09-8baa-7c31b0755126': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'abong_b38517f0-46a2-413f-8d38-3a185a63b3c6': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 1257c87a-bca7-4f96-9f23-e98772692f8a,n,{'pt': 'peixe-boi'},{'pt': 'peixe-boi'},,,
 45b0137d-a66c-4ac8-a568-1066226e1749,Noun,"{'en': 'curupira', 'pt': 'Curupira'}","{'en': 'Curupira (spirit type)', 'pt': 'Curupira'}",,,
 2f840eec-5f8d-4099-90d0-1da260eb302d,Noun,"{'en': 'macaw.red', 'pt': 'arara.vermelha'}","{'en': 'red macaw', 'pt': 'arara vermelha'}",,,
@@ -354,7 +354,7 @@ a14e86f8-3666-4562-9285-69f3cb6616c1,Verb,"{'en': 'dream', 'pt': 'sonhar'}","{'e
 1f28a180-d670-4a3c-b78d-affe87b98f8a,Verb,"{'en': 'count', 'pt': 'contar'}","{'en': 'count', 'pt': 'contar'}",,,
 16ea75bd-34bc-4cde-9c54-17f1298a64d9,v,{'pt': 'bater.em.metal'},{'pt': 'bater em metal (por exemplo batendo cano de espingarda)'},,,
 657465a3-bc4a-4209-974c-7a28d5cadc63,Noun,"{'en': 'pottery.tree', 'pt': 'caraipe'}","{'en': 'pottery tree', 'pt': 'caraipe'}",,,
-3b6f5fe3-dce5-49c1-a7b0-7fdc5314b007,,"{'en': 'NMRL10', 'pt': 'NMRL10'}","{'en': 'ten', 'pt': 'dez'}",,"('Fieldnotes Epps/Obert; 2018', 'bibliography')",
+3b6f5fe3-dce5-49c1-a7b0-7fdc5314b007,,"{'en': 'NMRL10', 'pt': 'NMRL10'}","{'en': 'ten', 'pt': 'dez'}",,{'bibliography': 'Fieldnotes Epps/Obert; 2018'},
 4907135e-b016-4fa8-b248-cf346ed5b146,Verb,{'en': 'dar (nɔ̃ʔ inf.; nɔ̰̃ːʔ n.i.)'},,,,
 045768b1-0ece-4ba6-be9e-5d5d48363dea,Noun,"{'en': 'incantation', 'pt': 'benzimento'}","{'en': 'incantation', 'pt': 'benzimento'}",,,
 40d6fa03-71b8-4dc8-8b0e-48637f1caa20,Noun,"{'en': 'tick', 'pt': 'carrapato'}","{'en': 'large white tick', 'pt': 'carrapato grande e branco'}",,,
@@ -365,15 +365,15 @@ d921a3d7-8633-41bd-a115-4c3c4eb18724,v?,{'pt': '?'},{'pt': '?'},,,
 3313f063-f11e-42fa-8245-db61f737cbd3,Noun,"{'en': 'bat', 'pt': 'morçego'}","{'en': 'bat', 'pt': 'morçcgo'}",,,
 51c7984c-72b2-48b7-8a3c-2175df367d62,Noun,{'en': 'veado'},,,,
 9bc52c52-a082-4024-8c95-1b2b4d904241,Noun,"{'en': 'niece/nephew', 'pt': 'sobrinha/o'}","{'en': 'niece/nephew', 'pt': 'sobrinha/o'}",,,
-7b2f74a2-1187-430f-883d-bc7461515afc,Noun,"{'en': 'cashew', 'pt': 'cajú'}","{'en': 'cashew', 'pt': 'cajú'}","[('cashew', 'en'), ('cajú', 'pt')]",,
-c3f32943-c934-4eb8-81e2-f360e8cc9a6c,Noun,"{'en': 'paxiuba.palm', 'pt': 'paxiuba'}","{'en': 'paxiuba palm', 'pt': 'paxiuba'}","[('paxiuba', 'pt'), ('paxiuba palm', 'en')]",,
+7b2f74a2-1187-430f-883d-bc7461515afc,Noun,"{'en': 'cashew', 'pt': 'cajú'}","{'en': 'cashew', 'pt': 'cajú'}","{'en': 'cashew', 'pt': 'cajú'}",,
+c3f32943-c934-4eb8-81e2-f360e8cc9a6c,Noun,"{'en': 'paxiuba.palm', 'pt': 'paxiuba'}","{'en': 'paxiuba palm', 'pt': 'paxiuba'}","{'pt': 'paxiuba', 'en': 'paxiuba palm'}",,
 63986365-842d-4708-900f-3c42b0528883,Noun,{'en': 'espécie de pássaro'},,,,
 c167f6d7-0a6f-4e25-a80a-eae502a5ef7e,Noun,"{'en': 'maize', 'pt': 'milho'}","{'en': 'maize; corn', 'pt': 'milho'}",,,
 9e2ec90f-459c-456d-ac20-b78398cf24c1,Noun,{'en': 'formiga.sp'},,,,
 a65360c9-d8b4-4ffa-af97-987dd1ddbe3e,n,"{'en': 'rope', 'pt': 'corda'}","{'en': 'rope', 'pt': 'corda'}",,,
 6a8029f8-5e8f-4bbe-b7fd-025a68c5817c,n,"{'en': 'hanging.vine', 'pt': 'cipó'}","{'en': 'hanging vine', 'pt': 'cipó'}",,,
 3c8fd640-4ed2-4cb7-ab5b-7ecf87503e1e,n,{'pt': 'sobrinho'},{'pt': 'sobrinho (meu sobrinho)'},,,
-2b876c4a-2d5a-471a-a400-fc7b2675aba1,Noun,"{'en': 'coca', 'pt': 'ipadu'}","{'en': 'coca', 'pt': 'ipadu'}","[('coca', 'en'), ('ipadu', 'pt')]",,
+2b876c4a-2d5a-471a-a400-fc7b2675aba1,Noun,"{'en': 'coca', 'pt': 'ipadu'}","{'en': 'coca', 'pt': 'ipadu'}","{'en': 'coca', 'pt': 'ipadu'}",,
 580f13e7-b59e-4ea4-9832-41b0a5cf8323,Verb,{'en': 'coçar'},,,,
 176decf8-595f-47a6-9543-1a421d970c1d,Noun,{'en': 'canoa'},,,,
 93667167-4a3e-4a1b-b26b-d9cf1bb28821,Noun,"{'en': 'fingernail', 'pt': 'unha'}","{'en': 'fingernail', 'pt': 'unha'}",,,
@@ -381,8 +381,8 @@ a65360c9-d8b4-4ffa-af97-987dd1ddbe3e,n,"{'en': 'rope', 'pt': 'corda'}","{'en': '
 5e17ffe9-a052-4a24-9f2a-47eedd59e6e8,Noun,"{'en': 'cuati', 'pt': 'cuati'}","{'en': 'cuati', 'pt': 'cuati'}",,,
 b603752a-2f5a-4530-9e2f-aeee071db61e,Noun,"{'en': 'chicha', 'pt': 'aluá'}","{'en': 'chicha(other alc. beverage)', 'pt': 'aluá'}",,,
 88a2695a-b53d-4cf6-936f-8d4ffb99ff56,Verb,{'en': 'be.in.hammock'},,,,
-06828f55-93eb-4a3a-9427-3a116cbdfc2b,Noun,"{'en': 'kapok', 'pt': 'sumaumeira'}","{'en': 'kapok', 'pt': 'sumaumeira'}","[('sumaumeira', 'pt'), ('kapok', 'en')]",,
-cb6d47ba-3006-458d-8367-cf3bcadcd4ed,v,{'pt': 'enterrado'},{'pt': 'enterrado; fixado dentro de; ixado em'},,,"{'akä_e3bbdea8-01c6-43f4-bf94-d8fab2822864': ('Não indicativo',)}"
+06828f55-93eb-4a3a-9427-3a116cbdfc2b,Noun,"{'en': 'kapok', 'pt': 'sumaumeira'}","{'en': 'kapok', 'pt': 'sumaumeira'}","{'pt': 'sumaumeira', 'en': 'kapok'}",,
+cb6d47ba-3006-458d-8367-cf3bcadcd4ed,v,{'pt': 'enterrado'},{'pt': 'enterrado; fixado dentro de; ixado em'},,,"{'akä_e3bbdea8-01c6-43f4-bf94-d8fab2822864': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 dc0d035f-9396-4075-8a46-61cea3982ffc,Noun,{'en': 'japó'},,,,
 54ca8363-569b-4e6f-ae6a-dda192b53693,Verb,"{'en': 'hunt', 'pt': 'caçar'}","{'en': 'hunt', 'pt': 'caçar'}",,,
 d601e12b-bd07-41ed-bf67-c37d2f645b84,Noun,{'en': 'cuia'},,,,
@@ -398,27 +398,27 @@ cfa05186-d96a-4e0d-9a1b-455de773ffa4,Noun,"{'en': 'fence', 'pt': 'cerca'}","{'en
 0dd17887-8c82-4044-89f2-d01810b1a001,?,{'en': 'RLT(?)'},,,,
 e08317a8-6964-4524-981c-ee61e958a38a,n,{'pt': 'veneno'},{'pt': 'veneno'},,,
 9e7198b5-9370-4b5d-a19b-8dbe99b15e39,Noun,{'en': 'juice'},,,,
-6766b1ba-9d1c-4cda-b8d5-639662560974,v,{'pt': 'cabeça.apontada'},{'pt': 'ter uma cabeça/chapéu apontada'},,,"{'nu gesʹõõm_d6c8f2ab-2832-4af0-8120-e601cb6bbe5e': ('Causativo',)}"
+6766b1ba-9d1c-4cda-b8d5-639662560974,v,{'pt': 'cabeça.apontada'},{'pt': 'ter uma cabeça/chapéu apontada'},,,"{'nu gesʹõõm_d6c8f2ab-2832-4af0-8120-e601cb6bbe5e': {'type': '_component-lexeme', 'variant-type': 'Causativo'}}"
 62801980-7981-490f-89d1-8635452851b6,n op,{'pt': 'comida.farelo'},{'pt': 'farelo de comida'},,,
-41600425-e2dd-4ad8-98e7-8451ffe4dde6,v?,"{'en': 'belly', 'pt': 'barriga'}","{'en': 'belly', 'pt': 'barriga'}",,"('(ji) wog', 'grammar')",
-f31aaa4d-7201-4477-a98f-08f73eb6131e,Noun,"{'en': 'water.vine', 'pt': 'cipó.da.água'}","{'en': 'water vine', 'pt': 'cipó da água'}","[('cipó da água', 'pt'), ('water vine', 'en')]",,
+41600425-e2dd-4ad8-98e7-8451ffe4dde6,v?,"{'en': 'belly', 'pt': 'barriga'}","{'en': 'belly', 'pt': 'barriga'}",,{'grammar': '(ji) wog'},
+f31aaa4d-7201-4477-a98f-08f73eb6131e,Noun,"{'en': 'water.vine', 'pt': 'cipó.da.água'}","{'en': 'water vine', 'pt': 'cipó da água'}","{'pt': 'cipó da água', 'en': 'water vine'}",,
 99ccbac0-0468-4f25-9b11-5b138a73b9aa,Noun,"{'en': 'chicken', 'pt': 'galinha'}","{'en': 'chicken', 'pt': 'galinha'}",,,
 c4b9371a-0a90-4cae-ae40-f8f0339df952,Noun,"{'en': 'small.neotropical.otter', 'pt': 'lontra'}","{'en': 'Neotropical Otter (small)', 'pt': 'lontra'}",,,
-c09b6f87-1617-4190-ac03-1c5c32b1e87f,v,{'pt': 'choque'},{'pt': 'choque elétrico (escorpião; oraquê)'},,,"{'ejẽng_b646a9ff-5753-4793-9bd3-f980e9de5400': ('Não indicativo',)}"
+c09b6f87-1617-4190-ac03-1c5c32b1e87f,v,{'pt': 'choque'},{'pt': 'choque elétrico (escorpião; oraquê)'},,,"{'ejẽng_b646a9ff-5753-4793-9bd3-f980e9de5400': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 4aabaf78-573d-46c2-bc70-7997be11e1a0,DEM,{'en': 'DEM'},,,,
 f8004460-d3fe-4c66-bf50-ba9eba0950ee,?,{'pt': '?'},{'pt': '?'},,,
 434ef309-632e-4e3a-817f-91d4daa04d30,Noun,{'en': 'espécie de árvore'},,,,
-cb5a288a-7be4-4c63-b65b-7763c235b6d4,v,{'pt': 'fala'},{'pt': 'fala'},,,"{'terʹood_65ad6eee-f8b9-44d1-8184-e611ee027971': ('Unspecified Variant',)}"
+cb5a288a-7be4-4c63-b65b-7763c235b6d4,v,{'pt': 'fala'},{'pt': 'fala'},,,"{'terʹood_65ad6eee-f8b9-44d1-8184-e611ee027971': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 b56117d3-b70f-4111-924b-64eac6efdaed,Verb,{'en': 'saltitar (iterativo)'},,,,
 3e564fed-1b46-482f-929d-92e33203a8cc,v?,{'pt': '?'},{'pt': '?'},,,
 513983ac-d23c-4c40-a9a1-9fcfe69bee81,Verb,{'en': 'banhar-se (n.i. hob)'},,,,
 a78ce748-7706-4866-9dd9-47f3493c7f10,part?,{'en': 'fact(itive?)'},,,,
 ebbc4824-6c82-4c0c-81cf-bb86a066adaa,adv,{'pt': 'ainda'},{'pt': 'ainda'},,,
 af180f15-5115-4073-bfe9-93693f88fbc8,Adverb,"{'en': 'left', 'pt': 'esquerda'}","{'en': 'left', 'pt': 'esquerda'}",,,
-a2fb14ca-83eb-4758-b022-40299430c92a,v,{'pt': 'não.alcançar'},{'pt': 'não alcançar com os pés'},,,"{'gawajah_1c43c5f6-18af-437e-90c9-8506069bb3d1': ('Não indicativo',), 'gawaja_bb44afa9-15eb-4d8f-91fb-f8ec0e2129cd': ('Não indicativo',)}"
+a2fb14ca-83eb-4758-b022-40299430c92a,v,{'pt': 'não.alcançar'},{'pt': 'não alcançar com os pés'},,,"{'gawajah_1c43c5f6-18af-437e-90c9-8506069bb3d1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'gawaja_bb44afa9-15eb-4d8f-91fb-f8ec0e2129cd': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 254f244f-4991-48fb-901b-854eddda65f0,adj?,"{'en': 'red', 'pt': 'vermelho'}","{'en': 'red', 'pt': 'vermelho'}",,,
 2c141c62-5936-4788-9b52-0fe3f3a42093,v,"{'en': 'kill.with.arrow', 'pt': 'flechar'}","{'en': 'kill with arrow', 'pt': 'flechar'}",,,
-10d8bbd5-d198-4c97-b005-818bfb21938e,adv,{'pt': 'muitos'},{'pt': 'muitos'},,,"{'hajõõh_2a633761-8222-43c0-8d5e-76122088df50': ('Não indicativo',), 'hajõõ_b23141fb-d829-45df-8736-bc21544328dc': ('Não indicativo',)}"
+10d8bbd5-d198-4c97-b005-818bfb21938e,adv,{'pt': 'muitos'},{'pt': 'muitos'},,,"{'hajõõh_2a633761-8222-43c0-8d5e-76122088df50': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'hajõõ_b23141fb-d829-45df-8736-bc21544328dc': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 ceb7d321-08c0-4bfe-9c0f-c4e1561234e4,Noun,"{'en': 'bean', 'pt': 'feijão'}","{'en': 'bean', 'pt': 'feijão'}",,,
 2e14583d-c1fc-4c23-b567-77ca4e92105d,v?,{'pt': '?'},{'pt': '?'},,,
 0a4d3991-1a11-4d6e-a225-eb8266d10cf6,Noun,"{'en': 'angleworm', 'pt': 'minhoca'}","{'en': 'angleworm', 'pt': 'minhoca'}",,,
@@ -426,8 +426,8 @@ ceb7d321-08c0-4bfe-9c0f-c4e1561234e4,Noun,"{'en': 'bean', 'pt': 'feijão'}","{'e
 bc869fd1-952f-44e1-b921-03cd2cfafcef,Noun,{'en': 'pomo de adão'},,,,
 5397ec03-79c9-4c3e-9aab-ecbd6d7e709e,Verb,{'en': 'like (n.i. naag)'},,,,
 e1627acc-e8d9-4eb2-b9b1-d9a7c6734194,Noun,"{'en': 'cumatá', 'pt': 'cumatá'}","{'en': 'cumatá; woven strainer/sieve', 'pt': 'cumatá'}",,,
-cdfdd8d7-d617-4885-a0ec-0561acbddad1,v,{'pt': 'cuidar'},{'pt': 'cuidar; olhar; tomar conta de'},,,"{'hagãã_9183270e-5327-4a33-a59f-40e4d8f81281': ('Não indicativo',)}"
-4f76dc7a-9fac-42a8-9cd2-fb8537beadf1,v,{'pt': 'virar'},{'pt': 'virar (em forma circular)'},,,"{'hewõs_6a72a230-5be6-4f74-bedc-23bea92fa0be': ('Habitual',), 'awʹõõj_787ee2a4-05a5-4f61-8dd9-caf10e842f21': ('Não indicativo',)}"
+cdfdd8d7-d617-4885-a0ec-0561acbddad1,v,{'pt': 'cuidar'},{'pt': 'cuidar; olhar; tomar conta de'},,,"{'hagãã_9183270e-5327-4a33-a59f-40e4d8f81281': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+4f76dc7a-9fac-42a8-9cd2-fb8537beadf1,v,{'pt': 'virar'},{'pt': 'virar (em forma circular)'},,,"{'hewõs_6a72a230-5be6-4f74-bedc-23bea92fa0be': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'awʹõõj_787ee2a4-05a5-4f61-8dd9-caf10e842f21': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 38a5d911-11d9-4c13-b9da-37ac3e5829ec,Noun,{'pt': 'fundo do rio'},{'pt': 'fundo do rio'},,,
 7b7659de-3abd-4cfd-90fb-c4ac343b28cf,pro,"{'en': '2sg.A', 'pt': '2sg.A'}",{'pt': 'segunda pessoa singular; sujeito de verbo transitivo'},,,
 e52b5899-cc5a-49fd-8c0a-2157199edfcb,Noun,"{'en': 'flute', 'pt': 'flauta'}","{'en': 'flute made from walking-palm wood', 'pt': 'flauta de paxiuba'}",,,
@@ -438,7 +438,7 @@ d85f760c-86aa-4633-8737-4733b853423f,Noun,"{'en': 'tortoise', 'pt': 'jabuti'}","
 782aa7e4-2f8a-444f-a532-bbad6310f3c0,Noun,"{'en': 'giant.otter', 'pt': 'ariranha'}","{'en': 'Giant Otter', 'pt': 'ariranha'}",,,
 0516d4f4-5091-414f-bf2d-45515a3b5bcf,part?,{'en': 'perf(ective?)'},,,,
 2000adc5-6d7d-4ad3-9ec7-835b21fa5112,Verb,{'en': 'andar enfileirado'},,,,
-f59ae34f-ef9f-447c-b27b-a2a66f1b722f,Verb,"{'en': 'bee', 'pt': 'abelha'}","{'en': 'bee', 'pt': 'abelha'}","[('abelha', 'pt'), ('bee', 'en')]",,
+f59ae34f-ef9f-447c-b27b-a2a66f1b722f,Verb,"{'en': 'bee', 'pt': 'abelha'}","{'en': 'bee', 'pt': 'abelha'}","{'pt': 'abelha', 'en': 'bee'}",,
 6d89a734-ee54-41e1-aa28-cdce73716a0a,pre,"{'en': 'NEG', 'pt': 'NEG'}",,,,
 6b90578b-7110-4ea2-adb2-9630a1b18fb1,v?,{'pt': '?'},{'pt': '?'},,,
 d6f05f1d-7e87-413b-a59e-041ffaebc716,Noun,{'en': 'espécie de árvore'},,,,
@@ -458,10 +458,10 @@ ba767581-2d95-42b9-bff6-a78b0d533812,Noun,{'en': 'mosquito'},,,,
 5f8fb53b-57f7-4eb9-b4d3-6037870b574e,Noun,"{'en': 'son', 'pt': 'filho'}","{'en': 'son', 'pt': 'filho'}",,,
 1615c031-a513-4957-b0df-606384a15ff1,Noun,{'en': 'água'},,,,
 e61b54b0-0fd5-4562-8ee5-b6724a0bf18f,n,"{'en': 'beach', 'pt': 'praia'}","{'en': 'beach', 'pt': 'praia'}",,,
-0297f37c-c882-4c9e-8ca6-25198c230887,Noun,"{'en': 'tocandira', 'pt': 'tocandira'}","{'en': 'tocandira', 'pt': 'tocandira'}","[('tocandira', 'pt'), ('tocandira', 'en')]",,
+0297f37c-c882-4c9e-8ca6-25198c230887,Noun,"{'en': 'tocandira', 'pt': 'tocandira'}","{'en': 'tocandira', 'pt': 'tocandira'}","{'pt': 'tocandira', 'en': 'tocandira'}",,
 c9b2de3b-c6d7-4412-b17a-281857187ec9,Noun,"{'en': 'gray-winged Trumpeter', 'pt': 'jacamim'}","{'en': 'gray-winged Trumpeter', 'pt': 'jacamim'}",,,
 94752aa3-6cac-44de-8142-28dfde28d1a7,n,{'pt': 'bebê.antes.de.nascer feto?)'},{'pt': 'bebê antes de nascer'},,,
-043cdce8-0f4d-4929-b6ad-c47e75810f38,v,{'pt': 'picar'},{'pt': 'bater; picar'},,,"{'tatóg_5dbc36fa-c1b5-4ad1-a024-87bd445212cb': ('Não indicativo',)}"
+043cdce8-0f4d-4929-b6ad-c47e75810f38,v,{'pt': 'picar'},{'pt': 'bater; picar'},,,"{'tatóg_5dbc36fa-c1b5-4ad1-a024-87bd445212cb': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 3d209f75-cf18-4375-9a39-ecdcb0114c3a,Verb,{'en': 'wash'},,,,
 d9e7710b-5ebf-48fe-981c-04fb08923ae3,v?,{'pt': '?'},{'pt': '?'},,,
 1dc2b52c-0251-466e-a1c1-ef2df999a24c,n,{'pt': 'feitiço'},{'pt': 'feitiço'},,,
@@ -478,15 +478,15 @@ aad23cec-165e-476b-982d-1ce2333d251a,adj?,"{'en': 'hot', 'pt': 'quente'}","{'en'
 8e788101-8a78-4ef3-8bd4-f6fd04a269a3,Noun,{'en': 'support'},,,,
 9a4d2677-8bd7-44c0-84a4-35572de60159,n,{'pt': 'mutuca'},,,,
 ab1899b3-906e-4bf8-8f7b-137f1974abb8,n,{'pt': 'tatu.sp'},{'pt': 'esp. de tatu'},,,
-6dbc31e9-a0e9-4739-93fa-9cc1d31ce07f,Noun,"{'en': 'cunuri', 'pt': 'cunuri'}","{'en': 'cunuri', 'pt': 'cunuri'}","[('cunuri', 'pt'), ('cunuri', 'en')]",,
-6ca11793-9b86-4f94-885f-bd6293980612,adv,{'pt': 'em.quanto'},{'pt': 'em quanto'},,,"{'nuujé_cb9e8dad-2386-4f1b-a020-011a13313b11': ('Unspecified Variant',)}"
-8ba94715-1409-488a-b573-ab5ec502feb8,Noun,"{'en': 'single', 'pt': 'solteiro'}","{'en': 'single', 'pt': 'solteiro'}","[('soleteiro', 'pt'), ('single', 'en')]",,
-2501f0dd-2922-4234-9fad-a39a174f187d,Noun,"{'en': 'tannia', 'pt': 'taioba.branca'}","{'en': 'tannia', 'pt': 'taioba.branca'}","[('taioba.branca', 'pt'), ('tannia', 'en')]",,
-c5dadd4f-a0d6-4385-bc10-bb1ff25313e5,v,{'pt': 'torcer'},{'pt': 'torcer'},,,"{'tsabaad_f222e48e-84ab-4825-ad8f-88b9481a8a1b': ('Não indicativo',)}"
+6dbc31e9-a0e9-4739-93fa-9cc1d31ce07f,Noun,"{'en': 'cunuri', 'pt': 'cunuri'}","{'en': 'cunuri', 'pt': 'cunuri'}","{'pt': 'cunuri', 'en': 'cunuri'}",,
+6ca11793-9b86-4f94-885f-bd6293980612,adv,{'pt': 'em.quanto'},{'pt': 'em quanto'},,,"{'nuujé_cb9e8dad-2386-4f1b-a020-011a13313b11': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+8ba94715-1409-488a-b573-ab5ec502feb8,Noun,"{'en': 'single', 'pt': 'solteiro'}","{'en': 'single', 'pt': 'solteiro'}","{'pt': 'soleteiro', 'en': 'single'}",,
+2501f0dd-2922-4234-9fad-a39a174f187d,Noun,"{'en': 'tannia', 'pt': 'taioba.branca'}","{'en': 'tannia', 'pt': 'taioba.branca'}","{'pt': 'taioba.branca', 'en': 'tannia'}",,
+c5dadd4f-a0d6-4385-bc10-bb1ff25313e5,v,{'pt': 'torcer'},{'pt': 'torcer'},,,"{'tsabaad_f222e48e-84ab-4825-ad8f-88b9481a8a1b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 e5c980c3-0c6d-4eda-a360-d37a5e7c831d,n,{'pt': 'espuma'},{'pt': 'espuma'},,,
 5dc99bde-963c-4cb5-bda3-85b9cb40187b,Noun,"{'en': 'throat', 'pt': 'garganta'}","{'en': 'throat', 'pt': 'garganta'}",,,
 58e9f804-b840-4585-b94d-84c873052889,?,{'pt': '?'},{'pt': '?'},,,
-000ae3b8-8b94-4104-a444-cd9775352e8c,n,{'pt': 'filho'},{'pt': 'filho'},,,"{'tʹaa_1946e94e-257b-4abb-ba27-f36c932c0ca0': ('Unspecified Variant',), 'taah_99b0a266-dc6e-4a1b-8497-c387452a1e64': ('Plural',), 'tah ỹỹ_c75fda82-11b8-4ddd-bdc3-0158fbd996ce': ('1S Possessivo',)}"
+000ae3b8-8b94-4104-a444-cd9775352e8c,n,{'pt': 'filho'},{'pt': 'filho'},,,"{'tʹaa_1946e94e-257b-4abb-ba27-f36c932c0ca0': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'taah_99b0a266-dc6e-4a1b-8497-c387452a1e64': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'tah ỹỹ_c75fda82-11b8-4ddd-bdc3-0158fbd996ce': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
 98b46c4c-76e6-465d-9645-6c4d2ad40186,n,{'pt': 'coruja.sp'},{'pt': 'esp. de coruja'},,,
 9bd1c084-434c-40ef-b514-fa1f3ef472c0,Verb,"{'en': 'hide', 'pt': 'esconder'}","{'en': 'hide', 'pt': 'esconder'}",,,
 cd09681e-9844-4f3d-8ca5-67a43f1a3b79,adv,{'pt': 'vezes'},{'pt': 'vezes'},,,
@@ -495,7 +495,7 @@ df04ebfd-dfe5-4375-aa76-0dacf4fe4ace,adv?,{'en': 'meio das costas'},,,,
 3244d12a-db56-4f1b-835e-3ca76ca002b0,pro,"{'en': '2PL', 'pt': '2PL'}","{'en': 'you', 'pt': 'vocês'}",,,
 450e9534-c055-4c95-bead-8ed86564fd80,n?,"{'en': 'be.suspended', 'pt': 'suspendido'}",{'pt': '?'},,,
 73f7e406-6f01-44da-81c6-8fc549a1bdf5,Noun,"{'en': 'parrot', 'pt': 'papagaio'}","{'en': 'parrot', 'pt': 'papagaio'}",,,
-d3785227-56a8-4a36-b4f5-5179f1c0cf0c,n p,{'pt': 'mulheres'},{'pt': 'mulheres; fêmeas'},,,"{'ỹỹnh_ec6a849a-8e80-4b1a-8a4d-aa9eca6aa9b8': ('Singular',)}"
+d3785227-56a8-4a36-b4f5-5179f1c0cf0c,n p,{'pt': 'mulheres'},{'pt': 'mulheres; fêmeas'},,,"{'ỹỹnh_ec6a849a-8e80-4b1a-8a4d-aa9eca6aa9b8': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
 712567a4-87fb-40b6-9742-ec2eb1a9b757,Noun,{'en': 'sobrinho (pl ʃa̰ːh)'},,,,
 b0ff496e-2353-4333-9178-eb4c29cd3f1e,adv,{'pt': 'cedo.de.manhã'},{'pt': 'cedo de manhã'},,,
 432baa2e-0961-495d-83aa-0cf6031e6f9f,?,{'pt': '?'},{'pt': '?'},,,
@@ -506,23 +506,23 @@ ba7b6925-c9c9-4031-898a-f9f0253621bd,Noun,"{'en': 'ritual.festival', 'pt': 'dabu
 f433bb50-cdaa-4c3f-a78e-2cd98dcdce85,n,{'pt': 'temporal'},{'pt': 'temporal'},,,
 aad8289a-65f0-4d5a-8f63-b4710165cd58,adj?,"{'en': 'wet', 'pt': 'molhado'}","{'en': 'wet', 'pt': 'molhado'}",,,
 36b30c82-d56b-4845-900a-fff166a82478,Verb,"{'en': 'tie.up.hammock', 'pt': 'atar.rede'}","{'en': 'tie up hammock', 'pt': 'atar rede'}",,,
-af14f041-4eb0-4cc5-a2b4-4eca984911d4,v,{'pt': 'descer.para.rio'},{'pt': 'descer para o rio'},,,"{'gawëëj_1029c2ef-cd3b-4bc9-8838-8dc00dd5d4a2': ('Unspecified Variant',), 'awëëj_8ff17ad3-9807-456b-bb12-d3247732d93d': ('Não indicativo',), 'awʹëënh_d154c3a3-1087-4193-8222-fe3e794662eb': ('Plural',), 'awänh_e47da50d-5c62-4eec-b99a-3bea55c9fa4d': ('Causativo',)}"
+af14f041-4eb0-4cc5-a2b4-4eca984911d4,v,{'pt': 'descer.para.rio'},{'pt': 'descer para o rio'},,,"{'gawëëj_1029c2ef-cd3b-4bc9-8838-8dc00dd5d4a2': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'awëëj_8ff17ad3-9807-456b-bb12-d3247732d93d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'awʹëënh_d154c3a3-1087-4193-8222-fe3e794662eb': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'awänh_e47da50d-5c62-4eec-b99a-3bea55c9fa4d': {'type': '_component-lexeme', 'variant-type': 'Causativo'}}"
 4341ee7a-6fea-49e8-aed4-11164ddab9e0,Noun,{'en': 'maracajá'},,,,
-18bb2726-1e99-418a-ad5b-537ea67f2ac5,par,{'pt': 'passado'},{'pt': 'passado; terminado'},,,"{'paa_2087aff1-e889-4f5e-981c-e1f275c4e308': ('Unspecified Variant',)}"
+18bb2726-1e99-418a-ad5b-537ea67f2ac5,par,{'pt': 'passado'},{'pt': 'passado; terminado'},,,"{'paa_2087aff1-e889-4f5e-981c-e1f275c4e308': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 4a4f2624-50f9-4820-a471-57c867677cd3,n?,{'pt': '?'},{'pt': '?'},,,
-31844297-6e39-499c-8f1a-cf67e48f5cb3,Noun,"{'en': 'plantain', 'pt': 'banana.comprida'}","{'en': 'plantain', 'pt': 'banana.comprida'}","[('plantain', 'en'), ('banana comprida', 'pt')]",,
+31844297-6e39-499c-8f1a-cf67e48f5cb3,Noun,"{'en': 'plantain', 'pt': 'banana.comprida'}","{'en': 'plantain', 'pt': 'banana.comprida'}","{'en': 'plantain', 'pt': 'banana comprida'}",,
 71a959cb-ec10-4807-9737-5effea2f547c,n,{'pt': 'carne/peixe'},{'pt': 'comida (carne ou peixe)'},,,
 060fcd69-4092-44c0-921c-ad969353f142,v,{'pt': 'cavar.cará'},{'pt': 'cavar cará'},,,
 c8403b45-cc68-47ac-9602-2b09017e0c40,Noun,{'en': 'pet'},,,,
 448e8a67-7498-47a0-9b57-d6950350b087,v,{'pt': 'maduro'},{'pt': 'maduro'},,,
 fbeebb81-bc04-4fb4-beab-70250b5690fb,Verb,"{'en': 'flow', 'pt': 'correr.agua'}","{'en': 'flow', 'pt': 'rcorrer.agua;'}",,,
 fe520e06-4fa1-4776-bac3-15ad10a04fbe,Verb,"{'en': 'tie.up.wood.with.cipó', 'pt': 'amarrar.pau.com.cipó'}","{'en': 'tie up wood with cipó', 'pt': 'amarrar pau com cipó'}",,,
-9efb0410-2dd1-424f-b9d1-3dadf8a8aa9f,v,{'pt': 'pescar.com.rede'},{'pt': 'pescar com rede'},,,"{'esaag_0ac768b9-0933-4a11-90c0-4ac17d1e66f4': ('Não indicativo',)}"
+9efb0410-2dd1-424f-b9d1-3dadf8a8aa9f,v,{'pt': 'pescar.com.rede'},{'pt': 'pescar com rede'},,,"{'esaag_0ac768b9-0933-4a11-90c0-4ac17d1e66f4': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 6bcd1618-330d-451b-86ee-adb48a38e4e3,Verb,{'en': 'speak n.i.'},,,,
 c9c714c3-9bc2-43f6-9308-3e57bf3ab2ca,Noun,"{'en': 'white.lipped.peccary', 'pt': 'queixada'}","{'en': 'White-lipped peccary', 'pt': 'queixada'}",,,
 53c30c19-ab2d-4d35-a3d0-0eb65454af32,n,{'pt': 'Wajats Bëëh'},{'pt': 'Wajats Bëëh'},,,
 7b4519b0-121e-4607-8cdd-61bd4881f892,Noun,"{'en': 'banana', 'pt': 'banana'}","{'en': 'banana; plantain', 'pt': 'banana'}",,,
-af5b17b1-8339-44fa-aace-571fa3b52be2,v p h,{'pt': 'em.pé'},{'pt': 'em pé; no chão'},,,"{'dabëëh_01834ee1-a032-4bfb-8827-07f2ace9c99f': ('Causativo',), 'abëëh_6e59c75d-2c2e-434c-b175-579c2363b6c5': ('Não indicativo',)}"
+af5b17b1-8339-44fa-aace-571fa3b52be2,v p h,{'pt': 'em.pé'},{'pt': 'em pé; no chão'},,,"{'dabëëh_01834ee1-a032-4bfb-8827-07f2ace9c99f': {'type': '_component-lexeme', 'variant-type': 'Causativo'}, 'abëëh_6e59c75d-2c2e-434c-b175-579c2363b6c5': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 0db286de-5996-4c6a-b98d-192808062521,Verb,{'en': 'pierce'},,,,
 82e62d21-d2e9-4892-98c7-333a61d51295,intj,{'pt': 'vamos'},{'pt': 'vamos'},,,
 bffe5448-964f-41ec-bb99-4026e208b2a5,Verb,"{'en': 'bite', 'pt': 'morder'}","{'en': 'bite', 'pt': 'morder'}",,,
@@ -530,15 +530,15 @@ cb90b4c0-0aba-4155-b52c-b12c07a05d29,Verb,"{'en': 'sing', 'pt': 'cantar'}","{'en
 f1c818c6-44a5-4e92-ae12-4bebeb71ac8c,adv,{'pt': 'para.cá'},{'pt': 'para cá'},,,
 cfc7f5da-eebf-4bb8-a424-7f4ceb0deef0,?,{'pt': '?'},{'pt': '?'},,,
 b1f945c8-cc42-4ca1-afb2-a904de7bd4f5,Noun,"{'en': 'jaguar', 'pt': 'onca'}","{'en': 'jaguar', 'pt': 'onca'}",,,
-c450b8da-5ae2-4d74-b02b-6159d9ad6a32,Noun,{'en': 'jaguar'},,,,"{'awad2_89445911-1a22-4be0-8351-b396b535c72a': ('Spelling Variant', 'Martins 2005; onça')}"
-a549cbf1-2e6e-4204-a158-d3a52b25819e,n,"{'en': 'manioc', 'pt': 'mandioca'}","{'en': 'manioc', 'pt': 'mandioca'}","[('manioc', 'en'), ('mandioca', 'pt')]",,
+c450b8da-5ae2-4d74-b02b-6159d9ad6a32,Noun,{'en': 'jaguar'},,,,"{'awad2_89445911-1a22-4be0-8351-b396b535c72a': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; onça'}}"
+a549cbf1-2e6e-4204-a158-d3a52b25819e,n,"{'en': 'manioc', 'pt': 'mandioca'}","{'en': 'manioc', 'pt': 'mandioca'}","{'en': 'manioc', 'pt': 'mandioca'}",,
 61f5ee4b-9c39-494d-9d6b-7fe7f85dcfa2,Noun,"{'en': 'wax', 'pt': 'cera'}","{'en': 'wax', 'pt': 'cera'}",,,
 f32eca7d-3619-4f93-b6fa-8152c459e7b3,par,{'pt': 'relatado abreviação?)'},{'pt': 'relatado'},,,
 8a0757b9-7617-433a-b0c8-4ba16c891c48,n,{'pt': 'machado'},{'pt': 'machado'},,,
 8def5833-b8b1-4d95-9184-9914570fbf27,Noun,{'en': 'espécie de pássaro'},,,,
 59adeee2-ffc6-4aa2-8150-a8bf2a6b92d4,Noun,"{'en': 'flute', 'pt': 'flauta'}","{'en': 'flute (in general)', 'pt': 'fluta (em geral)'}",,,
 84d82e2b-10a2-4d5b-bf3b-843910321938,posp,{'pt': 'locativo.contraste'},,,,
-03808f65-9607-4b84-8285-b770c68cfa6b,Noun,"{'en': 'inga', 'pt': 'ingá'}","{'en': 'inga', 'pt': 'inga'}","[('inga', 'pt'), ('inga', 'en')]",,
+03808f65-9607-4b84-8285-b770c68cfa6b,Noun,"{'en': 'inga', 'pt': 'ingá'}","{'en': 'inga', 'pt': 'inga'}","{'pt': 'inga', 'en': 'inga'}",,
 06aa61de-4208-4b4f-a43b-c03257c6e36d,Noun,{'en': 'esteio'},,,,
 579fef20-d3db-4917-9707-515f7b490869,Noun,"{'en': 'fly', 'pt': 'mosca'}","{'en': 'fly', 'pt': 'mosca'}",,,
 187d327c-351d-4a51-bb5e-1e87cec180ce,v,"{'en': 'kill.with.sarabatana', 'pt': 'flechar.com.sarabatana'}","{'en': 'kill with arrow', 'pt': 'flechar com sarabatana'}",,,
@@ -547,42 +547,42 @@ da5147b8-3e44-4243-9577-21e04d7b8a2a,n,"{'en': 'nadëb', 'pt': 'nadëb'}","{'en'
 d6028c63-428d-48b1-8d69-4ac19bb52741,n,"{'en': 'people', 'pt': 'gente'}","{'en': 'people', 'pt': 'gente'}",,,
 4d2eeda7-e400-4897-9e72-7fefc0de3b04,Noun,{'en': 'peixe-rebeca; bodó'},,,,
 7d3181fb-5f14-4f1f-b186-25785ebecb87,Noun,{'en': 'saliva'},,,,
-390ec086-40fc-48fd-a775-fa235d5583eb,v,{'pt': 'discutir'},{'pt': 'ralhar; discutir; esculhambar'},,,"{'hajẽẽw_8b0edc48-833c-490b-b363-8e9f882ac0c8': ('Não indicativo',), 'hajʹẽẽm_a7baa953-5476-4b76-817d-c30cd4ab3735': ('Habitual',)}"
+390ec086-40fc-48fd-a775-fa235d5583eb,v,{'pt': 'discutir'},{'pt': 'ralhar; discutir; esculhambar'},,,"{'hajẽẽw_8b0edc48-833c-490b-b363-8e9f882ac0c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'hajʹẽẽm_a7baa953-5476-4b76-817d-c30cd4ab3735': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 5656d713-3822-47ea-b033-712fee272f13,v?,{'pt': '?'},{'pt': '?'},,,
-c08a0ee3-d0fa-4909-8004-ace71f51e34b,Noun,{'en': 'panacu'},,,,"{'tɔ̰̃ːm2_f647e473-9fc9-480b-8c69-61c9bb1a68d5': ('Spelling Variant', 'Martins 2005; cesto')}"
+c08a0ee3-d0fa-4909-8004-ace71f51e34b,Noun,{'en': 'panacu'},,,,"{'tɔ̰̃ːm2_f647e473-9fc9-480b-8c69-61c9bb1a68d5': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; cesto'}}"
 a913ccd8-0fe1-44cd-a1a4-d3ef21fb5ef1,v?,{'pt': '?'},{'pt': '?'},,,
 9b21b6d8-442d-409d-bc46-ae2c18f0cd84,Verb,"{'en': 'plant', 'pt': 'plantar'}","{'en': 'plant', 'pt': 'plantar'}",,,
 624a9f07-aba3-4f23-904e-297103d593f3,adv,{'pt': 'no.alto'},{'pt': 'no alto'},,,
 dfe4676b-1442-415a-aadf-140ecbac6b83,Noun,"{'en': 'machete', 'pt': 'facão'}","{'en': 'machete', 'pt': 'facão'}",,,
 fa3726e8-ddd6-455c-9b3a-a9ef809d6cb3,Noun,{'en': 'abelha'},,,,
-07fcc797-e4a0-4b58-9270-c96b85558f1c,Noun,"{'en': 'wild.cashew', 'pt': 'cajueiro.do.mato'}","{'en': 'wild.cashew', 'pt': 'cajueiro do mat'}","[('cajueiro do mato', 'pt'), ('wild.cashew', 'en')]",,
+07fcc797-e4a0-4b58-9270-c96b85558f1c,Noun,"{'en': 'wild.cashew', 'pt': 'cajueiro.do.mato'}","{'en': 'wild.cashew', 'pt': 'cajueiro do mat'}","{'pt': 'cajueiro do mato', 'en': 'wild.cashew'}",,
 d2f9d1c1-34d6-4b45-8010-ca69db72e9c4,Noun,"{'en': 'scorpion', 'pt': 'escorpião'}","{'en': 'scorpion', 'pt': 'escorpião'}",,,
 d981f041-ae13-4d75-86fa-f048cf69dfbf,Noun,{'en': 'pêlo'},,,,
 c932387c-b92b-4c8d-9f30-df52446dc4b6,suf,{'pt': 'FRUS(?)'},{'pt': 'frustrativo'},,,
 0ade739f-fd59-4fe0-90c7-fe807bdedd77,Noun,"{'en': 'beer.log', 'pt': 'cocho.de.caxiri'}","{'en': 'hollow log/trough for beer-making', 'pt': 'cocho de caxiri'}",,,
 d5618481-3a56-45bc-803c-b8a4de30bd81,Noun,{'en': 'onça pintada'},,,,
-2cdcf756-2f7e-43bd-9bb9-a85978065686,v,{'pt': 'misturar'},{'pt': 'misturar; mexer'},,,"{'awʹẽẽn_a22c479e-38d0-468c-b169-fd203006e2ce': ('Habitual',)}"
+2cdcf756-2f7e-43bd-9bb9-a85978065686,v,{'pt': 'misturar'},{'pt': 'misturar; mexer'},,,"{'awʹẽẽn_a22c479e-38d0-468c-b169-fd203006e2ce': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 a7fbf75e-4592-4194-8d79-3474f17d08f4,n,{'pt': 'acariquara'},{'pt': 'esp. de árvore (acariquara)'},,,
 a9f29c8b-73ea-49d4-9031-1586721fd962,n,{'pt': 'tatu.canastro'},{'pt': 'tatu canastro'},,,
 142636db-f2e9-469c-a661-1a759966d7e4,Verb,{'en': 'algodão'},,,,
 5caea26e-b8c8-43f9-9cbf-544fd6c6f5c6,pro,"{'en': '1PLexcl', 'pt': '1PLexcl'}","{'en': 'nos (excl)', 'pt': 'nos (excl)'}",,,
 57c4344b-4285-4409-a785-9beee15496e1,Noun,{'en': 'tatu'},,,,
-3575cb14-4aff-468a-b74d-b936a17cca8a,n op,{'pt': 'marido'},{'pt': 'marido'},,,"{'patʹuuk_95ecf63c-72cb-4662-a1a4-a330039fb0be': ('Plural',), 'patuk ỹỹ_a22ec753-2a35-49b2-b385-7c338a490e70': ('1S Possessivo',)}"
+3575cb14-4aff-468a-b74d-b936a17cca8a,n op,{'pt': 'marido'},{'pt': 'marido'},,,"{'patʹuuk_95ecf63c-72cb-4662-a1a4-a330039fb0be': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'patuk ỹỹ_a22ec753-2a35-49b2-b385-7c338a490e70': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
 6704bbec-ab67-4664-8cc6-dccf621623a7,pre,"{'en': '3P', 'pt': '3P'}","{'en': '3P', 'pt': '3P'}",,,
 8924887b-cdf7-4ff1-8f77-11972f9c2cfa,posp,{'pt': 'com'},{'pt': 'meio; mediante; com'},,,
 4000a589-7062-4b5d-be82-89258c2e733c,pro,"{'en': '1sg.POSS.SG', 'pt': '1sg.POSS.SG'}","{'en': '1st person possessive pronoun; singular possessed entity', 'pt': 'pronome possessivo; 1 pessoa singular; possuido singular'}",,,
 1f31e411-b8d6-4065-9a00-dbe41c015322,?,{'pt': 'mater.peixe.com.veneno?'},{'pt': 'matar peixe com veneno?'},,,
-af9a43fb-27a6-45d7-9e2d-c45de208723a,Verb,{'en': 'be.light (n.i. kog)'},,,,"{'koːk2_40a485f9-ff7a-4411-9054-18c5766e39b4': ('Spelling Variant', 'Martins 2005; arrancar (n.i. kog)')}"
+af9a43fb-27a6-45d7-9e2d-c45de208723a,Verb,{'en': 'be.light (n.i. kog)'},,,,"{'koːk2_40a485f9-ff7a-4411-9054-18c5766e39b4': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; arrancar (n.i. kog)'}}"
 c6d673f5-e38f-4384-b4b2-792ed449efaa,adj,"{'en': 'old', 'pt': 'velho'}","{'en': 'old', 'pt': 'velho'}",,,
 38935f92-5666-4fcd-b8b7-49312a5da4a3,Noun,{'en': 'mistura para coca'},,,,
 3b8d05e1-1001-4095-b050-bf8168d107b1,pro,"{'en': '1sg.POSS.PL', 'pt': '1sg.POSS.PL'}","{'en': '1st person possessive pronoun; plural possessed entity', 'pt': 'pronome possessivo; 1 pessoa singular; possuido plural'}",,,
 06856efc-d5ef-4167-b89d-65ae48cca0fe,n,{'pt': 'sarabatana'},{'pt': 'sarabatana'},,,
 9e115803-4f5c-4b6a-8e46-1329d406801f,adj?,"{'en': 'green', 'pt': 'verde'}","{'en': 'green', 'pt': 'verde'}",,,
 457f0811-4d36-411e-8de6-d4b4223e1026,Noun,"{'en': 'tucumã.palm', 'pt': 'tucumã'}","{'en': 'tucumã palm', 'pt': 'tucumã'}",,,
-cab2d0d2-6e63-4303-8efd-ae1938c076b7,pro,"{'en': '3sg.A', 'pt': '3sg.A'}",,,"('Weir 1984', 'bibliography')",
+cab2d0d2-6e63-4303-8efd-ae1938c076b7,pro,"{'en': '3sg.A', 'pt': '3sg.A'}",,,{'bibliography': 'Weir 1984'},
 983b85d7-167b-437f-b2ef-44bef7d31e70,pre,"{'en': 'ABL', 'pt': 'ABL'}","{'en': 'ABL', 'pt': 'ABL'}",,,
 28c2e621-a605-4803-9a32-95c62eaf1310,Noun,{'en': 'fezes'},,,,
-9b2e3474-7e9b-4165-9907-91fefd1ce14e,v,{'pt': 'picar'},{'pt': 'picar (galinha)'},,,"{'ajóh_abefaf32-c075-4340-95bc-412ed3c9b5bc': ('Não indicativo',)}"
+9b2e3474-7e9b-4165-9907-91fefd1ce14e,v,{'pt': 'picar'},{'pt': 'picar (galinha)'},,,"{'ajóh_abefaf32-c075-4340-95bc-412ed3c9b5bc': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 18b3c387-e206-412f-b0dc-5b0776ecbe6c,Noun,{'en': 'tamanduá'},,,,
 a6c3238e-46d5-4c6b-9a8c-6d7a9329c4a1,Noun,{'en': 'hen'},,,,
 aa41c4ae-2f91-4f5f-8ac5-8e5a43ad4bcc,Verb,"{'en': 'throw.up', 'pt': 'vomitar'}","{'en': 'throw.up', 'pt': 'vomitar'}",,,
@@ -594,29 +594,29 @@ e75d1c68-c38d-49b5-b8c5-1ec453549fec,Noun,{'en': 'macaco.sp'},,,,
 206b2b80-0ea4-4a5a-a706-5b2ae1822ab9,Noun,"{'en': 'curassow', 'pt': 'mutum'}","{'en': 'curassow', 'pt': 'mutum'}",,,
 280d9220-4451-4b31-81f9-a767b1ad7ea8,post,{'en': 'among'},,,,
 83d2e5e9-7315-41fc-9ca5-43c624f50d4f,Noun,"{'en': 'fan', 'pt': 'abanador'}","{'en': 'fan', 'pt': 'abanador; abano'}",,,
-03be15fe-2dfd-48de-945e-f2953ed6ccc0,n op,{'pt': 'parentes'},{'pt': 'parentes'},,,"{'wakãn ỹỹ_42f76161-a403-4bf8-b52f-0033ae31e7df': ('1S Possessivo',)}"
+03be15fe-2dfd-48de-945e-f2953ed6ccc0,n op,{'pt': 'parentes'},{'pt': 'parentes'},,,"{'wakãn ỹỹ_42f76161-a403-4bf8-b52f-0033ae31e7df': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
 6ebf9868-76ba-4039-9450-11b92fa2aace,Noun,{'en': 'be.hungry'},,,,
 3bce1ab1-a1d5-444f-b706-cd8ad9538922,Noun,"{'en': 'basin', 'pt': 'bacia'}","{'en': 'basin', 'pt': 'bacia'}",,,
 41204cfb-a477-47a8-82a1-844e241bec18,Noun,"{'en': 'cognate', 'pt': 'parentes/cognados'}","{'en': 'cognate (non-marriageable relative)', 'pt': 'parentes/cognados'}",,,
 ce053eba-199c-4a7f-b68e-92bc031b52b9,v,{'pt': 'colocar.na.água'},{'pt': 'colocar na água'},,,
 c3e01ab7-5336-425c-a22a-b2c899a7bf44,?,{'pt': '?'},{'pt': '?'},,,
-449e256e-85a4-465c-bcf3-571d63f37366,v,{'pt': 'ferida.ardenda'},{'pt': 'ferida que arde'},,,"{'mahõg_05dd3abd-6534-4b59-b015-78d391e1d399': ('Não indicativo',), 'mahʹõõk_539045c3-27c3-4505-bfd8-c07905439195': ('Habitual',)}"
-49b83cb5-7388-4f68-a3f6-6b7542eb1184,Noun,{'en': 'matapi (espécie de armadilha)'},,,,"{'jɔ̃ːw2_34037334-1723-44fc-b45c-32076978dff3': ('Spelling Variant', 'Barbosa 2005; matapi')}"
+449e256e-85a4-465c-bcf3-571d63f37366,v,{'pt': 'ferida.ardenda'},{'pt': 'ferida que arde'},,,"{'mahõg_05dd3abd-6534-4b59-b015-78d391e1d399': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'mahʹõõk_539045c3-27c3-4505-bfd8-c07905439195': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
+49b83cb5-7388-4f68-a3f6-6b7542eb1184,Noun,{'en': 'matapi (espécie de armadilha)'},,,,"{'jɔ̃ːw2_34037334-1723-44fc-b45c-32076978dff3': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; matapi'}}"
 e98061b8-8baf-4bfd-83f1-a3677d634d17,Noun,{'en': 'anteater'},,,,
 4f4ceaa2-5cea-40f7-9d90-fc417b604cd2,Verb,{'en': 'saltar (pl ʃɔ̰ːp)'},,,,
 dd1f1e57-ea99-4a11-ab8f-2866b4292180,Noun,"{'en': 'thunder', 'pt': 'trovão'}","{'en': 'thunder', 'pt': 'trovão'}",,,
 8752555e-5f51-4bd5-8adf-a310665345c6,Noun,"{'en': 'flea', 'pt': 'pulga'}","{'en': 'large flea on dogs', 'pt': 'pulga maior que fica no cachorro'}",,,
-251ceaa1-02fa-4994-9a82-0abbc8418f91,v,{'pt': 'roçar'},{'pt': 'roçar'},,,"{'karag_62409d92-e1a8-40e3-88f3-053f8d755bcb': ('Não indicativo',)}"
+251ceaa1-02fa-4994-9a82-0abbc8418f91,v,{'pt': 'roçar'},{'pt': 'roçar'},,,"{'karag_62409d92-e1a8-40e3-88f3-053f8d755bcb': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 9b3a4c49-e4e0-4a2f-9781-591e14a58f4b,Noun,"{'en': 'woven.sieve', 'pt': 'peneira'}","{'en': 'woven strainer/sieve', 'pt': 'peneira'}",,,
 2e006249-08cd-404a-b532-86499536df54,Noun,"{'en': 'cat', 'pt': 'gato'}","{'en': 'cat', 'pt': 'gato'}",,,
 a3abfa60-b011-4cff-9a02-93a83f8e8399,intj,{'pt': 'lá vai'},{'pt': 'lá vai; quero passar'},,,
 7ed883d8-43d4-4308-89ca-f3b9d42e6ad4,Noun,{'en': 'espécie de árvore'},,,,
 58d9d2a9-b507-4377-a800-816b336ee601,Verb,"{'en': 'see', 'pt': 'ver'}","{'en': 'see', 'pt': 'ver'}",,,
 f8d9eace-9a72-4d0e-a480-eedc9a00cc00,Noun,"{'en': 'fruit', 'pt': 'fruta'}","{'en': 'fruit', 'pt': 'fruta'}",,,
-55d7c82e-f85a-4179-960d-a5f463c4a251,v,{'pt': 'sacudir.cabeça'},{'pt': 'sacudir a cabeça depois de omar banho; esquivar-se'},,,"{'nu kasewʹỹỹn_905727be-2f8d-48b1-ab46-01a0aeb93aa7': ('Habitual',)}"
+55d7c82e-f85a-4179-960d-a5f463c4a251,v,{'pt': 'sacudir.cabeça'},{'pt': 'sacudir a cabeça depois de omar banho; esquivar-se'},,,"{'nu kasewʹỹỹn_905727be-2f8d-48b1-ab46-01a0aeb93aa7': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 c129d025-a31f-417d-bd34-173a03678aa5,Noun,{'en': 'espécie de trepadeira'},,,,
 0564e6eb-e843-4847-8845-9a7bbca7197e,n,{'pt': 'roça'},{'pt': 'roça'},,,
-472c2165-859a-4acf-aca2-e864bd6380d2,v p,{'pt': 'subir.rio'},{'pt': 'ir; subir o rio'},,,"{'ahõm1_22caba00-d293-40b0-9c79-dd140ebef072': ('1S Possessivo',), 'ahũũm_c1aba4f1-8144-4560-a16e-b9f106f47381': ('Não indicativo',)}"
+472c2165-859a-4acf-aca2-e864bd6380d2,v p,{'pt': 'subir.rio'},{'pt': 'ir; subir o rio'},,,"{'ahõm1_22caba00-d293-40b0-9c79-dd140ebef072': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}, 'ahũũm_c1aba4f1-8144-4560-a16e-b9f106f47381': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 56727307-2282-4207-93dc-a654ba1546e5,?,{'pt': '?'},{'pt': '?'},,,
 e51b5395-a1b4-44d8-84cd-019a3371d037,adv,{'pt': 'INTS'},{'pt': 'intensificador'},,,
 16cb708c-838d-49e0-8f4f-fa9b6c847124,n,{'pt': 'caba.sp'},{'pt': 'esp. de caba'},,,
@@ -636,11 +636,11 @@ c9f767f7-b1b3-4859-b9bf-21721018cdf4,Question particle,"{'en': 'who', 'pt': 'que
 e4b26a30-d0d0-44c5-82df-23171ee326e7,Verb,{'en': 'ficar'},,,,
 04ec6095-316f-44b5-ab59-5f5ad24b34b3,Noun,"{'en': 'butternut.tree', 'pt': 'piquia'}","{'en': 'butternut tree', 'pt': 'piquia; piqui'}",,,
 28c9eda7-a205-4e1f-8803-3608776f3a4c,Noun,"{'en': 'grandson', 'pt': 'neto'}","{'en': 'grandson', 'pt': 'neto'}",,,
-60ce194c-de53-425d-94f3-03645fc7df79,,"{'en': 'neck', 'pt': 'pescoço'}","{'en': 'neck', 'pt': 'pescoço'}",,"(""Lit.: `osso da cabeca'"", 'semantics')",
+60ce194c-de53-425d-94f3-03645fc7df79,,"{'en': 'neck', 'pt': 'pescoço'}","{'en': 'neck', 'pt': 'pescoço'}",,"{'semantics': ""Lit.: `osso da cabeca'""}",
 e5e8dd1c-61f9-4c37-a984-5cd3eb190828,Noun,{'en': 'meat'},,,,
 0b09a44c-fd6f-44a4-9588-529a36ef66c9,Noun,"{'en': 'hat', 'pt': 'chapéu'}","{'en': 'hat', 'pt': 'chapéu'}",,,
 2a168e51-005e-4508-91cf-1ae4015b6b8f,,"{'en': 'NMRL5', 'pt': 'NMRL5'}","{'en': 'five', 'pt': 'cinco'}",,,
-a0f42428-da5b-4d80-914a-65bf9d2d14f0,Noun,{'en': 'irmã'},,,,"{'ʔãːɲ1_11011f18-2e56-4f47-9a70-615f7235c757': ('Spelling Variant', 'Barbosa 2005; irmã')}"
+a0f42428-da5b-4d80-914a-65bf9d2d14f0,Noun,{'en': 'irmã'},,,,"{'ʔãːɲ1_11011f18-2e56-4f47-9a70-615f7235c757': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; irmã'}}"
 abfc15c4-237b-492b-9f4b-9561ad21d541,adv?,{'pt': 'aí(?)'},,,,
 3788e05c-3f9f-4d44-bdbe-902018a84899,n,"{'en': 'aturá', 'pt': 'aturá'}","{'en': 'aturá', 'pt': 'aturá'}",,,
 4a32a52e-b9e4-4201-92f7-a38ecfcfe964,Noun,{'en': 'espécie de fruta'},,,,
@@ -651,26 +651,26 @@ ace27870-012b-4cda-8296-e3c2ff341b60,Verb,{'en': 'sleep n.i.'},,,,
 21a71259-4fd3-49a8-b2eb-2a178c69ac6b,,"{'en': 'old.person', 'pt': 'pessoa.velha'}",,,,
 8584726a-d026-40f0-b75b-9cd753040ab7,Noun,"{'en': 'cicada.sp', 'pt': 'cigarra.sp'}","{'en': 'cicada species', 'pt': 'tipo de cigarra'}",,,
 3d7a245a-3c01-482f-a9ae-7315b08028dd,n p,{'pt': 'dias'},{'pt': 'dias'},,,
-e3697b1e-4f93-4ceb-ad0c-61c4a1dfff2d,v,{'pt': 'estar'},{'pt': 'pendurado; estar'},,,"{'padäg1_82f3367d-8f49-4938-b2ad-fda2f8534143': ('Não indicativo plural',), 'padëëk1_c3d960d6-c8b1-4659-b1e3-8e2b632633bb': ('Plural',), 'adäg_d289f0e6-47b0-44cd-86fb-ad0272176d13': ('Não indicativo',)}"
+e3697b1e-4f93-4ceb-ad0c-61c4a1dfff2d,v,{'pt': 'estar'},{'pt': 'pendurado; estar'},,,"{'padäg1_82f3367d-8f49-4938-b2ad-fda2f8534143': {'type': '_component-lexeme', 'variant-type': 'Não indicativo plural'}, 'padëëk1_c3d960d6-c8b1-4659-b1e3-8e2b632633bb': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'adäg_d289f0e6-47b0-44cd-86fb-ad0272176d13': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 c37acd60-014e-4799-b6a8-82516412bb7c,Noun,{'en': 'camarão'},,,,
 07fb59c9-0be7-494f-aad7-75903f506c21,?,"{'en': 'yummy', 'pt': 'gostoso'}",,,,
 33719b6a-86d7-408c-b28a-13af6994d7f1,n,{'pt': 'traíra'},{'pt': 'esp. de peixe (traíra)'},,,
 81d6c196-eabe-45cf-9c25-3f10765bbb5b,,"{'en': 'new', 'pt': 'novo'}","{'en': 'new', 'pt': 'novo'}",,,
 f29f17fb-2c81-400d-8bb4-f183d2ff5369,n,"{'en': 'dog', 'pt': 'cachorro'}","{'en': 'dog', 'pt': 'cachorro'}",,,
-72dfd244-8c02-4283-8a2b-8bffb49a0394,v,{'pt': 'rabo.enrolado'},{'pt': 'rabo enrolado'},,,"{'dõm karekẽd_dba9ba48-2912-4dc8-bedc-4b8441e09274': ('Não indicativo',)}"
+72dfd244-8c02-4283-8a2b-8bffb49a0394,v,{'pt': 'rabo.enrolado'},{'pt': 'rabo enrolado'},,,"{'dõm karekẽd_dba9ba48-2912-4dc8-bedc-4b8441e09274': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 acd0a02b-de35-4f49-bbd4-4a45184b76c5,n,{'pt': 'lar'},{'pt': 'lar; aldeia'},,,
-a8001b80-aea8-4a40-af26-d4a9e704890f,v,{'pt': 'esperar'},{'pt': 'esperar'},,,"{'gadaa_17659126-2402-4a4a-bc5a-71c1e9e0734f': ('Não indicativo',), 'gedʹaa_1d0fab41-6b9c-423d-957f-9fa8add5d166': ('Ext.(?)',), 'geda_be647e19-7632-4129-9578-86ae00434ad4': ('Plural',)}"
+a8001b80-aea8-4a40-af26-d4a9e704890f,v,{'pt': 'esperar'},{'pt': 'esperar'},,,"{'gadaa_17659126-2402-4a4a-bc5a-71c1e9e0734f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'gedʹaa_1d0fab41-6b9c-423d-957f-9fa8add5d166': {'type': '_component-lexeme', 'variant-type': 'Ext.(?)'}, 'geda_be647e19-7632-4129-9578-86ae00434ad4': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 d59ed63e-455d-4631-afc4-79845c4db181,Verb,"{'en': 'cry', 'pt': 'chorar'}","{'en': 'cry', 'pt': 'chorar'}",,,
 c94cfd36-762f-4e6c-bedd-38136ea02f38,Noun,"{'en': 'nadëb.indian', 'pt': 'índio.nadëb'}","{'en': 'self-denomination of ethnic/linguistic group', 'pt': 'auto-denominação do grupo'}",,,
 89205f79-7120-40fc-8923-1214ed383cd4,Noun,{'en': 'lata'},,,,
 fd97e6ad-10cc-4398-b747-938462021688,adv op,{'pt': 'outro'},{'pt': 'um; outro'},,,
-75f04d15-d086-4211-9772-1a28fe91ff37,v,{'pt': 'tirar.comida'},{'pt': 'tirar comida; não liquida da anela (com cuia; concha; olher; etc.)'},,,"{'ahaa_686c862e-f8bb-4b61-8c2d-d07f36bd5a6a': ('Não indicativo',)}"
+75f04d15-d086-4211-9772-1a28fe91ff37,v,{'pt': 'tirar.comida'},{'pt': 'tirar comida; não liquida da anela (com cuia; concha; olher; etc.)'},,,"{'ahaa_686c862e-f8bb-4b61-8c2d-d07f36bd5a6a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 d23385de-69ff-4c10-8d02-426abf0f1d4c,Noun,{'en': 'grandfather'},,,,
 2afc47f2-57a2-452f-97a7-ea21364d0f2c,?,{'pt': '?'},{'pt': '?'},,,
 28cf09b1-08ef-437e-a7bb-31e8fc298ddf,Noun,"{'en': 'son.in.law', 'pt': 'genro'}","{'en': 'son-in-law', 'pt': 'genro'}",,,
 bee88a12-9488-4b64-bbc5-5e6b5a8567c5,n,{'pt': 'abacaxi'},{'pt': 'abacaxi'},,,
 d108abdf-f26e-436f-bf25-080eac6d4842,?,{'en': 'queimado'},,,,
-51108a9e-cc11-4cfa-a735-744da668a4aa,v p,{'pt': 'cair'},{'pt': 'cair'},,,"{'kajäg_123e22bd-d7b9-474e-bdc6-12aa684847c8': ('Não indicativo',), 'adäng_6578aad5-11c4-4780-ab89-5f33251e5c3e': ('Singular',)}"
+51108a9e-cc11-4cfa-a735-744da668a4aa,v p,{'pt': 'cair'},{'pt': 'cair'},,,"{'kajäg_123e22bd-d7b9-474e-bdc6-12aa684847c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'adäng_6578aad5-11c4-4780-ab89-5f33251e5c3e': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
 7eba24e2-94bc-4963-b826-bd027b2e7085,v,{'pt': 'gostar.de'},{'pt': 'gostar de comida'},,,
 2434d692-3364-4b1a-a592-886cbdca0ffb,Noun,"{'en': 'bitter.manioc', 'pt': 'mandioca'}","{'en': 'manioc (bitter)', 'pt': 'mandioca'}",,,
 e288c784-25c6-4c91-990a-7e62b6229a0f,n,{'pt': 'colega'},{'pt': 'colega'},,,
@@ -680,17 +680,17 @@ f86c939e-6f98-4cb1-8f10-7a106cd916da,n,"{'en': 'children', 'pt': 'criança;pl'}"
 c903b261-0a4a-40a4-8770-04ed1ff16efa,?,{'pt': '?'},{'pt': '?'},,,
 e67bf0c3-c8fb-49e2-970d-3dfe971dc4fe,Pronoun,{'en': 'pronome indeterminado'},,,,
 9c14ccac-e14c-4308-8362-3cc93bac34bc,Noun,{'en': 'perema'},,,,
-0ecba83b-2c7c-4379-8471-565bceda5869,Noun,"{'en': 'pimple', 'pt': 'espinha'}","{'en': 'pimple', 'pt': 'espinha'}",,"('(ji) tahóh', 'grammar')",
+0ecba83b-2c7c-4379-8471-565bceda5869,Noun,"{'en': 'pimple', 'pt': 'espinha'}","{'en': 'pimple', 'pt': 'espinha'}",,{'grammar': '(ji) tahóh'},
 f69a73c7-5733-40ea-9196-3004f374dfc5,Noun,"{'en': 'toad', 'pt': 'sapo'}","{'en': 'toad', 'pt': 'sapo'}",,,
 67b3cc34-0db1-4cb8-bd91-4336b8616c96,n,{'pt': 'rato.do.mato'},{'pt': 'rato do mato'},,,
 efcdf5dd-3acd-4522-9ee8-d3bfe838653e,post,{'en': 'DAT'},,,,
 66506917-c97c-4e7b-8070-11ff24f9304a,v,{'pt': 'bater'},{'pt': 'bater com instrumento'},,,
 16134e8b-c30e-4f5d-9ae5-02f30c6f29a6,v,{'pt': 'estar.caindo'},{'pt': 'estar caindo (só árvore e galho)'},,,
 f5a8c947-10cb-4a1e-822f-6960f1529e62,adv?,{'en': 'acima'},,,,
-32a368a7-d87b-441c-bc01-f27a308a8b1a,v,{'pt': 'enrolado'},{'pt': 'enrolado'},,,"{'kasarõ_04f383e2-28e7-4ca8-8903-46ecb268dcec': ('Não indicativo',)}"
+32a368a7-d87b-441c-bc01-f27a308a8b1a,v,{'pt': 'enrolado'},{'pt': 'enrolado'},,,"{'kasarõ_04f383e2-28e7-4ca8-8903-46ecb268dcec': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 a3438d04-891a-4e4d-97bb-dd6081e693fe,n,{'pt': 'curauá'},{'pt': 'esp. de planta (curauá)'},,,
 03a706b5-ef04-420c-8fb2-379d85310c4d,Verb,"{'en': 'itch', 'pt': 'coçar'}","{'en': 'itch', 'pt': 'coçar'}",,,
-f7801daa-0d39-48f9-9f63-f852c4125e16,v,{'pt': 'abrir'},{'pt': 'abrir (rede; roupa; canoa)'},,,"{'gajʹeej_0370d9a3-7912-458c-bb70-6097fb5de782': ('Não indicativo',), 'gajénh_dd695d2b-de3a-48cb-8d65-cc1432ed82da': ('Habitual',)}"
+f7801daa-0d39-48f9-9f63-f852c4125e16,v,{'pt': 'abrir'},{'pt': 'abrir (rede; roupa; canoa)'},,,"{'gajʹeej_0370d9a3-7912-458c-bb70-6097fb5de782': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'gajénh_dd695d2b-de3a-48cb-8d65-cc1432ed82da': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 3ce25195-3b1c-4c1b-8ffa-e4c799fb6d19,Noun,"{'en': 'palm weevil', 'pt': 'espirito'}","{'en': 'evil spirit; ghost', 'pt': 'espirito'}",,,
 1b5d7c5a-a3da-44fb-a0ba-579d735ebc99,Verb,{'en': 'cortar (n.i. hɔ̃g)'},,,,
 e6ed8205-a75b-492e-b735-026e48c1919b,Noun,{'en': 'measles'},,,,
@@ -701,10 +701,10 @@ c151d1cc-266b-4c08-9a1e-86bf232ecbe0,n p,{'pt': 'outros'},{'pt': 'outros; uns'},
 2db63249-93ac-4a92-812e-587a136b2ed8,Noun,{'en': 'maduro'},,,,
 80811e83-be04-40fd-95f2-a220bf016501,Noun,"{'en': 'daughter.in.law', 'pt': 'nora'}","{'en': 'daughter-in-law', 'pt': 'nora'}",,,
 765ef189-3688-4d30-b84d-d69ba2715694,Noun,"{'en': 'fog', 'pt': 'neblina'}","{'en': 'fog', 'pt': 'neblina'}",,,
-51bc5acc-97f9-433f-b777-5a771ad5549d,v,{'pt': 'fazer.fogo.embaixo'},{'pt': 'fazer fogo em baixo'},,,"{'du gahõ_4e616741-d400-4f88-b628-3ec6f301c861': ('Não indicativo',), 'du gahõh_e6e93f5e-5975-47f5-b06e-f0b1bb893ed1': ('Não indicativo',)}"
+51bc5acc-97f9-433f-b777-5a771ad5549d,v,{'pt': 'fazer.fogo.embaixo'},{'pt': 'fazer fogo em baixo'},,,"{'du gahõ_4e616741-d400-4f88-b628-3ec6f301c861': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'du gahõh_e6e93f5e-5975-47f5-b06e-f0b1bb893ed1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 3f036fac-b519-4356-8dd9-1eea00075b41,v,{'pt': 'apertar'},{'pt': 'apertar'},,,
-cb9fef40-4b1b-4ca3-b48f-062d545d3841,v,{'pt': 'seco'},{'pt': 'seco; bem torrado'},,,"{'kasug_0a6b31fb-6433-4d7b-b051-c162f4767c39': ('Não indicativo',), 'kesuk_e88be7eb-f37b-4e0c-a513-0e71556555c9': ('Plural',)}"
-5db5f38b-08f4-4885-acdf-68dfb87f8352,v,{'pt': 'querer'},{'pt': 'querer'},,,"{'karẽn2_0bb585b4-9790-479e-b323-e5503770401b': ('Plural',), 'karʹẽẽn_f5926d3f-fb91-496a-9777-ce724a4960ba': ('Habitual',)}"
+cb9fef40-4b1b-4ca3-b48f-062d545d3841,v,{'pt': 'seco'},{'pt': 'seco; bem torrado'},,,"{'kasug_0a6b31fb-6433-4d7b-b051-c162f4767c39': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'kesuk_e88be7eb-f37b-4e0c-a513-0e71556555c9': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
+5db5f38b-08f4-4885-acdf-68dfb87f8352,v,{'pt': 'querer'},{'pt': 'querer'},,,"{'karẽn2_0bb585b4-9790-479e-b323-e5503770401b': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'karʹẽẽn_f5926d3f-fb91-496a-9777-ce724a4960ba': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 7679dbd2-66c4-4181-8750-4e10291c88ea,Verb,{'en': 'capinar'},,,,
 69e7fa0a-9e80-485b-b1e1-85464f8b716e,v,"{'en': 'eat', 'pt': 'comer'}","{'en': 'eat (everything but meat and fish)', 'pt': 'comer (para coisas menos carne ou peixe)'}",,,
 4f1ffcc8-89dd-465c-afaa-dd5aaf49639d,n,{'pt': 'parte.baixa'},{'pt': 'parte por baixo'},,,
@@ -713,35 +713,35 @@ fce96a6e-3ec1-4f43-a264-fb5ba3ab39ad,Noun,{'en': 'cabeçudo'},,,,
 cd6b8162-97b0-43ac-b876-69675eeaa301,Noun,"{'en': 'amazon.dolphin', 'pt': 'boto'}","{'en': 'amazon.dolphin', 'pt': 'boto'}",,,
 04136b99-da36-48b3-afdb-7c8a47d55bf9,Noun,"{'en': 'arrow', 'pt': 'flecha'}","{'en': 'arrow', 'pt': 'flecha'}",,,
 febdc428-5f2f-41af-93e6-d42ce69de39d,Noun,"{'en': 'tail', 'pt': 'rabo'}","{'en': 'tail', 'pt': 'rabo'}",,,
-b1175a2d-aa4a-4330-b39f-fa0a408497a5,v,{'pt': 'inclinado'},{'pt': 'inclinado (árvore ou pessoa)'},,,"{'jadatog_3fe4e340-414b-45a8-9f44-8fa4206a37c8': ('Não indicativo',), 'nu jadatoog_e201b7a5-265d-4e84-8d16-27c0ea05ac4b': ('Unspecified Variant',)}"
+b1175a2d-aa4a-4330-b39f-fa0a408497a5,v,{'pt': 'inclinado'},{'pt': 'inclinado (árvore ou pessoa)'},,,"{'jadatog_3fe4e340-414b-45a8-9f44-8fa4206a37c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'nu jadatoog_e201b7a5-265d-4e84-8d16-27c0ea05ac4b': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 61bb1e24-6231-443a-ba04-ad4062d25ca9,v,{'pt': 'fazer.ligeiro'},{'pt': 'fazer ligeiro'},,,
 5b16c8f0-22e1-4e05-9006-d239ef9293bb,Verb,{'en': 'arrancar (n.i. kog)'},,,,
 c977f046-fd9c-4717-be19-cc14c37d258c,Noun,{'en': 'stalk'},,,,
 98de5dc6-189c-40fd-bf5d-588fc070fa6b,n,"{'en': 'mother', 'pt': 'mãe'}","{'en': 'mother', 'pt': 'mãe'}",,,
 60386658-4087-43a6-993c-100c8138b09a,v,"{'en': 'smell', 'pt': 'cheirar'}","{'en': 'smell', 'pt': 'cheirar'}",,,
-86d16bb4-a2a6-4698-85d5-5452423b4cfc,,"{'en': 'hot.pepper', 'pt': 'pimenta'}","{'en': 'hot pepper', 'pt': 'pimenta'}","[('pimenta', 'pt'), ('hot pepperzz', 'en')]",,
+86d16bb4-a2a6-4698-85d5-5452423b4cfc,,"{'en': 'hot.pepper', 'pt': 'pimenta'}","{'en': 'hot pepper', 'pt': 'pimenta'}","{'pt': 'pimenta', 'en': 'hot pepperzz'}",,
 4973e187-e38a-4d79-b74e-f248f36194ed,n,{'pt': 'cutia.preta'},{'pt': 'cutia.preta'},,,
-b4be0a8d-cf7e-494d-8e8e-8d6bb5d7e987,v,{'pt': 'espalhar'},{'pt': 'espalhar'},,,"{'akus_532675cd-55f8-4daf-91ac-6fb60478016d': ('Unspecified Variant',), 'akʹuuts_c9e21d27-da30-451c-b986-8b1d12530f77': ('Não indicativo',)}"
-51df100f-fdcb-460f-8f6d-932797cc5b68,v,{'pt': 'chegar'},{'pt': 'chegar; terminar'},,,"{'kaja_661cf15c-fe73-4d92-997c-a7572c531f9b': ('Não indicativo',)}"
+b4be0a8d-cf7e-494d-8e8e-8d6bb5d7e987,v,{'pt': 'espalhar'},{'pt': 'espalhar'},,,"{'akus_532675cd-55f8-4daf-91ac-6fb60478016d': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'akʹuuts_c9e21d27-da30-451c-b986-8b1d12530f77': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+51df100f-fdcb-460f-8f6d-932797cc5b68,v,{'pt': 'chegar'},{'pt': 'chegar; terminar'},,,"{'kaja_661cf15c-fe73-4d92-997c-a7572c531f9b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 1f02cdd2-03d5-462e-b34f-8dc77c83fedd,Noun,{'en': 'caranguejo'},,,,
 53cc9f67-9981-46dd-8f52-4fc06b3699df,Noun,{'en': 'espécie de árvore da caatinga'},,,,
 9b1c0686-0243-47e2-a490-9ac118639250,Verb,"{'en': 'stand', 'pt': 'ficar.em.pé'}",,,,
-c53f2fbb-8c11-46bf-980a-49a8c5d51bd7,v,{'pt': 'costurar'},{'pt': 'costurar'},,,"{'asung_5eb52b6b-ef0f-4d9d-aca8-90a2eb3d10dd': ('Não indicativo',), 'yasuuh_da900b5e-4e52-47a4-bd9d-01f7d6d64609': ('Unspecified Variant',)}"
-3966a69b-7909-473a-8ee1-680e9c21c87b,Noun,"{'en': 'squash', 'pt': 'abobora'}","{'en': 'squash', 'pt': 'abobora'}","[('squash', 'en'), ('abobora', 'pt')]",,
+c53f2fbb-8c11-46bf-980a-49a8c5d51bd7,v,{'pt': 'costurar'},{'pt': 'costurar'},,,"{'asung_5eb52b6b-ef0f-4d9d-aca8-90a2eb3d10dd': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'yasuuh_da900b5e-4e52-47a4-bd9d-01f7d6d64609': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+3966a69b-7909-473a-8ee1-680e9c21c87b,Noun,"{'en': 'squash', 'pt': 'abobora'}","{'en': 'squash', 'pt': 'abobora'}","{'en': 'squash', 'pt': 'abobora'}",,
 b9018293-75b3-4b88-bf0d-a671def864b8,Noun,{'en': 'pupunha'},,,,
 2fa64abe-8789-4608-b11c-6673593a90a2,n,"{'en': 'pirarucu.fish', 'pt': 'pirarucu'}","{'en': 'pirarucu fish', 'pt': 'pirarucu'}",,,
 23972b04-5d78-4541-b210-71277fe3b508,v,{'pt': '?'},{'pt': '?'},,,
 67ee527b-5ab8-479f-acf1-a3e34c1f502f,v?,{'pt': 'chegar?'},{'pt': 'chegar?'},,,
 bfedbe03-504f-4610-ba22-eabf4554d8bb,v,"{'en': 'black', 'pt': 'preto'}","{'en': 'black', 'pt': 'preto'}",,,
-20fae268-d8da-47e2-9773-c4622dc28b8c,v,"{'en': 'dirty', 'pt': 'sujo'}","{'en': 'dirty', 'pt': 'sujo'}",,"('Fieldnotes Epps/Obert 2018', 'bibliography')",
-82af27d8-5082-4a74-af50-27f58e9f36af,Noun,"{'en': 'mouth', 'pt': 'boca'}","{'en': 'mouth', 'pt': 'boca'}",,,"{'nɔ̃ːh_e5a9b44a-535d-4fbc-a143-4da67996e110': ('Spelling Variant', 'Martins 2005; boca')}"
-77c89938-b4b1-463d-9659-504f4c8f9ebe,n,{'pt': 'acompanhamento ?)'},{'pt': 'comida que acompanha o peixe u a carne'},,,"{'gõj_e9a4ed5d-91c0-4580-8d52-9e06d2e7efbd': ('Unspecified Variant',)}"
-194b2515-9d18-4079-a9d9-9d90c46fc9f5,v,{'pt': 'chamar'},{'pt': 'chamar'},,,"{'naëëj_d9ca85c7-ea29-47cc-9bf8-0624e99f4f92': ('Não indicativo',)}"
+20fae268-d8da-47e2-9773-c4622dc28b8c,v,"{'en': 'dirty', 'pt': 'sujo'}","{'en': 'dirty', 'pt': 'sujo'}",,{'bibliography': 'Fieldnotes Epps/Obert 2018'},
+82af27d8-5082-4a74-af50-27f58e9f36af,Noun,"{'en': 'mouth', 'pt': 'boca'}","{'en': 'mouth', 'pt': 'boca'}",,,"{'nɔ̃ːh_e5a9b44a-535d-4fbc-a143-4da67996e110': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; boca'}}"
+77c89938-b4b1-463d-9659-504f4c8f9ebe,n,{'pt': 'acompanhamento ?)'},{'pt': 'comida que acompanha o peixe u a carne'},,,"{'gõj_e9a4ed5d-91c0-4580-8d52-9e06d2e7efbd': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+194b2515-9d18-4079-a9d9-9d90c46fc9f5,v,{'pt': 'chamar'},{'pt': 'chamar'},,,"{'naëëj_d9ca85c7-ea29-47cc-9bf8-0624e99f4f92': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 a246f705-b072-40bb-af1e-a1986882a05f,Noun,"{'en': 'mountain', 'pt': 'serra'}","{'en': 'mountain', 'pt': 'serra'}",,,
-91dcc3b9-cc81-41c9-b099-8363fbeba894,,"{'en': 'close', 'pt': 'perto'}","{'en': 'close', 'pt': 'perto'}",,"('Fieldnotes Epps/Obert; 2018', 'bibliography')",
+91dcc3b9-cc81-41c9-b099-8363fbeba894,,"{'en': 'close', 'pt': 'perto'}","{'en': 'close', 'pt': 'perto'}",,{'bibliography': 'Fieldnotes Epps/Obert; 2018'},
 b4de4d74-e91d-4833-b897-de1c99703bd9,,"{'en': 'almost', 'pt': 'quase'}","{'en': 'almost', 'pt': 'quase'}",,,
-37d35f87-6a25-4537-9dd5-ce21c1e67f8b,n op,{'pt': 'netos'},{'pt': 'netos'},,,"{'tataah_3a4ece63-7d15-430f-a569-fd308bf3fa91': ('Plural',)}"
-81e020cf-ef14-4ff3-a5a9-b97ba22c0054,Noun,"{'en': 'white.cará', 'pt': 'cará.branco'}","{'en': 'white carrá', 'pt': 'cará branco'}","[('white cará', 'en'), ('cará branco', 'pt')]",,
+37d35f87-6a25-4537-9dd5-ce21c1e67f8b,n op,{'pt': 'netos'},{'pt': 'netos'},,,"{'tataah_3a4ece63-7d15-430f-a569-fd308bf3fa91': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
+81e020cf-ef14-4ff3-a5a9-b97ba22c0054,Noun,"{'en': 'white.cará', 'pt': 'cará.branco'}","{'en': 'white carrá', 'pt': 'cará branco'}","{'en': 'white cará', 'pt': 'cará branco'}",,
 b2c34180-2aa9-428a-a1c7-5dab00da3065,,,,,,
 af9b2d2b-6e9b-4497-8369-278ff0a21710,Noun,{'en': 'father'},,,,
 6374a303-c5e6-4b2b-9b57-c08c18b51916,?,{'pt': '?'},{'pt': '?'},,,
@@ -752,25 +752,25 @@ df820bc8-d08d-4b87-90f0-ba34e429c0cf,Noun,"{'en': 'squirrel', 'pt': 'serelepe'}"
 d2d57c03-b3ae-4b0d-b4d8-4918e375c511,n,{'pt': 'esposo/a'},{'pt': 'esposo; esposa'},,,
 8a636d4b-32b0-4a71-88fd-0a7404cabc7f,Noun,"{'en': 'tick', 'pt': 'carrapato'}","{'en': 'medium-sized tick', 'pt': 'carrapato meio'}",,,
 61736ba2-674e-430f-9473-12112d1eda3f,Noun,{'en': 'fruta (sp)'},,,,
-24bcbe78-ccca-4006-98be-eada51fff66e,v,{'pt': 'costurar'},{'pt': 'costurar'},,,"{'gasʹyyb_264b5412-5901-455b-bb3f-bed8595fe801': ('Não indicativo',)}"
-df24d0f7-f5e8-4df7-96f6-b5854cc5c4c1,Noun,{'en': 'tipiti'},,,,"{'haɾũm1_22fb506e-aa3f-4853-99d5-9a5c2c1a06d1': ('Spelling Variant', 'Barbosa 2005; tipiti')}"
+24bcbe78-ccca-4006-98be-eada51fff66e,v,{'pt': 'costurar'},{'pt': 'costurar'},,,"{'gasʹyyb_264b5412-5901-455b-bb3f-bed8595fe801': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+df24d0f7-f5e8-4df7-96f6-b5854cc5c4c1,Noun,{'en': 'tipiti'},,,,"{'haɾũm1_22fb506e-aa3f-4853-99d5-9a5c2c1a06d1': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; tipiti'}}"
 16d89732-ae85-46d9-b82d-a50ad6dd899d,Noun,{'en': 'espécie de árvore'},,,,
 5c784c5b-38e2-421f-add2-dffe0f786aec,Noun,"{'en': 'hair', 'pt': 'cabelo'}","{'en': 'hair', 'pt': 'cabelo'}",,,
 2c112a51-912d-4c95-9374-f0fad9a4e65a,Noun,{'en': 'liso'},,,,
 1c81b13b-ad17-4d36-8f42-8fcf339c823e,Noun,"{'en': 'yurupari', 'pt': 'yurupari'}","{'en': 'yurupari; jurupari (or any flutes forbidden to women)', 'pt': 'yurupari; jurupari (ou qualquer flauta que se proibe às mulheres)'}",,,
 8b6ed0ed-2626-4761-81f9-72818d259523,Noun,{'en': 'mulher'},,,,
 c5eddb7f-85c5-4b2b-ba6d-8bcee5483b5e,Noun,"{'en': 'feather', 'pt': 'pena de passaro'}",,,,
-89b3b010-5833-4aa0-86cb-ff2294313459,v,{'pt': 'lenha.queima.bem'},{'pt': 'lenha que queima bem'},,,"{'ehõh_272fe292-0223-4908-b56f-97b4b133c35d': ('Não indicativo',), 'ehõ1_a8fa89b0-15ca-4fdd-ac22-2cbe425fae9d': ('Não indicativo',)}"
+89b3b010-5833-4aa0-86cb-ff2294313459,v,{'pt': 'lenha.queima.bem'},{'pt': 'lenha que queima bem'},,,"{'ehõh_272fe292-0223-4908-b56f-97b4b133c35d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ehõ1_a8fa89b0-15ca-4fdd-ac22-2cbe425fae9d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 00b261d7-dcc3-4ead-a393-e6216cc86b5a,Verb,"{'en': 'turn.around', 'pt': 'virar'}","{'en': 'turn around', 'pt': 'virar'}",,,
 0232ee51-f686-4845-b786-4fd08f2d420e,n?,{'pt': 'gavião.sp'},{'pt': 'esp de gavião?'},,,
 9a9d2855-bda6-44b1-8127-cce238543d8b,Noun,"{'en': 'dust', 'pt': 'poeira'}","{'en': 'dust', 'pt': 'poeira'}",,,
 f787c59a-1b3e-4042-b602-fcbbe93eb8aa,Noun,"{'en': 'fishing.line', 'pt': 'linha.de.pesca'}","{'en': 'fishing line', 'pt': 'linha de pesca'}",,,
-004bf7ff-86e6-4e43-b24e-166a28b9023a,v,{'pt': 'cheio.de.brocas'},{'pt': 'cheio de brocas'},,,"{'etʹëë_e8722275-3877-4fed-99c7-d79cb00d40ae': ('Não indicativo',), 'etʹëëh2_fc228f01-64d1-4339-a57d-a5ac1cab8d3f': ('Não indicativo',)}"
+004bf7ff-86e6-4e43-b24e-166a28b9023a,v,{'pt': 'cheio.de.brocas'},{'pt': 'cheio de brocas'},,,"{'etʹëë_e8722275-3877-4fed-99c7-d79cb00d40ae': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'etʹëëh2_fc228f01-64d1-4339-a57d-a5ac1cab8d3f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 96c8c9f1-de52-4a11-8ea7-db8475467392,Noun,"{'en': 'mingau', 'pt': 'mingau'}","{'en': 'tapioca drink; mingau', 'pt': 'mingau'}",,,
 91fcc429-a0e7-4123-9aa4-b323e0660310,Noun,{'en': 'esposa dele'},,,,
 8ec1dc6a-55f8-4841-83c9-2a234566d43a,par,{'pt': 'assim.mesmo'},{'pt': 'assim mesmo; enfático'},,,
-368c6261-51f4-4250-8989-35349bda0711,v,{'pt': 'fazer.fogo'},{'pt': 'fazer fogo usando uma brasa'},,,"{'kasʹỹỹn_884bad00-f1bd-4d0d-8a8c-495d4b5d4796': ('Habitual',)}"
-a65dc2f6-4c79-409b-a3c8-c4bd2307b7e9,n,"{'en': 'avocado', 'pt': 'abacate'}","{'en': 'avocado', 'pt': 'abacate'}","[('abacate', 'pt'), ('avocado', 'en')]",,
+368c6261-51f4-4250-8989-35349bda0711,v,{'pt': 'fazer.fogo'},{'pt': 'fazer fogo usando uma brasa'},,,"{'kasʹỹỹn_884bad00-f1bd-4d0d-8a8c-495d4b5d4796': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
+a65dc2f6-4c79-409b-a3c8-c4bd2307b7e9,n,"{'en': 'avocado', 'pt': 'abacate'}","{'en': 'avocado', 'pt': 'abacate'}","{'pt': 'abacate', 'en': 'avocado'}",,
 99179963-d189-4ee0-bd91-c2a93cdd6853,Noun,{'en': 'espécie de árvore'},,,,
 e8fdaa09-effb-413a-b981-cc07f2c1760a,v,"{'en': 'be.in.hammock', 'pt': 'estar.na.rede'}",,,,
 e51661bd-1335-4d9e-b430-fce904f9fc90,Noun,{'en': 'fundo'},,,,
@@ -781,7 +781,7 @@ baa9fb77-a93c-4e8d-9af2-10f58eff43fc,onom?,{'pt': '?'},{'pt': '?'},,,
 a8c772a3-6cf4-4d3c-af42-0be0bed45c5f,Noun,"{'en': 'mud', 'pt': 'lama'}","{'en': 'mud', 'pt': 'lama'}",,,
 5ab05320-805f-46fd-9d4a-a663932bd7da,Verb,{'en': 'florescer'},,,,
 70171a6d-76cb-4765-aa3e-55a46c7d07c7,adv,{'pt': 'na.frente'},{'pt': 'na frente'},,,
-a42313c2-bde0-4404-9e5a-2b132e0b8fb4,v,{'pt': 'socar'},{'pt': 'socar'},,,"{'nu hajóh_6bf1f3bb-dcb1-4824-a92d-de6b44718126': ('Não indicativo',)}"
+a42313c2-bde0-4404-9e5a-2b132e0b8fb4,v,{'pt': 'socar'},{'pt': 'socar'},,,"{'nu hajóh_6bf1f3bb-dcb1-4824-a92d-de6b44718126': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 e236ec8b-9350-4124-b3af-c55a895b529a,?,{'pt': '?'},{'pt': '?'},,,
 a3f474ed-1984-4273-8fb6-9d990568bbc3,n,"{'en': 'house', 'pt': 'casa'}","{'en': 'house', 'pt': 'casa'}",,,
 6129a80c-815d-463c-8ae0-f6f6795b9642,Noun,{'en': 'espécie de sapo'},,,,
@@ -790,38 +790,38 @@ a3f474ed-1984-4273-8fb6-9d990568bbc3,n,"{'en': 'house', 'pt': 'casa'}","{'en': '
 f1837912-357f-46ea-b0f5-83c00e1c9023,Verb,{'en': 'fall.multiple (pl?)'},,,,
 31af3140-0dd6-4e76-b1d8-cf9a320aab07,n,{'pt': 'nenê'},{'pt': 'filho/a pequeno/a'},,,
 7f757cca-4216-4be2-8df1-00f0104a40c8,n,{'pt': 'cobra.sp'},{'pt': 'esp. de cobra'},,,
-7918e573-906f-40bf-a99b-89ce51390ee1,Noun,"{'en': 'acouchi.tree', 'pt': 'breu'}","{'en': '.acouchi tree', 'pt': 'breu'}","[('breu', 'pt'), ('acouchi tree', 'en')]",,
+7918e573-906f-40bf-a99b-89ce51390ee1,Noun,"{'en': 'acouchi.tree', 'pt': 'breu'}","{'en': '.acouchi tree', 'pt': 'breu'}","{'pt': 'breu', 'en': 'acouchi tree'}",,
 effb7c71-559d-46ab-8522-7f609a9c5f3c,v?,{'pt': '?'},{'pt': '?'},,,
-74b8b567-2fbc-49cb-a9c5-c6fceb662737,v,{'pt': 'sofrer.miséria'},{'pt': 'sofrer miséria; sofrer pobreza'},,,"{'kasuud_4afcce50-2b38-49e5-bec1-1732ce913571': ('Não indicativo',)}"
+74b8b567-2fbc-49cb-a9c5-c6fceb662737,v,{'pt': 'sofrer.miséria'},{'pt': 'sofrer miséria; sofrer pobreza'},,,"{'kasuud_4afcce50-2b38-49e5-bec1-1732ce913571': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 9eb27a7f-abaf-49a4-9779-e2d05d98a8f9,n,{'pt': 'maracanã'},{'pt': 'esp. de arara verde (maracanã)'},,,
 b36a187e-5829-4fd1-9714-474ec69e016f,Pronoun,{'en': 'the.one'},,,,
 3b3a388c-65d7-41e6-9270-16d136336f1e,n,{'pt': 'arco-íris'},{'pt': 'arco-íris'},,,
 3d035500-87f7-4b30-b7eb-17c74c6e0f6b,Verb,{'en': 'partir (hab ʃḭːm)'},,,,
 c238bad4-14b9-4793-bde2-19e5914d8a2b,Noun,{'en': 'morro'},,,,
-5394f9cf-abdc-4e3e-a300-29ef95af4cd3,v,{'pt': 'ser.igual'},{'pt': 'ser igual; ser como'},,,"{'hedoo_50710311-5077-4000-ba6a-e9122b2a1290': ('Plural',), 'hado_e38efbe1-2b31-4b13-8f02-ffda0c1b3ff7': ('Não indicativo',)}"
+5394f9cf-abdc-4e3e-a300-29ef95af4cd3,v,{'pt': 'ser.igual'},{'pt': 'ser igual; ser como'},,,"{'hedoo_50710311-5077-4000-ba6a-e9122b2a1290': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'hado_e38efbe1-2b31-4b13-8f02-ffda0c1b3ff7': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 71a5b21a-e60f-4da7-8ef6-034055f3a638,Noun,"{'en': 'paddle', 'pt': 'remo'}","{'en': 'paddle; oar', 'pt': 'remo'}",,,
 95ef8b75-bfb5-4e1b-ab43-66fcb3443d61,Noun,{'en': 'palma do pé'},,,,
 f7fead57-ab7d-4fcb-ba31-337f08bcedd9,Verb,{'en': 'be.in.movement'},,,,
 4f7f47b8-b326-4da4-92a7-42a2292270f8,pro,{'pt': '3P'},{'pt': '(d)eles'},,,
-b63b5337-2f97-4c38-a4cc-335c7d99ee77,v,{'pt': 'molhar'},{'pt': 'molhar; imergir no líquido'},,,"{'hehos_4f8b69c2-57d9-4904-91aa-2a5470eea28e': ('Habitual',), 'hehoots_9d94fe0a-9859-4994-a991-bc666f320016': ('Não indicativo',)}"
+b63b5337-2f97-4c38-a4cc-335c7d99ee77,v,{'pt': 'molhar'},{'pt': 'molhar; imergir no líquido'},,,"{'hehos_4f8b69c2-57d9-4904-91aa-2a5470eea28e': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'hehoots_9d94fe0a-9859-4994-a991-bc666f320016': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 282db821-28d3-43a6-bfd5-5f739c562939,v?,{'pt': '?'},{'pt': '?'},,,
 9a0089f2-46a4-4da0-ad43-f294241a2246,Verb,"{'en': 'fish.w.poison', 'pt': 'tinguijar'}","{'en': 'fish (with fish-poison)', 'pt': 'pescar com timbó; tinguijar'}",,,
 2cdf9ac6-8951-440c-97c6-815df5effb42,Verb,"{'en': 'be.sad', 'pt': 'ficar.triste'}","{'en': 'be.sad', 'pt': 'ficar;triste'}",,,
 d02f6e29-6e20-4050-9033-3f7887e15ce2,Noun,{'en': 'rabo'},,,,
-1d403bbc-6626-434c-977a-29615f25b110,v,{'pt': 'descer'},{'pt': 'baizar; descer'},,,"{'ahyy2_1fa33a5c-430d-45ea-8091-b77ec8ca00d2': ('Não indicativo',), 'ahyk3_48a9115e-12fc-4ad0-a55e-3ff77821a07b': ('Plural',), 'ahyyh2_a4db2ba4-29b1-42d6-ba71-d03347f7bf88': ('Não indicativo',)}"
-573b632d-62f5-4dce-9acf-898e32afec13,Noun,"{'en': 'bitterwood', 'pt': 'envira'}","{'en': 'bitterwood', 'pt': 'envira'}","[('bitterwood', 'en'), ('envira', 'pt')]",,
+1d403bbc-6626-434c-977a-29615f25b110,v,{'pt': 'descer'},{'pt': 'baizar; descer'},,,"{'ahyy2_1fa33a5c-430d-45ea-8091-b77ec8ca00d2': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ahyk3_48a9115e-12fc-4ad0-a55e-3ff77821a07b': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'ahyyh2_a4db2ba4-29b1-42d6-ba71-d03347f7bf88': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+573b632d-62f5-4dce-9acf-898e32afec13,Noun,"{'en': 'bitterwood', 'pt': 'envira'}","{'en': 'bitterwood', 'pt': 'envira'}","{'en': 'bitterwood', 'pt': 'envira'}",,
 10b49408-4019-4234-9e8f-8bd08188c95d,Noun,"{'en': 'granddaughter', 'pt': 'neta'}","{'en': 'granddaughter', 'pt': 'neta'}",,,
 35b04566-b52d-40e9-955f-18515affcfc2,par,{'pt': 'si'},{'pt': 'si'},,,
 9d03c8d2-918e-429c-9f37-ce8d5b64df51,interj?,{'pt': '?'},{'pt': '?'},,,
 3d019497-809d-447b-8550-2aff441a5af9,Question particle,"{'en': 'where', 'pt': 'onde'}","{'en': 'where', 'pt': 'onde'}",,,
-c332dfe8-c85d-496a-856c-e14ed05ee193,suf,{'pt': 'INTS'},{'pt': 'intensificador; exaltamente'},,,"{'ub_b2935fa1-6836-45aa-91fb-4b6f277f70dc': ('Não indicativo',)}"
+c332dfe8-c85d-496a-856c-e14ed05ee193,suf,{'pt': 'INTS'},{'pt': 'intensificador; exaltamente'},,,"{'ub_b2935fa1-6836-45aa-91fb-4b6f277f70dc': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 d4e0ac2f-b4c3-4b3e-a771-376b391e869e,Noun,{'en': 'mato caído'},,,,
 97310a99-7696-4de1-a7f8-e9f056f93b84,Noun,"{'en': 'hook', 'pt': 'anzol'}","{'en': 'hook', 'pt': 'anzol'}",,,
 77696b8f-d6a1-489b-ae42-b131a18a44b6,Noun,"{'en': 'claw', 'pt': 'garra'}","{'en': 'clawz', 'pt': 'garra'}",,,
-2c08905d-ed34-4bce-a5d7-9819044844bd,v,"{'en': 'walk', 'pt': 'andar'}","{'en': 'walk', 'pt': 'andar'}",,,"{'ma wëëd_6a5a6d9b-e53c-43d3-899a-cc60e56ffab8': ('Causativo não indicativo',), 'wʹëët_78cc870c-148a-4b0a-b684-18e13bce9b43': ('Ext.(?)',)}"
+2c08905d-ed34-4bce-a5d7-9819044844bd,v,"{'en': 'walk', 'pt': 'andar'}","{'en': 'walk', 'pt': 'andar'}",,,"{'ma wëëd_6a5a6d9b-e53c-43d3-899a-cc60e56ffab8': {'type': '_component-lexeme', 'variant-type': 'Causativo não indicativo'}, 'wʹëët_78cc870c-148a-4b0a-b684-18e13bce9b43': {'type': '_component-lexeme', 'variant-type': 'Ext.(?)'}}"
 36e6ef46-3bde-4e2b-b316-156547409325,v,"{'en': 'live', 'pt': 'viver'}","{'en': 'live (metaphorical)', 'pt': 'viver (metaforico)'}",,,
 9e0e8baa-b9ce-4a9d-8ec3-bc72df38d238,Verb,{'en': 'be.sweet'},,,,
-51b22271-5de7-46ee-8e60-315236f46b28,v,{'pt': 'tecer'},{'pt': 'tecer'},,,"{'ekä_1da016b1-82e5-4aeb-997f-f4a0414d1cc7': ('Não indicativo',), 'ekëë doo_9710386f-19fa-44d9-ae2e-128d33cbf1d5': ('Unspecified Variant',)}"
+51b22271-5de7-46ee-8e60-315236f46b28,v,{'pt': 'tecer'},{'pt': 'tecer'},,,"{'ekä_1da016b1-82e5-4aeb-997f-f4a0414d1cc7': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ekëë doo_9710386f-19fa-44d9-ae2e-128d33cbf1d5': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 1967519c-1401-4d14-95ff-2fec582f47d3,Noun,"{'en': 'coatamundi', 'pt': 'quati'}","{'en': 'cotamundi; coatimundi', 'pt': 'quati'}",,,
 466da06d-5775-4881-b966-e11273a46f0e,Noun,{'en': 'espécie de formiga'},,,,
 cd2f91cd-cfee-4d62-899c-5b7f35a7c2fb,v,{'pt': 'listrado.com.anéis'},{'pt': 'ser listrado perpendicularmente em forma de anel)'},,,
@@ -832,11 +832,11 @@ a43f239c-e7dd-4388-bfe2-b10029dae56e,n,{'pt': 'caba'},{'pt': 'caba'},,,
 f5591d94-8100-464a-8565-8894df7da50c,v,{'pt': 'picar'},{'pt': 'picar (inseto; injeção; etc.)'},,,
 b0f67bb0-4d54-42df-9b69-fb3dfe73d1c1,n op,{'pt': 'suco'},{'pt': 'suco; liquido'},,,
 503692c8-69c9-411a-8005-9f514a6bf0c3,Noun,{'en': 'espécie de planta'},,,,
-207735da-b17c-4792-b8e1-01e9ac0a6d57,v,{'pt': 'tossir'},{'pt': 'tossir'},,,"{'gasʹuut_ce036a88-6b65-4bfd-817b-ba8e1b160321': ('Unspecified Variant',), 'gasud_e4ab1a59-cfa0-4c4e-92be-da6ffff659be': ('Não indicativo',)}"
+207735da-b17c-4792-b8e1-01e9ac0a6d57,v,{'pt': 'tossir'},{'pt': 'tossir'},,,"{'gasʹuut_ce036a88-6b65-4bfd-817b-ba8e1b160321': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'gasud_e4ab1a59-cfa0-4c4e-92be-da6ffff659be': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 73f91042-a5d6-4d33-8f36-d4f41cc605b0,v,{'pt': '?'},{'pt': '?'},,,
 3d692d05-a5d4-4fbf-97cd-fb8b731c414b,Noun,"{'en': 'knife', 'pt': 'faca'}","{'en': 'knife', 'pt': 'faca'}",,,
-102ca3d3-aa4b-4aef-92c5-a1dba5a1f1f4,Noun,{'en': 'tamanduá bandiera'},,,,"{'jahuːn2_0f3e0747-ec4b-4392-bcca-3709a8cade15': ('Spelling Variant', 'Barbosa 2005; tamanduá bandeira')}"
-9727a434-1d36-4144-bdfa-e890bc9b7624,v,{'pt': 'chiar'},{'pt': 'chiar; rádio que só da estático'},,,"{'tsararẽ2_66896dbf-a84f-4a97-aad9-0d1abb8199e7': ('Não indicativo',), 'tsararʹẽẽ_7782df10-d3ef-4a40-9740-8e8a32c0d2ad': ('Habitual',)}"
+102ca3d3-aa4b-4aef-92c5-a1dba5a1f1f4,Noun,{'en': 'tamanduá bandiera'},,,,"{'jahuːn2_0f3e0747-ec4b-4392-bcca-3709a8cade15': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; tamanduá bandeira'}}"
+9727a434-1d36-4144-bdfa-e890bc9b7624,v,{'pt': 'chiar'},{'pt': 'chiar; rádio que só da estático'},,,"{'tsararẽ2_66896dbf-a84f-4a97-aad9-0d1abb8199e7': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'tsararʹẽẽ_7782df10-d3ef-4a40-9740-8e8a32c0d2ad': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 2687bc4a-13fc-4ab0-bcf6-d5e7f006ffd1,Noun,"{'en': 'grandmother', 'pt': 'avó'}","{'en': 'grandmother', 'pt': 'avó'}",,,
 1973b362-0278-4803-9d9b-0c14e12255b5,pro,"{'en': 'the.one', 'pt': 'ele.quem(?)'}","{'en': 'the.one', 'pt': 'ele.quem(?)'}",,,
 7108c6b2-390d-4568-a8f9-2c92b208c811,Noun,{'en': 'peneira'},,,,
@@ -844,7 +844,7 @@ b0f67bb0-4d54-42df-9b69-fb3dfe73d1c1,n op,{'pt': 'suco'},{'pt': 'suco; liquido'}
 46edc95f-9dce-4cc7-ae3a-29d74804cdf3,Noun,"{'en': 'firewood', 'pt': 'lenha'}","{'en': 'firewood', 'pt': 'lenha'}",,,
 05914b5d-e8d3-4f1a-8928-e15b2060dffe,Noun,"{'en': 'stone.axe', 'pt': 'machado.de.pedra'}","{'en': 'axe/stone axe', 'pt': 'machado (de pedra)'}",,,
 ef54e133-d197-4f71-bea1-8cd979b41d6c,adj?,"{'en': 'blue', 'pt': 'azul'}","{'en': 'blue', 'pt': 'azul'}",,,
-9cfe8232-c3c5-435e-8c6e-2780b0bc1008,v,{'pt': 'cabelo.louro'},{'pt': '(ter?) cabelo louro ou branco'},,,"{'nu sawaag_d4230c17-b08e-494c-a5de-7c931fd7e20c': ('Unspecified Variant',)}"
+9cfe8232-c3c5-435e-8c6e-2780b0bc1008,v,{'pt': 'cabelo.louro'},{'pt': '(ter?) cabelo louro ou branco'},,,"{'nu sawaag_d4230c17-b08e-494c-a5de-7c931fd7e20c': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 31053f99-5138-4ad7-a729-0f138214657d,Noun,{'en': 'maruim'},,,,
 8c07f586-be16-4f07-9a9c-023ca9c8f2e9,n,"{'en': 'fish', 'pt': 'peixe'}","{'en': 'fish (generic)', 'pt': 'peixe (generico)'}",,,
 733c6833-5277-4aeb-99d8-803cb3116d2f,adv,{'pt': 'naquela.época'},{'pt': 'naquela época; dentro da boca'},,,
@@ -856,7 +856,7 @@ d0ea0e92-b63d-499e-a71b-8d214de7f646,v,"{'en': 'fall.down', 'pt': 'cair'}","{'en
 24d94776-3f11-4a63-8f57-f8537609dd72,Noun,"{'en': 'head', 'pt': 'cabeça'}","{'en': 'head', 'pt': 'cabeça'}",,,
 c918bbb6-bb97-4ac6-8b02-0e1553b1f487,pro,{'pt': '2sg.POSS'},{'pt': '2sg possessivo'},,,
 832045c5-8729-4d05-abcf-7b9fd60d538b,Noun,{'en': 'morcego'},,,,
-2fdaaa67-fb7c-47a8-a5ae-860572f96d7c,v,{'pt': 'levar.baixo'},{'pt': 'levar para baixo'},,,"{'mahyh_7bc16434-7bac-4022-be8d-1787b33858fe': ('Não indicativo',)}"
+2fdaaa67-fb7c-47a8-a5ae-860572f96d7c,v,{'pt': 'levar.baixo'},{'pt': 'levar para baixo'},,,"{'mahyh_7bc16434-7bac-4022-be8d-1787b33858fe': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 92afd846-b8a6-46a9-9bb3-2bdc197010c9,Noun,"{'en': 'shoes', 'pt': 'sapatos'}","{'en': 'shoes', 'pt': 'sapatos'}",,,
 ab82840e-3c79-4f10-a08b-12ed7855322e,v imp?,{'en': 'Fique quieto!'},,,,
 8e895438-847a-412d-822f-0afad834b149,Noun,{'en': 'beija-flor.sp'},,,,
@@ -876,8 +876,8 @@ a666ad75-f16d-4256-a561-377b5438bd63,Noun,{'en': 'no fundo (do rio)'},,,,
 b0ede0fe-0800-45cb-9fe1-00e5d67183a5,v onom,{'pt': 'tirar.foto'},,,,
 9878c9f0-7143-43e8-b621-1b970cb700ec,Verb,{'en': 'be.big.MULT'},,,,
 1c9fe5f0-3be0-4d20-8342-30828a0d37c7,Noun,"{'en': 'deity', 'pt': 'divinidade'}","{'en': 'deity; culture figure', 'pt': 'divinidade; figura mítica'}",,,
-738bfde9-8123-4d10-80aa-c6d22cac9bdd,v,{'pt': 'pensar'},{'pt': 'pensar incorrectamente'},,,"{'redʹoo_b006437b-912f-4b7b-a643-0be0f56b7cab': ('Unspecified Variant',)}"
-1d552273-f279-489e-9a65-9f0ba9cb6022,v,{'pt': 'trazer'},{'pt': 'trazer'},,,"{'mana2_7cf0d1ff-d22c-4d11-afd0-5c89203d1b2a': ('Não indicativo',)}"
+738bfde9-8123-4d10-80aa-c6d22cac9bdd,v,{'pt': 'pensar'},{'pt': 'pensar incorrectamente'},,,"{'redʹoo_b006437b-912f-4b7b-a643-0be0f56b7cab': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+1d552273-f279-489e-9a65-9f0ba9cb6022,v,{'pt': 'trazer'},{'pt': 'trazer'},,,"{'mana2_7cf0d1ff-d22c-4d11-afd0-5c89203d1b2a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 abef926e-30eb-474e-acdb-321061749115,Verb,{'en': 'find'},,,,
 6a6e4936-71ba-4ebc-8204-0a68661a9b3b,Noun,"{'en': 'sister', 'pt': 'irmã'}","{'en': 'sister', 'pt': 'irmã'}",,,
 4dda01e3-4cc8-4051-809a-ec2534727c54,n,{'pt': 'cipó.sp'},{'pt': 'esp. de cipó'},,,
@@ -888,13 +888,13 @@ c0c5d23e-3f56-48b5-a06e-46c9e2be5126,?,{'pt': '?'},{'pt': '?'},,,
 47d31671-ecf0-47b4-a4d0-be26e05167f3,v,"{'en': 'know', 'pt': 'saber'}","{'en': 'know', 'pt': 'saber'}",,,
 d9d59f38-a96d-465b-a528-6b512bf0bd61,v,"{'en': 'understand', 'pt': 'entender'}","{'en': 'understand', 'pt': 'entender'}",,,
 46b51355-1a5b-431a-b504-3aba4f228a2d,v,,,,,
-8dba5f05-3bc0-435d-9dd5-dde7ea11c2e6,Noun,"{'en': 'grease', 'pt': 'gordura'}","{'en': 'grease', 'pt': 'gordura'}",,"('ta syyj', 'grammar')",
+8dba5f05-3bc0-435d-9dd5-dde7ea11c2e6,Noun,"{'en': 'grease', 'pt': 'gordura'}","{'en': 'grease', 'pt': 'gordura'}",,{'grammar': 'ta syyj'},
 93072db2-e472-4aee-9742-93b4062cfe38,Noun,"{'en': 'soldier', 'pt': 'soldado'}","{'en': 'soldier', 'pt': 'soldado'}",,,
 f275b2ad-cf9d-4d4b-9d62-cae59f0e18e3,conj,{'pt': 'devido'},{'pt': 'devido'},,,
 cfe9901e-6345-4f27-a730-29761de0e492,Noun,{'en': 'cabelo'},,,,
 44cf4c32-09a4-4dc3-a108-a8b468a272df,Verb,{'en': 'hold.in.hand'},,,,
 e1da81d8-f4da-4215-85e8-3abd274f3e65,Noun,"{'en': 'coca', 'pt': 'coca'}","{'en': 'coca', 'pt': 'coca'}",,,
-b487a001-f2e9-4175-8ca9-4720edda4966,n,"{'en': 'peach.palm', 'pt': 'pupunha'}","{'en': 'peach palm', 'pt': 'pupunha'}","[('pupunha', 'pt'), ('peach palm', 'en')]",,
+b487a001-f2e9-4175-8ca9-4720edda4966,n,"{'en': 'peach.palm', 'pt': 'pupunha'}","{'en': 'peach palm', 'pt': 'pupunha'}","{'pt': 'pupunha', 'en': 'peach palm'}",,
 008871fd-4619-4a18-8f3a-e7084bd3eaf6,part?,{'en': 'still'},,,,
 7322fb76-b62e-4454-8e73-57a5c701cce0,Noun,"{'en': 'star', 'pt': 'estrela'}","{'en': 'star', 'pt': 'estrela'}",,,
 93baf37f-6deb-47a4-b509-4d183d5e9024,Noun,"{'en': 'electric.eel', 'pt': 'poraquê'}","{'en': 'electric.eel', 'pt': 'poraquê'}",,,
@@ -907,15 +907,15 @@ ed15c35a-3252-4d15-a128-6b5eafbbf5c4,?,{'pt': '?'},{'pt': '?'},,,
 79383229-00b4-4a3d-9e07-12b9c9180b6c,Noun,"{'en': 'praying.mantis', 'pt': 'louva-a-deus'}","{'en': 'praying mantis', 'pt': 'louva-a-deus'}",,,
 44a8503d-b792-47fe-9d9f-64d99e2033c5,Noun,"{'en': 'tongue', 'pt': 'língua'}","{'en': 'tongue', 'pt': 'língua'}",,,
 5988c52b-c4a7-40a0-878d-df06c0a3a6f1,adj?,"{'en': 'short', 'pt': 'curto'}","{'en': 'short', 'pt': 'curto'}",,,
-1eb1e4d9-e6bc-4cd0-95df-bda85e527332,v,"{'en': 'dance', 'pt': 'dançar'}","{'en': 'dance', 'pt': 'dançar'}",,,"{'ajʹëëm_a98bd84d-6f62-4ef1-810c-16bea0535dee': ('Plural',)}"
+1eb1e4d9-e6bc-4cd0-95df-bda85e527332,v,"{'en': 'dance', 'pt': 'dançar'}","{'en': 'dance', 'pt': 'dançar'}",,,"{'ajʹëëm_a98bd84d-6f62-4ef1-810c-16bea0535dee': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 fc3a87c1-4523-4546-a6a0-b3c3f752a07a,v,{'pt': 'pena.de'},{'pt': 'pena de'},,,
-c9271f93-f481-42b2-a37d-27286479ac5a,v,{'pt': 'correr.atrás.de.caça'},{'pt': 'correr atrás de caça'},,,"{'gawaja(h)_70a91ef0-c2f3-423a-9b33-f394a9ea55af': ('Não indicativo',)}"
+c9271f93-f481-42b2-a37d-27286479ac5a,v,{'pt': 'correr.atrás.de.caça'},{'pt': 'correr atrás de caça'},,,"{'gawaja(h)_70a91ef0-c2f3-423a-9b33-f394a9ea55af': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 25e8d112-6ab9-4a75-ad19-cf3922cb1bea,n,"{'en': 'grass', 'pt': 'capim'}","{'en': 'grass', 'pt': 'capim'}",,,
 05113311-c10a-487a-9113-cc9a011fe458,Noun,"{'en': 'body.hair', 'pt': 'pelo.corpo'}","{'en': 'body hair', 'pt': 'pelo do corpo'}",,,
 85079af8-aff3-4871-a735-d2c5e92c2349,Noun,"{'en': 'flea', 'pt': 'pulga'}","{'en': 'small flea; foot bug', 'pt': 'pulga pequena; bicho-do-pé'}",,,
 17fa4cea-ea5e-4fac-9e4d-925efe463ffb,v?,{'pt': '?'},{'pt': '?'},,,
 a4f007b6-bc8f-466e-85ae-cd7fb76c8f9f,Noun,"{'en': 'lizzard', 'pt': 'calango'}","{'en': 'lizzard', 'pt': 'calango'}",,,
-9bd5ef13-0ca5-4550-9eec-36881dc15ec5,v,{'pt': 'fazer.barulho'},{'pt': 'fazer barulho'},,,"{'maa enaa_56b1a3e3-8588-4e67-9dad-5d1c67ab4eeb': ('Não indicativo',)}"
+9bd5ef13-0ca5-4550-9eec-36881dc15ec5,v,{'pt': 'fazer.barulho'},{'pt': 'fazer barulho'},,,"{'maa enaa_56b1a3e3-8588-4e67-9dad-5d1c67ab4eeb': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 a7ca0748-82d5-4f99-8f89-0fef61c7c8ae,adj?,"{'en': 'thick.surface', 'pt': 'grosso.superficie'}","{'en': 'thick for surface', 'pt': 'grosso para superficies'}",,,
 5794f402-cb6e-49d8-80cc-f4e1fd567c8b,Verb,{'en': 'cortar cabelo'},,,,
 6b9308c9-92c1-4405-bc5e-78d7ea232d3d,v,{'pt': 'queimar'},,,,
@@ -926,27 +926,27 @@ a7ca0748-82d5-4f99-8f89-0fef61c7c8ae,adj?,"{'en': 'thick.surface', 'pt': 'grosso
 56b8a4f3-9b5e-4bd6-be92-4fd601ead5cc,Noun,"{'en': 'pigweed', 'pt': 'caruru'}","{'en': 'Pigweed; green amaranth', 'pt': 'caruru; bredo (Bahia)'}",,,
 211f702c-327a-4edb-ad92-3b10980b1502,Noun,"{'en': 'bamboo', 'pt': 'taboca'}","{'en': 'bamboo', 'pt': 'taboca'}",,,
 3d9604c2-3c62-4db1-ac74-97bda54287aa,adv,{'pt': 'muitas.vezes'},{'pt': 'muitas.vezes'},,,
-1681b58c-d028-4b6c-af21-833f4abef2ce,v,"{'en': 'go.up', 'pt': 'subir'}","{'en': 'go up; climb', 'pt': 'subir; trepar'}",,,"{'asʹëëg_071fd2b5-c8ec-405b-a840-71a0419d0870': ('Não indicativo',)}"
+1681b58c-d028-4b6c-af21-833f4abef2ce,v,"{'en': 'go.up', 'pt': 'subir'}","{'en': 'go up; climb', 'pt': 'subir; trepar'}",,,"{'asʹëëg_071fd2b5-c8ec-405b-a840-71a0419d0870': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 b6b2eacc-3cd5-4627-aa03-efc2d1cb0ae0,v,"{'en': 'drink', 'pt': 'beber'}","{'en': 'drink', 'pt': 'beber'}",,,
 3061e908-7a43-4898-81e5-474186975516,Noun,"{'en': 'honey', 'pt': 'mel'}","{'en': 'honey', 'pt': 'mel'}",,,
 61eb6c89-62e9-4d43-9631-a60b3b75416f,Noun,"{'en': 'bread.griddle', 'pt': 'forno.p.beiju'}","{'en': 'griddle for cooking flatbread', 'pt': 'forno para beiju'}",,,
-27196443-08b4-4e3b-82e9-14987c24f524,Noun,{'en': 'açaí'},,,,"{'madiːk1_060565fa-0504-425e-9477-40abe427e5e6': ('Spelling Variant', 'Barbosa 2005; açaí')}"
+27196443-08b4-4e3b-82e9-14987c24f524,Noun,{'en': 'açaí'},,,,"{'madiːk1_060565fa-0504-425e-9477-40abe427e5e6': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; açaí'}}"
 88e4770f-4dae-4f75-b006-5f244ab11a8f,v?,{'pt': '?'},{'pt': '?'},,,
 c033aa4e-eaab-4635-9849-8a06e230ad2b,n,{'pt': 'irmão.novo'},{'pt': 'irmão mais novo'},,,
 a1a1325f-1b03-4a86-938d-7881f4f9e5f8,adv op,{'pt': 'ao.lado'},{'pt': 'ao lado de'},,,
 55b8d752-142d-42f1-b9f2-d9f7dcc3c2ef,adv op,{'pt': 'rio.para.cima'},{'pt': 'rio para cima'},,,
-fc0c1443-58ce-424e-b411-917a8b0275d0,v,{'pt': 'bater.com.pau'},{'pt': 'bater (roupa; ou veneno para eixe) com pau; molhar (a huva)'},,,"{'adʹyyk_1d10f37c-f112-4be6-bd67-9d50e4e71caa': ('Plural',), 'adyg_2e052b4b-7f72-4fa2-a40e-142713b2261c': ('Não indicativo',)}"
+fc0c1443-58ce-424e-b411-917a8b0275d0,v,{'pt': 'bater.com.pau'},{'pt': 'bater (roupa; ou veneno para eixe) com pau; molhar (a huva)'},,,"{'adʹyyk_1d10f37c-f112-4be6-bd67-9d50e4e71caa': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'adyg_2e052b4b-7f72-4fa2-a40e-142713b2261c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 f035b45c-778c-47e1-b960-a5c5268c0195,Noun,"{'en': 'sugar', 'pt': 'açucar'}","{'en': 'sugar; sugar cane', 'pt': 'açucar (de cana)'}",,,
 7671c5b4-a8ba-4cf5-9aa7-c6954fd27aeb,,"{'en': 'nape', 'pt': 'nuca'}","{'en': 'nape (of neck)', 'pt': 'nuca'}",,,
 4cc1321a-94fe-4c5c-a43b-52e94385b3c1,Noun,{'en': 'fígado'},,,,
 e557d8cf-3565-42c7-a7ad-e577b285276b,n,{'pt': 'peneira'},{'pt': 'peneira'},,,
-9e1223a6-228a-4d4d-ba2f-25ef8804f6d7,Noun,"{'en': 'fish.poison', 'pt': 'timbó'}","{'en': 'fish.poison', 'pt': 'timbó'}","[('timbó', 'pt'), ('fish.poison', 'en')]",,
+9e1223a6-228a-4d4d-ba2f-25ef8804f6d7,Noun,"{'en': 'fish.poison', 'pt': 'timbó'}","{'en': 'fish.poison', 'pt': 'timbó'}","{'pt': 'timbó', 'en': 'fish.poison'}",,
 30b6b00e-35b7-4f21-b03c-a7e38c3e76cd,v,"{'en': 'cook', 'pt': 'cozinhar'}","{'en': 'cook', 'pt': 'cozinhar'}",,,
 6183cf2d-10a2-4e00-b5c6-5be7784feb1c,Noun,"{'en': 'fire', 'pt': 'fogo'}","{'en': 'fire', 'pt': 'fogo'}",,,
 12412bd3-a310-4ab7-ab5d-ec26dc64066a,Noun,{'en': 'arara vermelha'},,,,
 7ddabbf3-62e0-4d27-8810-382c9d945a3d,Noun,"{'en': 'alligator', 'pt': 'jacare'}","{'en': 'alligator', 'pt': 'jacare'}",,,
 f43e8d53-f658-4d03-8c6e-95b303755000,Noun,{'en': 'macaco bicó'},,,,
-0333597e-bcd2-4496-a061-30b0c534634b,pos,{'pt': 'DIM'},{'pt': 'diminuitivo'},,,"{'its_99625113-8523-406c-8fae-c6121a0adc82': ('Não indicativo',)}"
+0333597e-bcd2-4496-a061-30b0c534634b,pos,{'pt': 'DIM'},{'pt': 'diminuitivo'},,,"{'its_99625113-8523-406c-8fae-c6121a0adc82': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 532dc17f-bf65-4d18-9545-d3e0a9b1aa66,?,{'en': 'PART'},,,,
 140ca0d1-097c-4966-a150-0a23408c2676,n,{'pt': 'tucumã'},{'pt': 'esp. de palmeira (tucumã)'},,,
 768a0d08-7acd-4dc5-8ee2-c192a6ff752c,Noun,{'en': 'peçonha'},,,,
@@ -954,8 +954,8 @@ c20b16fb-880d-4de4-aa1c-8ecbe9fd00d1,v?,{'pt': 'fazer.som?'},{'pt': 'fazer.som?'
 14811108-3b59-4c9c-8e11-d81a6507a241,Noun,"{'en': 'ash', 'pt': 'cinzas'}","{'en': 'ash', 'pt': 'cinzas'}",,,
 bdeb62c5-0d1b-430f-a59f-d2833a0d0d04,Noun,{'en': 'nariz'},,,,
 41eff7a0-e31d-4bd3-8634-93fbb58f342b,Noun,{'en': 'machete'},,,,
-1325af38-6628-4e3b-b295-f029ab7dd4f1,v,{'pt': 'estar.perto'},{'pt': 'estar perto (logo)'},,,"{'edaa_a88660fb-0dda-4512-a162-a5b314f0bd68': ('Não indicativo',), 'edaah_c18c1c3c-293f-4cf8-92a4-360e2914fa16': ('Não indicativo',)}"
-a7bd6b88-c9ce-4b22-a227-8ad7e1b0ea09,Noun,{'en': 'espécie de macaco'},,,,"{'dawug2_55cf9274-5e64-45ec-938b-4b57786cd164': ('Spelling Variant', 'Barbosa 2005; zogue-zogue')}"
+1325af38-6628-4e3b-b295-f029ab7dd4f1,v,{'pt': 'estar.perto'},{'pt': 'estar perto (logo)'},,,"{'edaa_a88660fb-0dda-4512-a162-a5b314f0bd68': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'edaah_c18c1c3c-293f-4cf8-92a4-360e2914fa16': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+a7bd6b88-c9ce-4b22-a227-8ad7e1b0ea09,Noun,{'en': 'espécie de macaco'},,,,"{'dawug2_55cf9274-5e64-45ec-938b-4b57786cd164': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; zogue-zogue'}}"
 d717f4e3-80ca-4d95-81d9-20781aadb84e,n,{'pt': 'tio'},{'pt': 'tio (irmão do pai)'},,,
 63362b5e-44b9-463a-b7f1-960efbdedfa8,n,{'pt': 'caça'},{'pt': 'caça'},,,
 e15a640f-2051-4b54-92b9-da7fd8180204,?,{'pt': '?'},{'pt': '?'},,,
@@ -963,7 +963,7 @@ e15a640f-2051-4b54-92b9-da7fd8180204,?,{'pt': '?'},{'pt': '?'},,,
 a6d7ec4c-04af-4d85-8640-ec123d877ace,Noun,"{'en': 'manatee', 'pt': 'peixe-boi'}","{'en': 'manatee', 'pt': 'peixe-boi'}",,,
 c0c1298f-d950-4c9f-9feb-acf2ce7bfe06,v,"{'en': 'eat', 'pt': 'comer'}","{'en': 'eat', 'pt': 'comer'}",,,
 e95687d3-d51a-4218-aed8-28ea4e3cf780,v,{'pt': 'exugar'},{'pt': 'exugar; esfregar com a mão'},,,
-9d55ea25-4021-4c97-af55-30c6c927c056,v,{'pt': 'procurar'},{'pt': 'procurar'},,,"{'esʹoos_22d7e1de-0605-439f-a2b0-f42c07fdc820': ('Plural',), 'esóts_dd8eac93-4aef-4404-9da4-dc21a8389f50': ('Não indicativo',)}"
+9d55ea25-4021-4c97-af55-30c6c927c056,v,{'pt': 'procurar'},{'pt': 'procurar'},,,"{'esʹoos_22d7e1de-0605-439f-a2b0-f42c07fdc820': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'esóts_dd8eac93-4aef-4404-9da4-dc21a8389f50': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 0dcf1d83-0e4a-4003-aa0c-b9d0076e306d,n,{'pt': 'cesto.tipo'},{'pt': 'tipo de cesto'},,,
 300346bc-99e6-48dc-a4e9-aa192268039c,Verb,{'en': 'be.heavy'},,,,
 f5c835c7-d8fd-4550-86b8-1ae3eee1f424,?,{'pt': '?'},{'pt': '?'},,,
@@ -976,13 +976,13 @@ d8de3930-0be6-4e83-86c4-a5e307ff61ca,Noun,"{'en': 'mat.uncle', 'pt': 'tio matern
 e590312c-74dc-4c1f-b837-2b58e68e294e,Noun,{'en': 'espécie de árvore'},,,,
 8f40b299-9b38-442a-a95c-cff1264ef2df,n,{'pt': 'rosto'},{'pt': 'rosto; olho'},,,
 ef83758b-9301-4a62-a3a6-b24460de9fc6,Noun,{'en': 'mucura'},,,,
-8f285239-8467-4034-a22f-4789b0c9253f,v,{'pt': 'temperar.comida'},{'pt': 'temperar comida com pimentão'},,,"{'mahãg_2e2ca2cc-1788-4303-bf33-129ffd28dd59': ('Não indicativo',)}"
+8f285239-8467-4034-a22f-4789b0c9253f,v,{'pt': 'temperar.comida'},{'pt': 'temperar comida com pimentão'},,,"{'mahãg_2e2ca2cc-1788-4303-bf33-129ffd28dd59': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 15b1cb7d-2e50-4350-ba50-279aaaabe67b,Noun,{'en': 'canoe'},,,,
 6465d925-e64d-448e-9c2c-3fee41eeca93,n,{'pt': 'calango.venenoso.sp'},{'pt': 'esp. de calango venenoso'},,,
 f2eacd62-e947-4696-9222-45f3eafd0b81,Noun,{'en': 'mira; alvo'},,,,
 a057e6a2-cb4c-4fae-9b17-509164eb73b8,Noun,"{'en': 'mud', 'pt': 'lama'}","{'en': 'mud', 'pt': 'lama'}",,,
 85ac41ac-e911-4d6d-8c0d-c3e7cd8fde16,Verb,"{'en': 'think', 'pt': 'pensar'}","{'en': 'think', 'pt': 'pensar'}",,,
-51060597-fcf4-464c-ac0f-33d8484d82f2,v,{'pt': 'cavar'},{'pt': 'cavar (com faca; enxada; etc.)'},,,"{'apug_fcdd071b-d492-4898-9a12-0b068c0c3557': ('Não indicativo',)}"
+51060597-fcf4-464c-ac0f-33d8484d82f2,v,{'pt': 'cavar'},{'pt': 'cavar (com faca; enxada; etc.)'},,,"{'apug_fcdd071b-d492-4898-9a12-0b068c0c3557': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 c0b191ca-eb8b-4153-8741-b7e0c0d3d66e,Noun,{'en': 'espécie de mutuca'},,,,
 c6120db9-862e-4614-b399-ac4043c65814,Noun,{'en': 'aracu'},,,,
 198a656a-bddb-463f-8901-a04cb3d349e6,n,{'pt': 'madeira'},{'pt': 'madeira; lenha; fogo'},,,
@@ -1004,38 +1004,38 @@ bf9894a8-4dfa-47e2-b97c-2b2528d5ee96,Noun,"{'en': 'jararaca.snake', 'pt': 'jarar
 5f085cb2-4a45-4bc7-9268-e3b4bf70b614,Noun,{'en': 'espécie de cipó'},,,,
 f04d8c55-09b0-4744-8bbe-2e1ef6eb471f,Verb,"{'en': 'lie.in.hammock', 'pt': 'deitar.rede'}","{'en': 'lie in hammock', 'pt': 'deitar na rede'}",,,
 5e501741-a16c-4994-bfe5-96c8fae4e0a0,n,{'pt': 'ambaiba.sp'},{'pt': 'esp. de ambaiba; instrumento ue da ritmo à dança'},,,
-0e072346-4ea1-43ff-96ed-c4aefa2fcccf,v,{'pt': 'escapulir'},{'pt': 'escapulir'},,,"{'sadʹẽẽd_9dc3227d-b38f-49b5-84fc-3b90e543fce0': ('Não indicativo',)}"
+0e072346-4ea1-43ff-96ed-c4aefa2fcccf,v,{'pt': 'escapulir'},{'pt': 'escapulir'},,,"{'sadʹẽẽd_9dc3227d-b38f-49b5-84fc-3b90e543fce0': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 9e4aac3d-a335-44e5-b2e2-e7e8d10a8df6,n,"{'en': 'root', 'pt': 'raiz'}","{'en': 'root', 'pt': 'raiz'}",,,
-100f0c7d-1293-4388-92a5-114850f3136e,pro,"{'en': '1sg', 'pt': '1sg'}",{'pt': 'eu; 1s'},,,"{'ỹỹ3_1fab850f-da95-4fff-8e60-596d84365d2f': ('Unspecified Variant',), 'ỹ_acdb0c0b-2c0f-454f-91d1-eea4498bebf7': ('Unspecified Variant',)}"
+100f0c7d-1293-4388-92a5-114850f3136e,pro,"{'en': '1sg', 'pt': '1sg'}",{'pt': 'eu; 1s'},,,"{'ỹỹ3_1fab850f-da95-4fff-8e60-596d84365d2f': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'ỹ_acdb0c0b-2c0f-454f-91d1-eea4498bebf7': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 d42a357b-2e69-47da-8c38-23056aefd83d,?,{'en': 'maduro'},,,,
 0e7142ba-03dd-499a-91f1-97b7c47f5d72,n,{'pt': 'companheiro'},{'pt': 'companheiro'},,,
-5b065c4e-62e9-4c7c-aeaa-f21eb3894bcf,n,{'pt': 'doença'},{'pt': 'doença; instrumento'},,,"{'nahäh ỹỹ_c49c8eea-482e-4211-b79a-788706696428': ('1S Possessivo',)}"
+5b065c4e-62e9-4c7c-aeaa-f21eb3894bcf,n,{'pt': 'doença'},{'pt': 'doença; instrumento'},,,"{'nahäh ỹỹ_c49c8eea-482e-4211-b79a-788706696428': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
 a110f895-5003-4337-b4a3-202471d74c63,Verb,"{'en': 'hack', 'pt': 'cortar'}","{'en': 'hack', 'pt': 'cortar'}",,,
 ebfaf44d-4e1d-42c1-94d7-3da29c46d943,v,{'pt': 'torcer rede'},{'pt': 'torcer rede'},,,
 974f52a4-055b-4f7f-adcc-3ce7affed7bc,n,{'pt': 'cipó.sp'},{'pt': 'esp. de cipó'},,,
 a992b1f6-69ca-4e05-9c81-8247409eebf5,Noun,"{'en': 'manivara', 'pt': 'manivara'}","{'en': 'manivara', 'pt': 'manivara'}",,,
 ed0ba0e2-d323-4f3b-823e-e07bc2bcb0ed,n,{'pt': 'filho/a'},{'pt': 'filho/a'},,,
-0756186b-78d9-4f08-8487-28a5761781e9,suf,{'pt': 'DM'},{'pt': 'marcação no discurso'},,,"{'kä_12d603c5-ea9b-450b-a27c-e4cbb8b6a5ff': ('Não indicativo',)}"
+0756186b-78d9-4f08-8487-28a5761781e9,suf,{'pt': 'DM'},{'pt': 'marcação no discurso'},,,"{'kä_12d603c5-ea9b-450b-a27c-e4cbb8b6a5ff': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 024c6853-a275-49fd-906c-b4885db73a46,Noun,"{'en': 'sister/brother.in.law', 'pt': 'cunhada/o'}","{'en': 'sister/brother-in-law', 'pt': 'cunhada/o'}",,,
 cf6cb77b-8759-4417-846f-f4615aa01031,Noun,"{'en': 'faeces', 'pt': 'fezes'}","{'en': 'faeces', 'pt': 'fezes'}",,,
-339a2390-193b-4e46-b7d9-76429e5bf07d,n,{'pt': 'finado'},{'pt': 'finado'},,,"{'dakä_088d21b3-b72e-422c-baab-2a35b7838500': ('Não indicativo',), 'dakë_9477178e-c20a-43b8-b4e9-7a91edfad5f8': ('Unspecified Variant',)}"
+339a2390-193b-4e46-b7d9-76429e5bf07d,n,{'pt': 'finado'},{'pt': 'finado'},,,"{'dakä_088d21b3-b72e-422c-baab-2a35b7838500': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'dakë_9477178e-c20a-43b8-b4e9-7a91edfad5f8': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 4efd7702-cf05-40d8-847c-eb5cc0afb71f,Noun,{'en': 'coroca'},,,,
 b3209c8e-3460-48bd-8ce6-2ecd3acfb90d,n,{'pt': 'medo'},{'pt': 'medo'},,,
 484bdda3-653a-4e80-8dfc-8daaa88d5f4c,Noun,"{'en': 'papaya', 'pt': 'mamão'}","{'en': 'papaya', 'pt': 'mamão'}",,,
 488e94db-592f-45b7-9f26-4992cabe0416,,"{'en': 'rotten.wood', 'pt': 'madeira.podre'}",,,,
 9894851c-dd8d-47d6-854a-48143a4dd300,Verb,"{'en': 'sweat', 'pt': 'suar'}","{'en': 'sweat', 'pt': 'suar'}",,,
-524de672-cfcd-498f-ad8a-ff63f63e40a6,v,"{'en': 'sharp', 'pt': 'amolado'}","{'en': 'sharp', 'pt': 'amolado'}",,,"{'ehãw_0631abaa-832b-4f9c-a680-67323f0bec57': ('Não indicativo',), 'ehʹããm_bbd4f12e-b495-4a13-93ac-e28286042fcd': ('Causativo',)}"
+524de672-cfcd-498f-ad8a-ff63f63e40a6,v,"{'en': 'sharp', 'pt': 'amolado'}","{'en': 'sharp', 'pt': 'amolado'}",,,"{'ehãw_0631abaa-832b-4f9c-a680-67323f0bec57': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ehʹããm_bbd4f12e-b495-4a13-93ac-e28286042fcd': {'type': '_component-lexeme', 'variant-type': 'Causativo'}}"
 4f37f451-f9c7-46e5-9bf2-20ea07bb94fd,Noun,{'en': 'manchas escuras na pele'},,,,
-3e338bdc-f7f3-4f3e-8909-9a5e0882edc5,n op,{'pt': 'irmão'},{'pt': 'irmão'},,,"{'hä̃j ỹỹ_5c1a1620-d4fc-4dd4-9a32-7179744fe43f': ('1S Possessivo',)}"
+3e338bdc-f7f3-4f3e-8909-9a5e0882edc5,n op,{'pt': 'irmão'},{'pt': 'irmão'},,,"{'hä̃j ỹỹ_5c1a1620-d4fc-4dd4-9a32-7179744fe43f': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
 5a40707f-ff6a-4c4b-9e2e-d72bcb4c9a68,Noun,"{'en': 'taoca', 'pt': 'taoca'}","{'en': 'taoca (ant)', 'pt': 'taoca (formiga)'}",,,
 43443a2c-b52c-4b96-ae12-93d8f95fd8bb,Verb,"{'en': 'work', 'pt': 'trabalhar'}","{'en': 'work', 'pt': 'trabalhar'}",,,
 cd5eb76c-c0a8-40be-905c-1cf2da368b56,v,"{'en': 'pound', 'pt': 'martelar'}","{'en': 'pound', 'pt': 'martelar'}",,,
-e05e7677-4e81-4cfa-92cf-48e4334f35a1,v,{'pt': 'parar.descansar'},{'pt': 'parar para descansar'},,,"{'moo kamehããg_7d7d5a40-00e6-4495-92d8-70c2f41170b6': ('Unspecified Variant',), 'kamehããg_98b534b6-4fcc-4f15-9b6c-5eba5298d530': ('Não indicativo',)}"
+e05e7677-4e81-4cfa-92cf-48e4334f35a1,v,{'pt': 'parar.descansar'},{'pt': 'parar para descansar'},,,"{'moo kamehããg_7d7d5a40-00e6-4495-92d8-70c2f41170b6': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'kamehããg_98b534b6-4fcc-4f15-9b6c-5eba5298d530': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 99df7779-2ec1-4827-a925-dadc899e8c89,v,{'pt': 'descascar.fruta'},{'pt': 'descascar fruta'},,,
-3dc7d08c-b772-4047-88f7-269b129dba53,v,{'pt': 'trazer'},{'pt': 'trazer'},,,"{'mana1_969e27e7-634a-41d6-8edd-afaee3c494ab': ('Não indicativo',)}"
+3dc7d08c-b772-4047-88f7-269b129dba53,v,{'pt': 'trazer'},{'pt': 'trazer'},,,"{'mana1_969e27e7-634a-41d6-8edd-afaee3c494ab': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 844c36b7-77dd-4af0-8a80-7040735b8893,Noun,"{'en': 'coals', 'pt': 'brasa'}","{'en': 'coals', 'pt': 'brasa'}",,,
 cd1bdf95-2c19-4544-bf47-692a2029f954,Noun,"{'en': 'igapó', 'pt': 'igapó'}","{'en': 'igapó', 'pt': 'igapó'}",,,
-d4cc9505-c2a9-4ed8-b7e7-6bc0acefbcbc,v,{'pt': 'estar.com.raiva'},{'pt': 'estar com raiva'},,,"{'hʹyy gaʹẽẽnh_6757fa7a-e3a0-4c5c-bd31-9cf0544a16c6': ('Plural',), 'hʹyy gaẽẽj_ba147749-703a-4649-96cf-c1cd7d24052e': ('Não indicativo',)}"
+d4cc9505-c2a9-4ed8-b7e7-6bc0acefbcbc,v,{'pt': 'estar.com.raiva'},{'pt': 'estar com raiva'},,,"{'hʹyy gaʹẽẽnh_6757fa7a-e3a0-4c5c-bd31-9cf0544a16c6': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'hʹyy gaẽẽj_ba147749-703a-4649-96cf-c1cd7d24052e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 905f7d66-d1f4-4b4f-9af8-6046f1929d46,n op,"{'en': 'flower', 'pt': 'flor'}","{'en': 'flower', 'pt': 'flor; fruta nova'}",,,
 9d4b2d21-64aa-429e-98c0-f0ebd109f1b1,n op,{'pt': 'grelo'},{'pt': 'grelo'},,,
 03f49beb-4c0b-4baf-a210-0efd259e35a6,Noun,{'en': 'cabeça'},,,,
@@ -1044,19 +1044,19 @@ d4cc9505-c2a9-4ed8-b7e7-6bc0acefbcbc,v,{'pt': 'estar.com.raiva'},{'pt': 'estar c
 d561a8e1-eb42-4813-8765-62894a516bc3,Noun,"{'en': 'fishing.line', 'pt': 'linha.de.pesca'}","{'en': 'fishing line', 'pt': 'linha de pesca'}",,,
 b1964713-cd79-41cd-a8ff-7fc4230c8e11,Noun,"{'en': 'resin', 'pt': 'resina'}","{'en': 'resin', 'pt': 'resina; breu'}",,,
 df293ffa-a94a-42c6-955d-5ab97b5dcf94,Noun,{'en': 'aranha'},,,,
-cad29c1d-b5eb-4580-99ff-8a4e5dc15a9d,n,{'pt': 'sobrinho/a'},{'pt': 'sobrinho; sobrinha'},,,"{'karese_b9d3c621-d2c9-41de-88b3-c40939cb6741': ('Plural',)}"
+cad29c1d-b5eb-4580-99ff-8a4e5dc15a9d,n,{'pt': 'sobrinho/a'},{'pt': 'sobrinho; sobrinha'},,,"{'karese_b9d3c621-d2c9-41de-88b3-c40939cb6741': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 0cb0fc95-2e15-4b30-9087-5a30543ef0ac,Noun,"{'en': 'tucunaré', 'pt': 'tucunaré'}","{'en': 'tucunaré', 'pt': 'tucunaré'}",,,
 d6ec6cde-e53d-4ca3-b895-56911c977943,Noun,"{'en': 'kapiwaya', 'pt': 'kapiwaya'}","{'en': 'ritual song cycle (kapiwaya)', 'pt': 'canto ritual (kapiwaya)'}",,,
 4b0fb19d-e66c-483b-9ab8-4dc75471caf3,Noun,"{'en': 'loincloth', 'pt': 'tanga'}","{'en': 'loincloth', 'pt': 'tanga; tapa-sexo'}",,,
-cfac1d7b-3671-4f93-bf2f-3027cd011a8c,Noun,"{'en': 'sweet.potato', 'pt': 'batata.doce'}","{'en': 'sweet potatoz', 'pt': 'batata doce'}","[('batata doce', 'pt'), ('sweet potato', 'en')]",,
-f05b96d8-0301-4197-a9db-640ec80f477a,v,{'pt': 'mudar'},{'pt': 'mudar'},,,"{'ahỹỹd_a2061f1b-ce83-48f5-8762-78c35e84e54a': ('Não indicativo',)}"
+cfac1d7b-3671-4f93-bf2f-3027cd011a8c,Noun,"{'en': 'sweet.potato', 'pt': 'batata.doce'}","{'en': 'sweet potatoz', 'pt': 'batata doce'}","{'pt': 'batata doce', 'en': 'sweet potato'}",,
+f05b96d8-0301-4197-a9db-640ec80f477a,v,{'pt': 'mudar'},{'pt': 'mudar'},,,"{'ahỹỹd_a2061f1b-ce83-48f5-8762-78c35e84e54a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 a7ee66be-0850-4c03-875b-74123fd737e3,v,{'pt': 'carregar'},{'pt': 'carregar em mãos; pegar'},,,
 5c356c25-ce12-4ca2-ac95-f94fb53e4500,Noun,{'en': 'defunto'},,,,
 39d5193f-d845-4e12-a3da-9ff401c49221,n op?,{'en': 'seu fígado'},,,,
 55f0f337-b969-463e-801d-21fe47b1695b,Noun,"{'en': 'cloud', 'pt': 'nuvem'}","{'en': 'cloud', 'pt': 'nuvem'}",,,
 1a62206f-ef31-4421-8f1e-caa7efc8f76c,Noun,"{'en': 'blowgun', 'pt': 'zarabatana'}","{'en': 'blowgun', 'pt': 'zarabatana'}",,,
 90264752-e438-4aea-80d1-8a33152fd555,Noun,"{'en': 'moriche palm sprout', 'pt': 'grelo de buriti'}","{'en': 'moriche palm sprout (used for making hammocks)', 'pt': 'grelo de buriti (de que se faz rede)'}",,,
-a5fa8680-0856-417b-b767-0627f3da7a37,v,{'pt': 'mamar'},{'pt': 'mamar'},,,"{'abi_c8927501-771f-4db0-afa6-9ca9ca67d32b': ('Não indicativo',), 'abʹii_f51c2d5a-deec-4c2c-9958-e47868ad495d': ('Habitual',)}"
+a5fa8680-0856-417b-b767-0627f3da7a37,v,{'pt': 'mamar'},{'pt': 'mamar'},,,"{'abi_c8927501-771f-4db0-afa6-9ca9ca67d32b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'abʹii_f51c2d5a-deec-4c2c-9958-e47868ad495d': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 1e5d684b-9692-43d8-bd75-2dc0d213702d,Noun,"{'en': 'opossum', 'pt': 'mucura'}","{'en': 'opossum', 'pt': 'mucura'}",,,
 1c4ff100-5751-4a42-8911-3f08864bb84d,Noun,"{'en': 'toucan', 'pt': 'tukano'}","{'en': 'toucan', 'pt': 'tukano'}",,,
 3644aa64-8536-418d-a9ed-1b550216ac0e,Noun,"{'en': 'cassava.bread', 'pt': 'beiju'}","{'en': 'flat bread; cassava bread', 'pt': 'beiju'}",,,
@@ -1066,17 +1066,17 @@ a5fa8680-0856-417b-b767-0627f3da7a37,v,{'pt': 'mamar'},{'pt': 'mamar'},,,"{'abi_
 af47ead9-1537-49b3-a0b4-d279ae0651dc,Noun,{'en': 'espécie de tapuru (inseto)'},,,,
 6a0d97cc-a657-454f-854f-61f46e7fb7c7,n op,"{'en': 'father', 'pt': 'pai'}","{'en': 'father', 'pt': 'pai'}",,,
 bccd27c3-373e-4a1c-839a-6006dd6afa0b,Noun,{'en': 'branco'},,,,
-dc609694-79a3-4c2a-8238-e0d0dd1d7ee2,Noun,{'en': 'solteiro'},,,,"{'maɾahuːd1_679546ee-b5b5-4815-a4dd-08862405b791': ('Spelling Variant', 'Barbosa 2005; solteiro')}"
+dc609694-79a3-4c2a-8238-e0d0dd1d7ee2,Noun,{'en': 'solteiro'},,,,"{'maɾahuːd1_679546ee-b5b5-4815-a4dd-08862405b791': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; solteiro'}}"
 86b314ed-0e13-40a6-a039-afad42e7d999,Noun,"{'en': 'wife', 'pt': 'esposa'}","{'en': 'wife', 'pt': 'esposa'}",,,
 d984594b-4e06-43b6-bd2b-431609ff3c54,Noun,{'en': 'abacate'},,,,
 0c15c446-085e-4f2f-b3e4-07009775e872,n,"{'en': 'stingray', 'pt': 'arraia'}","{'en': 'stingray', 'pt': 'arraia'}",,,
-85489b82-dc9d-4e03-ad2d-a136f079d042,v,{'pt': 'mexer'},{'pt': 'mexer (mingau)'},,,"{'gawʹẽẽn_b9edea85-8937-43c2-84c8-a464e854301f': ('Habitual',)}"
+85489b82-dc9d-4e03-ad2d-a136f079d042,v,{'pt': 'mexer'},{'pt': 'mexer (mingau)'},,,"{'gawʹẽẽn_b9edea85-8937-43c2-84c8-a464e854301f': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 7693b61a-ed61-4709-9cf5-037de32b820f,n,{'pt': 'coral'},{'pt': 'esp. de cobra (coral)'},,,
 e41ae2a7-355a-4b2e-9a7c-0063e3aec580,Verb,"{'en': 'grow', 'pt': 'crescer'}","{'en': 'grow', 'pt': 'crescer'}",,,
 fea59cc2-6cf0-4fbb-af6e-d277b4133602,Noun,"{'en': 'grave', 'pt': 'sepultura'}","{'en': 'grave', 'pt': 'sepultura; sepulcro; cova'}",,,
 1b3de5e7-5978-487c-9201-aad5e9e3d093,Noun,"{'en': 'healer', 'pt': 'benzador'}","{'en': 'healer', 'pt': 'benzador; curandeiro; kumu (Tukano)'}",,,
 97948c29-e3f3-441c-bf6e-5c833672d715,n?,{'en': 'este'},,,,
-cc0a093c-aad2-425b-a4e7-8fde32d15024,v,"{'en': 'make.lightning', 'pt': 'relampejar'}","{'en': 'make.lightning', 'pt': 'relampejar'}",,,"{'awyb_8a8b6eb1-52f7-4bc3-b7e1-c59a825a8e62': ('Não indicativo',)}"
+cc0a093c-aad2-425b-a4e7-8fde32d15024,v,"{'en': 'make.lightning', 'pt': 'relampejar'}","{'en': 'make.lightning', 'pt': 'relampejar'}",,,"{'awyb_8a8b6eb1-52f7-4bc3-b7e1-c59a825a8e62': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 692c2550-3bed-4d32-9d02-cbf3dd73e5e1,Noun,"{'en': 'charm', 'pt': 'feitiço'}","{'en': 'fetish; charm', 'pt': 'feitiço; puçanga'}",,,
 3f87d70b-ee06-4051-b104-acebd4df65d9,pro,{'pt': '3S'},{'pt': '(d)ele'},,,
 9e5c6254-d1c4-4be6-9063-f8fb832a183f,Noun,{'en': 'surucucu'},,,,
@@ -1089,32 +1089,32 @@ d2037ec6-96f8-4116-acb4-69375e82081a,Noun,"{'en': 'green.acouchi', 'pt': 'cutiar
 26c894d3-bb0d-41f6-9e29-5a2ee36f6773,Noun,"{'en': 'husband', 'pt': 'esposo'}","{'en': 'husband', 'pt': 'esposo'}",,,
 a7326904-2bea-4b3e-b444-c254851fa48c,adv?,{'pt': '?'},{'pt': '?'},,,
 a66fe342-ed9b-4d45-9e7c-5365002c356f,Verb,{'en': 'go.downriver'},,,,
-fd034ead-ae35-414c-aad2-4b9e0f677a10,adj,{'pt': 'forte'},{'pt': 'forte; duro; durável'},,,"{'abaah_3bf47a35-c68f-4f2b-ae4a-3d5fbfc00be2': ('Não indicativo',), 'eba(h)_7865f86a-bc3f-4cbc-94a2-1b2a25389631': ('Plural',), 'abaa_a63cbbfd-f8a0-4c22-91de-25701e663018': ('Não indicativo',)}"
+fd034ead-ae35-414c-aad2-4b9e0f677a10,adj,{'pt': 'forte'},{'pt': 'forte; duro; durável'},,,"{'abaah_3bf47a35-c68f-4f2b-ae4a-3d5fbfc00be2': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'eba(h)_7865f86a-bc3f-4cbc-94a2-1b2a25389631': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'abaa_a63cbbfd-f8a0-4c22-91de-25701e663018': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 5cd3bb62-df4f-45b7-9144-810db28487ab,Noun,{'en': 'pênis'},,,,
 431cc8ac-d472-4e0d-ac50-391d9f9f1415,Noun,"{'en': 'dream', 'pt': 'sonho'}","{'en': 'dream', 'pt': 'sonho'}",,,
 9b7058c1-6c0d-4e6f-b310-176ad6fc0dd1,Noun,"{'en': 'bead', 'pt': 'miçanga'}","{'en': 'bead', 'pt': 'miçanga'}",,,
 dffbda04-3a7b-4ada-b977-704815a62858,Verb,"{'en': 'open', 'pt': 'abrir'}","{'en': 'open', 'pt': 'abrir'}",,,
-82cbb80d-ed11-47dc-9f68-af19cb7de65d,adv,"{'en': 'far', 'pt': 'longe'}","{'en': 'far', 'pt': 'longe'}",,"('check spelling ëë/yy?', 'phonology')",
+82cbb80d-ed11-47dc-9f68-af19cb7de65d,adv,"{'en': 'far', 'pt': 'longe'}","{'en': 'far', 'pt': 'longe'}",,{'phonology': 'check spelling ëë/yy?'},
 b661ed42-f117-47e9-948a-fd6bdcd840f9,n,{'pt': 'civilizado'},{'pt': 'civilizado'},,,
 c81f7c4e-93f1-41f5-8a57-a48a3d93d9a3,Noun,"{'en': 'hammock', 'pt': 'rede'}","{'en': 'hammock', 'pt': 'rede'}",,,
 a85bd45a-5917-4840-a179-16e45ab17f1e,Verb,"{'en': 'bless', 'pt': 'benzer'}","{'en': 'bless', 'pt': 'benzer'}",,,
 ff68d43e-f3d1-40a4-bd63-4cd4f7b2ac23,Verb,"{'en': 'burn', 'pt': 'ascender'}","{'en': 'burn', 'pt': 'ascender (fogoʉ lampada)'}",,,
-cc9f34a8-de79-4840-9302-2b6a98a2c2e8,n,"{'en': 'clay', 'pt': 'barro'}","{'en': 'clay', 'pt': 'barro'}",,"('barro para casa/panela', 'semantics')",
+cc9f34a8-de79-4840-9302-2b6a98a2c2e8,n,"{'en': 'clay', 'pt': 'barro'}","{'en': 'clay', 'pt': 'barro'}",,{'semantics': 'barro para casa/panela'},
 17f67f9a-bf1d-4a22-a828-01b248ae8f4d,v,"{'en': 'dry', 'pt': 'seco'}","{'en': 'dry', 'pt': 'seco'}",,,
 2541a40e-9b1f-4d71-a082-76c038d57610,n,{'pt': 'mandioca.farinha'},{'pt': 'farinha de mandioca'},,,
 ba01ed64-5100-4894-b46f-287c2da93272,par?,{'pt': 'IMP NEG'},{'pt': 'imperativo negativo'},,,
-451fd2cd-70b4-4785-a743-cd90333bd2fb,n,"{'en': 'purple.cará', 'pt': 'cará.roxo'}","{'en': 'purple.cará', 'pt': 'cará roxo'}","[('purple.cará', 'en'), ('cará roxo', 'pt')]",,
+451fd2cd-70b4-4785-a743-cd90333bd2fb,n,"{'en': 'purple.cará', 'pt': 'cará.roxo'}","{'en': 'purple.cará', 'pt': 'cará roxo'}","{'en': 'purple.cará', 'pt': 'cará roxo'}",,
 5634076d-37d1-4dbb-a469-cd13e28dda52,Noun,"{'en': 'lime', 'pt': 'limão'}","{'en': 'lime', 'pt': 'limão'}",,,
 61381378-5c4c-45dc-b5b6-0ca4118a5bb0,?,{'en': 'comprido'},,,,
 dbe0e39f-6614-48f0-a4f3-ebb77b6d2798,Noun,"{'en': 'ant', 'pt': 'formiga'}","{'en': 'ant (red; bites)', 'pt': 'formiga (vermelha; ferra)'}",,,
 53b25d44-42ea-4911-a93d-5e5d7ce8b07a,n,{'pt': 'igarapé'},{'pt': 'igarapé'},,,
 013f4eff-1cf3-473c-bf7a-a02d9b379b32,Noun,"{'en': 'peach.palm', 'pt': 'pupunha'}","{'en': 'peach palm; pejibaye palm', 'pt': 'pupunha'}",,,
-32600c78-a96b-4def-aa2b-f3c475c42fb6,n,{'pt': 'esposa'},{'pt': 'esposa'},,,"{'ä̃m ỹỹ_374ae5f9-5ac8-48f8-90d8-7c8e0fb479a3': ('1S Possessivo',)}"
-391d2895-022d-4e26-9e36-1d6993578635,v,{'pt': 'roncar'},{'pt': 'roncar'},,,"{'ahũũk_3e8c2dfa-419e-441c-b8a7-5792c1618c8d': ('Unspecified Variant',), 'tahʹũũg_7aa8a715-eb2d-4621-9155-2f1f0e2ba1a0': ('Não indicativo',)}"
-7ab7912a-ba94-4a25-bb50-ddcf8a772df9,Noun,"{'en': 'calabash.tree', 'pt': 'árvore.de.cabaça'}","{'en': 'calabash tree', 'pt': 'árvore de cabaça'}","[('calabash tree', 'en'), ('árvore de cabaça', 'pt')]",,
+32600c78-a96b-4def-aa2b-f3c475c42fb6,n,{'pt': 'esposa'},{'pt': 'esposa'},,,"{'ä̃m ỹỹ_374ae5f9-5ac8-48f8-90d8-7c8e0fb479a3': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
+391d2895-022d-4e26-9e36-1d6993578635,v,{'pt': 'roncar'},{'pt': 'roncar'},,,"{'ahũũk_3e8c2dfa-419e-441c-b8a7-5792c1618c8d': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'tahʹũũg_7aa8a715-eb2d-4621-9155-2f1f0e2ba1a0': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+7ab7912a-ba94-4a25-bb50-ddcf8a772df9,Noun,"{'en': 'calabash.tree', 'pt': 'árvore.de.cabaça'}","{'en': 'calabash tree', 'pt': 'árvore de cabaça'}","{'en': 'calabash tree', 'pt': 'árvore de cabaça'}",,
 0ff02acc-9504-470e-9510-8732c92ad6ee,Noun,"{'en': 'curare', 'pt': 'curare'}","{'en': 'curare', 'pt': 'curare'}",,,
 5c448d16-8b89-4bb2-a7c1-d917996d9267,Noun,{'en': 'poraquê'},,,,
-996be76d-d27f-4c52-972f-368f85e36642,v p,{'pt': '?'},{'pt': 'pendurado; compl; to be'},,,"{'adäk2_13ad5580-ea3b-40e8-8104-6231cb60a98d': ('Singular',), 'padäg2_2252b7eb-23bc-45e8-bc20-ce88472409b7': ('Não indicativo plural',), 'padʹëëk_5605858b-fe54-44a5-8058-41087e4f5777': ('Plural humano',)}"
+996be76d-d27f-4c52-972f-368f85e36642,v p,{'pt': '?'},{'pt': 'pendurado; compl; to be'},,,"{'adäk2_13ad5580-ea3b-40e8-8104-6231cb60a98d': {'type': '_component-lexeme', 'variant-type': 'Singular'}, 'padäg2_2252b7eb-23bc-45e8-bc20-ce88472409b7': {'type': '_component-lexeme', 'variant-type': 'Não indicativo plural'}, 'padʹëëk_5605858b-fe54-44a5-8058-41087e4f5777': {'type': '_component-lexeme', 'variant-type': 'Plural humano'}}"
 d1b242cd-f503-417b-a6f3-995553489fb7,pre,{'pt': '?'},,,,
 00147e7a-5cf2-4451-89d3-c2f442919a18,Verb,{'en': 'deitar'},,,,
 cfb04c8a-6cd8-4c8c-a5a3-72eaae768e47,n op,"{'en': 'skin', 'pt': 'pele'}","{'en': 'skin', 'pt': 'pele'}",,,
@@ -1134,9 +1134,9 @@ b3a9c3ed-6375-4eac-ac14-eba997b909cf,Noun,"{'en': 'tick', 'pt': 'carrapato'}","{
 ec3519e7-43cf-4d64-88b8-ea997acbafa3,n,{'pt': 'tio'},{'pt': 'tio; irmão de mãe'},,,
 afac9822-bc45-4171-bcc1-148111de1839,Noun,"{'en': 'thigh', 'pt': 'coxa'}","{'en': 'thigh', 'pt': 'coxa'}",,,
 e4489566-a302-4526-ac2c-198ba9bb7271,v?,{'pt': '?'},,,,
-c3128923-308c-455c-b2c9-3876c59ac537,v,{'pt': 'virar.olhos'},{'pt': 'virar os olhos para olhar para rás'},,,"{'ty kawʹõõd_6feabb71-d7d5-49ea-8177-21a79088b2eb': ('Não indicativo',)}"
+c3128923-308c-455c-b2c9-3876c59ac537,v,{'pt': 'virar.olhos'},{'pt': 'virar os olhos para olhar para rás'},,,"{'ty kawʹõõd_6feabb71-d7d5-49ea-8177-21a79088b2eb': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 bfdc9110-4da5-460e-a610-c90b3f4e6aa0,Noun,"{'en': 'canoe', 'pt': 'canoa'}","{'en': 'canoe', 'pt': 'canoa'}",,,
-bbf9ec9e-d88d-4144-b402-b8c622e69cac,v,"{'en': 'pierce', 'pt': 'furar'}","{'en': 'pierce', 'pt': 'furar'}",,,"{'ejóh_cd0d2eeb-7ad1-4f6f-862a-80c48b0b1aac': ('Não indicativo',)}"
+bbf9ec9e-d88d-4144-b402-b8c622e69cac,v,"{'en': 'pierce', 'pt': 'furar'}","{'en': 'pierce', 'pt': 'furar'}",,,"{'ejóh_cd0d2eeb-7ad1-4f6f-862a-80c48b0b1aac': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 bd47bb0a-aca3-43ae-bb06-6cd7379e2948,v,"{'en': 'vacinate', 'pt': 'vaccinar'}","{'en': 'vacinate', 'pt': 'vaccinar'}",,,
 82d8c536-712b-4ab7-8e8c-c055c32282d0,Noun,{'en': 'tatu'},,,,
 d0241a76-b53b-466b-adbc-ed0b68da452a,pro,{'pt': 'este'},{'pt': 'este'},,,
@@ -1146,7 +1146,7 @@ f2830f31-931d-40cd-b8cb-627d1284a204,Noun,"{'en': 'tufted.capuchin.monkey', 'pt'
 4dd66dc6-a2b9-4b82-a62f-9dff23046b2e,Noun,"{'en': 'grater', 'pt': 'ralador'}","{'en': 'grater', 'pt': 'ralador; ralo'}",,,
 5dfb34b2-8e58-4111-988e-49e76cc7ee52,n,{'pt': 'roupa'},{'pt': 'roupa'},,,
 0c5f10eb-2f76-4189-9c44-8391926c7f43,Noun,"{'en': 'edible.caterpillar', 'pt': 'lagarta'}","{'en': 'caterpillar (edible)', 'pt': 'lagarta'}",,,
-7240f094-45be-4ac7-96fb-6bd0ebcb7f22,Noun,{'en': 'pedra'},,,,"{'pʌʔ2_2006fe18-cfbd-42da-9921-099b85ea5e4f': ('Spelling Variant', 'Barbosa 2005; pedra')}"
+7240f094-45be-4ac7-96fb-6bd0ebcb7f22,Noun,{'en': 'pedra'},,,,"{'pʌʔ2_2006fe18-cfbd-42da-9921-099b85ea5e4f': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; pedra'}}"
 f588a331-9a9e-4d9f-8518-6cb3f39b4047,post?,{'en': 'cause'},,,,
 439b0ade-ce1c-48c9-83ac-8deba397e943,Noun,"{'en': 'ear', 'pt': 'orelha'}","{'en': 'ear', 'pt': 'orelha'}",,,
 ddb34287-1f5d-45b0-9e17-9827fbd4087a,Noun,"{'en': 'plate', 'pt': 'prato'}","{'en': 'plate', 'pt': 'prato'}",,,
@@ -1154,16 +1154,16 @@ ddb34287-1f5d-45b0-9e17-9827fbd4087a,Noun,"{'en': 'plate', 'pt': 'prato'}","{'en
 e286d7e8-1450-4be7-a644-dfabf9476142,Noun,{'en': 'macaco da noite'},,,,
 5affb151-c73f-4717-8e68-c4fa87480dea,v?,{'pt': '?'},{'pt': '?'},,,
 a944753c-1de7-45e1-90ca-97f3fec17f6d,Noun,{'en': 'catitu'},,,,
-ddd2b4ec-c307-48b0-93d4-b348a33989bf,v,{'pt': 'nascer'},{'pt': 'nascer'},,,"{'benyy_421a6c85-bd98-49b7-9fe6-54dd3456e147': ('Não indicativo',), 'benyyh_6fefb953-1586-49fc-9d1d-b2dd3084933a': ('Não indicativo',)}"
+ddd2b4ec-c307-48b0-93d4-b348a33989bf,v,{'pt': 'nascer'},{'pt': 'nascer'},,,"{'benyy_421a6c85-bd98-49b7-9fe6-54dd3456e147': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'benyyh_6fefb953-1586-49fc-9d1d-b2dd3084933a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 ab5dc917-a96e-47c5-bc4e-733715117ac6,Noun,{'en': 'costas'},,,,
 01262f0b-5755-4740-aa2d-6fd7316cd433,Noun,{'en': 'espécie de árvore'},,,,
 9b090e17-00c9-4005-9551-b2e7093785bf,Verb,{'en': 'derreter (n.i. huːd)'},,,,
 b84cd77c-3713-4b45-8b23-b33d562e63f4,Verb,"{'en': 'listen', 'pt': 'ouvir'}","{'en': 'listen', 'pt': 'ouvir'}",,,
-bfe9b97b-8b55-4fb0-a312-3797d78b9926,Noun,{'en': 'japiim (espécie de ave)'},,,,"{'jɔ̃ːp2_c56ce826-50e3-4f9b-aef4-29cd0e65913e': ('Spelling Variant', 'Barbosa 2005; japiim')}"
+bfe9b97b-8b55-4fb0-a312-3797d78b9926,Noun,{'en': 'japiim (espécie de ave)'},,,,"{'jɔ̃ːp2_c56ce826-50e3-4f9b-aef4-29cd0e65913e': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; japiim'}}"
 de38ba2f-aa3c-4b27-a236-b9137128a31a,Noun,"{'en': 'achiote', 'pt': 'urucum'}","{'en': 'achiote; anatto', 'pt': 'urucum'}",,,
 5a55c287-aeca-4488-8237-2c9306007e96,Noun,"{'en': 'mother', 'pt': 'mãe'}","{'en': 'mother', 'pt': 'mãe'}",,,
 2b454b15-5a77-4d53-aee2-445bd573d43d,posp,"{'en': 'under', 'pt': 'embaixo.de'}","{'en': 'under', 'pt': 'embaixo de'}",,,
-bcb81019-a9e2-487c-a95d-81fc3143d276,n,{'pt': 'canoa'},{'pt': 'canoa'},,,"{'hʹoo1_746c2ad7-35e8-4088-9b55-252da268e7a8': ('Unspecified Variant',)}"
+bcb81019-a9e2-487c-a95d-81fc3143d276,n,{'pt': 'canoa'},{'pt': 'canoa'},,,"{'hʹoo1_746c2ad7-35e8-4088-9b55-252da268e7a8': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 c00a85c6-ec83-40fc-bce5-fb19c87c2477,Noun,"{'en': 'afterworld', 'pt': 'terra.dos.mortos'}","{'en': 'afterworld; land of the dead; “heaven”', 'pt': 'terra dos mortos'}",,,
 60d34763-61bd-4c10-8dc1-54fe5ae9f3e7,?,{'en': 'velho (pl wahɤh)'},,,,
 a71ae3ed-1389-4b08-aea6-f7d4cf5225a8,Verb,{'en': 'ralar'},,,,
@@ -1172,21 +1172,21 @@ f075ca89-d15f-4718-8aed-dca11b0b6dc3,Noun,"{'en': 'vulture', 'pt': 'urubu'}","{'
 576d82b4-95b9-46c6-8b26-e78d948cb115,v,{'pt': 'correr.atrás'},{'pt': 'correr atrás'},,,
 021df01d-d0a7-4133-a0a5-947c172aed27,Noun,"{'en': 'spider', 'pt': 'aranha'}","{'en': 'spider (generic)', 'pt': 'aranha (generico)'}",,,
 ab533c93-f223-4216-9aa0-6f4ffc09a7bf,Noun,"{'en': 'grandfather', 'pt': 'avô'}","{'en': 'grandfather', 'pt': 'avô'}",,,
-92a34bd9-4de3-49ff-83f0-1371c7533ac8,adv?,{'en': 'no alto'},,,,"{'po̰ːp1_1182e1e7-7fef-49b6-bd48-861b4aa4f92c': ('Spelling Variant', 'Barbosa 2005; no alto')}"
+92a34bd9-4de3-49ff-83f0-1371c7533ac8,adv?,{'en': 'no alto'},,,,"{'po̰ːp1_1182e1e7-7fef-49b6-bd48-861b4aa4f92c': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; no alto'}}"
 1755e571-3327-4dda-80ab-ed46a26ecc93,v?,{'pt': 'limpar.nariz?'},{'pt': 'limpar.nariz?'},,,
 f142cf20-3fbb-450d-a0a4-83d7ce872310,?,{'pt': '?'},{'pt': '?'},,,
-fd12d6b3-c50b-4663-b9a9-2ee906245573,v p,{'pt': 'voltar.aldeira'},{'pt': 'voltar para aldeira do mato'},,,"{'ajëk2_16710a4a-9594-4632-8d8d-d7a48a08c7a6': ('Não indicativo',), 'ajëng_2d333399-d440-450e-8037-d42a414085c1': ('Singular',)}"
+fd12d6b3-c50b-4663-b9a9-2ee906245573,v p,{'pt': 'voltar.aldeira'},{'pt': 'voltar para aldeira do mato'},,,"{'ajëk2_16710a4a-9594-4632-8d8d-d7a48a08c7a6': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ajëng_2d333399-d440-450e-8037-d42a414085c1': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
 9de05edf-3436-4895-a298-a5d92b776e23,Noun,"{'en': 'policeman', 'pt': 'policía'}","{'en': 'policeman', 'pt': 'policía'}",,,
 ff76be3a-d4e0-455b-9637-1e4527a55c00,Noun,"{'en': 'cicada.sp', 'pt': 'cigarra.sp'}","{'en': 'cicada species', 'pt': 'tipo de cigarra'}",,,
 f6c7d831-0212-4649-80db-46c90a146a3f,Noun,"{'en': 'song', 'pt': 'canção'}","{'en': 'song', 'pt': 'canção; canto'}",,,
 26b83782-01f0-42f1-96bc-bbc896ef2e5d,Noun,{'en': 'bicho-do-pé'},,,,
-bd545db0-c5da-4763-b66c-9ef631f0d514,v,{'pt': 'frio'},{'pt': 'frio (água)'},,,"{'dahẽẽw_2a438385-429d-4f14-8253-316f74d60d54': ('Não indicativo',)}"
+bd545db0-c5da-4763-b66c-9ef631f0d514,v,{'pt': 'frio'},{'pt': 'frio (água)'},,,"{'dahẽẽw_2a438385-429d-4f14-8253-316f74d60d54': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 d863208c-1f1b-4e3d-a1b2-85a36274db2e,Noun,{'en': 'o que não presta mais'},,,,
 ecea21e5-7367-4762-bd5c-6881a835e7d5,Noun,"{'en': 'wasp', 'pt': 'caba'}","{'en': 'wasp', 'pt': 'caba'}",,,
 bcf4b8f9-29c4-469e-8b4e-e719da0062ae,?,"{'en': 'DEM.prox', 'pt': 'DEM;prox'}","{'en': 'this', 'pt': 'esse'}",,,
-9eb8fb8f-3e49-45aa-a76c-8512171d60e7,v,{'pt': 'pescar'},{'pt': 'pescar com azol'},,,"{'ety_047db998-72df-46aa-a083-13e0b004ec6c': ('Não indicativo',), 'etʹyy_a39997f8-1af1-4566-b7a9-c7b7b33e8687': ('Plural',)}"
-1ec2db2b-7969-4b48-aa67-c849aa347849,v,{'pt': 'ter.sapinho'},{'pt': 'ter sapinho'},,,"{'noo gasaats_68f7c0da-4f7f-453c-825f-9cc7657e0e94': ('Não indicativo',), 'noo gesas_84eda790-0a62-4669-99fe-ecf1595dc479': ('Plural',)}"
-4fa64b65-6c56-41ec-8d5b-fc6912a436ac,v,{'pt': 'falar'},{'pt': 'falar'},,,"{'merʹood_1662b162-c4ec-4d14-b1cf-05095739c61b': ('Não indicativo',)}"
+9eb8fb8f-3e49-45aa-a76c-8512171d60e7,v,{'pt': 'pescar'},{'pt': 'pescar com azol'},,,"{'ety_047db998-72df-46aa-a083-13e0b004ec6c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'etʹyy_a39997f8-1af1-4566-b7a9-c7b7b33e8687': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
+1ec2db2b-7969-4b48-aa67-c849aa347849,v,{'pt': 'ter.sapinho'},{'pt': 'ter sapinho'},,,"{'noo gasaats_68f7c0da-4f7f-453c-825f-9cc7657e0e94': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'noo gesas_84eda790-0a62-4669-99fe-ecf1595dc479': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
+4fa64b65-6c56-41ec-8d5b-fc6912a436ac,v,{'pt': 'falar'},{'pt': 'falar'},,,"{'merʹood_1662b162-c4ec-4d14-b1cf-05095739c61b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 d7f78951-6d34-4d24-b872-dd997cccbdd7,Noun,{'en': 'wife'},,,,
 518f9bc6-e4aa-43fd-9858-6ff78eefe803,Noun,"{'en': 'anteater', 'pt': 'tamanduá.bandeira'}","{'en': 'anteater', 'pt': 'tamanduá bandeira'}",,,
 c3db2917-c255-4eae-94d3-52993e397baf,Noun,"{'en': 'school', 'pt': 'escola'}","{'en': 'school', 'pt': 'escola'}",,,
@@ -1196,9 +1196,9 @@ ce91ce9e-cf07-43f2-9de3-ac02f494f007,v?,{'pt': '?'},{'pt': '?'},,,
 ab9ad476-f6b1-45ed-ae99-e665b17d239b,Noun,"{'en': 'white.fronted.spider.monkey', 'pt': 'macaco .aranha'}","{'en': 'White-fronted spider monkey', 'pt': 'macaco aranha; coatá; quatá'}",,,
 0772cbfe-c186-4e20-b850-0a252ccde07d,n,{'pt': 'pote.sp'},{'pt': 'esp. de pote'},,,
 d0178027-9a04-4739-8553-10b961b353eb,adj?,"{'en': 'painful', 'pt': 'doloroso'}","{'en': 'painful', 'pt': 'doloroso'}",,,
-594992bc-bdc8-4b9e-bf51-b3b08118b6bb,n,"{'en': 'sweet.manioc', 'pt': 'macaxeira'}","{'en': 'sweet manioc', 'pt': 'macaxeira'}","[('sweet manioc', 'en'), ('macaxeira', 'pt')]",,
+594992bc-bdc8-4b9e-bf51-b3b08118b6bb,n,"{'en': 'sweet.manioc', 'pt': 'macaxeira'}","{'en': 'sweet manioc', 'pt': 'macaxeira'}","{'en': 'sweet manioc', 'pt': 'macaxeira'}",,
 27dd22f2-e058-4027-8ca4-434506629029,v,{'pt': 'não.ter'},{'pt': 'não existir; não ter'},,,
-4ff5f1a6-3c81-4f93-bbe9-59ee9ec8b72a,v,{'pt': 'estragar-se'},{'pt': 'estragar-se; envenenar-se'},,,"{'karajã_a0ac890e-cb19-4271-ade3-82776860f9a6': ('Não indicativo',)}"
+4ff5f1a6-3c81-4f93-bbe9-59ee9ec8b72a,v,{'pt': 'estragar-se'},{'pt': 'estragar-se; envenenar-se'},,,"{'karajã_a0ac890e-cb19-4271-ade3-82776860f9a6': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 bafe05e4-8e22-48b3-8003-2f796b93d9e5,Noun,{'en': 'ingá-cipó'},,,,
 994b24a6-830b-4c17-8ed4-b8c1995b52f9,Verb,{'en': 'return n.i.'},,,,
 45a5bf86-2c33-4ee8-b2fd-c9caf0d9b712,Noun,"{'en': 'clothes', 'pt': 'roupa'}","{'en': 'clothes', 'pt': 'roupa'}",,,
@@ -1208,17 +1208,17 @@ bafe05e4-8e22-48b3-8003-2f796b93d9e5,Noun,{'en': 'ingá-cipó'},,,,
 adf27902-6efd-4e69-a91a-66586dcfce7f,Noun,"{'en': 'sky', 'pt': 'céu'}","{'en': 'sky', 'pt': 'céu'}",,,
 b1b0ad84-6b77-44ef-b51d-4e759fdded91,Noun,"{'en': 'cicada.sp', 'pt': 'cigarra.sp'}","{'en': 'cicada species', 'pt': 'tipo de cigarra'}",,,
 da30a093-9487-4ef9-aab6-088a4e01187e,Noun,{'en': 'quatipuru'},,,,
-5fdb3b75-6a14-4dcc-a9ec-2ce227b9a1bf,v,{'pt': 'chupar'},{'pt': 'chupar com os dedos'},,,"{'edón_0a6e9703-c45e-4f5e-a9ca-9cce168f7c6e': ('Habitual',)}"
+5fdb3b75-6a14-4dcc-a9ec-2ce227b9a1bf,v,{'pt': 'chupar'},{'pt': 'chupar com os dedos'},,,"{'edón_0a6e9703-c45e-4f5e-a9ca-9cce168f7c6e': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 fd202b45-8ee4-4aec-a77d-4e432ca61bb1,posp,"{'en': 'ABL', 'pt': 'ABL'}",,,,
 ef1dd34f-6494-4ec8-a8b3-cbdd1d5394cf,n,{'pt': 'avião'},{'pt': 'avião'},,,
 e304c06d-bb2f-4566-b11e-49cd0559bec2,Verb,{'en': 'derrubar roça'},,,,
 524e2ad3-3854-45ff-aad8-6ff4b5292003,n,{'pt': 'sogra'},{'pt': 'sogra'},,,
 7b8190b9-ca06-4d72-9593-068a040e4d65,Noun,{'en': 'trovão'},,,,
 c618c974-47d2-492e-9887-26444a16f0dd,Verb,"{'en': 'saw', 'pt': 'cortar'}","{'en': 'saw', 'pt': 'cortar (serrar)'}",,,
-28b93402-207f-4897-bcc9-bc03eac8c7f2,n,{'pt': 'isca'},{'pt': 'isca'},,,"{'ta nyy_0c041358-e3a3-4af9-bd2e-8f9a831c1cfd': ('Unspecified Variant',)}"
-fab79933-5699-4b6b-a062-a9cb5fc17138,v,{'pt': 'construir'},{'pt': 'construir'},,,"{'tamaa_8f24b528-f97d-4d68-8bb1-3f78a7be44c1': ('Não indicativo',)}"
+28b93402-207f-4897-bcc9-bc03eac8c7f2,n,{'pt': 'isca'},{'pt': 'isca'},,,"{'ta nyy_0c041358-e3a3-4af9-bd2e-8f9a831c1cfd': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+fab79933-5699-4b6b-a062-a9cb5fc17138,v,{'pt': 'construir'},{'pt': 'construir'},,,"{'tamaa_8f24b528-f97d-4d68-8bb1-3f78a7be44c1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 8bca097c-89bd-4367-a52c-62fbb559ef3c,Verb,{'en': 'esticar'},,,,
-c0c5edbd-74b4-4633-b165-391c649d9aa5,adv,{'pt': 'logo'},{'pt': 'logo; rápido'},,,"{'nayyw_48c32115-3de9-4059-b1d6-c262a1704223': ('Unspecified Variant',)}"
+c0c5edbd-74b4-4633-b165-391c649d9aa5,adv,{'pt': 'logo'},{'pt': 'logo; rápido'},,,"{'nayyw_48c32115-3de9-4059-b1d6-c262a1704223': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 8963adbf-1acf-429a-afcc-f6eaa0aff567,Noun,"{'en': 'fireplace', 'pt': 'lareira'}","{'en': 'fireplace', 'pt': 'lareira'}",,,
 3e07042d-6ad2-4334-a9dd-65ffa7f1cc5f,n,"{'en': 'forest', 'pt': 'mato'}","{'en': 'forest', 'pt': 'mato'}",,,
 d7510570-93d9-420e-9ef5-5cfa534549d2,Noun,{'en': 'moça (pl maruːʃ)'},,,,
@@ -1232,9 +1232,9 @@ d3efb377-51f8-435e-95c9-7b26e1b0a9de,Noun,{'en': 'inexistente; negação'},,,,
 32f40b45-9213-485c-9865-f67b353bb7fb,Verb,{'en': 'fall.unitary (sg?)'},,,,
 f8ab77ba-c4a2-4858-aa5e-3221924757f1,Verb,"{'en': 'breath', 'pt': 'respirar'}","{'en': 'breath', 'pt': 'respirar'}",,,
 5fbfd5a1-5a70-48d6-88ab-48feff876d61,Noun,"{'en': 'small.neotropical.otter', 'pt': 'lontra'}","{'en': 'Neotropical Otter (small)', 'pt': 'lontra'}",,,
-9681fbe7-274e-4fa3-b556-45e7f319a185,v,"{'en': 'fear', 'pt': 'ter.medo'}","{'en': 'fear', 'pt': 'ter medo'}",,,"{'eỹm_e0157363-f854-42f4-acfa-dedc5b175515': ('Não indicativo',)}"
+9681fbe7-274e-4fa3-b556-45e7f319a185,v,"{'en': 'fear', 'pt': 'ter.medo'}","{'en': 'fear', 'pt': 'ter medo'}",,,"{'eỹm_e0157363-f854-42f4-acfa-dedc5b175515': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 67c688ee-3388-429c-906f-fc98099453ad,v,,,,,
-ace4a8e2-a5e5-4723-bf0e-83cee47e98ba,v,{'pt': 'cheio'},{'pt': 'cheio'},,,"{'gadʹẽẽ_31ec894a-0475-48de-9d61-b2a12b3a0778': ('Não indicativo',)}"
+ace4a8e2-a5e5-4723-bf0e-83cee47e98ba,v,{'pt': 'cheio'},{'pt': 'cheio'},,,"{'gadʹẽẽ_31ec894a-0475-48de-9d61-b2a12b3a0778': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 b2f0ca08-28b8-4881-9382-37a98905fe32,Noun,"{'en': 'bastard.plantain', 'pt': 'bananeira do mato'}","{'en': 'bastard plantain', 'pt': 'bananeira do mato; sororoca; banana silvestre'}",,,
 89ba2452-d0f9-43c8-b1b4-f696740c68bb,Noun,"{'en': 'jauari.palm', 'pt': 'jauari'}","{'en': 'jauari palm', 'pt': 'jauari'}",,,
 31323593-4bac-4949-95a5-b636e5b278e7,Noun,"{'en': 'skirt', 'pt': 'saia'}","{'en': 'skirt', 'pt': 'saia'}",,,
@@ -1242,7 +1242,7 @@ b5687563-4e80-4e4c-8047-86179cf6fae2,Verb,{'en': 'be.standing'},,,,
 dc17573e-4b44-4ed8-827a-975638a69a0e,v,"{'en': 'eat.fruit', 'pt': 'comer.fruta'}","{'en': 'eat fruit', 'pt': 'comer fruta'}",,,
 ac582354-6bc9-404a-b94d-beae0d9cf86b,v,"{'en': 'suck', 'pt': 'chupar'}","{'en': 'suck', 'pt': 'chupar'}",,,
 02e376c3-19ae-4552-81a3-08938205c683,Noun,"{'en': 'bastard.plantain', 'pt': 'bananeira do mato'}","{'en': 'bastard plantain', 'pt': 'bananeira do mato; sororoca; banana silvestre'}",,,
-1a89d6df-9a35-44eb-b804-30561c345001,v,{'pt': 'ter.sombra'},{'pt': 'ter sombra'},,,"{'badahẽẽw_a1a81754-9a42-4da6-9176-c2483bce5756': ('Não indicativo',)}"
+1a89d6df-9a35-44eb-b804-30561c345001,v,{'pt': 'ter.sombra'},{'pt': 'ter sombra'},,,"{'badahẽẽw_a1a81754-9a42-4da6-9176-c2483bce5756': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 dde0c9a9-9ba8-4496-bd24-a5ef292a7e20,Noun,"{'en': 'great egret', 'pt': 'garça'}","{'en': 'great egret', 'pt': 'garça'}",,,
 ecd9c0a4-ce4e-453e-aa39-5d3fd19f4bea,Noun,"{'en': 'paper', 'pt': 'papel'}","{'en': 'paper', 'pt': 'papel'}",,,
 44dbdb0a-cfc6-4ae0-8ca4-c3d1963b5d78,adj?,"{'en': 'small', 'pt': 'pequeno'}","{'en': 'small', 'pt': 'pequeno'}",,,
@@ -1250,14 +1250,14 @@ ecd9c0a4-ce4e-453e-aa39-5d3fd19f4bea,Noun,"{'en': 'paper', 'pt': 'papel'}","{'en
 94d4c5a1-6c7b-43f4-86b1-cec3cab1e36d,Noun,{'en': 'madeira'},,,,
 ffdf2416-6710-43d8-87b9-8e418a0f463f,Verb,"{'en': 'dig', 'pt': 'cavar'}","{'en': 'dig', 'pt': 'cavar'}",,,
 eb30efea-efb1-4c1e-8c9a-d7cb19730b98,Noun,"{'en': 'palm weevil', 'pt': 'larva'}","{'en': 'edible palm-dwelling larva (palm weevil)', 'pt': 'larva; broca-do-coqueiro; aramandaiá'}",,,
-d403fd87-08d6-4339-91d7-48b0e305cb2c,adv,{'pt': 'muitos'},{'pt': 'muitos'},,,"{'séd nado_d7873eaf-cf36-464a-a057-08f1f705e07b': ('Negativo',)}"
+d403fd87-08d6-4339-91d7-48b0e305cb2c,adv,{'pt': 'muitos'},{'pt': 'muitos'},,,"{'séd nado_d7873eaf-cf36-464a-a057-08f1f705e07b': {'type': '_component-lexeme', 'variant-type': 'Negativo'}}"
 c02501ec-c251-460c-8ea9-0a77d9e5f367,n,{'pt': 'sapo.sp'},{'pt': 'esp. de sapo'},,,
 d46bf61c-4d57-4fd3-bb3d-f7ad02daa8d4,adv op,{'pt': 'ao lado de'},{'pt': 'ao lado de'},,,
 4778e212-2f81-4496-b99d-294b71d6a3fa,Verb,"{'en': 'grate', 'pt': 'ralar'}","{'en': 'grate', 'pt': 'ralar'}",,,
 6742a5d0-c7fd-42f3-a056-1a241a027690,Noun,"{'en': 'strangler.vine', 'pt': 'apui'}","{'en': 'strangler vine', 'pt': 'apui'}",,,
-ef732e5a-cd85-4007-bd1c-3c0cff55ed30,Noun,{'en': 'espécie de coruja'},,,,"{'wo̰ːɾ2_d7b314a9-7a00-477f-803e-70d2b5f9eef0': ('Spelling Variant', 'Barbosa 2005; coruja')}"
+ef732e5a-cd85-4007-bd1c-3c0cff55ed30,Noun,{'en': 'espécie de coruja'},,,,"{'wo̰ːɾ2_d7b314a9-7a00-477f-803e-70d2b5f9eef0': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; coruja'}}"
 77db2bd4-1f14-40e7-b733-18dd3814ef63,n op,{'pt': 'foto'},{'pt': 'foto; representação'},,,
-e319da77-1fc1-4adb-91d9-61a158dc0da8,v,{'pt': 'fazer.fogo'},{'pt': 'fazer fogo; soprando'},,,"{'gahõ_318e6d4d-a9e5-4040-959a-a584e218621d': ('Não indicativo',), 'gahõh_7b6d0386-b6e8-493c-9fa8-4369a9497543': ('Não indicativo',)}"
+e319da77-1fc1-4adb-91d9-61a158dc0da8,v,{'pt': 'fazer.fogo'},{'pt': 'fazer fogo; soprando'},,,"{'gahõ_318e6d4d-a9e5-4040-959a-a584e218621d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'gahõh_7b6d0386-b6e8-493c-9fa8-4369a9497543': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 6925dae7-a70d-4e96-a4d6-ab97c8466cc4,posp,{'pt': 'junto.com'},{'pt': 'junto com'},,,
 7bc3f0d4-b8cf-4502-83a2-71153b0dc11f,Noun,"{'en': 'cotton', 'pt': 'algodão'}","{'en': 'cotton', 'pt': 'algodão'}",,,
 e65aa258-c9d8-4ddc-aab0-06c359092ae7,Noun,"{'en': 'ankle', 'pt': 'tornozelo'}","{'en': 'ankle', 'pt': 'tornozelo'}",,,
@@ -1272,17 +1272,17 @@ c655c79f-e8d2-4b9b-9626-410669b53b50,Noun,{'en': 'assoalho'},,,,
 d0714ff3-13cd-4553-a3c4-6ab362b7f866,,"{'en': 'boa', 'pt': 'jiboia'}","{'en': 'boa', 'pt': 'jiboiaz'}",,,
 3015ede9-223e-4b61-8d13-e3ee3cd7bfd9,Noun,"{'en': 'white.fronted.capuchin', 'pt': 'caiarara'}","{'en': 'White fronted capuchin', 'pt': 'Caiarara'}",,,
 b9dc77e8-ae20-417f-bdb3-794ff26151c8,n,{'pt': 'galinha'},{'pt': 'galinha'},,,
-cf16c452-b4b1-40f1-87b8-b62a8dcdda71,v,"{'en': 'cold', 'pt': 'frio'}","{'en': 'cold', 'pt': 'frio (estar com frio)'}",,"('verb or adjective?', 'grammar')","{'hahëëw_fd77a6ed-fbcc-4d9a-9f75-6c822da7adec': ('Não indicativo',)}"
+cf16c452-b4b1-40f1-87b8-b62a8dcdda71,v,"{'en': 'cold', 'pt': 'frio'}","{'en': 'cold', 'pt': 'frio (estar com frio)'}",,{'grammar': 'verb or adjective?'},"{'hahëëw_fd77a6ed-fbcc-4d9a-9f75-6c822da7adec': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 d653afab-c369-479e-a220-575e8babe1e8,Noun,{'en': 'irmão mais novo (pl wokãːn)'},,,,
 8dc79657-958d-44e9-bcfb-6c9c0157e696,Noun,"{'en': 'club', 'pt': 'clava'}","{'en': 'club', 'pt': 'clava; porrete'}",,,
 da99b92a-99a8-46a9-ac21-2e7e6280e71c,Noun,{'en': 'igual'},,,,
-1d032139-a1cb-4d8f-ae92-69319e340357,v,{'pt': 'arrumar'},{'pt': 'arrumar'},,,"{'atʹëëg_134f1576-46ff-42aa-b2a7-0331f238570a': ('Não indicativo',)}"
+1d032139-a1cb-4d8f-ae92-69319e340357,v,{'pt': 'arrumar'},{'pt': 'arrumar'},,,"{'atʹëëg_134f1576-46ff-42aa-b2a7-0331f238570a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 5c2fa871-16cb-4ba1-8762-f6e0ba5e37f4,Verb,{'en': 'fish'},,,,
 2b320773-7e31-4ce3-aa9c-e3bcc6ce5912,Noun,"{'en': 'avocado', 'pt': 'abacate'}","{'en': 'avocado', 'pt': 'abacate'}",,,
 5bcced76-5457-4249-9dbe-b8dd15796b4f,Adverb,{'en': 'at.night'},,,,
 627d8689-d518-4f95-a30f-342caba19d42,Noun,"{'en': 'stick', 'pt': 'galho'}","{'en': 'stick', 'pt': 'galho'}",,,
 bd30568e-2a09-43fa-be56-2706adc5f73d,?,{'pt': '?'},{'pt': '?'},,,
-6b4038ef-af5f-4b05-9c65-52c2ab3da3d3,Noun,{'en': 'arco'},,,,"{'kaɾabaʔ2_8ae97929-9a49-4389-8dab-54fb2d7a4e19': ('Spelling Variant', 'Barbosa 2005; arco')}"
+6b4038ef-af5f-4b05-9c65-52c2ab3da3d3,Noun,{'en': 'arco'},,,,"{'kaɾabaʔ2_8ae97929-9a49-4389-8dab-54fb2d7a4e19': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; arco'}}"
 8c97fb0d-388c-49b6-aead-95e8e64e5584,v?,{'pt': 'balançar?'},{'pt': 'balançar?'},,,
 2dcde15e-e320-4528-ba5d-eaed04480ec5,Noun,{'en': 'periquito'},,,,
 d53098d4-b052-402e-9be3-46b003f67c0a,,"{'en': 'beat.person', 'pt': 'bater;pessoa'}","{'en': 'beat a person', 'pt': 'bater em uma pessoa'}",,,
@@ -1290,21 +1290,21 @@ d53098d4-b052-402e-9be3-46b003f67c0a,,"{'en': 'beat.person', 'pt': 'bater;pessoa
 87619968-796b-456c-bb8a-d6c609145a1e,Verb,"{'en': 'split.firewood', 'pt': 'rachar.lenha'}","{'en': 'split firewood', 'pt': 'rachar lenha'}",,,
 63752372-ea84-4584-8f5f-c1243784a9a9,Noun,{'en': 'filho dela'},,,,
 06c5bbaa-0114-4a4e-929b-1d6d6280f451,Verb,{'en': 'estar sentado (pl to̰ːɲ)'},,,,
-237b528b-7ef8-44c8-9738-2355398685e4,v,{'pt': 'torrar'},{'pt': 'torrar'},,,"{'hesʹõõnh_300d2f0c-dd62-4b9d-a43b-5e8f7747620d': ('Habitual',), 'esʹõõj_47398d7b-e389-44c6-af78-714635f7215e': ('Não indicativo',)}"
+237b528b-7ef8-44c8-9738-2355398685e4,v,{'pt': 'torrar'},{'pt': 'torrar'},,,"{'hesʹõõnh_300d2f0c-dd62-4b9d-a43b-5e8f7747620d': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'esʹõõj_47398d7b-e389-44c6-af78-714635f7215e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 e4491616-c305-46ed-998f-a2270f89e710,v?,{'pt': '?'},{'pt': '?'},,,
 a2d0a949-9825-4c84-b939-4cfa8984b092,Noun,{'en': 'tipiti'},,,,
-03c77401-7d29-449e-8690-79b696621935,v,{'pt': 'dobrar'},{'pt': 'dobrar'},,,"{'matëh_0577a7cf-1a2c-4828-a81c-ecff2bab519b': ('Unspecified Variant',), 'metëh_2a349d15-08ba-4b91-8480-9d780ef195ca': ('Não indicativo',)}"
-b72bc68e-c154-487d-9fee-2457f25cba60,adv,{'pt': 'mais.tarde'},{'pt': 'mais tarde (hoje)'},,,"{'bada_3607fbf6-6d6b-4cfd-92a8-0ba96e99f2ff': ('Unspecified Variant',)}"
-0ae94279-77ea-4c59-9569-2bf818736740,Noun,"{'en': 'heart', 'pt': 'coração'}","{'en': 'heart', 'pt': 'coração'}",,"('Lit.: Semente do peito', 'semantics')",
+03c77401-7d29-449e-8690-79b696621935,v,{'pt': 'dobrar'},{'pt': 'dobrar'},,,"{'matëh_0577a7cf-1a2c-4828-a81c-ecff2bab519b': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'metëh_2a349d15-08ba-4b91-8480-9d780ef195ca': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+b72bc68e-c154-487d-9fee-2457f25cba60,adv,{'pt': 'mais.tarde'},{'pt': 'mais tarde (hoje)'},,,"{'bada_3607fbf6-6d6b-4cfd-92a8-0ba96e99f2ff': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+0ae94279-77ea-4c59-9569-2bf818736740,Noun,"{'en': 'heart', 'pt': 'coração'}","{'en': 'heart', 'pt': 'coração'}",,{'semantics': 'Lit.: Semente do peito'},
 0563e647-67c7-46a0-87d5-27bb4087d6df,Noun,{'en': 'food'},,,,
-800c7fc9-2b48-4677-a088-e7c1e7cbc3a2,v,{'pt': 'partir.madiera'},{'pt': 'partir madiera (para casa; cerca tc.).'},,,"{'egaag_ef05545d-dce0-494b-9a22-3d3474a9c500': ('Não indicativo',)}"
-bf184f6a-a427-4cf4-832a-1021b02ff1d0,v p,{'pt': 'amarrar'},{'pt': 'amarrar'},,,"{'ehũũ_bf3a2c09-ff50-4944-89c6-bf4650437ac1': ('Não indicativo',)}"
+800c7fc9-2b48-4677-a088-e7c1e7cbc3a2,v,{'pt': 'partir.madiera'},{'pt': 'partir madiera (para casa; cerca tc.).'},,,"{'egaag_ef05545d-dce0-494b-9a22-3d3474a9c500': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+bf184f6a-a427-4cf4-832a-1021b02ff1d0,v p,{'pt': 'amarrar'},{'pt': 'amarrar'},,,"{'ehũũ_bf3a2c09-ff50-4944-89c6-bf4650437ac1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 1e96cb4e-b745-4527-bb7c-e7f3780dcf62,Verb,"{'en': 'fly', 'pt': 'voar'}","{'en': 'fly', 'pt': 'voar'}",,,
 957ee017-c193-4430-a1ac-41dcf18997e3,?,"{'en': 'caraná', 'pt': 'caraná'}","{'en': 'caraná', 'pt': 'caraná'}",,,
 adcaeece-bb4b-47a7-8c5a-8395ecbab424,?,{'pt': '?'},{'pt': '?'},,,
 ac8b005e-cc51-4568-930a-652fa016ad40,n,{'pt': 'escorpião'},{'pt': 'escorpião'},,,
 159d6b39-532f-4c0a-8b3a-a527fe2a2f6f,Noun,{'en': 'assanhaçu'},,,,
-686421e5-a67a-4a6c-a0b1-0f5a4ce97378,v,{'pt': 'mudar-se'},{'pt': 'mudar-se'},,,"{'kahỹỹd_f636972a-af07-4a05-91fe-c4deb510fe6e': ('Não indicativo',)}"
+686421e5-a67a-4a6c-a0b1-0f5a4ce97378,v,{'pt': 'mudar-se'},{'pt': 'mudar-se'},,,"{'kahỹỹd_f636972a-af07-4a05-91fe-c4deb510fe6e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 1457b1c0-a8bf-46f2-9de5-b473361722b8,Noun,"{'en': 'large.basket', 'pt': 'atura'}","{'en': 'basket; large', 'pt': 'atura'}",,,
 113018d1-8a45-4e64-8548-ea228a767a93,n,"{'en': 'leaf', 'pt': 'folha'}","{'en': 'leaf', 'pt': 'folha'}",,,
 79da03e1-4a27-4135-8017-085bcee7a754,Noun,{'en': 'mother'},,,,
@@ -1314,7 +1314,7 @@ a18af3d6-d2b1-4fc0-aa21-f677209d5d19,adj?,"{'en': 'yellow', 'pt': 'amarelo'}","{
 c44033fb-f7ea-41e2-9277-e9771aa96ba3,n,{'pt': 'vovó/ô'},{'pt': 'vovó/ô; que não é legitimo'},,,
 dbc3000b-d9ac-4f5e-9d81-e67c404f95cc,Verb,{'en': 'socar terra'},,,,
 697195e9-d0b8-46a2-b4e4-7eee1f116ed7,adv,{'pt': 'perto'},{'pt': 'perto'},,,
-a6102523-aca3-4fbb-8d7a-08cf7a87e9fa,n,"{'en': 'man', 'pt': 'homem'}","{'en': 'man; male', 'pt': 'homem; macho'}",,,"{'ajyy_df084789-d41c-4e8a-9b94-bded23eaa2d8': ('Plural',)}"
+a6102523-aca3-4fbb-8d7a-08cf7a87e9fa,n,"{'en': 'man', 'pt': 'homem'}","{'en': 'man; male', 'pt': 'homem; macho'}",,,"{'ajyy_df084789-d41c-4e8a-9b94-bded23eaa2d8': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 f6d03cbb-8a93-4ec0-befa-69694151d7ea,n,{'pt': 'siririca'},{'pt': 'esp. de capim'},,,
 81d0ec1a-1cc0-424c-b3b2-c7d4c47c377c,v?,{'pt': '?'},{'pt': '?'},,,
 de1b80ce-c0a1-4ca7-b1cd-85f08ce75416,Noun,"{'en': 'black.palm', 'pt': 'bacaba'}","{'en': 'black palm', 'pt': 'bacaba'}",,,
@@ -1323,9 +1323,9 @@ f6b724d1-17b3-4b82-9c25-dbe8ab015da1,n,{'pt': 'tipo.de'},{'pt': 'tipo de; membro
 623433c4-1d6c-4fce-a333-4ffb212c76ea,Noun,"{'en': 'praying.mantis', 'pt': 'louva-a-deus'}","{'en': 'praying mantis', 'pt': 'louva-a-deus'}",,,
 848e9ef3-9586-479e-a8f1-aae802cdfba4,Noun,"{'en': 'mortar', 'pt': 'pilão'}","{'en': 'mortar', 'pt': 'pilão'}",,,
 b1702053-ad0b-4fc4-b0ce-659ed536e666,Noun,{'en': 'espécie de árvore'},,,,
-8b859c8e-4f06-4162-904c-0b3d029ad246,v,{'pt': 'grande'},{'pt': 'grande'},,,"{'hepõ_804ba3dc-742b-4d69-ba4c-969cb0d34c1f': ('Não indicativo',)}"
+8b859c8e-4f06-4162-904c-0b3d029ad246,v,{'pt': 'grande'},{'pt': 'grande'},,,"{'hepõ_804ba3dc-742b-4d69-ba4c-969cb0d34c1f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 576c1d73-3876-4f46-bc4e-c81f86d84341,Noun,{'en': 'solteiro'},,,,
-bec9b566-b890-407f-a113-e55415975597,v,{'pt': 'dizer'},{'pt': 'dizer; falar'},,,"{'esog_0ff17dda-0edb-4fab-8d80-c392c7dffd46': ('Não indicativo',), 'kʹyy esog_a7b00882-9a97-493e-a1fe-18ab5df56fc6': ('Unspecified Variant',)}"
+bec9b566-b890-407f-a113-e55415975597,v,{'pt': 'dizer'},{'pt': 'dizer; falar'},,,"{'esog_0ff17dda-0edb-4fab-8d80-c392c7dffd46': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'kʹyy esog_a7b00882-9a97-493e-a1fe-18ab5df56fc6': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
 8aa075ca-a6d4-4f87-b38a-00ec3971b01e,,{'en': 'illness'},,,,
 7dcfdba2-85a0-4d7b-8c78-61ae089477d7,Noun,"{'en': 'centipede', 'pt': 'centopéia'}","{'en': 'centipede', 'pt': 'centopéia'}",,,
 23876bc5-cb02-4860-8ce7-3957dbf9c715,Noun,"{'en': 'bottle', 'pt': 'garrafa'}","{'en': 'bottle', 'pt': 'garrafa'}",,,
@@ -1333,7 +1333,7 @@ bec9b566-b890-407f-a113-e55415975597,v,{'pt': 'dizer'},{'pt': 'dizer; falar'},,,
 3ea2d121-ab81-4e95-ad36-10d87d0e6acc,n,{'pt': 'malhadeira'},{'pt': 'malhadeira'},,,
 10d81977-d2bf-4e0b-a65f-4b3bcbecb92e,Noun,"{'en': 'sweet.manioc', 'pt': 'macaxeira'}","{'en': 'manioc (sweet)', 'pt': 'macaxeira'}",,,
 f774eb9b-d3b4-4be6-b75c-62eb83c2bd23,Noun,"{'en': 'howler.monkey', 'pt': 'guariba'}","{'en': 'howler monkey (red-handed)', 'pt': 'guariba'}",,,
-baaf6269-ef17-4198-9903-c6211c2b24b6,v,{'pt': 'amanhacer'},{'pt': 'amanhacer'},,,"{'pajʹëë_481e0acf-5957-47da-b623-158e07815ca8': ('Não indicativo',), 'pajʹëëh_f3e58350-fdf3-4dcb-a18a-2902268e4a9f': ('Não indicativo',)}"
+baaf6269-ef17-4198-9903-c6211c2b24b6,v,{'pt': 'amanhacer'},{'pt': 'amanhacer'},,,"{'pajʹëë_481e0acf-5957-47da-b623-158e07815ca8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'pajʹëëh_f3e58350-fdf3-4dcb-a18a-2902268e4a9f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 450e5b32-0196-4d6e-869a-fef32594922f,,,,,,
 c99946e4-d389-4fb0-9e05-d9f7b1872bf8,Verb,{'en': 'escrever n.i.'},,,,
 cc96d952-97c0-4b33-bae6-1ae5e68108ca,n,{'pt': 'porto'},{'pt': 'porto'},,,
@@ -1348,12 +1348,12 @@ a2112781-19ff-4388-ad3b-ac8c2f5a40ab,Noun,"{'en': 'broom', 'pt': 'vassoura'}","{
 11f3ce48-4bee-49f3-b29a-62d043eaed1e,Noun,{'en': 'espécie de árvore'},,,,
 f53d601b-a0b3-4187-b755-dc9583860288,Noun,{'en': 'tia'},,,,
 e94f2a4a-2b0c-479b-85cf-033f7b6c91d1,Noun,"{'en': 'stub', 'pt': 'toco'}","{'en': 'stub', 'pt': 'toco'}",,,
-6348b12b-4bf5-4ab0-8d85-62ef1f664d54,Noun,{'en': 'avô'},,,,"{'ʔoːw2_69b65da0-efcb-44b5-aec4-0fcab8590956': ('Spelling Variant', 'Barbosa 2005; avô')}"
+6348b12b-4bf5-4ab0-8d85-62ef1f664d54,Noun,{'en': 'avô'},,,,"{'ʔoːw2_69b65da0-efcb-44b5-aec4-0fcab8590956': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; avô'}}"
 5270d80a-4139-4e17-8951-c397a91cb703,adv,{'pt': 'sempre'},{'pt': 'sempre; tempo todo; somente'},,,
 963113bc-c1d2-4eb4-82f8-9d0d67f0d8bf,v?,{'pt': '?'},{'pt': '?'},,,
-daced675-7fe4-4fa2-b6fe-0a7a33a8cd6e,pro?,{'en': 'NEG'},,,,"{'doːh2_f09ac595-bfa8-49ef-8682-d9715ae4591b': ('Spelling Variant', 'Martins 2005; inexistente; negação')}"
+daced675-7fe4-4fa2-b6fe-0a7a33a8cd6e,pro?,{'en': 'NEG'},,,,"{'doːh2_f09ac595-bfa8-49ef-8682-d9715ae4591b': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; inexistente; negação'}}"
 b7057afd-513e-41ff-bdfb-28df4e4c3dc5,Verb,{'en': 'be.suspended'},,,,
-cf6d4de6-25d4-4745-9df7-8b8c3259055f,adv?,{'en': 'no fundo'},,,,"{'tɔ̰̃ːp1_1b10b3b5-155e-44cc-916b-7278638746c8': ('Spelling Variant', 'Barbosa 2005; no fundo (do rio)')}"
+cf6d4de6-25d4-4745-9df7-8b8c3259055f,adv?,{'en': 'no fundo'},,,,"{'tɔ̰̃ːp1_1b10b3b5-155e-44cc-916b-7278638746c8': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; no fundo (do rio)'}}"
 cc670aac-f288-40ce-9795-9da0bfd83077,v imp?,{'en': 'fique sentado!'},,,,
 8c804958-f401-4cb4-834d-f68b70f4021d,n op,"{'en': 'meat', 'pt': 'carne'}","{'en': 'meat', 'pt': 'carne'}",,,
 454e5e34-990d-41ea-bef0-07cdfcb47e43,Noun,{'en': 'espécie de árvore'},,,,
@@ -1362,24 +1362,24 @@ c22a5392-61c4-45d1-bfa5-9c4d0a17ba06,n,{'pt': 'ura/berno'},,,,
 2e80dc55-4409-4848-9147-f500dc87416a,Noun,{'en': 'aunt'},,,,
 cfb72c47-6bca-4512-b4e7-1e8694eb96aa,v,{'pt': 'páss.cantar'},{'pt': 'cantar (pássaro)'},,,
 331de161-2cdb-4dde-96ea-28db0a6d28ee,Noun,"{'en': 'tinamou', 'pt': 'inambu'}","{'en': 'tinamou', 'pt': 'inambu'}",,,
-6d128d41-81a3-471c-9d02-f855e642415a,v,{'pt': 'desmaiar'},{'pt': 'desmaiar'},,,"{'dahegʹõõn_0062786c-16c2-4325-b3e4-fac26c159e80': ('Habitual',)}"
+6d128d41-81a3-471c-9d02-f855e642415a,v,{'pt': 'desmaiar'},{'pt': 'desmaiar'},,,"{'dahegʹõõn_0062786c-16c2-4325-b3e4-fac26c159e80': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 9068c69b-0cd3-4422-b34b-e0c0473cc182,Noun,"{'en': 'gun', 'pt': 'espingarda'}","{'en': 'gun', 'pt': 'espingarda; fusil'}",,,
 eecdf965-0dfa-439b-9d66-bc36ac5865bb,n,"{'en': 'hummingbird.big', 'pt': 'beija.flor.grande'}","{'en': 'hummigbird (spec. big)', 'pt': 'beija flor (esp. grande)'}",,,
 6e332f3a-33f0-4ba3-946c-e50d62a62cf8,Noun,{'en': 'virilha'},,,,
 dfd8e95f-2964-4630-90b9-9f3f4fcf0220,Verb,{'en': 'take.a.bath'},,,,
-960aad04-742e-41a6-a845-681f676d1253,v,{'pt': 'levar(?)'},{'pt': 'ter mais de um objeto na mão p obj)'},,,"{'patsä_a001213b-da2d-4a32-9275-f46be961428a': ('Não indicativo',)}"
+960aad04-742e-41a6-a845-681f676d1253,v,{'pt': 'levar(?)'},{'pt': 'ter mais de um objeto na mão p obj)'},,,"{'patsä_a001213b-da2d-4a32-9275-f46be961428a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 d16e427b-e254-444c-b67d-839a724e75c1,n,"{'en': 'deer', 'pt': 'veado'}","{'en': 'deer', 'pt': 'veado'}",,,
 ef46cc30-1d90-4327-8cdf-98a0d991376e,n?,{'pt': 'nome dum lugar?'},{'pt': 'nome dum lugar?'},,,
 6b2ff4fa-cb5b-4d7a-92b1-0c0446cfdfc6,Noun,"{'en': 'liver', 'pt': 'figado'}","{'en': 'liver', 'pt': 'figado'}",,,
 d0d38716-1ab4-4ba1-9100-61f1fe7c00d2,Verb,{'en': 'come n.i.'},,,,
 53146169-ac77-4722-9116-40e9a81a306a,adv,"{'en': 'above', 'pt': 'acima'}","{'en': 'above', 'pt': 'acima'}",,,
 c0cbab5b-37b9-40f4-bb34-d13317663d3b,v?,{'pt': '?'},{'pt': '?'},,,
-ff3c1d3f-d6c2-41ac-97d2-91bfeff55db5,v,{'pt': 'subir'},{'pt': 'subir barranco; ir para o mato'},,,"{'asʹop_55e919f1-5e17-4f6d-9559-021124620cff': ('Unspecified Variant',), 'asʹoop_71c0e137-a8b7-42b8-9ae2-97f2f748b234': ('Plural',), 'asʹoob_f12910bc-5840-465c-a9f7-213f9742fa53': ('Unspecified Variant',)}"
-da1d6aab-2ab4-4ac5-b3a9-f21cdd6ef115,v,{'pt': 'secar.rio'},{'pt': 'secar (rio)'},,,"{'abaanh_cf5c8b30-9e96-42af-a731-e2fa95c608df': ('Não indicativo',)}"
+ff3c1d3f-d6c2-41ac-97d2-91bfeff55db5,v,{'pt': 'subir'},{'pt': 'subir barranco; ir para o mato'},,,"{'asʹop_55e919f1-5e17-4f6d-9559-021124620cff': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'asʹoop_71c0e137-a8b7-42b8-9ae2-97f2f748b234': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'asʹoob_f12910bc-5840-465c-a9f7-213f9742fa53': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+da1d6aab-2ab4-4ac5-b3a9-f21cdd6ef115,v,{'pt': 'secar.rio'},{'pt': 'secar (rio)'},,,"{'abaanh_cf5c8b30-9e96-42af-a731-e2fa95c608df': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
 91b4ec9b-3454-4a82-955c-d397a6141f8e,v?,{'pt': 'carregar?'},{'pt': 'carregar?'},,,
-0fbb1173-0c04-4673-8d50-a28d9b2b0fc5,n op,{'pt': 'filha'},{'pt': 'filha'},,,"{'tok ỹỹ_3aee6c29-2602-4601-b146-47cf62c3c463': ('1S Possessivo',)}"
-ccbbc6d2-0db8-4a06-b1e9-e09291e496a6,n,"{'en': 'tobaco', 'pt': 'tabaco'}","{'en': 'tobaco', 'pt': 'tabaco'}","[('tobaco', 'en'), ('tabaco', 'pt')]","(""probably bought tobaco. compare with ''baruur''"", 'semantics')",
-eb187c04-7756-44a9-86b1-418b964a01dd,v,{'pt': 'lavrar'},{'pt': 'lavrar madeira de canoa'},,,"{'asëg_ac8f4d84-5780-4b14-8da3-43c75e21035c': ('Não indicativo',), 'esëk_f4ab64fe-1bc5-4f2c-9380-673fa8b919ac': ('Plural',)}"
+0fbb1173-0c04-4673-8d50-a28d9b2b0fc5,n op,{'pt': 'filha'},{'pt': 'filha'},,,"{'tok ỹỹ_3aee6c29-2602-4601-b146-47cf62c3c463': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
+ccbbc6d2-0db8-4a06-b1e9-e09291e496a6,n,"{'en': 'tobaco', 'pt': 'tabaco'}","{'en': 'tobaco', 'pt': 'tabaco'}","{'en': 'tobaco', 'pt': 'tabaco'}","{'semantics': ""probably bought tobaco. compare with ''baruur''""}",
+eb187c04-7756-44a9-86b1-418b964a01dd,v,{'pt': 'lavrar'},{'pt': 'lavrar madeira de canoa'},,,"{'asëg_ac8f4d84-5780-4b14-8da3-43c75e21035c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'esëk_f4ab64fe-1bc5-4f2c-9380-673fa8b919ac': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
 85b71c4a-063f-43d5-9d1e-4a54c6553fde,Noun,"{'en': 'armadillo', 'pt': 'tatu'}","{'en': 'aramdillo', 'pt': 'tatu'}",,,
 6fa82561-043e-4219-ac78-208d19594928,Verb,"{'en': 'tell.story', 'pt': 'contar.historia'}","{'en': 'tell a story', 'pt': 'contar historia'}",,,
 b0b1821a-b002-42b1-8e13-ebec54ae67bd,Verb,"{'en': 'say', 'pt': 'dizer'}","{'en': 'say', 'pt': 'dizer'}",,,
@@ -1389,7 +1389,7 @@ d44e8be5-b420-4d7f-8581-de437fe74b65,Noun,"{'en': 'lake', 'pt': 'lago'}","{'en':
 6d063f8b-7562-436f-9259-acbe34c333c9,Verb,{'en': 'eat'},,,,
 54f6aad2-e7ad-4f86-adb3-376354799375,Noun,"{'en': 'rattle', 'pt': 'chocalho'}","{'en': 'rattle', 'pt': 'chocalho [NOT marico]'}",,,
 1ea498e1-3443-461b-aa55-d2d5b01ba48f,?,{'pt': '?'},{'pt': '?'},,,
-c04f78de-1738-43f9-9aba-fb3f4335aef5,v,{'pt': 'escrever'},{'pt': 'escrever; desenhar'},,,"{'eriih_7b220d07-1e11-4f11-b07f-4cefc59183e6': ('Não indicativo',), 'erii_acd22ffd-8fe5-4349-baeb-04dca25ccb2c': ('Não indicativo',), 'erʹiih_ae31ae98-7acb-45bd-aa66-ec86365b6ebc': ('Habitual',)}"
+c04f78de-1738-43f9-9aba-fb3f4335aef5,v,{'pt': 'escrever'},{'pt': 'escrever; desenhar'},,,"{'eriih_7b220d07-1e11-4f11-b07f-4cefc59183e6': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'erii_acd22ffd-8fe5-4349-baeb-04dca25ccb2c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'erʹiih_ae31ae98-7acb-45bd-aa66-ec86365b6ebc': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
 c0a6c825-9f69-489a-a521-a815b1afeffa,n,{'pt': 'anta'},{'pt': 'anta'},,,
 268369b7-3c64-46c9-8966-1b427339bd10,?,{'pt': '?'},{'pt': '?'},,,
 d0cd3629-3ec5-4041-a1e5-4321544f48fa,Noun,"{'en': 'body.paint', 'pt': 'pintura.corporal'}","{'en': 'body paint', 'pt': 'pintura corporal'}",,,

@@ -53,7 +53,7 @@ def read_entry(r, id_only=False):
         entry_id = ' ' + entry_id
     if not id_only:
         entry_data = {k:None for k in entry_keys.values()}
-        entry_data['note'] = []
+        entry_data['note'] = {}
         entry_data['sense'] = []
         entry_data['variant_of'] = {}
         entry_data['entry_id'] = entry_id
@@ -67,10 +67,10 @@ def read_entry(r, id_only=False):
                 key = entry_keys[tag]
                 data = funct(r)
                 if not id_only:
-                    if key in ('note', 'sense'):
+                    if key == 'sense':
                         entry_data[key].append(data)
-                    elif key == 'variant_of':
-                        entry_data[key][data[0]] = data[1:]
+                    elif not data:
+                        pass
                     else:
                         assert not entry_data[key]
                         entry_data[key] = data
@@ -95,7 +95,6 @@ def read_sense(r, id_only=False):
     sense_id = get_xml_kwarg(open_tag, 'id')
     if not id_only:
         sense_data = {k:None for k in sense_keys.values()}
-        sense_data['reverse'] = []
         sense_data['sense_id'] = sense_id
     line, line_bytes = r_d_bytes(r)
     while True:
@@ -105,11 +104,8 @@ def read_sense(r, id_only=False):
                 key = sense_keys[tag]
                 data = funct(r)
                 if not id_only:
-                    if key == 'reverse':
-                        sense_data[key].append(data)
-                    else:
-                        assert not sense_data[key]
-                        sense_data[key] = data
+                    assert not sense_data[key]
+                    sense_data[key] = data
                 break
         else:
             # if current line did not match any tags
@@ -153,41 +149,82 @@ def read_definition(r):
     return this_def
 
 def read_variant(r):
-    ref_tag = read_decode(r)
-    ref = get_xml_kwarg(ref_tag, 'ref')
-    values = []
-    line = read_decode(r)
-    while line.startswith('<trait '):
-        assert get_xml_kwarg(line, 'name') in ('variant-type', 'complex-form-type', 'is-primary'), get_xml_kwarg(line, 'name')
-        values.append( get_xml_kwarg(line, 'value') )
-        line = read_decode(r)
+    variants = {}
+    line, line_bytes = r_d_bytes(r)
+    while line.startswith('<relation'):
+        ref, data = get_variant(line, r)
+        i=1
+        while ref=='null' and ref in variants:
+            tmp = ref + '_' + str(i)
+            if tmp not in variants:
+                ref = tmp
+                break
+            i+=1
+        assert ref not in variants
+        variants[ref] = data
+        line, line_bytes = r_d_bytes(r)
+    step_back(r, line_bytes)
+    return variants
+
+def get_variant(s, r):
+    ref = get_xml_kwarg(s, 'ref')
+    ref = ref if ref else 'null'
+    var_type = get_xml_kwarg(s, 'type')
+    data = {'type': var_type}
+    s = read_decode(r)
+    while s.startswith('<trait '):
+        name = get_xml_kwarg(s, 'name')
+        value = get_xml_kwarg(s, 'value')
+        assert name in ('variant-type', 'complex-form-type', 'is-primary'), name
+        if name in data and type(data[name]) is tuple:
+            data[name] = (*data[name], value)
+        elif name in data:
+            data[name] = (data[name], value)
+        else:
+            data[name] = value
+        s = read_decode(r)
     summ = None
-    if line == "<field type='summary'>":
+    if s == "<field type='summary'>":
        summ = read_decode(r)
        summ = read_form(summ)
+       data['summary'] = summ
        end_tag = read_decode(r)
        assert end_tag == '</field>'
-       line = read_decode(r)
-    assert line == '</relation>', line + ' ' + ref_tag
-    if summ:
-        return (ref, *values, summ)
-    else:
-        return (ref, *values)
+       s = read_decode(r)
+    assert s == '</relation>', s + ' ' + str(data)
+    return ref, data
 
 def read_note(r):
-    type_str = read_decode(r)
-    if type_str == '<note>':
-        note_type = ''
+    notes = {}
+    line, line_bytes = r_d_bytes(r)
+    while line.startswith('<note'):
+        note_type, this_note = get_note(line, r)
+        i=1
+        while note_type in notes:
+            tmp = note_type + '_' + str(i)
+            if tmp not in notes:
+                note_type = tmp
+                break
+            i+=1
+        notes[note_type] = this_note
+        line, line_bytes = r_d_bytes(r)
+    step_back(r, line_bytes)
+    return notes
+
+def get_note(s, r):
+    if s == '<note>':
+        note_type = 'Note'
     else:
-        note_type = get_xml_kwarg(type_str, 'type')
-    notes = []
+        note_type = get_xml_kwarg(s, 'type')
     s = read_decode(r)
+    notes = []
     while s.startswith('<form '):
         notes.append(read_form(s))
         s = read_decode(r)
     end_tag = s
     assert end_tag == '</note>'
-    return (*notes, note_type)
+    notes = ', '.join(notes)
+    return note_type, notes
         
 def read_span(s):
     s = re_span.sub("", s)
@@ -223,7 +260,18 @@ def get_gloss(s):
     return (s.strip(), lang)
 
 def read_reversal(r):
-    s = read_decode(r)
+    revs = {}
+    line, line_bytes = r_d_bytes(r)
+    while line.startswith('<reversal'):
+        this_rev, lang = get_reversal(line, r)
+        assert lang not in revs
+        revs[lang] = this_rev
+        
+        line, line_bytes = r_d_bytes(r)
+    step_back(r, line_bytes)
+    return revs
+
+def get_reversal(s, r):
     lang = get_xml_kwarg(s, 'lang')
     assert lang in ('pt', 'en'), lang
     s = read_span(s)

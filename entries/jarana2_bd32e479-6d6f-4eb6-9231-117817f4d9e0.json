@@ -1,21 +1,18 @@
 {
   "entry_id": "jarana2_bd32e479-6d6f-4eb6-9231-117817f4d9e0",
-  "﻿headword": "jarana",
+  "headword": "jarana",
   "morph_type": "stem",
   "pronunciation": "jaɾadnãʔ",
   "variant_of": null,
   "these_vars": {
     "jarana1_7ed1327f-e40d-4e09-8a0e-7b022090c381": {
-      "﻿headword": "jarana",
+      "headword": "jarana",
       "morph_type": "stem",
       "pronunciation": "jaɾana",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "a3438d04-891a-4e4d-97bb-dd6081e693fe": {
           "pos": "n",

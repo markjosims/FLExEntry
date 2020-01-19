@@ -1,16 +1,13 @@
 {
   "entry_id": "jʉʉ_2c080526-9fce-432c-a1b1-47f3bcf43967",
-  "﻿headword": "jʉʉ",
+  "headword": "jʉʉ",
   "morph_type": "stem",
   "pronunciation": "jəːʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990"
+  },
   "sense": {
     "bfe4c95c-f8a5-4db7-a93a-f1a616a2a773": {
       "pos": "Verb",

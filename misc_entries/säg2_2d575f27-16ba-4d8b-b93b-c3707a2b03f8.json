@@ -1,0 +1,28 @@
+{
+  "entry_id": "säg2_2d575f27-16ba-4d8b-b93b-c3707a2b03f8",
+  "headword": "säg",
+  "morph_type": "stem",
+  "pronunciation": "ʃʌg",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "5f507fde-bd33-4af5-8aa5-e18ecae79515": {
+      "pos": "n",
+      "gloss": {
+        "pt": "mandioca.massa"
+      },
+      "def": {
+        "pt": "massa de mandioca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

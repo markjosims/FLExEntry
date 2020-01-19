@@ -1,16 +1,13 @@
 {
   "entry_id": "sëët_fba5372b-8eca-4bc9-9c0d-44ee540ee828",
-  "﻿headword": "sëët",
+  "headword": "sëët",
   "morph_type": "stem",
   "pronunciation": "ʃə:t",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 2",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 2"
+  },
   "sense": {
     "91b4ec9b-3454-4a82-955c-d397a6141f8e": {
       "pos": "v?",

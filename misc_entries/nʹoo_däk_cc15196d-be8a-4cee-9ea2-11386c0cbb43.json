@@ -1,0 +1,28 @@
+{
+  "entry_id": "nʹoo däk_cc15196d-be8a-4cee-9ea2-11386c0cbb43",
+  "headword": "nʹoo däk",
+  "morph_type": "phrase",
+  "pronunciation": "no̰: dʌk",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "5affb151-c73f-4717-8e68-c4fa87480dea": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-04-03T23:14:55Z"
+}

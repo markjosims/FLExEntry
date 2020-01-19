@@ -1,16 +1,13 @@
 {
   "entry_id": "bëëh2_59d8bf5a-dd20-44e8-b7a9-5081bab044ae",
-  "﻿headword": "bëëh",
+  "headword": "bëëh",
   "morph_type": "stem",
   "pronunciation": "bǝ:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "3244d12a-db56-4f1b-835e-3ca76ca002b0": {
       "pos": "pro",

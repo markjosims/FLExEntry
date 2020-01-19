@@ -1,16 +1,13 @@
 {
   "entry_id": "séd dó_dec64b24-27e5-4a0b-9b8d-4a7cb969f5b6",
-  "﻿headword": "séd dó",
+  "headword": "séd dó",
   "morph_type": "phrase",
   "pronunciation": "ʃɛd dɔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "d403fd87-08d6-4339-91d7-48b0e305cb2c": {
       "pos": "adv",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'séd nado_d7873eaf-cf36-464a-a057-08f1f705e07b': ('Negativo',)}"
+      "these_vars": "{'séd nado_d7873eaf-cf36-464a-a057-08f1f705e07b': {'type': '_component-lexeme', 'variant-type': 'Negativo'}}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

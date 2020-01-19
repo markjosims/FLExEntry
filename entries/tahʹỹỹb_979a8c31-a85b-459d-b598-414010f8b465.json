@@ -1,16 +1,13 @@
 {
   "entry_id": "tahʹỹỹb_979a8c31-a85b-459d-b598-414010f8b465",
-  "﻿headword": "tahʹỹỹb",
+  "headword": "tahʹỹỹb",
   "morph_type": "stem",
   "pronunciation": "taˈhɨ̃ʔɨ̃b˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "8c07f586-be16-4f07-9a9c-023ca9c8f2e9": {
       "pos": "n",

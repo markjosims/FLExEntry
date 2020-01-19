@@ -1,16 +1,13 @@
 {
   "entry_id": "eoom_e666abf2-eabe-4681-948b-72a9af0c2ed9",
-  "﻿headword": "eoom",
+  "headword": "eoom",
   "morph_type": "stem",
   "pronunciation": "ʔeˈʔo:bm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "d53098d4-b052-402e-9be3-46b003f67c0a": {
       "pos": "",

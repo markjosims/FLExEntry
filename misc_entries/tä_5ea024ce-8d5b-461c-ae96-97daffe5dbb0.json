@@ -1,0 +1,55 @@
+{
+  "entry_id": "tä_5ea024ce-8d5b-461c-ae96-97daffe5dbb0",
+  "headword": "tä",
+  "morph_type": "stem",
+  "pronunciation": "tʌ",
+  "variant_of": null,
+  "these_vars": {
+    "tʌʔ_41669841-777f-4779-84d5-7b7bd263f7c5": {
+      "headword": "tʌʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:40:27Z",
+      "var_type": [
+        "Barbosa",
+        "comida"
+      ]
+    },
+    "tʉ́1_d009493f-0c14-4cfc-a8a5-0d54484ed84b": {
+      "headword": "tʉ́",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:39:42Z",
+      "var_type": [
+        "Weir",
+        "1990; food"
+      ]
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "71a959cb-ec10-4807-9737-5effea2f547c": {
+      "pos": "n",
+      "gloss": {
+        "pt": "carne/peixe"
+      },
+      "def": {
+        "pt": "comida (carne ou peixe)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

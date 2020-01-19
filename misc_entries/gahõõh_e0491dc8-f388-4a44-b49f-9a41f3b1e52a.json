@@ -1,0 +1,28 @@
+{
+  "entry_id": "gahõõh_e0491dc8-f388-4a44-b49f-9a41f3b1e52a",
+  "headword": "gahõõh",
+  "morph_type": "stem",
+  "pronunciation": "gahõ:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "e319da77-1fc1-4adb-91d9-61a158dc0da8": {
+      "pos": "v",
+      "gloss": {
+        "pt": "fazer.fogo"
+      },
+      "def": {
+        "pt": "fazer fogo; soprando"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'gahõ_318e6d4d-a9e5-4040-959a-a584e218621d': ('Não indicativo',), 'gahõh_7b6d0386-b6e8-493c-9fa8-4369a9497543': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

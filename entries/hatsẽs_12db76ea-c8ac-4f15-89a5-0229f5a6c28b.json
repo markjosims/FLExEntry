@@ -1,16 +1,13 @@
 {
   "entry_id": "hatsẽs_12db76ea-c8ac-4f15-89a5-0229f5a6c28b",
-  "﻿headword": "hatsẽs",
+  "headword": "hatsẽs",
   "morph_type": "stem",
   "pronunciation": "haɟɛ̃ʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 10",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 10"
+  },
   "sense": {
     "24591e08-6e9a-4017-823b-a34774d951a7": {
       "pos": "v?",

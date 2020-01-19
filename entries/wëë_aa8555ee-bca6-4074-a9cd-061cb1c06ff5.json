@@ -1,16 +1,13 @@
 {
   "entry_id": "wëë_aa8555ee-bca6-4074-a9cd-061cb1c06ff5",
-  "﻿headword": "wëë",
+  "headword": "wëë",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "7ddabbf3-62e0-4d27-8810-382c9d945a3d": {
       "pos": "Noun",

@@ -1,16 +1,13 @@
 {
   "entry_id": "kasʹuut_8f5945ef-1d1b-4b9e-8534-3cf3147fa009",
-  "﻿headword": "kasʹuut",
+  "headword": "kasʹuut",
   "morph_type": "stem",
   "pronunciation": "kaʃṵ:t",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "74b8b567-2fbc-49cb-a9c5-c6fceb662737": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'kasuud_4afcce50-2b38-49e5-bec1-1732ce913571': ('Não indicativo',)}"
+      "these_vars": "{'kasuud_4afcce50-2b38-49e5-bec1-1732ce913571': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

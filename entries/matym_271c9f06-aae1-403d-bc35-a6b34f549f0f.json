@@ -1,16 +1,13 @@
 {
   "entry_id": "matym_271c9f06-aae1-403d-bc35-a6b34f549f0f",
-  "﻿headword": "matym",
+  "headword": "matym",
   "morph_type": "stem",
   "pronunciation": "maˈtɨbm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "4dfc33d6-18cb-42d0-ac07-83fa43d80266": {
       "pos": "",
@@ -23,7 +20,7 @@
         "pt": "olho"
       },
       "reverse": "",
-      "note": "('(ji) matym', 'grammar')",
+      "note": "{'grammar': '(ji) matym'}",
       "these_vars": ""
     }
   },

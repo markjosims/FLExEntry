@@ -1,0 +1,28 @@
+{
+  "entry_id": "manaa1_b999ce06-0ede-4cd1-850c-f0321b9a34c1",
+  "headword": "manaa",
+  "morph_type": "stem",
+  "pronunciation": "mana:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "3dc7d08c-b772-4047-88f7-269b129dba53": {
+      "pos": "v",
+      "gloss": {
+        "pt": "trazer"
+      },
+      "def": {
+        "pt": "trazer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'mana1_969e27e7-634a-41d6-8edd-afaee3c494ab': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

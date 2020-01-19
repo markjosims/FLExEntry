@@ -1,16 +1,13 @@
 {
   "entry_id": "kanés_e9993a8e-4b5d-4020-ba21-8dcd58e347b8",
-  "﻿headword": "kanés",
+  "headword": "kanés",
   "morph_type": "stem",
   "pronunciation": "keʔnɛ̃ʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "957ee017-c193-4430-a1ac-41dcf18997e3": {
       "pos": "?",

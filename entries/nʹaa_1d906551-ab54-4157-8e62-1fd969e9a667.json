@@ -1,21 +1,18 @@
 {
   "entry_id": "nʹaa_1d906551-ab54-4157-8e62-1fd969e9a667",
-  "﻿headword": "nʹaa",
+  "headword": "nʹaa",
   "morph_type": "stem",
   "pronunciation": "na̰:",
   "variant_of": null,
   "these_vars": {
     "nxaag_4d2665d4-3bdc-4b89-a07a-8dd9f79e34b9": {
-      "﻿headword": "nxaag",
+      "headword": "nxaag",
       "morph_type": "stem",
       "pronunciation": "na̰ːg",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1994"
+      },
       "sense": {
         "5397ec03-79c9-4c3e-9aab-ecbd6d7e709e": {
           "pos": "Verb",
@@ -32,12 +29,9 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "65e77116-ae98-458d-adc0-4fe54f86f75c": {
       "pos": "par",

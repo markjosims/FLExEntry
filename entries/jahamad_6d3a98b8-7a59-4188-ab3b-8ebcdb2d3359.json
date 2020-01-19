@@ -1,12 +1,12 @@
 {
   "entry_id": "jahamad_6d3a98b8-7a59-4188-ab3b-8ebcdb2d3359",
-  "﻿headword": "jahamad",
+  "headword": "jahamad",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "jahamaːd_ff8ca9d5-b389-4faf-88b6-3714f610b696": {
-      "﻿headword": "jahamaːd",
+      "headword": "jahamaːd",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "206b2b80-0ea4-4a5a-a706-5b2ae1822ab9": {
       "pos": "Noun",

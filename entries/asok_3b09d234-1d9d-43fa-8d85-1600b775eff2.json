@@ -1,16 +1,13 @@
 {
   "entry_id": "asok_3b09d234-1d9d-43fa-8d85-1600b775eff2",
-  "﻿headword": "asok",
+  "headword": "asok",
   "morph_type": "stem",
   "pronunciation": "aʃok",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "5e258d04-075c-4fb5-96a5-c8798ff6952f": {
       "pos": "v p",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'asog_87882610-dbd6-4886-8420-10e5264fbfd6': ('Não indicativo',), 'adoo _ffb10994-9087-43c5-a1e5-3f3380e7547a': ('Singular',)}"
+      "these_vars": "{'asog_87882610-dbd6-4886-8420-10e5264fbfd6': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'adoo _ffb10994-9087-43c5-a1e5-3f3380e7547a': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

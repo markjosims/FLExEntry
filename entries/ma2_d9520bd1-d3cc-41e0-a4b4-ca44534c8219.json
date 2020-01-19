@@ -1,16 +1,13 @@
 {
   "entry_id": "ma2_d9520bd1-d3cc-41e0-a4b4-ca44534c8219",
-  "﻿headword": "ma",
+  "headword": "ma",
   "morph_type": "stem",
   "pronunciation": "maʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990"
+  },
   "sense": {
     "5ebcdcf4-6b76-4a57-ad2e-cac34b685616": {
       "pos": "Verb",

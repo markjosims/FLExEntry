@@ -1,16 +1,13 @@
 {
   "entry_id": "ts’ëëg_95dec863-c133-43ea-b839-25af3fbb4312",
-  "﻿headword": "ts’ëëg",
+  "headword": "ts’ëëg",
   "morph_type": "stem",
   "pronunciation": "tʃ’ǝʔǝg˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "6da2ae83-6c6f-4e5e-bfc2-f6fac626cd69": {
       "pos": "Noun",

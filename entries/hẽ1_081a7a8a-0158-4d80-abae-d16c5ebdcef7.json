@@ -1,16 +1,13 @@
 {
   "entry_id": "hẽ1_081a7a8a-0158-4d80-abae-d16c5ebdcef7",
-  "﻿headword": "hẽ",
+  "headword": "hẽ",
   "morph_type": "stem",
   "pronunciation": "hɛ̃",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "ce786d73-57e0-470c-866a-4d542a027653": {
       "pos": "onom",

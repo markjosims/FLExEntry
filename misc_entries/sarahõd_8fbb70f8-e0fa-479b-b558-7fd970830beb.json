@@ -1,0 +1,28 @@
+{
+  "entry_id": "sarahõd_8fbb70f8-e0fa-479b-b558-7fd970830beb",
+  "headword": "sarahõd",
+  "morph_type": "stem",
+  "pronunciation": "ʃaɾahõd",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "3b3a388c-65d7-41e6-9270-16d136336f1e": {
+      "pos": "n",
+      "gloss": {
+        "pt": "arco-íris"
+      },
+      "def": {
+        "pt": "arco-íris"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

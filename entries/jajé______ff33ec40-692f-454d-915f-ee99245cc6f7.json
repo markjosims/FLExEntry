@@ -1,16 +1,13 @@
 {
   "entry_id": "jajé     _ff33ec40-692f-454d-915f-ee99245cc6f7",
-  "﻿headword": "jajé",
+  "headword": "jajé",
   "morph_type": "stem",
   "pronunciation": "jajɛ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "68581f10-629c-47c8-b21e-dc12a51f30a7": {
       "pos": "adv",

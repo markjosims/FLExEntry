@@ -1,21 +1,18 @@
 {
   "entry_id": "sëëj2_676891fe-11be-4098-ba43-4c4bd187bf1f",
-  "﻿headword": "sëëj",
+  "headword": "sëëj",
   "morph_type": "stem",
   "pronunciation": "ʃə:j",
   "variant_of": null,
   "these_vars": {
     "sëëj1_ea18d5a2-e0a3-4174-859f-b42bbb3d5e93": {
-      "﻿headword": "sëëj",
+      "headword": "sëëj",
       "morph_type": "stem",
       "pronunciation": "ʃə:j",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "ac8b005e-cc51-4568-930a-652fa016ad40": {
           "pos": "n",

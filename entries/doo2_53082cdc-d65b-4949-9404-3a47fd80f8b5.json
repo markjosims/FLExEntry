@@ -1,16 +1,13 @@
 {
   "entry_id": "doo2_53082cdc-d65b-4949-9404-3a47fd80f8b5",
-  "﻿headword": "doo",
+  "headword": "doo",
   "morph_type": "stem",
   "pronunciation": "doːʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "39504ac7-caa4-4fc1-9bcb-367387ee05d1": {
       "pos": "Verb",

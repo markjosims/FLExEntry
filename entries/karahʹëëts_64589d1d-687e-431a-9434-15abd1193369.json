@@ -1,16 +1,13 @@
 {
   "entry_id": "karahʹëëts_64589d1d-687e-431a-9434-15abd1193369",
-  "﻿headword": "karahʹëëts",
+  "headword": "karahʹëëts",
   "morph_type": "stem",
   "pronunciation": "kaɾahə̰:ɟ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "b1143fea-aa0e-4892-b684-fe3641bcad19": {
       "pos": "n",

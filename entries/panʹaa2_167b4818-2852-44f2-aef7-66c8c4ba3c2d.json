@@ -1,21 +1,18 @@
 {
   "entry_id": "panʹaa2_167b4818-2852-44f2-aef7-66c8c4ba3c2d",
-  "﻿headword": "panʹaa",
+  "headword": "panʹaa",
   "morph_type": "stem",
   "pronunciation": "pana̰:",
   "variant_of": null,
   "these_vars": {
     "panʹaa1_4809c58f-bd46-4e6d-bb36-653e0b1ae33e": {
-      "﻿headword": "panʹaa",
+      "headword": "panʹaa",
       "morph_type": "stem",
       "pronunciation": "pana̰:",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; lição 9",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; lição 9"
+      },
       "sense": {
         "f1ef09d9-7c3b-4206-9e37-2401aa4cb06b": {
           "pos": "v?",
@@ -34,12 +31,9 @@
       "var_type": "Cartilhas"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "125852b9-9c3d-49dc-ac87-02e3bdbc19a7": {
       "pos": "par",

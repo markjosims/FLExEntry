@@ -1,21 +1,18 @@
 {
   "entry_id": " =dab_f62551f3-a0a5-4ba4-93d1-54fcd72b4088",
-  "﻿headword": " =dab",
+  "headword": " =dab",
   "morph_type": "stem",
   "pronunciation": "dab˺",
   "variant_of": null,
   "these_vars": {
     "dab_743da3f0-1447-4165-a2ee-5679ce305399": {
-      "﻿headword": "dab",
+      "headword": "dab",
       "morph_type": "stem",
       "pronunciation": "dab",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1990; Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1990; Weir 1994"
+      },
       "sense": {
         "e5e8dd1c-61f9-4c37-a984-5cd3eb190828": {
           "pos": "Noun",
@@ -32,12 +29,9 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "SIL 2011;  Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011;  Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "8c804958-f401-4cb4-834d-f68b70f4021d": {
       "pos": "n op",

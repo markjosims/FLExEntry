@@ -1,16 +1,13 @@
 {
   "entry_id": "ma3_54731d58-1347-4780-981b-8e439d93d277",
-  "﻿headword": "ma",
+  "headword": "ma",
   "morph_type": "stem",
   "pronunciation": "maʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990; Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990; Weir 1994"
+  },
   "sense": {
     "b2919b14-4b08-4224-8e86-bb17b0e489d0": {
       "pos": "part?",

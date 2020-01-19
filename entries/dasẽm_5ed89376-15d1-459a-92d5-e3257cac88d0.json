@@ -1,16 +1,13 @@
 {
   "entry_id": "dasẽm_5ed89376-15d1-459a-92d5-e3257cac88d0",
-  "﻿headword": "dasẽm",
+  "headword": "dasẽm",
   "morph_type": "stem",
   "pronunciation": "daˈʃẽm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "fbeebb81-bc04-4fb4-beab-70250b5690fb": {
       "pos": "Verb",

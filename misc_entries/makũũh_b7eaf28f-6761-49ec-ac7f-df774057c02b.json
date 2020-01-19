@@ -1,0 +1,28 @@
+{
+  "entry_id": "makũũh_b7eaf28f-6761-49ec-ac7f-df774057c02b",
+  "headword": "makũũh",
+  "morph_type": "stem",
+  "pronunciation": "makũ:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "339a2390-193b-4e46-b7d9-76429e5bf07d": {
+      "pos": "n",
+      "gloss": {
+        "pt": "finado"
+      },
+      "def": {
+        "pt": "finado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'dakä_088d21b3-b72e-422c-baab-2a35b7838500': ('Não indicativo',), 'dakë_9477178e-c20a-43b8-b4e9-7a91edfad5f8': ('Unspecified Variant',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

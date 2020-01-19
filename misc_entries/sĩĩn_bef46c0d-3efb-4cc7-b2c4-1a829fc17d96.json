@@ -1,0 +1,42 @@
+{
+  "entry_id": "sĩĩn_bef46c0d-3efb-4cc7-b2c4-1a829fc17d96",
+  "headword": "sĩĩn",
+  "morph_type": "stem",
+  "pronunciation": "ʃĩ:n",
+  "variant_of": null,
+  "these_vars": {
+    "ʃĩːn_0a072400-6d07-4363-bfb7-e37fe79048b5": {
+      "headword": "ʃĩːn",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:18:55Z",
+      "var_type": [
+        "Barbosa",
+        "cobra coral"
+      ]
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "7693b61a-ed61-4709-9cf5-037de32b820f": {
+      "pos": "n",
+      "gloss": {
+        "pt": "coral"
+      },
+      "def": {
+        "pt": "esp. de cobra (coral)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

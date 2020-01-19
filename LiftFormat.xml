@@ -1,0 +1,70 @@
+<entry dateCreated="" dateModified="" id="" guid="">
+	<lexical-unit>
+		<form lang="">
+			<text>
+				headword
+			</text>
+		</form>
+	</lexical-unit>
+	<trait name="morph-type" value=""/>
+	<pronunciation>
+		<form lang="">
+			<text>
+				pronunciation
+			</text>
+		</form>
+	</pronunciation>
+	<note type="">
+		<form lang="">
+			<text>
+				note
+			</text>
+		</form>
+	</note>
+	*
+	<relation type="" ref="">
+		<trait name="" value=""/>
+		*
+		<field type="summary">
+			<form lang="">
+				<text>
+					summary
+				</text>
+			</form>
+		</field>
+		?
+	</relation>
+	*
+	<sense id="">
+		<grammatical-info value="{POS}"></grammatical-info>
+		<gloss lang="">
+			<text>
+				gloss
+			</text>
+		</gloss>
+		*
+		<definition>
+			<form lang="">
+				<text>
+					definition
+				</text>
+			</form>
+			+
+		</definition>
+		<reversal type="{ISO language code}">
+			<form>
+				<text>
+					reversal form
+				</text>
+			</form>
+		</reversal>
+		*
+		<note type="">
+			<form lang="">
+				<text>
+					note
+				</text>
+			</form>
+		</note>
+	</sense>
+</entry>

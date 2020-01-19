@@ -1,16 +1,13 @@
 {
   "entry_id": "karahi_f160e9f4-8046-4b12-a202-2663128d0ad7",
-  "﻿headword": "karahi",
+  "headword": "karahi",
   "morph_type": "stem",
   "pronunciation": "kaɾahi",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "3ea2d121-ab81-4e95-ad36-10d87d0e6acc": {
       "pos": "n",

@@ -1,16 +1,13 @@
 {
   "entry_id": "sarin_a3e45e2f-99e7-44d1-a279-20f03a1e0d70",
-  "﻿headword": "sarin",
+  "headword": "sarin",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldotes Epps/Obert; 2018"
+  },
   "sense": {
     "a4f007b6-bc8f-466e-85ae-cd7fb76c8f9f": {
       "pos": "Noun",

@@ -1,0 +1,28 @@
+{
+  "entry_id": "dahẽẽm_d2ef8ac9-8765-486d-b457-05cee687a454",
+  "headword": "dahẽẽm",
+  "morph_type": "stem",
+  "pronunciation": "dahɛ̃:m",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "bd545db0-c5da-4763-b66c-9ef631f0d514": {
+      "pos": "v",
+      "gloss": {
+        "pt": "frio"
+      },
+      "def": {
+        "pt": "frio (água)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'dahẽẽw_2a438385-429d-4f14-8253-316f74d60d54': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

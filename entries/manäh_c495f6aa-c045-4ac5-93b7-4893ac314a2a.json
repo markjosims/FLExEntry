@@ -1,16 +1,13 @@
 {
   "entry_id": "manäh_c495f6aa-c045-4ac5-93b7-4893ac314a2a",
-  "﻿headword": "manäh",
+  "headword": "manäh",
   "morph_type": "stem",
   "pronunciation": "manʌh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "ba01ed64-5100-4894-b46f-287c2da93272": {
       "pos": "par?",

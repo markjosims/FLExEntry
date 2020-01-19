@@ -1,12 +1,12 @@
 {
   "entry_id": "sawyym_ee869356-dc53-4210-9fa0-608972e8e311",
-  "﻿headword": "sawyym",
+  "headword": "sawyym",
   "morph_type": "stem",
   "pronunciation": "ʃaˈwɨ:bm",
   "variant_of": null,
   "these_vars": {
     "ʃawiːm_3304d40a-0ff3-4883-8eb2-39d590ec7ac6": {
-      "﻿headword": "ʃawiːm",
+      "headword": "ʃawiːm",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "de1b80ce-c0a1-4ca7-b1cd-85f08ce75416": {
       "pos": "Noun",

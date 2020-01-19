@@ -1,0 +1,28 @@
+{
+  "entry_id": "karawa_2e6ece77-44ea-4255-a367-ed7da5ab591b",
+  "headword": "karawa",
+  "morph_type": "stem",
+  "pronunciation": "kaɾawa",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "765108c2-d152-430e-90b3-e93481493cb4": {
+      "pos": "n",
+      "gloss": {
+        "pt": "timbó.sp"
+      },
+      "def": {
+        "pt": "esp. de timbó"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

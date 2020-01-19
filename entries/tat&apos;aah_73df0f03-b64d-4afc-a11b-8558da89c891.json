@@ -1,16 +1,13 @@
 {
   "entry_id": "tat&apos;aah_73df0f03-b64d-4afc-a11b-8558da89c891",
-  "﻿headword": "tat'aah",
+  "headword": "tat'aah",
   "morph_type": "stem",
   "pronunciation": "tataʔah",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "great-grandson= tatat'aah",
-      ""
-    ]
-  ],
+  "note": {
+    "Note": "great-grandson= tatat'aah"
+  },
   "sense": {
     "28c9eda7-a205-4e1f-8803-3608776f3a4c": {
       "pos": "Noun",

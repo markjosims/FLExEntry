@@ -1,16 +1,13 @@
 {
   "entry_id": "tabus yb_4061a782-ea88-4960-80c8-bb88f037d80b",
-  "﻿headword": "tabus yb",
+  "headword": "tabus yb",
   "morph_type": "phrase",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2z018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2z018"
+  },
   "sense": {
     "7a11343f-f836-4e12-8219-39572df44f9d": {
       "pos": "Noun",

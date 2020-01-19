@@ -1,16 +1,13 @@
 {
   "entry_id": "ji etook doo_c1ddf700-e8d5-4369-a3ea-1e2cd3593151",
-  "﻿headword": "ji etook doo",
+  "headword": "ji etook doo",
   "morph_type": "phrase",
   "pronunciation": "jiʔ ʔeto:k̚ do:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "v. etook [pilar]",
-      ""
-    ]
-  ],
+  "note": {
+    "Note": "v. etook [pilar]"
+  },
   "sense": {
     "78afa6f4-9915-4e6d-9e46-e39ad3b58ca2": {
       "pos": "Noun",

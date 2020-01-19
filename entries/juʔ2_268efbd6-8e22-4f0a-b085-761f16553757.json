@@ -1,21 +1,18 @@
 {
   "entry_id": "juʔ2_268efbd6-8e22-4f0a-b085-761f16553757",
-  "﻿headword": "juʔ",
+  "headword": "juʔ",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "ju_5dae869a-3b1b-46a6-8326-74a340630984": {
-      "﻿headword": "ju",
+      "headword": "ju",
       "morph_type": "stem",
       "pronunciation": "ju",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; licão 14",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; licão 14"
+      },
       "sense": {
         "4a4f2624-50f9-4820-a471-57c867677cd3": {
           "pos": "n?",
@@ -34,7 +31,7 @@
       "var_type": "Cartilhas"
     },
     "juʔ1_7bb13b61-6e0f-4bd3-9889-18139d7bb2ac": {
-      "﻿headword": "juʔ",
+      "headword": "juʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,

@@ -1,21 +1,18 @@
 {
   "entry_id": "p’yym1_c58f3f30-b24e-49b3-89c7-a8dbbcc5fc5b",
-  "﻿headword": "p’yym",
+  "headword": "p’yym",
   "morph_type": "stem",
   "pronunciation": "pɨʔɨbm",
   "variant_of": null,
   "these_vars": {
     "pʹyym_48a754db-ea05-4440-bcad-eec33e19477e": {
-      "﻿headword": "pʹyym",
+      "headword": "pʹyym",
       "morph_type": "stem",
       "pronunciation": "pɨ̰:m",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "e08317a8-6964-4524-981c-ee61e958a38a": {
           "pos": "n",

@@ -1,16 +1,13 @@
 {
   "entry_id": "yahuun_6ec5b2d9-53a2-4e8b-8527-bb67d204eb18",
-  "﻿headword": "yahuun",
+  "headword": "yahuun",
   "morph_type": "stem",
   "pronunciation": "jahuːn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "e98061b8-8baf-4bfd-83f1-a3677d634d17": {
       "pos": "Noun",

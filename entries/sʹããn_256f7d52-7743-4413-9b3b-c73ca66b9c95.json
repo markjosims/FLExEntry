@@ -1,16 +1,13 @@
 {
   "entry_id": "sʹããn_256f7d52-7743-4413-9b3b-c73ca66b9c95",
-  "﻿headword": "sʹããn",
+  "headword": "sʹããn",
   "morph_type": "stem",
   "pronunciation": "ʃã̰:n",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "3fa066c6-2cc5-4ef0-821a-7b7cebd84252": {
       "pos": "n",

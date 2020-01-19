@@ -1,16 +1,13 @@
 {
   "entry_id": "tyd_4468f4e2-2806-4ee7-8c12-fb65d3d3fe4d",
-  "﻿headword": "tyd",
+  "headword": "tyd",
   "morph_type": "stem",
   "pronunciation": "tɨd˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "a65360c9-d8b4-4ffa-af97-987dd1ddbe3e": {
       "pos": "n",

@@ -1,16 +1,13 @@
 {
   "entry_id": "tawʹëëd_2e7fefe0-205c-46ec-9ebb-7c16d4e32bd8",
-  "﻿headword": "tawʹëëd",
+  "headword": "tawʹëëd",
   "morph_type": "stem",
   "pronunciation": "taˈwǝʔǝd",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "b11f25bd-8202-4020-8c2c-23ab8d5e5bc8": {
       "pos": "n",

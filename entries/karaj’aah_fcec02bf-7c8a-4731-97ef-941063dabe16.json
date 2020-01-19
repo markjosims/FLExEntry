@@ -1,16 +1,13 @@
 {
   "entry_id": "karaj’aah_fcec02bf-7c8a-4731-97ef-941063dabe16",
-  "﻿headword": "karaj’aah",
+  "headword": "karaj’aah",
   "morph_type": "stem",
   "pronunciation": "kaɾaˈjaʔah",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "d44e8be5-b420-4d7f-8581-de437fe74b65": {
       "pos": "Noun",

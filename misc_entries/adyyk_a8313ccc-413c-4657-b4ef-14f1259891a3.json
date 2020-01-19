@@ -1,0 +1,28 @@
+{
+  "entry_id": "adyyk_a8313ccc-413c-4657-b4ef-14f1259891a3",
+  "headword": "adyyk",
+  "morph_type": "stem",
+  "pronunciation": "adɨ:k",
+  "variant_of": null,
+  "these_vars": {},
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "fc0c1443-58ce-424e-b411-917a8b0275d0": {
+      "pos": "v",
+      "gloss": {
+        "pt": "bater.com.pau"
+      },
+      "def": {
+        "pt": "bater (roupa; ou veneno para eixe) com pau; molhar (a huva)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'adʹyyk_1d10f37c-f112-4be6-bd67-9d50e4e71caa': ('Plural',), 'adyg_2e052b4b-7f72-4fa2-a40e-142713b2261c': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

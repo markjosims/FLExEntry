@@ -1,16 +1,13 @@
 {
   "entry_id": "hadoo_91228118-6e36-4bb1-8876-c6ca8cf2491d",
-  "﻿headword": "hadoo",
+  "headword": "hadoo",
   "morph_type": "stem",
   "pronunciation": "hado:",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "5394f9cf-abdc-4e3e-a300-29ef95af4cd3": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'hedoo_50710311-5077-4000-ba6a-e9122b2a1290': ('Plural',), 'hado_e38efbe1-2b31-4b13-8f02-ffda0c1b3ff7': ('Não indicativo',)}"
+      "these_vars": "{'hedoo_50710311-5077-4000-ba6a-e9122b2a1290': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'hado_e38efbe1-2b31-4b13-8f02-ffda0c1b3ff7': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

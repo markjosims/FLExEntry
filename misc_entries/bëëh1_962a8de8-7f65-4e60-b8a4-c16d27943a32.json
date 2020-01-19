@@ -1,0 +1,54 @@
+{
+  "entry_id": "bëëh1_962a8de8-7f65-4e60-b8a4-c16d27943a32",
+  "headword": "bëëh",
+  "morph_type": "stem",
+  "pronunciation": "bə:h",
+  "variant_of": null,
+  "these_vars": {
+    "bʉʉh_48d9cff6-c6db-4cc8-83db-4adadfe1b13d": {
+      "headword": "bʉʉh",
+      "morph_type": "stem",
+      "pronunciation": "bəːh",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "Weir 1994"
+        ]
+      },
+      "sense": {
+        "9e7198b5-9370-4b5d-a19b-8dbe99b15e39": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "juice"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "b0f67bb0-4d54-42df-9b69-fb3dfe73d1c1": {
+      "pos": "n op",
+      "gloss": {
+        "pt": "suco"
+      },
+      "def": {
+        "pt": "suco; liquido"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

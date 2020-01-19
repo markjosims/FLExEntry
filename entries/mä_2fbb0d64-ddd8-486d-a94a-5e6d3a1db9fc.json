@@ -1,16 +1,13 @@
 {
   "entry_id": "mä_2fbb0d64-ddd8-486d-a94a-5e6d3a1db9fc",
-  "﻿headword": "mä",
+  "headword": "mä",
   "morph_type": "stem",
   "pronunciation": "mʌʔz",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "6d44c7c4-3bcc-4f96-843a-22907d1b941d": {
       "pos": "n",
@@ -22,7 +19,7 @@
         "en": "ucuqui",
         "pt": "ucuqui"
       },
-      "reverse": "[('ucuqui', 'en'), ('ucuqui', 'pt')]",
+      "reverse": "{'en': 'ucuqui', 'pt': 'ucuqui'}",
       "note": "",
       "these_vars": ""
     }

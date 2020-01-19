@@ -1,16 +1,13 @@
 {
   "entry_id": "hasus_8597d570-4acf-46a7-b412-a4930d5ecada",
-  "﻿headword": "hasus",
+  "headword": "hasus",
   "morph_type": "stem",
   "pronunciation": "haʃuʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert 2018"
+  },
   "sense": {
     "bfedbe03-504f-4610-ba22-eabf4554d8bb": {
       "pos": "v",
@@ -37,7 +34,7 @@
         "pt": "sujo"
       },
       "reverse": "",
-      "note": "('Fieldnotes Epps/Obert 2018', 'bibliography')",
+      "note": "{'bibliography': 'Fieldnotes Epps/Obert 2018'}",
       "these_vars": ""
     }
   },

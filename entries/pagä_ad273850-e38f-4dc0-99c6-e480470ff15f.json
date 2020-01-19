@@ -1,16 +1,13 @@
 {
   "entry_id": "pagä_ad273850-e38f-4dc0-99c6-e480470ff15f",
-  "﻿headword": "pagä",
+  "headword": "pagä",
   "morph_type": "stem",
   "pronunciation": "pagʌ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 4",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 4"
+  },
   "sense": {
     "e15a640f-2051-4b54-92b9-da7fd8180204": {
       "pos": "?",

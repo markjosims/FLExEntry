@@ -1,16 +1,13 @@
 {
   "entry_id": "tabës_14ced729-1b9a-4a85-9ea0-4b582781a60b",
-  "﻿headword": "tabës",
+  "headword": "tabës",
   "morph_type": "stem",
   "pronunciation": "tabəʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "570e5c28-f344-441a-93a2-fa6f7607504f": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'tabʹëës_165c7249-49ef-4561-ad26-55ac9174f93b': ('Plural',), 'tabëëj_d4908e65-d8aa-4e7d-8966-be47f303219e': ('Não indicativo',)}"
+      "these_vars": "{'tabʹëës_165c7249-49ef-4561-ad26-55ac9174f93b': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'tabëëj_d4908e65-d8aa-4e7d-8966-be47f303219e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

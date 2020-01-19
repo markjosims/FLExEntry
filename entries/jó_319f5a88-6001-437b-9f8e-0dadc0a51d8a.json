@@ -1,25 +1,26 @@
 {
   "entry_id": "jó_319f5a88-6001-437b-9f8e-0dadc0a51d8a",
-  "﻿headword": "jó",
+  "headword": "jó",
   "morph_type": "stem",
   "pronunciation": "jɔ",
   "variant_of": null,
   "these_vars": {
     "yó_0c9dbc1c-c5c5-4656-9947-12f740b52735": {
-      "﻿headword": "yó",
+      "headword": "yó",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:48:53Z",
-      "var_type": [
-        "Weir",
-        "on.top.of"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir",
+        "summary": "on.top.of"
+      }
     },
     "jɔʔ_ccb2b652-242e-40c6-a623-0abd516d2ee9": {
-      "﻿headword": "jɔʔ",
+      "headword": "jɔʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -40,16 +41,10 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ],
-    [
-      "Weir 1986 (yó) 'on top of'",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011",
+    "Note": "Weir 1986 (yó) 'on top of'"
+  },
   "sense": {
     "daf97cf6-d8a0-4504-93d9-e9e5ba4c5843": {
       "pos": "adv",
@@ -62,7 +57,7 @@
         "pt": "em cima"
       },
       "reverse": "",
-      "note": "('Fieldnotes Epps/Obert; 2018', 'bibliography')",
+      "note": "{'bibliography': 'Fieldnotes Epps/Obert; 2018'}",
       "these_vars": ""
     },
     "b2381743-f8f7-4b32-b7c1-f8203f6f3261": {

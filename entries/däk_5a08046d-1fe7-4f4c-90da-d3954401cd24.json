@@ -1,17 +1,13 @@
 {
   "entry_id": "däk_5a08046d-1fe7-4f4c-90da-d3954401cd24",
-  "﻿headword": "däk",
+  "headword": "däk",
   "morph_type": "stem",
   "pronunciation": "dʌk",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1986; 1990 (translated to Port. MS)",
-      "cartilha 4; lição 10",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1986; 1990 (translated to Port. MS), cartilha 4; lição 10"
+  },
   "sense": {
     "450e9534-c055-4c95-bead-8ed86564fd80": {
       "pos": "n?",

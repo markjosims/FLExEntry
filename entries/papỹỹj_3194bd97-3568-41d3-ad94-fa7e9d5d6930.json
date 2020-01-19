@@ -1,12 +1,12 @@
 {
   "entry_id": "papỹỹj_3194bd97-3568-41d3-ad94-fa7e9d5d6930",
-  "﻿headword": "papỹỹj",
+  "headword": "papỹỹj",
   "morph_type": "stem",
   "pronunciation": "paˈpɨ̃:j",
   "variant_of": null,
   "these_vars": {
     "papɨ̃ːj_9c5efada-f2ba-4e84-a163-5a5325c9fb8c": {
-      "﻿headword": "papɨ̃ːj",
+      "headword": "papɨ̃ːj",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "fb412a69-3838-4492-87dd-2d5971e0cd4c": {
       "pos": "Noun",
@@ -45,7 +42,7 @@
         "pt": "sol"
       },
       "reverse": "",
-      "note": "('here any notes about meaning variants in texts?', '')",
+      "note": "{'Note': 'here any notes about meaning variants in texts?'}",
       "these_vars": ""
     }
   },

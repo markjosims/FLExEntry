@@ -1,34 +1,32 @@
 {
   "entry_id": "ỹỹn2_cd68549e-1a6e-4765-94fe-b4d379bdf417",
-  "﻿headword": "ỹỹn",
+  "headword": "ỹỹn",
   "morph_type": "stem",
   "pronunciation": "ʔɨ̃:n",
   "variant_of": null,
   "these_vars": {
     "ỹỹn1_834d53d4-10c0-49d7-803d-00921ec62593": {
-      "﻿headword": "ỹỹn",
+      "headword": "ỹỹn",
       "morph_type": "stem",
       "pronunciation": "ʔɨ̃:n",
       "these_vars": {
         "ʔɨ̃ːn1_b2459517-1de7-40b7-a7c5-4ac09afc65b9": {
-          "﻿headword": "ʔɨ̃ːn",
+          "headword": "ʔɨ̃ːn",
           "morph_type": "stem",
           "pronunciation": "",
           "these_vars": null,
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:42:28Z",
-          "var_type": [
-            "Barbosa"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Barbosa"
+          }
         }
       },
-      "note": [
-        [
-          "SIL 2011; Fieldnotes Epps/Obert; 2018",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+      },
       "sense": {
         "98de5dc6-189c-40fd-bf5d-588fc070fa6b": {
           "pos": "n",
@@ -49,7 +47,7 @@
       "var_type": "SIL Dict 2011"
     },
     "ʔɨ̃ːn3_8a3f7405-eec1-49f8-b745-65fb7c006f0c": {
-      "﻿headword": "ʔɨ̃ːn",
+      "headword": "ʔɨ̃ːn",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,

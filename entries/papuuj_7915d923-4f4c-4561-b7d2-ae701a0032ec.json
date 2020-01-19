@@ -1,16 +1,13 @@
 {
   "entry_id": "papuuj_7915d923-4f4c-4561-b7d2-ae701a0032ec",
-  "﻿headword": "papuuj",
+  "headword": "papuuj",
   "morph_type": "stem",
   "pronunciation": "paˈpu:j",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "81d6c196-eabe-45cf-9c25-3f10765bbb5b": {
       "pos": "",

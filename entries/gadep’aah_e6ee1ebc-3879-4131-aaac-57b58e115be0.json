@@ -1,16 +1,13 @@
 {
   "entry_id": "gadep’aah_e6ee1ebc-3879-4131-aaac-57b58e115be0",
-  "﻿headword": "gadep’aah",
+  "headword": "gadep’aah",
   "morph_type": "stem",
   "pronunciation": "k’adeˈpaʔah",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "87619968-796b-456c-bb8a-d6c609145a1e": {
       "pos": "Verb",

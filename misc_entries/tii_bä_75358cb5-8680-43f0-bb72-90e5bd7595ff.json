@@ -1,0 +1,26 @@
+{
+  "entry_id": "tii bä_75358cb5-8680-43f0-bb72-90e5bd7595ff",
+  "headword": "tii bä",
+  "morph_type": "phrase",
+  "pronunciation": "ti: bʌ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "abfc15c4-237b-492b-9f4b-9561ad21d541": {
+      "pos": "adv?",
+      "gloss": {
+        "pt": "aí(?)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-29T04:44:15Z"
+}

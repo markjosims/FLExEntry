@@ -1,0 +1,28 @@
+{
+  "entry_id": "manajuu_d4d1cf7b-605e-4a66-a138-780c8ba1e6a3",
+  "headword": "manajuu",
+  "morph_type": "stem",
+  "pronunciation": "manaju:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "0772cbfe-c186-4e20-b850-0a252ccde07d": {
+      "pos": "n",
+      "gloss": {
+        "pt": "pote.sp"
+      },
+      "def": {
+        "pt": "esp. de pote"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

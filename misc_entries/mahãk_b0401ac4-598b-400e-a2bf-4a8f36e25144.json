@@ -1,0 +1,28 @@
+{
+  "entry_id": "mahãk_b0401ac4-598b-400e-a2bf-4a8f36e25144",
+  "headword": "mahãk",
+  "morph_type": "stem",
+  "pronunciation": "mahãk",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "8f285239-8467-4034-a22f-4789b0c9253f": {
+      "pos": "v",
+      "gloss": {
+        "pt": "temperar.comida"
+      },
+      "def": {
+        "pt": "temperar comida com pimentão"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'mahãg_2e2ca2cc-1788-4303-bf33-129ffd28dd59': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

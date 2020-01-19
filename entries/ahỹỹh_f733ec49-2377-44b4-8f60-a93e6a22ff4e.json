@@ -1,52 +1,47 @@
 {
   "entry_id": "ahỹỹh_f733ec49-2377-44b4-8f60-a93e6a22ff4e",
-  "﻿headword": "ahỹỹh",
+  "headword": "ahỹỹh",
   "morph_type": "stem",
   "pronunciation": "ahɨ̃:h",
   "variant_of": null,
   "these_vars": {
     "ahʹỹỹ_014da936-e5cd-4990-ada4-17cbaa8a737a": {
-      "﻿headword": "ahʹỹỹ",
+      "headword": "ahʹỹỹ",
       "morph_type": "stem",
       "pronunciation": "ahɨ̰̃:",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; lição 17",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; lição 17"
+      },
       "sense": null,
       "date": "2018-03-23T16:11:38Z",
-      "var_type": [
-        "Unspecified Variant"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
     },
     "ahʹỹỹh_135b490e-7cf7-4eff-8dca-45dfe71ddf22": {
-      "﻿headword": "ahʹỹỹh",
+      "headword": "ahʹỹỹh",
       "morph_type": "stem",
       "pronunciation": "ahɨ̰̃:h",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-23T16:10:06Z",
-      "var_type": [
-        "Não indicativo",
-        "Plural"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": [
+          "Não indicativo",
+          "Plural"
+        ]
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "cfb72c47-6bca-4512-b4e7-1e8694eb96aa": {
       "pos": "v",

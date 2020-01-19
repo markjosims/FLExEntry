@@ -1,16 +1,13 @@
 {
   "entry_id": "hʹỹỹb_619d57b3-8d4b-4700-b236-f85239dd9576",
-  "﻿headword": "hʹỹỹb",
+  "headword": "hʹỹỹb",
   "morph_type": "stem",
   "pronunciation": "hɨ̰̃:b",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "cfc7f5da-eebf-4bb8-a424-7f4ceb0deef0": {
       "pos": "?",

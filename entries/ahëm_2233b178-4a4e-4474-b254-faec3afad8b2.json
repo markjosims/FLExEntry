@@ -1,16 +1,13 @@
 {
   "entry_id": "ahëm_2233b178-4a4e-4474-b254-faec3afad8b2",
-  "﻿headword": "ahëm",
+  "headword": "ahëm",
   "morph_type": "stem",
   "pronunciation": "ahəm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "a4aea16f-64e1-4bdc-8411-ad2ed5a6900c": {
       "pos": "v",

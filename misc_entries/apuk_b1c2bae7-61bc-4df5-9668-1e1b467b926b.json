@@ -1,0 +1,28 @@
+{
+  "entry_id": "apuk_b1c2bae7-61bc-4df5-9668-1e1b467b926b",
+  "headword": "apuk",
+  "morph_type": "stem",
+  "pronunciation": "apuk",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "51060597-fcf4-464c-ac0f-33d8484d82f2": {
+      "pos": "v",
+      "gloss": {
+        "pt": "cavar"
+      },
+      "def": {
+        "pt": "cavar (com faca; enxada; etc.)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'apug_fcdd071b-d492-4898-9a12-0b068c0c3557': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

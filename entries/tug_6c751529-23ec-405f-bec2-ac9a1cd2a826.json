@@ -1,16 +1,13 @@
 {
   "entry_id": "tug_6c751529-23ec-405f-bec2-ac9a1cd2a826",
-  "﻿headword": "tug",
+  "headword": "tug",
   "morph_type": "stem",
   "pronunciation": "tug",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "439a5426-ee98-47a9-af9b-0e6285924bf3": {
       "pos": "adv",

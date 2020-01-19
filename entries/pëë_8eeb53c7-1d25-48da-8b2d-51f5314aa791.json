@@ -1,12 +1,12 @@
 {
   "entry_id": "pëë_8eeb53c7-1d25-48da-8b2d-51f5314aa791",
-  "﻿headword": "pëë",
+  "headword": "pëë",
   "morph_type": "stem",
   "pronunciation": "pə:",
   "variant_of": null,
   "these_vars": {
     "pɤːʔ_25842643-9b52-44b1-8b43-182c1b11992f": {
-      "﻿headword": "pɤːʔ",
+      "headword": "pɤːʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "7f757cca-4216-4be2-8df1-00f0104a40c8": {
       "pos": "n",

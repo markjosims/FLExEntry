@@ -1,16 +1,13 @@
 {
   "entry_id": "naëënh_8604bf25-763e-4f74-9f62-1229dc8c1305",
-  "﻿headword": "naëënh",
+  "headword": "naëënh",
   "morph_type": "stem",
   "pronunciation": "naə:ɲ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "194b2515-9d18-4079-a9d9-9d90c46fc9f5": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'naëëj_d9ca85c7-ea29-47cc-9bf8-0624e99f4f92': ('Não indicativo',)}"
+      "these_vars": "{'naëëj_d9ca85c7-ea29-47cc-9bf8-0624e99f4f92': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

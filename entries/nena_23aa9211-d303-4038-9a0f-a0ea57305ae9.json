@@ -1,16 +1,13 @@
 {
   "entry_id": "nena_23aa9211-d303-4038-9a0f-a0ea57305ae9",
-  "﻿headword": "nena",
+  "headword": "nena",
   "morph_type": "stem",
   "pronunciation": "nena",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 3",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 3"
+  },
   "sense": {
     "b6bb5c0e-0f82-44d6-94fe-a7c2d106d127": {
       "pos": "?",

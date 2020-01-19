@@ -1,16 +1,13 @@
 {
   "entry_id": "sét nado_c209e7dd-129a-49b3-b491-4d9f0b62e191",
-  "﻿headword": "sét nado",
+  "headword": "sét nado",
   "morph_type": "phrase",
   "pronunciation": "ʃɛt nado",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; licão 14",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; licão 14"
+  },
   "sense": {
     "a7326904-2bea-4b3e-b444-c254851fa48c": {
       "pos": "adv?",

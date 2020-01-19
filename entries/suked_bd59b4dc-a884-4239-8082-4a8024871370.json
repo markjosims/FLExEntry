@@ -1,16 +1,13 @@
 {
   "entry_id": "suked_bd59b4dc-a884-4239-8082-4a8024871370",
-  "﻿headword": "suked",
+  "headword": "suked",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "1c4ff100-5751-4a42-8911-3f08864bb84d": {
       "pos": "Noun",

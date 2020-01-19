@@ -1,6 +1,6 @@
 {
   "entry_id": "jahuːn1_96adc364-2c67-4c22-b66e-b19f9cc7368b",
-  "﻿headword": "jahuːn",
+  "headword": "jahuːn",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
@@ -15,7 +15,7 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "these_vars": "{'jahuːn2_0f3e0747-ec4b-4392-bcca-3709a8cade15': ('Spelling Variant', 'Barbosa 2005; tamanduá bandeira')}"
+      "these_vars": "{'jahuːn2_0f3e0747-ec4b-4392-bcca-3709a8cade15': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; tamanduá bandeira'}}"
     }
   },
   "date": "2018-06-20T05:09:53Z"

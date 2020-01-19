@@ -1,16 +1,13 @@
 {
   "entry_id": "gatỹỹj_b41f45cc-ee2a-4d27-b5c8-acb1f83c2c6a",
-  "﻿headword": "gatỹỹj",
+  "headword": "gatỹỹj",
   "morph_type": "stem",
   "pronunciation": "k’aˈtɨ̃:j",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "bf9894a8-4dfa-47e2-b97c-2b2528d5ee96": {
       "pos": "Noun",

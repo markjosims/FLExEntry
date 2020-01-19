@@ -1,12 +1,12 @@
 {
   "entry_id": "tsäng_c466f8d0-c63e-4dce-83d9-8000648a6ee9",
-  "﻿headword": "tsäng",
+  "headword": "tsäng",
   "morph_type": "stem",
   "pronunciation": "tʃ’ǝgŋ",
   "variant_of": null,
   "these_vars": {
     "ɟʌŋ_09ce3a4d-30ad-4a1c-be7f-7d36d99bd019": {
-      "﻿headword": "ɟʌŋ",
+      "headword": "ɟʌŋ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "cc9f34a8-de79-4840-9302-2b6a98a2c2e8": {
       "pos": "n",
@@ -45,7 +42,7 @@
         "pt": "barro"
       },
       "reverse": "",
-      "note": "('barro para casa/panela', 'semantics')",
+      "note": "{'semantics': 'barro para casa/panela'}",
       "these_vars": ""
     }
   },

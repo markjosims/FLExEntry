@@ -1,16 +1,13 @@
 {
   "entry_id": "nuu me_5921bae6-4777-4444-be41-a1db8d4ba21d",
-  "﻿headword": "nuu me",
+  "headword": "nuu me",
   "morph_type": "phrase",
   "pronunciation": "nu: me",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "cd09681e-9844-4f3d-8ca5-67a43f1a3b79": {
       "pos": "adv",

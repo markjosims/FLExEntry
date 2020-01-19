@@ -1,12 +1,12 @@
 {
   "entry_id": "sẽẽj2_31d20726-ce1f-4f98-a01d-4dabbd5a7721",
-  "﻿headword": "sẽẽj",
+  "headword": "sẽẽj",
   "morph_type": "stem",
   "pronunciation": "ʃẽ:j",
   "variant_of": null,
   "these_vars": {
     "ʃɛ̃ːj_1b5ea309-3bf7-4495-b8e3-22a92b4512df": {
-      "﻿headword": "ʃɛ̃ːj",
+      "headword": "ʃɛ̃ːj",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,16 +27,13 @@
       "var_type": "Barbosa"
     },
     "sẽẽj1_510a6ef1-8619-44c8-b488-c6d71e13911b": {
-      "﻿headword": "sẽẽj",
+      "headword": "sẽẽj",
       "morph_type": "stem",
       "pronunciation": "ʃɛ̃:j",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "635b7958-4630-4e0c-8fca-7e3103c07033": {
           "pos": "n",

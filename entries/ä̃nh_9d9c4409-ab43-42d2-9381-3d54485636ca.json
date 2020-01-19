@@ -1,12 +1,12 @@
 {
   "entry_id": "ä̃nh_9d9c4409-ab43-42d2-9381-3d54485636ca",
-  "﻿headword": "ä̃nh",
+  "headword": "ä̃nh",
   "morph_type": "stem",
   "pronunciation": "ʔʌ̃ɲ",
   "variant_of": null,
   "these_vars": {
     "ʔʌ̃ɲ_747ec3c6-e1ec-454b-a23b-043d66e7611b": {
-      "﻿headword": "ʔʌ̃ɲ",
+      "headword": "ʔʌ̃ɲ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -20,7 +20,7 @@
           "def": null,
           "reverse": "",
           "note": "",
-          "these_vars": "{'ʔãːɲ1_11011f18-2e56-4f47-9a70-615f7235c757': ('Spelling Variant', 'Barbosa 2005; irmã')}"
+          "these_vars": "{'ʔãːɲ1_11011f18-2e56-4f47-9a70-615f7235c757': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; irmã'}}"
         }
       },
       "date": "2018-06-20T05:09:53Z",

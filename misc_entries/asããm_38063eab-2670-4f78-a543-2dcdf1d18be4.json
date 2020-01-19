@@ -1,0 +1,28 @@
+{
+  "entry_id": "asããm_38063eab-2670-4f78-a543-2dcdf1d18be4",
+  "headword": "asããm",
+  "morph_type": "stem",
+  "pronunciation": "aʃã:m",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "2d320eec-efb1-4489-8abf-fbe5892aae3f": {
+      "pos": "v",
+      "gloss": {
+        "pt": "dançar.no.dabucurí"
+      },
+      "def": {
+        "pt": "dançar no dabucuri"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'asʹããm_99362fa3-10cc-4f03-a0ce-6e14fa37d7c0': ('Plural',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

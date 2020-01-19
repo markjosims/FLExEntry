@@ -1,12 +1,12 @@
 {
   "entry_id": "tii2_d3db1b0f-4558-4e63-94dc-a2d6b0d31def",
-  "﻿headword": "tii",
+  "headword": "tii",
   "morph_type": "stem",
   "pronunciation": "ti:ʔ",
   "variant_of": null,
   "these_vars": {
     "tatiʔ_0585473a-015e-4c8d-8204-f0cdcdef9673": {
-      "﻿headword": "tatiʔ",
+      "headword": "tatiʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,16 +27,13 @@
       "var_type": "Barbosa"
     },
     "tii1_487f32cf-ecef-4acb-b46f-049fe7ed4361": {
-      "﻿headword": "tii",
+      "headword": "tii",
       "morph_type": "stem",
       "pronunciation": "ti:",
       "these_vars": null,
-      "note": [
-        [
-          "parece ter uso verbal em muitas ições em cartilha 4",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "parece ter uso verbal em muitas ições em cartilha 4"
+      },
       "sense": {
         "2b8284c8-5ded-444a-ba33-54dd77d36f31": {
           "pos": "onom",
@@ -55,16 +52,13 @@
       "var_type": "Cartilhas"
     },
     "ti_6e529536-55b7-49da-b65f-093cf90a0686": {
-      "﻿headword": "ti",
+      "headword": "ti",
       "morph_type": "stem",
       "pronunciation": "ti",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; varias ições",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; varias ições"
+      },
       "sense": {
         "c3e01ab7-5336-425c-a22a-b2c899a7bf44": {
           "pos": "?",
@@ -83,7 +77,7 @@
       "var_type": "Cartilhas"
     },
     "tatɨʔ_bff6445e-d390-4aad-ab41-55bd70892fac": {
-      "﻿headword": "tatɨʔ",
+      "headword": "tatɨʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -104,16 +98,10 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "(ta) tii",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
+    "Note": "(ta) tii"
+  },
   "sense": {
     "bcf4b8f9-29c4-469e-8b4e-e719da0062ae": {
       "pos": "?",

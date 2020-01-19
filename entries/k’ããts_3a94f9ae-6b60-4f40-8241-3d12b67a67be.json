@@ -1,21 +1,18 @@
 {
   "entry_id": "k’ããts_3a94f9ae-6b60-4f40-8241-3d12b67a67be",
-  "﻿headword": "k’ããts",
+  "headword": "k’ããts",
   "morph_type": "stem",
   "pronunciation": "kãʔãɉ",
   "variant_of": null,
   "these_vars": {
     "k’ããts tsyg_8ac18045-bd45-4c72-b53f-1a45c1a34510": {
-      "﻿headword": "k’ããts tsyg",
+      "headword": "k’ããts tsyg",
       "morph_type": "phrase",
       "pronunciation": "kãʔãɉ˺ tʃ’ɨg˺",
       "these_vars": null,
-      "note": [
-        [
-          "Fieldnotes Epps/Obert; 2018",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Fieldnotes Epps/Obert; 2018"
+      },
       "sense": {
         "9a9d2855-bda6-44b1-8127-cce238543d8b": {
           "pos": "Noun",
@@ -33,18 +30,16 @@
         }
       },
       "date": "2018-07-06T18:57:18Z",
-      "var_type": [
-        "true",
-        "Compound"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "is-primary": "true",
+        "complex-form-type": "Compound"
+      }
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "80053013-c657-44d3-8d22-0da572795c66": {
       "pos": "Noun",

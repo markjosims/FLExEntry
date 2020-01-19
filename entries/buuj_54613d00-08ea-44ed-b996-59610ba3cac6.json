@@ -1,16 +1,13 @@
 {
   "entry_id": "buuj_54613d00-08ea-44ed-b996-59610ba3cac6",
-  "﻿headword": "buuj",
+  "headword": "buuj",
   "morph_type": "stem",
   "pronunciation": "bu:j",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "1dc2b52c-0251-466e-a1c1-ef2df999a24c": {
       "pos": "n",

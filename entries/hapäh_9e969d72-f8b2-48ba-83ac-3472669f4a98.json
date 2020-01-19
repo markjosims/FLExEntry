@@ -1,16 +1,13 @@
 {
   "entry_id": "hapäh_9e969d72-f8b2-48ba-83ac-3472669f4a98",
-  "﻿headword": "hapäh",
+  "headword": "hapäh",
   "morph_type": "stem",
   "pronunciation": "haˈpʌh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "87c6f66a-3872-4977-bada-eb6b026a7266": {
       "pos": "v",

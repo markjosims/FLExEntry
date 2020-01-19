@@ -1,16 +1,13 @@
 {
   "entry_id": "najiis_7c288356-e6a0-4e2b-8f29-8c7cc96675d9",
-  "﻿headword": "najiis",
+  "headword": "najiis",
   "morph_type": "stem",
   "pronunciation": "naji:ʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "e288c784-25c6-4c91-990a-7e62b6229a0f": {
       "pos": "n",

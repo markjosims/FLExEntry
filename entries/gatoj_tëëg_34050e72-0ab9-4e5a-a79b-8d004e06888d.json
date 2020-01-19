@@ -1,16 +1,13 @@
 {
   "entry_id": "gatoj tëëg_34050e72-0ab9-4e5a-a79b-8d004e06888d",
-  "﻿headword": "gatoj tëëg",
+  "headword": "gatoj tëëg",
   "morph_type": "phrase",
   "pronunciation": "k’aˈtoj",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "81cd25b1-644e-410e-99c6-b16a0bf88e44": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "arrow cane",
         "pt": "cana para flecha"
       },
-      "reverse": "[('cana para flechas', 'pt'), ('arrow cane', 'en')]",
+      "reverse": "{'pt': 'cana para flechas', 'en': 'arrow cane'}",
       "note": "",
       "these_vars": ""
     }

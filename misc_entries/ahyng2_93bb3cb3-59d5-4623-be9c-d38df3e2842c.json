@@ -1,0 +1,54 @@
+{
+  "entry_id": "ahyng2_93bb3cb3-59d5-4623-be9c-d38df3e2842c",
+  "headword": "ahyng",
+  "morph_type": "stem",
+  "pronunciation": "ahɨŋ",
+  "variant_of": null,
+  "these_vars": {
+    "hɨng_c2196b35-b617-4183-bf93-d69cdaf45800": {
+      "headword": "hɨng",
+      "morph_type": "stem",
+      "pronunciation": "hɨŋ",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "Weir 1986"
+        ]
+      },
+      "sense": {
+        "a66fe342-ed9b-4d45-9e7c-5365002c356f": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "go.downriver"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "1d403bbc-6626-434c-977a-29615f25b110": {
+      "pos": "v",
+      "gloss": {
+        "pt": "descer"
+      },
+      "def": {
+        "pt": "baizar; descer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ahyy2_1fa33a5c-430d-45ea-8091-b77ec8ca00d2': ('Não indicativo',), 'ahyk3_48a9115e-12fc-4ad0-a55e-3ff77821a07b': ('Plural',), 'ahyyh2_a4db2ba4-29b1-42d6-ba71-d03347f7bf88': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

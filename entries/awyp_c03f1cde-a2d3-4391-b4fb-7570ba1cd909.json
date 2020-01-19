@@ -1,12 +1,12 @@
 {
   "entry_id": "awyp_c03f1cde-a2d3-4391-b4fb-7570ba1cd909",
-  "﻿headword": "awyp",
+  "headword": "awyp",
   "morph_type": "stem",
   "pronunciation": "ʔaˈwɨp˺",
   "variant_of": null,
   "these_vars": {
     "ʔawɨp_01681d16-ebbc-4e5a-bea3-69455f2eb76e": {
-      "﻿headword": "ʔawɨp",
+      "headword": "ʔawɨp",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,16 +27,10 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "check noun status",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+    "Note": "check noun status"
+  },
   "sense": {
     "cc0a093c-aad2-425b-a4e7-8fde32d15024": {
       "pos": "v",
@@ -50,7 +44,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'awyb_8a8b6eb1-52f7-4bc3-b7e1-c59a825a8e62': ('Não indicativo',)}"
+      "these_vars": "{'awyb_8a8b6eb1-52f7-4bc3-b7e1-c59a825a8e62': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

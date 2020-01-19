@@ -1,21 +1,18 @@
 {
   "entry_id": "atón_bc968ce0-9509-4ec9-b8d1-a524b3bef356",
-  "﻿headword": "atón",
+  "headword": "atón",
   "morph_type": "stem",
   "pronunciation": "atɔn",
   "variant_of": null,
   "these_vars": {
     "tón_a00d1bb1-25e3-4c3d-953c-57dd3b546cd4": {
-      "﻿headword": "tón",
+      "headword": "tón",
       "morph_type": "stem",
       "pronunciation": "tɔn",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1994"
+      },
       "sense": {
         "44cf4c32-09a4-4dc3-a108-a8b468a272df": {
           "pos": "Verb",
@@ -32,12 +29,9 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "a7ee66be-0850-4c03-875b-74123fd737e3": {
       "pos": "v",

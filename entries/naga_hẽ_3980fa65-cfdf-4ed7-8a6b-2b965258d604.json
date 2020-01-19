@@ -1,16 +1,13 @@
 {
   "entry_id": "naga hẽ_3980fa65-cfdf-4ed7-8a6b-2b965258d604",
-  "﻿headword": "naga hẽ",
+  "headword": "naga hẽ",
   "morph_type": "phrase",
   "pronunciation": "naga hɛ̃",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "0d4cf44d-0715-4fa1-8d3d-2f6f1f9029a1": {
       "pos": "adv",

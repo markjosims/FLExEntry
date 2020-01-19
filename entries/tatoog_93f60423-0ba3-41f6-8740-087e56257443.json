@@ -1,16 +1,13 @@
 {
   "entry_id": "tatoog_93f60423-0ba3-41f6-8740-087e56257443",
-  "﻿headword": "tatoog",
+  "headword": "tatoog",
   "morph_type": "stem",
   "pronunciation": "tato:g̚",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "great-granddaughter= tatatoog",
-      ""
-    ]
-  ],
+  "note": {
+    "Note": "great-granddaughter= tatatoog"
+  },
   "sense": {
     "10b49408-4019-4234-9e8f-8bd08188c95d": {
       "pos": "Noun",

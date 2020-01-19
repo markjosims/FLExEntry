@@ -1,16 +1,13 @@
 {
   "entry_id": "jawii_a2ec988a-b045-49a0-8f4c-f240b2ebbe7d",
-  "﻿headword": "jawii",
+  "headword": "jawii",
   "morph_type": "stem",
   "pronunciation": "jaʔˈwi:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "25e8d112-6ab9-4a75-ad19-cf3922cb1bea": {
       "pos": "n",

@@ -1,16 +1,13 @@
 {
   "entry_id": "hʹoo2_4113864d-2d85-4f29-909e-f8deb4a55023",
-  "﻿headword": "hʹoo",
+  "headword": "hʹoo",
   "morph_type": "stem",
   "pronunciation": "ho̰:",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "0876d3e9-e52c-4b96-ad67-676bff348f78": {
       "pos": "n",

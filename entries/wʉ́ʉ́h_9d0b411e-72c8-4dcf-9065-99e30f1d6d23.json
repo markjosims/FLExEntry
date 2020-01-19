@@ -1,16 +1,13 @@
 {
   "entry_id": "wʉ́ʉ́h_9d0b411e-72c8-4dcf-9065-99e30f1d6d23",
-  "﻿headword": "wʉ́ʉ́h",
+  "headword": "wʉ́ʉ́h",
   "morph_type": "stem",
   "pronunciation": "wʌːh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990"
+  },
   "sense": {
     "9878c9f0-7143-43e8-b621-1b970cb700ec": {
       "pos": "Verb",

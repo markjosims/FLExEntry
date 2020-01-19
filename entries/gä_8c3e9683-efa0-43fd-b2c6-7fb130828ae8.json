@@ -1,20 +1,14 @@
 {
   "entry_id": "gä_8c3e9683-efa0-43fd-b2c6-7fb130828ae8",
-  "﻿headword": "gä",
+  "headword": "gä",
   "morph_type": "stem",
   "pronunciation": "gʌ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ],
-    [
-      "Weir 1986 (gʉ)",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011",
+    "Note": "Weir 1986 (gʉ)"
+  },
   "sense": {
     "e8fdaa09-effb-413a-b981-cc07f2c1760a": {
       "pos": "v",

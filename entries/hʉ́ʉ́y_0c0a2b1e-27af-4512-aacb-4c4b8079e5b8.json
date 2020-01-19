@@ -1,16 +1,13 @@
 {
   "entry_id": "hʉ́ʉ́y_0c0a2b1e-27af-4512-aacb-4c4b8079e5b8",
-  "﻿headword": "hʉ́ʉ́y",
+  "headword": "hʉ́ʉ́y",
   "morph_type": "stem",
   "pronunciation": "hʌːj",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "32433533-206e-4950-91f0-1aa1ea989767": {
       "pos": "Noun",

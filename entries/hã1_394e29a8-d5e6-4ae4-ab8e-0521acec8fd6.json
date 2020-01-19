@@ -1,21 +1,18 @@
 {
   "entry_id": "hã1_394e29a8-d5e6-4ae4-ab8e-0521acec8fd6",
-  "﻿headword": "hã",
+  "headword": "hã",
   "morph_type": "stem",
   "pronunciation": "hã",
   "variant_of": null,
   "these_vars": {
     "hã2_7dc98556-c00c-45e0-bb45-9b98ef27b492": {
-      "﻿headword": "hã",
+      "headword": "hã",
       "morph_type": "stem",
       "pronunciation": "hãʔ",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1986; Weir 1990",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1986; Weir 1990"
+      },
       "sense": {
         "efcdf5dd-3acd-4522-9ee8-d3bfe838653e": {
           "pos": "post",
@@ -32,12 +29,9 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "bae33632-023a-43fa-8d51-7f8b94477d8d": {
       "pos": "posp",

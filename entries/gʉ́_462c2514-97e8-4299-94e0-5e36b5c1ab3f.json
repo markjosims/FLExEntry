@@ -1,16 +1,13 @@
 {
   "entry_id": "gʉ́_462c2514-97e8-4299-94e0-5e36b5c1ab3f",
-  "﻿headword": "gʉ́",
+  "headword": "gʉ́",
   "morph_type": "stem",
   "pronunciation": "gʌʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1986",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1986"
+  },
   "sense": {
     "88a2695a-b53d-4cf6-936f-8d4ffb99ff56": {
       "pos": "Verb",

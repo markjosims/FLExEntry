@@ -1,16 +1,13 @@
 {
   "entry_id": "ketsëk_fd6da278-89a5-4bbf-92ab-6535f4c01f91",
-  "﻿headword": "ketsëk",
+  "headword": "ketsëk",
   "morph_type": "stem",
   "pronunciation": "keɟək",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 17",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 17"
+  },
   "sense": {
     "1ea498e1-3443-461b-aa55-d2d5b01ba48f": {
       "pos": "?",

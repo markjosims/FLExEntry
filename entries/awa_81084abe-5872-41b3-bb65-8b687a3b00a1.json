@@ -1,16 +1,13 @@
 {
   "entry_id": "awa_81084abe-5872-41b3-bb65-8b687a3b00a1",
-  "﻿headword": "awa",
+  "headword": "awa",
   "morph_type": "stem",
   "pronunciation": "awa",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "69e7fa0a-9e80-485b-b1e1-85464f8b716e": {
       "pos": "v",

@@ -1,0 +1,28 @@
+{
+  "entry_id": "du sʹuus_96690a92-0b23-4da2-a7bb-ed285e52eb63",
+  "headword": "du sʹuus",
+  "morph_type": "phrase",
+  "pronunciation": "du ʃṵ:ʃ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "73f91042-a5d6-4d33-8f36-d4f41cc605b0": {
+      "pos": "v",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T23:00:41Z"
+}

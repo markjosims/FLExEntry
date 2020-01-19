@@ -1,12 +1,12 @@
 {
   "entry_id": "óng1_1e88cb17-089d-4b4e-93a8-2201e9b7a162",
-  "﻿headword": "óng",
+  "headword": "óng",
   "morph_type": "stem",
   "pronunciation": "ɔŋ",
   "variant_of": null,
   "these_vars": {
     "óng2_b2f5d0a7-8aba-4c37-9bda-ac5494c75035": {
-      "﻿headword": "óng",
+      "headword": "óng",
       "morph_type": "stem",
       "pronunciation": "ʔɔgŋ",
       "these_vars": null,
@@ -31,12 +31,9 @@
       "var_type": "SIL Dict 2011"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "b332b324-ee35-454a-b08f-5fd45203d43e": {
       "pos": "n",

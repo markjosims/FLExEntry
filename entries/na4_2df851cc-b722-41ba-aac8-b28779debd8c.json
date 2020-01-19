@@ -1,16 +1,13 @@
 {
   "entry_id": "na4_2df851cc-b722-41ba-aac8-b28779debd8c",
-  "﻿headword": "na",
+  "headword": "na",
   "morph_type": "stem",
   "pronunciation": "naʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "820f1f6f-ab91-45fb-b2aa-b394c9c16188": {
       "pos": "part?",

@@ -1,21 +1,18 @@
 {
   "entry_id": "byyh_c6283908-ed9f-4529-ab22-f0a452ed88b6",
-  "﻿headword": "byyh",
+  "headword": "byyh",
   "morph_type": "stem",
   "pronunciation": "bɨ:h",
   "variant_of": null,
   "these_vars": {
     "byy_f9c7c3ad-da4f-4387-9548-a0bbcc776ce5": {
-      "﻿headword": "byy",
+      "headword": "byy",
       "morph_type": "stem",
       "pronunciation": "bɨ:",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; lição 13 omo 'Wajats Byy' (embora se screva 'Wajats Bëëh' no ortuguês)",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; lição 13 omo 'Wajats Byy' (embora se screva 'Wajats Bëëh' no ortuguês)"
+      },
       "sense": {
         "ef46cc30-1d90-4327-8cdf-98a0d991376e": {
           "pos": "n?",
@@ -34,13 +31,9 @@
       "var_type": "Cartilhas"
     }
   },
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018, SIL 2011"
+  },
   "sense": {
     "cfb04c8a-6cd8-4c8c-a5a3-72eaae768e47": {
       "pos": "n op",

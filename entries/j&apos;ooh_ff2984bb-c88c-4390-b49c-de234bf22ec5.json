@@ -1,21 +1,18 @@
 {
   "entry_id": "j&apos;ooh_ff2984bb-c88c-4390-b49c-de234bf22ec5",
-  "﻿headword": "j'ooh",
+  "headword": "j'ooh",
   "morph_type": "stem",
   "pronunciation": "joʔoh",
   "variant_of": null,
   "these_vars": {
     "jʹooh_88a205a3-9984-4a54-9fe3-064317482daa": {
-      "﻿headword": "jʹooh",
+      "headword": "jʹooh",
       "morph_type": "stem",
       "pronunciation": "jo̰:h",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "d2d57c03-b3ae-4b0d-b4d8-4918e375c511": {
           "pos": "n",

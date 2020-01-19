@@ -1,0 +1,43 @@
+{
+  "entry_id": "etʹẽẽk_9ce91b9e-1b17-4b89-bea4-8a10eba076c1",
+  "headword": "etʹẽẽk",
+  "morph_type": "stem",
+  "pronunciation": "etḛ̃:k",
+  "variant_of": null,
+  "these_vars": {
+    "etẽẽk_cafac62b-9970-4b3d-b84b-058a5f4f5c89": {
+      "headword": "etẽẽk",
+      "morph_type": "stem",
+      "pronunciation": "etɛ̃:k",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "SIL 2011"
+        ]
+      },
+      "sense": null,
+      "date": "2018-03-27T01:30:54Z",
+      "var_type": [
+        "Unspecified Variant"
+      ]
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "b0ede0fe-0800-45cb-9fe1-00e5d67183a5": {
+      "pos": "v onom",
+      "gloss": {
+        "pt": "tirar.foto"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-27T01:30:42Z"
+}

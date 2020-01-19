@@ -1,21 +1,18 @@
 {
   "entry_id": "gatoj2_821cf217-373a-468c-809d-befd11a285c3",
-  "﻿headword": "gatoj",
+  "headword": "gatoj",
   "morph_type": "stem",
   "pronunciation": "k'atoj",
   "variant_of": null,
   "these_vars": {
     "gatoj1_078662dd-26f4-4367-9768-df5ae4614a59": {
-      "﻿headword": "gatoj",
+      "headword": "gatoj",
       "morph_type": "stem",
       "pronunciation": "gatoj",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "ab6100d4-bae8-44a2-8b89-ad9b4dd741bc": {
           "pos": "n",

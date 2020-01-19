@@ -44,17 +44,16 @@ def main():
         
         if new_row == dict(row):
             continue
-        print(new_row)
         in_df.at[index, 'variants'] = new_row
         
-    in_df.to_csv('headword_matches_processedNEW.csv')
+    in_df.to_csv('headword_matches_processedNEW.csv', index=False)
 
 def get_json_dict(eid):
     filehead = eid
-    filehead = rep_all(filehead, '/ ', '_')
+    filehead = rep_all(filehead, '/\\ ', '_')
     filehead = rep_all(filehead, '()[]? ', '')
     filehead = filehead.replace('_=', '=')
-    filename = 'entries/' + filehead + '.json'
+    filename = 'entries\\' + filehead + '.json'
     while True:
         try:
             with open(filename, 'r', encoding='utf8') as f:

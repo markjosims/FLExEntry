@@ -1,0 +1,28 @@
+{
+  "entry_id": "ỹỹm2_b7f8608c-1aaa-4014-b04d-968cde2f7f87",
+  "headword": "ỹỹm",
+  "morph_type": "stem",
+  "pronunciation": "ɨ̃:m",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "b3209c8e-3460-48bd-8ce6-2ecd3acfb90d": {
+      "pos": "n",
+      "gloss": {
+        "pt": "medo"
+      },
+      "def": {
+        "pt": "medo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

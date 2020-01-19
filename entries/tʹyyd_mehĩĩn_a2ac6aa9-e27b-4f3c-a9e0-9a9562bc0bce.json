@@ -1,16 +1,13 @@
 {
   "entry_id": "tʹyyd mehĩĩn_a2ac6aa9-e27b-4f3c-a9e0-9a9562bc0bce",
-  "﻿headword": "tʹyyd mehĩĩn",
+  "headword": "tʹyyd mehĩĩn",
   "morph_type": "phrase",
   "pronunciation": "tɨ̰:d mehĩ:n",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "fc3a87c1-4523-4546-a6a0-b3c3f752a07a": {
       "pos": "v",

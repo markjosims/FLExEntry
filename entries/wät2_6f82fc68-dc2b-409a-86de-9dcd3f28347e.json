@@ -1,16 +1,13 @@
 {
   "entry_id": "wät2_6f82fc68-dc2b-409a-86de-9dcd3f28347e",
-  "﻿headword": "wät",
+  "headword": "wät",
   "morph_type": "stem",
   "pronunciation": "wʌt",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "a3abfa60-b011-4cff-9a02-93a83f8e8399": {
       "pos": "intj",

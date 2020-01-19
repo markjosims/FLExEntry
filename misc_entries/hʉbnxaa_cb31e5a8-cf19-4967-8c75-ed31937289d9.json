@@ -1,0 +1,26 @@
+{
+  "entry_id": "hʉbnxaa_cb31e5a8-cf19-4967-8c75-ed31937289d9",
+  "headword": "hʉbnxaa",
+  "morph_type": "stem",
+  "pronunciation": "həbna̰ːʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "Weir 1994"
+    ]
+  },
+  "sense": {
+    "f588a331-9a9e-4d9f-8518-6cb3f39b4047": {
+      "pos": "post?",
+      "gloss": {
+        "en": "cause"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z"
+}

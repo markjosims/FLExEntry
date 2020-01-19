@@ -1,0 +1,28 @@
+{
+  "entry_id": "datu_6e26e381-4219-4b74-9333-70f0ea5f6d4c",
+  "headword": "datu",
+  "morph_type": "stem",
+  "pronunciation": "datu",
+  "variant_of": null,
+  "these_vars": {},
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "ce053eba-199c-4a7f-b68e-92bc031b52b9": {
+      "pos": "v",
+      "gloss": {
+        "pt": "colocar.na.água"
+      },
+      "def": {
+        "pt": "colocar na água"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

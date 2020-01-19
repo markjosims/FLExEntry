@@ -1,16 +1,13 @@
 {
   "entry_id": "mahang_6da7140a-20bc-4055-a9dd-9fe336967a74",
-  "﻿headword": "mahang",
+  "headword": "mahang",
   "morph_type": "stem",
   "pronunciation": "mahaŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990"
+  },
   "sense": {
     "280d9220-4451-4b31-81f9-a767b1ad7ea8": {
       "pos": "post",

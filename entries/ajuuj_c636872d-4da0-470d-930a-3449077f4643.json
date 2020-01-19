@@ -1,16 +1,13 @@
 {
   "entry_id": "ajuuj_c636872d-4da0-470d-930a-3449077f4643",
-  "﻿headword": "ajuuj",
+  "headword": "ajuuj",
   "morph_type": "stem",
   "pronunciation": "aˈju:j",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "abf4734a-c5e3-4c9b-b4bf-daef551444aa": {
       "pos": "Noun",

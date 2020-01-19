@@ -1,16 +1,13 @@
 {
   "entry_id": "gas’yys_c31e8d45-61a7-47bf-b5aa-296c58a8d731",
-  "﻿headword": "gas’yys",
+  "headword": "gas’yys",
   "morph_type": "stem",
   "pronunciation": "k’aˈʃǝʔǝʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "problem: k’aˈʃǝʔǝʃ or k’aˈʃ ɨ̃ʔ ɨ̃ʃ",
-      ""
-    ]
-  ],
+  "note": {
+    "Note": "problem: k’aˈʃǝʔǝʃ or k’aˈʃ ɨ̃ʔ ɨ̃ʃ"
+  },
   "sense": {
     "dffbda04-3a7b-4ada-b977-704815a62858": {
       "pos": "Verb",

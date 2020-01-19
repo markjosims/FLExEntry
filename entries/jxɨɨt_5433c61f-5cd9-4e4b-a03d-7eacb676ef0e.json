@@ -1,16 +1,13 @@
 {
   "entry_id": "jxɨɨt_5433c61f-5cd9-4e4b-a03d-7eacb676ef0e",
-  "﻿headword": "jxɨɨt",
+  "headword": "jxɨɨt",
   "morph_type": "stem",
   "pronunciation": "jɨ̰ːt",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990"
+  },
   "sense": {
     "3d209f75-cf18-4375-9a39-ecdcb0114c3a": {
       "pos": "Verb",

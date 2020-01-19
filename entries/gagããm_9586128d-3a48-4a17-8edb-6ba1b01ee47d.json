@@ -1,16 +1,13 @@
 {
   "entry_id": "gagããm_9586128d-3a48-4a17-8edb-6ba1b01ee47d",
-  "﻿headword": "gagããm",
+  "headword": "gagããm",
   "morph_type": "stem",
   "pronunciation": "gagã:m",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "cd2f91cd-cfee-4d62-899c-5b7f35a7c2fb": {
       "pos": "v",

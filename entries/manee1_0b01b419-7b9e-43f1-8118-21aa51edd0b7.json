@@ -1,16 +1,13 @@
 {
   "entry_id": "manee1_0b01b419-7b9e-43f1-8118-21aa51edd0b7",
-  "﻿headword": "manee",
+  "headword": "manee",
   "morph_type": "root",
   "pronunciation": "mãnẽ:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018z",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018z"
+  },
   "sense": {
     "ccb1c736-e479-487d-aa05-d74fb2f3f1cc": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "brazil nut; Bertholletia excelsa",
         "pt": "castanha do pará; Bertholletia excelsa"
       },
-      "reverse": "[('castanha.do.pará', 'pt'), ('brazil.nut', 'en')]",
+      "reverse": "{'pt': 'castanha.do.pará', 'en': 'brazil.nut'}",
       "note": "",
       "these_vars": ""
     }

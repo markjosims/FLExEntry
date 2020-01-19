@@ -1,43 +1,42 @@
 {
   "entry_id": "gëëw_70fc9c7c-beca-459a-a973-51d3d66e4ec4",
-  "﻿headword": "gëëw",
+  "headword": "gëëw",
   "morph_type": "stem",
   "pronunciation": "gə:w",
   "variant_of": null,
   "these_vars": {
     "gɤːw_c6bf71e3-c56e-4d86-87d2-0c8e3dbf086d": {
-      "﻿headword": "gɤːw",
+      "headword": "gɤːw",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:27:18Z",
-      "var_type": [
-        "Martins",
-        "roça"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins",
+        "summary": "roça"
+      }
     },
     "gʉ́ʉ́w_f4e616c0-d970-4598-9274-5277a8930d61": {
-      "﻿headword": "gʉ́ʉ́w",
+      "headword": "gʉ́ʉ́w",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:27:52Z",
-      "var_type": [
-        "Weir",
-        "1986; field"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir",
+        "summary": "1986; field"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "0564e6eb-e843-4847-8845-9a7bbca7197e": {
       "pos": "n",

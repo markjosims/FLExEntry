@@ -1,21 +1,18 @@
 {
   "entry_id": "awad3_62a55d3c-fa39-4a7a-8dbf-01f9b2c196bd",
-  "﻿headword": "awad",
+  "headword": "awad",
   "morph_type": "stem",
   "pronunciation": "ʔawad̚",
   "variant_of": null,
   "these_vars": {
     "awad1_62af62ce-e032-4079-87dd-c24ef0653b3d": {
-      "﻿headword": "awad",
+      "headword": "awad",
       "morph_type": "stem",
       "pronunciation": "ʔawad",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1990; Weir 1994; Martins 2005",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1990; Weir 1994; Martins 2005"
+      },
       "sense": {
         "c450b8da-5ae2-4d74-b02b-6159d9ad6a32": {
           "pos": "Noun",
@@ -25,7 +22,7 @@
           "def": null,
           "reverse": "",
           "note": "",
-          "these_vars": "{'awad2_89445911-1a22-4be0-8351-b396b535c72a': ('Spelling Variant', 'Martins 2005; onça')}"
+          "these_vars": "{'awad2_89445911-1a22-4be0-8351-b396b535c72a': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; onça'}}"
         }
       },
       "date": "2018-06-20T05:09:54Z",

@@ -1,16 +1,13 @@
 {
   "entry_id": "banʹoo_b28597b2-bb8b-4ed0-b970-d41b6317903c",
-  "﻿headword": "banʹoo",
+  "headword": "banʹoo",
   "morph_type": "stem",
   "pronunciation": "bano̰:",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 11",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 11"
+  },
   "sense": {
     "aa2601e2-fed8-4d1f-8f5f-6f9cbc74cddc": {
       "pos": "v?",

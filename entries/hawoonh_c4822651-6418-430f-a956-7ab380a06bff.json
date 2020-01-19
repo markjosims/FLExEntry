@@ -1,16 +1,13 @@
 {
   "entry_id": "hawoonh_c4822651-6418-430f-a956-7ab380a06bff",
-  "﻿headword": "hawoonh",
+  "headword": "hawoonh",
   "morph_type": "stem",
   "pronunciation": "hawo:ɲ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "17f67f9a-bf1d-4a22-a828-01b248ae8f4d": {
       "pos": "v",

@@ -1,0 +1,28 @@
+{
+  "entry_id": "gawẽn_becd4522-bfee-498e-b034-69e35d3915d9",
+  "headword": "gawẽn",
+  "morph_type": "stem",
+  "pronunciation": "gawɛ̃n",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "85489b82-dc9d-4e03-ad2d-a136f079d042": {
+      "pos": "v",
+      "gloss": {
+        "pt": "mexer"
+      },
+      "def": {
+        "pt": "mexer (mingau)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'gawʹẽẽn_b9edea85-8937-43c2-84c8-a464e854301f': ('Habitual',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

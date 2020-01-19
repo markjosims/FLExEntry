@@ -1,21 +1,18 @@
 {
   "entry_id": "hooj2_96c60cce-1d22-4b41-8ed3-e5948e58cd74",
-  "﻿headword": "hooj",
+  "headword": "hooj",
   "morph_type": "stem",
   "pronunciation": "ho:j",
   "variant_of": null,
   "these_vars": {
     "hoonh2_22775054-ef71-4a85-93db-90f254baa54f": {
-      "﻿headword": "hoonh",
+      "headword": "hoonh",
       "morph_type": "stem",
       "pronunciation": "hoːɲ",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1990",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1990"
+      },
       "sense": {
         "31005f5c-fc42-4d7e-bfc2-ce2205c6c02a": {
           "pos": "Noun",
@@ -25,23 +22,20 @@
           "def": null,
           "reverse": "",
           "note": "",
-          "these_vars": "{'hoːɲ_12c41686-e869-484c-9271-c446bb344e90': ('Spelling Variant', 'Martins 2005; avó')}"
+          "these_vars": "{'hoːɲ_12c41686-e869-484c-9271-c446bb344e90': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; avó'}}"
         }
       },
       "date": "2018-06-20T05:09:54Z",
       "var_type": "Weir"
     },
     "hõõnh_42868451-c808-4d59-afa0-bd2bce2b61dc": {
-      "﻿headword": "hõõnh",
+      "headword": "hõõnh",
       "morph_type": "stem",
       "pronunciation": "hõ:ɲ",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; lição 15",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; lição 15"
+      },
       "sense": {
         "b49180bf-eefb-4aa6-8293-79d90f0ee643": {
           "pos": "v",
@@ -60,16 +54,13 @@
       "var_type": "Cartilhas"
     },
     "hoonh1_485e1de8-8cfa-4e5a-aa46-f0bc283b8323": {
-      "﻿headword": "hoonh",
+      "headword": "hoonh",
       "morph_type": "stem",
       "pronunciation": "ho:ɲ",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; lição 15",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; lição 15"
+      },
       "sense": {
         "06714875-94ad-416a-bcc6-9d944aea9e37": {
           "pos": "?",

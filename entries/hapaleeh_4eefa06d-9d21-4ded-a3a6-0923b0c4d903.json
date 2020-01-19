@@ -1,16 +1,13 @@
 {
   "entry_id": "hapaleeh_4eefa06d-9d21-4ded-a3a6-0923b0c4d903",
-  "﻿headword": "hapaleeh",
+  "headword": "hapaleeh",
   "morph_type": "stem",
   "pronunciation": "hapaɾeːh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "0516d4f4-5091-414f-bf2d-45515a3b5bcf": {
       "pos": "part?",

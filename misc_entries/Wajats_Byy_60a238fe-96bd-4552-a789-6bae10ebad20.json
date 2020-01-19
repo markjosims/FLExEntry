@@ -1,0 +1,28 @@
+{
+  "entry_id": "Wajats Byy_60a238fe-96bd-4552-a789-6bae10ebad20",
+  "headword": "Wajats Byy",
+  "morph_type": "phrase",
+  "pronunciation": "Wajaɟ Bɨ:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "53c30c19-ab2d-4d35-a3d0-0eb65454af32": {
+      "pos": "n",
+      "gloss": {
+        "pt": "Wajats Bëëh"
+      },
+      "def": {
+        "pt": "Wajats Bëëh"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-27T02:08:44Z"
+}

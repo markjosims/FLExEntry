@@ -1,21 +1,18 @@
 {
   "entry_id": "t’õõm_3cdcf804-ed94-4d32-8388-d8ed3cf4b239",
-  "﻿headword": "t’õõm",
+  "headword": "t’õõm",
   "morph_type": "stem",
   "pronunciation": "tõʔõm",
   "variant_of": null,
   "these_vars": {
     "txõom_65668337-e2b9-496c-80a9-264d9e8e24a1": {
-      "﻿headword": "txõom",
+      "headword": "txõom",
       "morph_type": "stem",
       "pronunciation": "tõ̰ːm",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1994"
+      },
       "sense": {
         "c08a0ee3-d0fa-4909-8004-ace71f51e34b": {
           "pos": "Noun",
@@ -25,7 +22,7 @@
           "def": null,
           "reverse": "",
           "note": "",
-          "these_vars": "{'tɔ̰̃ːm2_f647e473-9fc9-480b-8c69-61c9bb1a68d5': ('Spelling Variant', 'Martins 2005; cesto')}"
+          "these_vars": "{'tɔ̰̃ːm2_f647e473-9fc9-480b-8c69-61c9bb1a68d5': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; cesto'}}"
         }
       },
       "date": "2018-06-20T05:09:54Z",

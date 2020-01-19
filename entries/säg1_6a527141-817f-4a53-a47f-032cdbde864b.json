@@ -1,16 +1,13 @@
 {
   "entry_id": "säg1_6a527141-817f-4a53-a47f-032cdbde864b",
-  "﻿headword": "säg",
+  "headword": "säg",
   "morph_type": "stem",
   "pronunciation": "ʃʌg˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "c6d673f5-e38f-4384-b4b2-792ed449efaa": {
       "pos": "adj",

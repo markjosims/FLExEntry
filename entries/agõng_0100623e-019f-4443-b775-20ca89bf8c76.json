@@ -1,21 +1,18 @@
 {
   "entry_id": "agõng_0100623e-019f-4443-b775-20ca89bf8c76",
-  "﻿headword": "agõng",
+  "headword": "agõng",
   "morph_type": "stem",
   "pronunciation": "agõŋ",
   "variant_of": null,
   "these_vars": {
     "gõng_ad75e40d-e34f-4639-8ee4-f2636198b312": {
-      "﻿headword": "gõng",
+      "headword": "gõng",
       "morph_type": "stem",
       "pronunciation": "gõŋ",
       "these_vars": null,
-      "note": [
-        [
-          "em cartilha 4; lição 1",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "em cartilha 4; lição 1"
+      },
       "sense": {
         "326a56ee-0d71-4230-8bfc-7a1799534060": {
           "pos": "v?",
@@ -34,12 +31,9 @@
       "var_type": "Cartilhas"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "6e8e07f3-28a9-4adb-b230-f819c944b12a": {
       "pos": "v",
@@ -51,7 +45,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'agõõ&#xA;agõõh_1d766776-1931-480e-977b-b58d276ced0d': ('Não indicativo',), 'agõõh_6c755d0f-ffd9-4912-88d2-daaf488e9cf3': ('Não indicativo',)}"
+      "these_vars": "{'agõõ&#xA;agõõh_1d766776-1931-480e-977b-b58d276ced0d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'agõõh_6c755d0f-ffd9-4912-88d2-daaf488e9cf3': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

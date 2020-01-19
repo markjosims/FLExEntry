@@ -1,16 +1,13 @@
 {
   "entry_id": "asëk_fcd2a200-7c82-4ef6-8810-d5f7c93bd8fc",
-  "﻿headword": "asëk",
+  "headword": "asëk",
   "morph_type": "stem",
   "pronunciation": "aʃək",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "eb187c04-7756-44a9-86b1-418b964a01dd": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'asëg_ac8f4d84-5780-4b14-8da3-43c75e21035c': ('Não indicativo',), 'esëk_f4ab64fe-1bc5-4f2c-9380-673fa8b919ac': ('Plural',)}"
+      "these_vars": "{'asëg_ac8f4d84-5780-4b14-8da3-43c75e21035c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'esëk_f4ab64fe-1bc5-4f2c-9380-673fa8b919ac': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

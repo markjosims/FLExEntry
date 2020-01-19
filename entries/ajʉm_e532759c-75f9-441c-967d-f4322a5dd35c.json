@@ -1,16 +1,13 @@
 {
   "entry_id": "ajʉm_e532759c-75f9-441c-967d-f4322a5dd35c",
-  "﻿headword": "ajʉm",
+  "headword": "ajʉm",
   "morph_type": "stem",
   "pronunciation": "ʔajəm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "5bcced76-5457-4249-9dbe-b8dd15796b4f": {
       "pos": "Adverb",

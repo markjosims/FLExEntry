@@ -1,16 +1,13 @@
 {
   "entry_id": "sadẽẽt_b4bb873a-91b3-44d4-9851-31fd723dfe30",
-  "﻿headword": "sadẽẽt",
+  "headword": "sadẽẽt",
   "morph_type": "stem",
   "pronunciation": "ʃadɛ̃:t",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "0e072346-4ea1-43ff-96ed-c4aefa2fcccf": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'sadʹẽẽd_9dc3227d-b38f-49b5-84fc-3b90e543fce0': ('Não indicativo',)}"
+      "these_vars": "{'sadʹẽẽd_9dc3227d-b38f-49b5-84fc-3b90e543fce0': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

@@ -1,16 +1,13 @@
 {
   "entry_id": "tsapap_b158b9b9-46e9-4298-9779-2b01c1e2d72a",
-  "﻿headword": "tsapap",
+  "headword": "tsapap",
   "morph_type": "stem",
   "pronunciation": "tsapap",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "a057e6a2-cb4c-4fae-9b17-509164eb73b8": {
       "pos": "Noun",

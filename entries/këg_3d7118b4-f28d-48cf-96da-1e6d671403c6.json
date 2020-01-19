@@ -1,16 +1,13 @@
 {
   "entry_id": "këg_3d7118b4-f28d-48cf-96da-1e6d671403c6",
-  "﻿headword": "këg",
+  "headword": "këg",
   "morph_type": "stem",
   "pronunciation": "kǝg",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "86d4ca5d-1c9f-4117-8774-ad915272b7c0": {
       "pos": "Noun",

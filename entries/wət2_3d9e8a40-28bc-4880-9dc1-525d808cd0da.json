@@ -1,21 +1,18 @@
 {
   "entry_id": "wət2_3d9e8a40-28bc-4880-9dc1-525d808cd0da",
-  "﻿headword": "wət",
+  "headword": "wət",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "wʉ́t2_92514816-5d4f-4e07-960c-a341b4e35ba3": {
-      "﻿headword": "wʉ́t",
+      "headword": "wʉ́t",
       "morph_type": "stem",
       "pronunciation": "wʌt",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1986; Weir 1990",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1986; Weir 1990"
+      },
       "sense": {
         "f7fead57-ab7d-4fcb-ba31-337f08bcedd9": {
           "pos": "Verb",

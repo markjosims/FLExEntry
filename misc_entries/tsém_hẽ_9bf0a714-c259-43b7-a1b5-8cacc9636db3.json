@@ -1,0 +1,28 @@
+{
+  "entry_id": "tsém hẽ_9bf0a714-c259-43b7-a1b5-8cacc9636db3",
+  "headword": "tsém hẽ",
+  "morph_type": "phrase",
+  "pronunciation": "ɟɛm hɛ̃",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "629f769d-8878-4f1c-aa51-fd867347fbe8": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "ontem"
+      },
+      "def": {
+        "pt": "ontem"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

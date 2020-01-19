@@ -1,16 +1,13 @@
 {
   "entry_id": "etsʹëëk_1975647d-1f5d-470e-93b1-509b4f0e1773",
-  "﻿headword": "etsʹëëk",
+  "headword": "etsʹëëk",
   "morph_type": "stem",
   "pronunciation": "ʔeˈɉ’ǝʔǝk˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "c987cc54-829f-4cd0-a31f-7adf3b7383cb": {
       "pos": "v",

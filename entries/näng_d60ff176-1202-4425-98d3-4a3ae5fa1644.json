@@ -1,16 +1,13 @@
 {
   "entry_id": "näng_d60ff176-1202-4425-98d3-4a3ae5fa1644",
-  "﻿headword": "näng",
+  "headword": "näng",
   "morph_type": "stem",
   "pronunciation": "nʌŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 5",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 5"
+  },
   "sense": {
     "0de23850-3788-4236-b205-5de3ffde2ca5": {
       "pos": "n?",

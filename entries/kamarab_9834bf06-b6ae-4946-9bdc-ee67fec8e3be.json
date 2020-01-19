@@ -1,16 +1,13 @@
 {
   "entry_id": "kamarab_9834bf06-b6ae-4946-9bdc-ee67fec8e3be",
-  "﻿headword": "kamarab",
+  "headword": "kamarab",
   "morph_type": "stem",
   "pronunciation": "kamãˈɾab˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes  Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes  Epps/Obert; 2018"
+  },
   "sense": {
     "714da4b2-e9d1-4e5a-bb4e-81c73526b361": {
       "pos": "Noun",

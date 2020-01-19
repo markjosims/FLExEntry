@@ -1,16 +1,13 @@
 {
   "entry_id": "is_aabbc7a1-8b5c-4a46-a8f8-348d31b31613",
-  "﻿headword": "is",
+  "headword": "is",
   "morph_type": "stem",
   "pronunciation": "iʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "0333597e-bcd2-4496-a061-30b0c534634b": {
       "pos": "pos",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'its_99625113-8523-406c-8fae-c6121a0adc82': ('Não indicativo',)}"
+      "these_vars": "{'its_99625113-8523-406c-8fae-c6121a0adc82': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

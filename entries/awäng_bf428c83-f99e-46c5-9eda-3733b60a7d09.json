@@ -1,16 +1,13 @@
 {
   "entry_id": "awäng_bf428c83-f99e-46c5-9eda-3733b60a7d09",
-  "﻿headword": "awäng",
+  "headword": "awäng",
   "morph_type": "stem",
   "pronunciation": "ʔaˈwʌgŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "e41ae2a7-355a-4b2e-9a7c-0063e3aec580": {
       "pos": "Verb",

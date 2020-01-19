@@ -1,16 +1,13 @@
 {
   "entry_id": "janati1_1bd7a005-8171-46fd-a65d-69898076947f",
-  "﻿headword": "janati",
+  "headword": "janati",
   "morph_type": "root",
   "pronunciation": "janaˈtiʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "f607def6-b1c8-48ba-b317-5b53c0c63def": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "maize",
         "pt": "milho"
       },
-      "reverse": "[('milho', 'pt'), ('maize', 'en')]",
+      "reverse": "{'pt': 'milho', 'en': 'maize'}",
       "note": "",
       "these_vars": ""
     }

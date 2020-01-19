@@ -1,16 +1,13 @@
 {
   "entry_id": "na2_502c638d-8616-4812-b966-7966da16815b",
-  "﻿headword": "na",
+  "headword": "na",
   "morph_type": "stem",
   "pronunciation": "na",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990; 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990; 1994"
+  },
   "sense": {
     "6d89a734-ee54-41e1-aa28-cdce73716a0a": {
       "pos": "pre",

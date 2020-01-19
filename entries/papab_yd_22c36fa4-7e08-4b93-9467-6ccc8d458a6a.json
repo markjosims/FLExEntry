@@ -1,16 +1,13 @@
 {
   "entry_id": "papab yd_22c36fa4-7e08-4b93-9467-6ccc8d458a6a",
-  "﻿headword": "papab yd",
+  "headword": "papab yd",
   "morph_type": "phrase",
   "pronunciation": "papab˺ ˈʔɨd˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "ee28e349-2c82-4d8c-964e-f023c132303d": {
       "pos": "Noun",

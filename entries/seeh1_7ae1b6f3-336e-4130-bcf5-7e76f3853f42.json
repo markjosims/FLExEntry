@@ -1,16 +1,13 @@
 {
   "entry_id": "seeh1_7ae1b6f3-336e-4130-bcf5-7e76f3853f42",
-  "﻿headword": "seeh",
+  "headword": "seeh",
   "morph_type": "stem",
   "pronunciation": "ʃe:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "fd97e6ad-10cc-4398-b747-938462021688": {
       "pos": "adv op",

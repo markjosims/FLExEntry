@@ -1,16 +1,13 @@
 {
   "entry_id": "hanaa_1a946fb6-ef62-41c3-a040-1d0f8981caf3",
-  "﻿headword": "hanaa",
+  "headword": "hanaa",
   "morph_type": "stem",
   "pronunciation": "hana:",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "41d7a879-295b-4bd6-ba70-fe96b8648c69": {
       "pos": "v",

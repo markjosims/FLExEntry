@@ -1,16 +1,13 @@
 {
   "entry_id": "baad_068ae71c-c922-438c-9569-dad5b2122f74",
-  "﻿headword": "baad",
+  "headword": "baad",
   "morph_type": "stem",
   "pronunciation": "ba:d˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "783a338a-818d-4a66-9784-aae54e3af35a": {
       "pos": "adv",

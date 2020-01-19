@@ -1,16 +1,13 @@
 {
   "entry_id": "hub_330a07e9-0341-422e-93a0-3e745dff7949",
-  "﻿headword": "hub",
+  "headword": "hub",
   "morph_type": "stem",
   "pronunciation": "hub˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epss/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epss/Obert; 2018"
+  },
   "sense": {
     "d2c9ce0b-546e-43b9-a0e7-7e44fd4015d9": {
       "pos": "adj?",
@@ -23,7 +20,7 @@
         "pt": "direito"
       },
       "reverse": "",
-      "note": "('right arm', 'semantics')",
+      "note": "{'semantics': 'right arm'}",
       "these_vars": ""
     }
   },

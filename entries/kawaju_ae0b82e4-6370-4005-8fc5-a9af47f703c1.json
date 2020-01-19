@@ -1,16 +1,13 @@
 {
   "entry_id": "kawaju_ae0b82e4-6370-4005-8fc5-a9af47f703c1",
-  "﻿headword": "kawaju",
+  "headword": "kawaju",
   "morph_type": "stem",
   "pronunciation": "kawaju",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "0dcf1d83-0e4a-4003-aa0c-b9d0076e306d": {
       "pos": "n",

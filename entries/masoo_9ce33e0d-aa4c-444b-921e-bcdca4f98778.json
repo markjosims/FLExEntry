@@ -1,16 +1,13 @@
 {
   "entry_id": "masoo_9ce33e0d-aa4c-444b-921e-bcdca4f98778",
-  "﻿headword": "masoo",
+  "headword": "masoo",
   "morph_type": "stem",
   "pronunciation": "maˈʃo:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "24056053-8f89-4c76-a5ae-c457f3c22db0": {
       "pos": "Verb",

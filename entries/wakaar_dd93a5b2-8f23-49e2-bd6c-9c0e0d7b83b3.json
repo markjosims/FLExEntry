@@ -1,16 +1,13 @@
 {
   "entry_id": "wakaar_dd93a5b2-8f23-49e2-bd6c-9c0e0d7b83b3",
-  "﻿headword": "wakaar",
+  "headword": "wakaar",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "dde0c9a9-9ba8-4496-bd24-a5ef292a7e20": {
       "pos": "Noun",

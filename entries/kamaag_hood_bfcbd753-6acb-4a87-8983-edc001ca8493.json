@@ -1,16 +1,13 @@
 {
   "entry_id": "kamaag hood_bfcbd753-6acb-4a87-8983-edc001ca8493",
-  "﻿headword": "kamaag hood",
+  "headword": "kamaag hood",
   "morph_type": "phrase",
   "pronunciation": "kabmã:g̚ ho:d̚",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "lit morto-lugar",
-      ""
-    ]
-  ],
+  "note": {
+    "Note": "lit morto-lugar"
+  },
   "sense": {
     "fea59cc2-6cf0-4fbb-af6e-d277b4133602": {
       "pos": "Noun",

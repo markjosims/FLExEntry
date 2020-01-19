@@ -1,16 +1,13 @@
 {
   "entry_id": "pʹõõd_10e5af7f-29aa-4fa9-82c9-8ab0dadec296",
-  "﻿headword": "pʹõõd",
+  "headword": "pʹõõd",
   "morph_type": "stem",
   "pronunciation": "põ̰:d",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "d3963a49-bb42-498c-97c7-95ef55fd557b": {
       "pos": "n",

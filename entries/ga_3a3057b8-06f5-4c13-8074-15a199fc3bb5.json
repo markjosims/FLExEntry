@@ -1,16 +1,13 @@
 {
   "entry_id": "ga_3a3057b8-06f5-4c13-8074-15a199fc3bb5",
-  "﻿headword": "ga",
+  "headword": "ga",
   "morph_type": "stem",
   "pronunciation": "ga",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1990",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1990"
+  },
   "sense": {
     "903adfbe-343b-4267-b1a1-10e5581a01b6": {
       "pos": "pre",

@@ -1,0 +1,54 @@
+{
+  "entry_id": "karẽn1_80e42cbd-c06a-483c-b021-b0358dc74458",
+  "headword": "karẽn",
+  "morph_type": "stem",
+  "pronunciation": "kaɾɛ̃n",
+  "variant_of": null,
+  "these_vars": {
+    "lẽn_27bc0b6c-fc38-4c5e-badf-1232a67d4852": {
+      "headword": "lẽn",
+      "morph_type": "stem",
+      "pronunciation": "ɾẽn",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "Weir 1994"
+        ]
+      },
+      "sense": {
+        "9a719628-d2e0-4766-a5a5-4f76a9aec468": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "want"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "5db5f38b-08f4-4885-acdf-68dfb87f8352": {
+      "pos": "v",
+      "gloss": {
+        "pt": "querer"
+      },
+      "def": {
+        "pt": "querer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'karẽn2_0bb585b4-9790-479e-b323-e5503770401b': ('Plural',), 'karʹẽẽn_f5926d3f-fb91-496a-9777-ce724a4960ba': ('Habitual',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

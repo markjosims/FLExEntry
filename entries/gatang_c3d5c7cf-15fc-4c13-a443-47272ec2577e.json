@@ -1,16 +1,13 @@
 {
   "entry_id": "gatang_c3d5c7cf-15fc-4c13-a443-47272ec2577e",
-  "﻿headword": "gatang",
+  "headword": "gatang",
   "morph_type": "stem",
   "pronunciation": "k’aʔˈtagŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "ff68d43e-f3d1-40a4-bd63-4cd4f7b2ac23": {
       "pos": "Verb",

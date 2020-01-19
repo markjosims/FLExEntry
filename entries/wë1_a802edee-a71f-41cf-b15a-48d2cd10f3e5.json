@@ -1,20 +1,14 @@
 {
   "entry_id": "wë1_a802edee-a71f-41cf-b15a-48d2cd10f3e5",
-  "﻿headword": "wë",
+  "headword": "wë",
   "morph_type": "stem",
   "pronunciation": "wə",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ],
-    [
-      "adv op??",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011",
+    "Note": "adv op??"
+  },
   "sense": {
     "a1a1325f-1b03-4a86-938d-7881f4f9e5f8": {
       "pos": "adv op",

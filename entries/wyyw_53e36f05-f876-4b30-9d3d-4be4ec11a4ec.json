@@ -1,16 +1,13 @@
 {
   "entry_id": "wyyw_53e36f05-f876-4b30-9d3d-4be4ec11a4ec",
-  "﻿headword": "wyyw",
+  "headword": "wyyw",
   "morph_type": "stem",
   "pronunciation": "wɨ:w",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "0297f37c-c882-4c9e-8ca6-25198c230887": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "tocandira",
         "pt": "tocandira"
       },
-      "reverse": "[('tocandira', 'pt'), ('tocandira', 'en')]",
+      "reverse": "{'pt': 'tocandira', 'en': 'tocandira'}",
       "note": "",
       "these_vars": ""
     }

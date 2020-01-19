@@ -1,16 +1,13 @@
 {
   "entry_id": "jabarato_e37808c2-72a0-408b-ba1f-a90b65dd3c81",
-  "﻿headword": "jabarato",
+  "headword": "jabarato",
   "morph_type": "stem",
   "pronunciation": "jabaɾaˈtoʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "d0714ff3-13cd-4553-a3c4-6ab362b7f866": {
       "pos": "",

@@ -1,0 +1,28 @@
+{
+  "entry_id": "du doo_00f0ad34-5134-4419-9827-2e04360e87e0",
+  "headword": "du doo",
+  "morph_type": "phrase",
+  "pronunciation": "du do:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "1040d54b-f002-4f07-826d-01add3578cf8": {
+      "pos": "v",
+      "gloss": {
+        "pt": "começar"
+      },
+      "def": {
+        "pt": "começar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'du do_f04e460e-1fca-47d3-a451-15fe4f773b94': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

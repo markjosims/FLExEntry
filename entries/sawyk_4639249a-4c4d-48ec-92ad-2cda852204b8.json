@@ -1,12 +1,12 @@
 {
   "entry_id": "sawyk_4639249a-4c4d-48ec-92ad-2cda852204b8",
-  "﻿headword": "sawyk",
+  "headword": "sawyk",
   "morph_type": "root",
   "pronunciation": "ʃaˈwɨk˺",
   "variant_of": null,
   "these_vars": {
     "ʃawɯk_687394cd-d7e8-4953-99e3-6c1caa551f59": {
-      "﻿headword": "ʃawɯk",
+      "headword": "ʃawɯk",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "06828f55-93eb-4a3a-9427-3a116cbdfc2b": {
       "pos": "Noun",
@@ -44,7 +41,7 @@
         "en": "kapok",
         "pt": "sumaumeira"
       },
-      "reverse": "[('sumaumeira', 'pt'), ('kapok', 'en')]",
+      "reverse": "{'pt': 'sumaumeira', 'en': 'kapok'}",
       "note": "",
       "these_vars": ""
     }

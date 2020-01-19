@@ -1,12 +1,12 @@
 {
   "entry_id": "hood_53da5edb-5f86-4600-8bbe-1d02414790f6",
-  "﻿headword": "hood",
+  "headword": "hood",
   "morph_type": "stem",
   "pronunciation": "ho:d˺",
   "variant_of": null,
   "these_vars": {
     "huːd_b2369c93-dd34-408b-8ca3-82a40aa1adee": {
-      "﻿headword": "huːd",
+      "headword": "huːd",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "SIL 2011; Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "e61b54b0-0fd5-4562-8ee5-b6724a0bf18f": {
       "pos": "n",

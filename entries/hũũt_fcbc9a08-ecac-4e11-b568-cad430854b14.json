@@ -1,12 +1,12 @@
 {
   "entry_id": "hũũt_fcbc9a08-ecac-4e11-b568-cad430854b14",
-  "﻿headword": "hũũt",
+  "headword": "hũũt",
   "morph_type": "stem",
   "pronunciation": "hũ:t˺",
   "variant_of": null,
   "these_vars": {
     "hũːt2_2dab5f66-5578-47a2-bee1-414855d0f8eb": {
-      "﻿headword": "hũːt",
+      "headword": "hũːt",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "Fieldotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldotes Epps/Obert; 2018"
+  },
   "sense": {
     "ccbbc6d2-0db8-4a06-b1e9-e09291e496a6": {
       "pos": "n",
@@ -44,8 +41,8 @@
         "en": "tobaco",
         "pt": "tabaco"
       },
-      "reverse": "[('tobaco', 'en'), ('tabaco', 'pt')]",
-      "note": "("probably bought tobaco. compare with ''baruur''", 'semantics')",
+      "reverse": "{'en': 'tobaco', 'pt': 'tabaco'}",
+      "note": "{'semantics': "probably bought tobaco. compare with ''baruur''"}",
       "these_vars": ""
     }
   },

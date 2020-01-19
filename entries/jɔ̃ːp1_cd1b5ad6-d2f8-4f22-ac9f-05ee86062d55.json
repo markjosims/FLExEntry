@@ -1,6 +1,6 @@
 {
   "entry_id": "jɔ̃ːp1_cd1b5ad6-d2f8-4f22-ac9f-05ee86062d55",
-  "﻿headword": "jɔ̃ːp",
+  "headword": "jɔ̃ːp",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
@@ -15,7 +15,7 @@
       "def": null,
       "reverse": "",
       "note": "",
-      "these_vars": "{'jɔ̃ːp2_c56ce826-50e3-4f9b-aef4-29cd0e65913e': ('Spelling Variant', 'Barbosa 2005; japiim')}"
+      "these_vars": "{'jɔ̃ːp2_c56ce826-50e3-4f9b-aef4-29cd0e65913e': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; japiim'}}"
     }
   },
   "date": "2018-06-20T05:09:53Z"

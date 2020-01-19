@@ -1,0 +1,28 @@
+{
+  "entry_id": "kajäk_7bb241fa-1304-4ef6-bd39-03fb1346b699",
+  "headword": "kajäk",
+  "morph_type": "stem",
+  "pronunciation": "kajʌk",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "51108a9e-cc11-4cfa-a735-744da668a4aa": {
+      "pos": "v p",
+      "gloss": {
+        "pt": "cair"
+      },
+      "def": {
+        "pt": "cair"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'kajäg_123e22bd-d7b9-474e-bdc6-12aa684847c8': ('Não indicativo',), 'adäng_6578aad5-11c4-4780-ab89-5f33251e5c3e': ('Singular',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,16 +1,13 @@
 {
   "entry_id": "tamiih_727b15c7-d50c-4a5b-bdf2-25524d64064d",
-  "﻿headword": "tamiih",
+  "headword": "tamiih",
   "morph_type": "stem",
   "pronunciation": "taˈmi:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "b23dc698-bc39-43bd-bd4b-4319d0640ead": {
       "pos": "Noun",

@@ -1,12 +1,12 @@
 {
   "entry_id": "harum_15ce4d3f-c20c-4b98-ac5e-19c13eada4af",
-  "﻿headword": "harum",
+  "headword": "harum",
   "morph_type": "stem",
   "pronunciation": "haɾubm",
   "variant_of": null,
   "these_vars": {
     "haɾum_89301e28-b653-49bf-bcdd-fac7eb6414e6": {
-      "﻿headword": "haɾum",
+      "headword": "haɾum",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -20,14 +20,14 @@
           "def": null,
           "reverse": "",
           "note": "",
-          "these_vars": "{'haɾũm1_22fb506e-aa3f-4853-99d5-9a5c2c1a06d1': ('Spelling Variant', 'Barbosa 2005; tipiti')}"
+          "these_vars": "{'haɾũm1_22fb506e-aa3f-4853-99d5-9a5c2c1a06d1': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; tipiti'}}"
         }
       },
       "date": "2018-06-20T05:09:53Z",
       "var_type": "Martins"
     },
     "haɾũm2_e7c19295-e5b4-4fbe-afa0-407f81dde475": {
-      "﻿headword": "haɾũm",
+      "headword": "haɾũm",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,

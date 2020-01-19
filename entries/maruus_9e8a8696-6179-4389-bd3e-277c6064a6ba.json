@@ -1,12 +1,12 @@
 {
   "entry_id": "maruus_9e8a8696-6179-4389-bd3e-277c6064a6ba",
-  "﻿headword": "maruus",
+  "headword": "maruus",
   "morph_type": "stem",
   "pronunciation": "maɾu:ʃ",
   "variant_of": null,
   "these_vars": {
     "maɾuʃ_d8e843eb-0a99-4a26-963c-fcf20299fb1f": {
-      "﻿headword": "maɾuʃ",
+      "headword": "maɾuʃ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "fba85b9e-c1bc-4f8a-98d2-34356783bfd4": {
       "pos": "n",

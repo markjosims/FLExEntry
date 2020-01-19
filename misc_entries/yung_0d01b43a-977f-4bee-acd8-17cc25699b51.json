@@ -1,0 +1,26 @@
+{
+  "entry_id": "yung_0d01b43a-977f-4bee-acd8-17cc25699b51",
+  "headword": "yung",
+  "morph_type": "stem",
+  "pronunciation": "juŋ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "Weir 1994"
+    ]
+  },
+  "sense": {
+    "cd383986-03c5-4ff6-946a-35e2df176d23": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.dark"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z"
+}

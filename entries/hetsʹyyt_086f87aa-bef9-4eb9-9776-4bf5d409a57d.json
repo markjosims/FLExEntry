@@ -1,51 +1,44 @@
 {
   "entry_id": "hetsʹyyt_086f87aa-bef9-4eb9-9776-4bf5d409a57d",
-  "﻿headword": "hetsʹyyt",
+  "headword": "hetsʹyyt",
   "morph_type": "stem",
   "pronunciation": "heɟɨ̰:t",
   "variant_of": null,
   "these_vars": {
     "hetsyyd_325d5721-2a3c-4416-878b-4113bdb1a9c3": {
-      "﻿headword": "hetsyyd",
+      "headword": "hetsyyd",
       "morph_type": "stem",
       "pronunciation": "heɟɨ:d",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-29T04:53:10Z",
-      "var_type": [
-        "Não indicativo"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Não indicativo"
+      }
     },
     "hetsyd_680a43db-9291-4adb-9a2f-cb28b8494760": {
-      "﻿headword": "hetsyd",
+      "headword": "hetsyd",
       "morph_type": "stem",
       "pronunciation": "heɟɨd",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": null,
       "date": "2018-03-29T04:53:18Z",
-      "var_type": [
-        "Habitual"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Habitual"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "eef2d335-3c5d-48a4-a68f-0de3984365f8": {
       "pos": "v",

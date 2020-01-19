@@ -1,16 +1,13 @@
 {
   "entry_id": "esʹaak_5f8affce-0fec-4b50-95ae-c2f3a8c3ad73",
-  "﻿headword": "esʹaak",
+  "headword": "esʹaak",
   "morph_type": "stem",
   "pronunciation": "eʃa̰:k",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "9efb0410-2dd1-424f-b9d1-3dadf8a8aa9f": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'esaag_0ac768b9-0933-4a11-90c0-4ac17d1e66f4': ('Não indicativo',)}"
+      "these_vars": "{'esaag_0ac768b9-0933-4a11-90c0-4ac17d1e66f4': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

@@ -1,73 +1,64 @@
 {
   "entry_id": "agä2_b43dfe1e-4d9c-44c4-966b-7cdca5ef5b85",
-  "﻿headword": "agä",
+  "headword": "agä",
   "morph_type": "stem",
   "pronunciation": "ʔaˈk’ʌʔ",
   "variant_of": null,
   "these_vars": {
     "agä1_9e97d488-8f8e-490b-89a8-290893ddccc7": {
-      "﻿headword": "agä",
+      "headword": "agä",
       "morph_type": "stem",
       "pronunciation": "agʌ",
       "these_vars": {
         "aj&apos;eenh_8999f255-71ae-494a-b7f2-80b9925dc4ec": {
-          "﻿headword": "aj'eenh",
+          "headword": "aj'eenh",
           "morph_type": "stem",
           "pronunciation": "ajḛ:ɲ",
           "these_vars": null,
-          "note": [
-            [
-              "SIL 2011",
-              "bibliography"
-            ]
-          ],
+          "note": {
+            "bibliography": "SIL 2011"
+          },
           "sense": null,
           "date": "2018-03-22T18:30:56Z",
-          "var_type": [
-            "Plural"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Plural"
+          }
         },
         "mag&apos;ëë_9494af93-135d-4a7b-bca7-aecc213e08b4": {
-          "﻿headword": "mag'ëë",
+          "headword": "mag'ëë",
           "morph_type": "stem",
           "pronunciation": "magə̰:",
           "these_vars": null,
-          "note": [
-            [
-              "SIL 2011",
-              "bibliography"
-            ]
-          ],
+          "note": {
+            "bibliography": "SIL 2011"
+          },
           "sense": null,
           "date": "2018-03-22T18:29:08Z",
-          "var_type": [
-            "Causativo"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Causativo"
+          }
         },
         "agëë_bdbe2a73-dfa7-47aa-b8cd-9221c668ec1d": {
-          "﻿headword": "agëë",
+          "headword": "agëë",
           "morph_type": "stem",
           "pronunciation": "agə:",
           "these_vars": null,
-          "note": [
-            [
-              "SIL 2011",
-              "bibliography"
-            ]
-          ],
+          "note": {
+            "bibliography": "SIL 2011"
+          },
           "sense": null,
           "date": "2018-03-22T18:27:10Z",
-          "var_type": [
-            "Não indicativo"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Não indicativo"
+          }
         }
       },
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "46b51355-1a5b-431a-b504-3aba4f228a2d": {
           "pos": "v",
@@ -82,12 +73,9 @@
       "var_type": "SIL Dict 2011"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "f04d8c55-09b0-4744-8bbe-2e1ef6eb471f": {
       "pos": "Verb",

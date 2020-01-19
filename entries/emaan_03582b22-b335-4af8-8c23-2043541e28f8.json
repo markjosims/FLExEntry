@@ -1,16 +1,13 @@
 {
   "entry_id": "emaan_03582b22-b335-4af8-8c23-2043541e28f8",
-  "﻿headword": "emaan",
+  "headword": "emaan",
   "morph_type": "stem",
   "pronunciation": "ema:n",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "78c667fd-9fc9-4c6e-902e-65be92b2bef6": {
       "pos": "v",

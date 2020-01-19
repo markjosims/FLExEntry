@@ -1,16 +1,13 @@
 {
   "entry_id": "kahʹỹỹt_ea2fe099-2a0c-4037-8cc3-845740fe5a85",
-  "﻿headword": "kahʹỹỹt",
+  "headword": "kahʹỹỹt",
   "morph_type": "stem",
   "pronunciation": "kahɨ̰̃:t",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "686421e5-a67a-4a6c-a0b1-0f5a4ce97378": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'kahỹỹd_f636972a-af07-4a05-91fe-c4deb510fe6e': ('Não indicativo',)}"
+      "these_vars": "{'kahỹỹd_f636972a-af07-4a05-91fe-c4deb510fe6e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

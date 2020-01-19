@@ -1,16 +1,13 @@
 {
   "entry_id": "tsananaa_248cffb7-d6e2-42f6-b09c-eee72262937b",
-  "﻿headword": "tsananaa",
+  "headword": "tsananaa",
   "morph_type": "stem",
   "pronunciation": "ɟanana:",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "b71f8e84-f4a4-49b2-8f8b-e4e22f4e5fc6": {
       "pos": "n",

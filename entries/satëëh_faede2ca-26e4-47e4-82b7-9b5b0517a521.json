@@ -1,16 +1,13 @@
 {
   "entry_id": "satëëh_faede2ca-26e4-47e4-82b7-9b5b0517a521",
-  "﻿headword": "satëëh",
+  "headword": "satëëh",
   "morph_type": "stem",
   "pronunciation": "ʃatə:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 17",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 17"
+  },
   "sense": {
     "c0cbab5b-37b9-40f4-bb34-d13317663d3b": {
       "pos": "v?",

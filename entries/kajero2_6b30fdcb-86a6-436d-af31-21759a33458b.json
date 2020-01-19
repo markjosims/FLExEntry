@@ -1,21 +1,18 @@
 {
   "entry_id": "kajero2_6b30fdcb-86a6-436d-af31-21759a33458b",
-  "﻿headword": "kajero",
+  "headword": "kajero",
   "morph_type": "stem",
   "pronunciation": "kajeɾoʔ",
   "variant_of": null,
   "these_vars": {
     "kajero1_ab07f191-a5da-4848-bfbc-82ba4420609d": {
-      "﻿headword": "kajero",
+      "headword": "kajero",
       "morph_type": "stem",
       "pronunciation": "kajeɾo",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "140ca0d1-097c-4966-a150-0a23408c2676": {
           "pos": "n",

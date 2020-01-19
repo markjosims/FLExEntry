@@ -1,20 +1,14 @@
 {
   "entry_id": "j’aah tyd_38868053-3860-4b0c-a196-31868da6d09f",
-  "﻿headword": "j’aah tyd",
+  "headword": "j’aah tyd",
   "morph_type": "phrase",
   "pronunciation": "jaʔah tɨd˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "(ta) j’aah tyd",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
+    "Note": "(ta) j’aah tyd"
+  },
   "sense": {
     "0a18fae4-f308-447d-a40d-7f39d3cfecdd": {
       "pos": "",

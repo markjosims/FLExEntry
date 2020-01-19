@@ -1,20 +1,14 @@
 {
   "entry_id": "rewyyh_0bb5289a-e3dd-4da6-8555-1cffdff4c04a",
-  "﻿headword": "rewyyh",
+  "headword": "rewyyh",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "investigate semantics",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
+    "Note": "investigate semantics"
+  },
   "sense": {
     "7de79006-a9ce-4bea-bb15-623d300d394e": {
       "pos": "Verb",

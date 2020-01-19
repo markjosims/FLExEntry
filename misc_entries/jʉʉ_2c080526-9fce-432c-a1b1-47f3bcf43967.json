@@ -1,0 +1,26 @@
+{
+  "entry_id": "jʉʉ_2c080526-9fce-432c-a1b1-47f3bcf43967",
+  "headword": "jʉʉ",
+  "morph_type": "stem",
+  "pronunciation": "jəːʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "Weir 1990"
+    ]
+  },
+  "sense": {
+    "bfe4c95c-f8a5-4db7-a93a-f1a616a2a773": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "close"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z"
+}

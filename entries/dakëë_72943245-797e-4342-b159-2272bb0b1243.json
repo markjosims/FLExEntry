@@ -1,16 +1,13 @@
 {
   "entry_id": "dakëë_72943245-797e-4342-b159-2272bb0b1243",
-  "﻿headword": "dakëë",
+  "headword": "dakëë",
   "morph_type": "stem",
   "pronunciation": "dakə:",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "4094d4fb-6161-476e-ab87-f393940a25d0": {
       "pos": "v",

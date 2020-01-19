@@ -1,12 +1,12 @@
 {
   "entry_id": "w’oor_3430ca49-d3b7-4b34-bff7-96d27c9662e2",
-  "﻿headword": "w’oor",
+  "headword": "w’oor",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "wo̰ːɾ1_dffe077c-a1e2-4234-84d0-b75afeaf0660": {
-      "﻿headword": "wo̰ːɾ",
+      "headword": "wo̰ːɾ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -20,19 +20,16 @@
           "def": null,
           "reverse": "",
           "note": "",
-          "these_vars": "{'wo̰ːɾ2_d7b314a9-7a00-477f-803e-70d2b5f9eef0': ('Spelling Variant', 'Barbosa 2005; coruja')}"
+          "these_vars": "{'wo̰ːɾ2_d7b314a9-7a00-477f-803e-70d2b5f9eef0': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; coruja'}}"
         }
       },
       "date": "2018-06-20T05:09:53Z",
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "FIeldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "FIeldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "c36bb89d-00db-425c-b65e-c38171ca9e29": {
       "pos": "Noun",

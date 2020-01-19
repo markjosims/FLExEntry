@@ -1,21 +1,18 @@
 {
   "entry_id": "karaak2_49cb17c7-16b1-4a6e-a0e1-c1b1b7c2654e",
-  "﻿headword": "karaak",
+  "headword": "karaak",
   "morph_type": "stem",
   "pronunciation": "kaɾa:k̚",
   "variant_of": null,
   "these_vars": {
     "kalaak_6c0ebcef-768a-4881-8c44-9ab7a2e1b943": {
-      "﻿headword": "kalaak",
+      "headword": "kalaak",
       "morph_type": "stem",
       "pronunciation": "kaɾaːk",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1990",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1990"
+      },
       "sense": {
         "a6c3238e-46d5-4c6b-9a8c-6d7a9329c4a1": {
           "pos": "Noun",
@@ -32,16 +29,13 @@
       "var_type": "Weir"
     },
     "karaak1_e3fbee0f-140f-4414-9435-89051dc09107": {
-      "﻿headword": "karaak",
+      "headword": "karaak",
       "morph_type": "stem",
       "pronunciation": "kaɾa:k",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "b9dc77e8-ae20-417f-bdb3-794ff26151c8": {
           "pos": "n",

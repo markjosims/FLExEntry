@@ -1,21 +1,18 @@
 {
   "entry_id": "w’eets _fcd31ae9-c266-4ab2-a2ef-60eb3eff61c3",
-  "﻿headword": "w’eets",
+  "headword": "w’eets",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "wʹeets_574901cb-b566-4eb9-a4ef-ed3b3331ef75": {
-      "﻿headword": "wʹeets",
+      "headword": "wʹeets",
       "morph_type": "stem",
       "pronunciation": "wḛ:ɟ",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "ab1899b3-906e-4bf8-8f7b-137f1974abb8": {
           "pos": "n",
@@ -34,7 +31,7 @@
       "var_type": "SIL Dict 2011"
     },
     "wɛːɟ_6884ab96-6eac-4ba5-928f-9d985edf2221": {
-      "﻿headword": "wɛːɟ",
+      "headword": "wɛːɟ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -55,12 +52,9 @@
       "var_type": "Barbosa"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "85b71c4a-063f-43d5-9d1e-4a54c6553fde": {
       "pos": "Noun",

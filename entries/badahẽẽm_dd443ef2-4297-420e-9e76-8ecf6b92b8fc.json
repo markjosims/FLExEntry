@@ -1,16 +1,13 @@
 {
   "entry_id": "badahẽẽm_dd443ef2-4297-420e-9e76-8ecf6b92b8fc",
-  "﻿headword": "badahẽẽm",
+  "headword": "badahẽẽm",
   "morph_type": "stem",
   "pronunciation": "badahɛ̃:m",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "1a89d6df-9a35-44eb-b804-30561c345001": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'badahẽẽw_a1a81754-9a42-4da6-9176-c2483bce5756': ('Não indicativo',)}"
+      "these_vars": "{'badahẽẽw_a1a81754-9a42-4da6-9176-c2483bce5756': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

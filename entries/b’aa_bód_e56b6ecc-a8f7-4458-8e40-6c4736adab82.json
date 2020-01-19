@@ -1,16 +1,13 @@
 {
   "entry_id": "b’aa bód_e56b6ecc-a8f7-4458-8e40-6c4736adab82",
-  "﻿headword": "b’aa bód",
+  "headword": "b’aa bód",
   "morph_type": "phrase",
   "pronunciation": "baʔah bɔd˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "627d8689-d518-4f95-a30f-342caba19d42": {
       "pos": "Noun",

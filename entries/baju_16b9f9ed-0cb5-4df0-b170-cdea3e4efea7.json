@@ -1,16 +1,13 @@
 {
   "entry_id": "baju_16b9f9ed-0cb5-4df0-b170-cdea3e4efea7",
-  "﻿headword": "baju",
+  "headword": "baju",
   "morph_type": "stem",
   "pronunciation": "baˈjuʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "5f3a89d8-db19-4cc0-9e59-a02da258eaf4": {
       "pos": "",

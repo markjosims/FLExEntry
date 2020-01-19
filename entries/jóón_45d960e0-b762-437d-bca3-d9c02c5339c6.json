@@ -1,16 +1,13 @@
 {
   "entry_id": "jóón_45d960e0-b762-437d-bca3-d9c02c5339c6",
-  "﻿headword": "jóón",
+  "headword": "jóón",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "5e17ffe9-a052-4a24-9f2a-47eedd59e6e8": {
       "pos": "Noun",

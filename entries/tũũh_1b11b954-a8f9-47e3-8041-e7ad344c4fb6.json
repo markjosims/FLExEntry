@@ -1,34 +1,29 @@
 {
   "entry_id": "tũũh_1b11b954-a8f9-47e3-8041-e7ad344c4fb6",
-  "﻿headword": "tũũh",
+  "headword": "tũũh",
   "morph_type": "stem",
   "pronunciation": "tũ:h",
   "variant_of": null,
   "these_vars": {
     "tũũ_3b535375-c8fc-4f63-bb26-128f9d1c478f": {
-      "﻿headword": "tũũ",
+      "headword": "tũũ",
       "morph_type": "stem",
       "pronunciation": "tũ:",
       "these_vars": null,
-      "note": [
-        [
-          "encontrado em cartilha 4; lição 16",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "encontrado em cartilha 4; lição 16"
+      },
       "sense": null,
       "date": "2018-03-23T14:42:33Z",
-      "var_type": [
-        "Unspecified Variant"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "d69496ab-5a91-4287-91a7-69f70883fabb": {
       "pos": "adv",

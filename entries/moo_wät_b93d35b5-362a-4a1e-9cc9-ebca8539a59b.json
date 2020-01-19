@@ -1,16 +1,13 @@
 {
   "entry_id": "moo wät_b93d35b5-362a-4a1e-9cc9-ebca8539a59b",
-  "﻿headword": "moo wät",
+  "headword": "moo wät",
   "morph_type": "phrase",
   "pronunciation": "mɔ̃:ˈwǝt˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "43443a2c-b52c-4b96-ae12-93d8f95fd8bb": {
       "pos": "Verb",

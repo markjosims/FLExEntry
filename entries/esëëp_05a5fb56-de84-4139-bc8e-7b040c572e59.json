@@ -1,16 +1,13 @@
 {
   "entry_id": "esëëp_05a5fb56-de84-4139-bc8e-7b040c572e59",
-  "﻿headword": "esëëp",
+  "headword": "esëëp",
   "morph_type": "stem",
   "pronunciation": "eʃə:p",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "18d91980-ef6d-425a-b7ca-30734e93614f": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'esʹëëb_9f29486e-c14a-498d-b807-a3b7daaa0252': ('Não indicativo',)}"
+      "these_vars": "{'esʹëëb_9f29486e-c14a-498d-b807-a3b7daaa0252': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

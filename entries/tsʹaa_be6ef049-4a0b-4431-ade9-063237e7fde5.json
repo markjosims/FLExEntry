@@ -1,12 +1,12 @@
 {
   "entry_id": "tsʹaa_be6ef049-4a0b-4431-ade9-063237e7fde5",
-  "﻿headword": "tsʹaa",
+  "headword": "tsʹaa",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "ɟa̰ːʔ2_217c7731-5d24-469b-80fa-f9d199bdb860": {
-      "﻿headword": "ɟa̰ːʔ",
+      "headword": "ɟa̰ːʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,24 +27,22 @@
       "var_type": "Barbosa"
     },
     "ɟa̰ːʔ1_a058b08f-ae3d-4e0a-8148-0072620999d7": {
-      "﻿headword": "ɟa̰ːʔ",
+      "headword": "ɟa̰ːʔ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:50:06Z",
-      "var_type": [
-        "Barbosa"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "0c15c446-085e-4f2f-b3e4-07009775e872": {
       "pos": "n",

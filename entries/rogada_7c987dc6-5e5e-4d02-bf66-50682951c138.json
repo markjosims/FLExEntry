@@ -1,16 +1,13 @@
 {
   "entry_id": "rogada_7c987dc6-5e5e-4d02-bf66-50682951c138",
-  "﻿headword": "rogada",
+  "headword": "rogada",
   "morph_type": "stem",
   "pronunciation": "ɾogada",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "encontrado em cartilha 4; lição 3",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "encontrado em cartilha 4; lição 3"
+  },
   "sense": {
     "c903b261-0a4a-40a4-8770-04ed1ff16efa": {
       "pos": "?",

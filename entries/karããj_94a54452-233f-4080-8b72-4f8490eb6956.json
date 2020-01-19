@@ -1,16 +1,13 @@
 {
   "entry_id": "karããj_94a54452-233f-4080-8b72-4f8490eb6956",
-  "﻿headword": "karããj",
+  "headword": "karããj",
   "morph_type": "stem",
   "pronunciation": "kaˈɾã:j",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "97310a99-7696-4de1-a7f8-e9f056f93b84": {
       "pos": "Noun",

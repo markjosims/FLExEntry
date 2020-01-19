@@ -1,12 +1,12 @@
 {
   "entry_id": "roor_3015a52d-88c5-432a-befd-e2eab5325dc6",
-  "﻿headword": "roor",
+  "headword": "roor",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "ʔaɾoːɾ_02510f6f-9440-4065-8ef1-609ab7927a49": {
-      "﻿headword": "ʔaɾoːɾ",
+      "headword": "ʔaɾoːɾ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,7 +27,7 @@
       "var_type": "Barbosa"
     },
     "ɾoːɾ_4cf16e5f-320d-49e2-a128-4ae50a674b2b": {
-      "﻿headword": "ɾoːɾ",
+      "headword": "ɾoːɾ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -48,12 +48,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "8477b726-76d0-4630-9a39-a67f1840cdb1": {
       "pos": "Noun",

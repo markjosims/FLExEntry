@@ -1,16 +1,13 @@
 {
   "entry_id": "yʉʉh_d594696f-9f99-4a8a-bf42-436ae849f0c5",
-  "﻿headword": "yʉʉh",
+  "headword": "yʉʉh",
   "morph_type": "stem",
   "pronunciation": "jəːh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "994b24a6-830b-4c17-8ed4-b8c1995b52f9": {
       "pos": "Verb",

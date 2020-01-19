@@ -1,0 +1,28 @@
+{
+  "entry_id": "abii_bd3c588b-d116-42fc-b238-1c92088338e2",
+  "headword": "abii",
+  "morph_type": "stem",
+  "pronunciation": "abi:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "a5fa8680-0856-417b-b767-0627f3da7a37": {
+      "pos": "v",
+      "gloss": {
+        "pt": "mamar"
+      },
+      "def": {
+        "pt": "mamar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'abi_c8927501-771f-4db0-afa6-9ca9ca67d32b': ('Não indicativo',), 'abʹii_f51c2d5a-deec-4c2c-9958-e47868ad495d': ('Habitual',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z"
+}

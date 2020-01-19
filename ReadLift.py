@@ -35,14 +35,8 @@ def main():
     senses_df = get_senses_df()
     get_these_vars(senses_df, entries_df)
     
-    add_bom(entries_df)       
-    entries_df.to_csv(out_file, encoding='utf8', index=False)
-    remove_bom(entries_df)
-    
-    add_bom(senses_df)
-    senses_df.to_csv(senses_file, encoding='utf8', index=False)
-    remove_bom(senses_df)
-    
+    entries_df.to_csv(out_file, encoding='utf8', index=False)   
+    senses_df.to_csv(senses_file, encoding='utf8', index=False)   
     generate_lex_dir(entries_df, senses_df)
   
 @time_exec
@@ -116,24 +110,6 @@ def get_vars_for_id(entry_id, entries_df):
         these_vars[var_id] = var_type
     
     return these_vars
-    
-def add_bom(df):
-    cols = df.columns
-    first_col = cols[0]
-    if '\uFEFF' not in first_col:
-        first_col = '\uFEFF' + first_col
-        cols = [first_col] + list(cols[1:])
-    
-    df.columns = cols
-    
-def remove_bom(df):
-    cols = df.columns
-    first_col = cols[0]
-    if '\uFEFF' in first_col:
-        first_col = first_col.replace('\uFEFF', '')
-        cols = [first_col] + list(cols[1:])
-    
-    df.columns = cols
 
 def return_dfs():
     return get_entries_df(), get_senses_df()

@@ -1,16 +1,13 @@
 {
   "entry_id": "mawããd bëëh_4621987f-cb9c-49bd-ac91-be605067fc58",
-  "﻿headword": "mawããd bëëh",
+  "headword": "mawããd bëëh",
   "morph_type": "phrase",
   "pronunciation": "mãwã:d̚ bə:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "lit. pineapple juice",
-      ""
-    ]
-  ],
+  "note": {
+    "Note": "lit. pineapple juice"
+  },
   "sense": {
     "b603752a-2f5a-4530-9e2f-aeee071db61e": {
       "pos": "Noun",

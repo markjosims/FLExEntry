@@ -1,16 +1,13 @@
 {
   "entry_id": "ma1_4264a5f5-d297-4c5e-9ce6-80ae7193474a",
-  "﻿headword": "ma",
+  "headword": "ma",
   "morph_type": "stem",
   "pronunciation": "ma",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "b7614e1b-cfd8-4a2c-b48a-afa30dce887e": {
       "pos": "n op",

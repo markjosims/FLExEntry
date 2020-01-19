@@ -1,0 +1,46 @@
+{
+  "entry_id": "ahỹỹh_f733ec49-2377-44b4-8f60-a93e6a22ff4e",
+  "headword": "ahỹỹh",
+  "morph_type": "stem",
+  "pronunciation": "ahɨ̃:h",
+  "variant_of": null,
+  "these_vars": {
+    "ahʹỹỹh_135b490e-7cf7-4eff-8dca-45dfe71ddf22": {
+      "headword": "ahʹỹỹh",
+      "morph_type": "stem",
+      "pronunciation": "ahɨ̰̃:h",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "SIL 2011"
+        ]
+      },
+      "sense": null,
+      "date": "2018-03-23T16:10:06Z",
+      "var_type": [
+        "Não indicativo",
+        "Plural"
+      ]
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "cfb72c47-6bca-4512-b4e7-1e8694eb96aa": {
+      "pos": "v",
+      "gloss": {
+        "pt": "páss.cantar"
+      },
+      "def": {
+        "pt": "cantar (pássaro)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

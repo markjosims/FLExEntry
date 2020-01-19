@@ -1,16 +1,13 @@
 {
   "entry_id": "panaar_5df6f1bc-f203-4ab8-a0c6-d9a93b1400f2",
-  "﻿headword": "panaar",
+  "headword": "panaar",
   "morph_type": "root",
   "pronunciation": "paˈna:ɾǝ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "31844297-6e39-499c-8f1a-cf67e48f5cb3": {
       "pos": "Noun",
@@ -22,7 +19,7 @@
         "en": "plantain",
         "pt": "banana.comprida"
       },
-      "reverse": "[('plantain', 'en'), ('banana comprida', 'pt')]",
+      "reverse": "{'en': 'plantain', 'pt': 'banana comprida'}",
       "note": "",
       "these_vars": ""
     }

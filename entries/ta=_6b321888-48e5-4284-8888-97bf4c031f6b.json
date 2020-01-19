@@ -1,6 +1,6 @@
 {
   "entry_id": "ta=_6b321888-48e5-4284-8888-97bf4c031f6b",
-  "﻿headword": "ta=",
+  "headword": "ta=",
   "morph_type": "proclitic",
   "pronunciation": "ta",
   "variant_of": null,
@@ -15,7 +15,7 @@
       },
       "def": null,
       "reverse": "",
-      "note": "('Weir 1984', 'bibliography')",
+      "note": "{'bibliography': 'Weir 1984'}",
       "these_vars": ""
     }
   },

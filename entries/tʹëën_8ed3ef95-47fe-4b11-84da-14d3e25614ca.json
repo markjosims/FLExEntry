@@ -1,16 +1,13 @@
 {
   "entry_id": "tʹëën_8ed3ef95-47fe-4b11-84da-14d3e25614ca",
-  "﻿headword": "tʹëën",
+  "headword": "tʹëën",
   "morph_type": "stem",
   "pronunciation": "tə̰:n",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "31af3140-0dd6-4e76-b1d8-cf9a320aab07": {
       "pos": "n",

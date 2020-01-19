@@ -1,35 +1,33 @@
 {
   "entry_id": "kaat4_2f663e30-e5e2-4436-aa3a-06247ad235b6",
-  "﻿headword": "kaat",
+  "headword": "kaat",
   "morph_type": "stem",
   "pronunciation": "ka:t̚",
   "variant_of": null,
   "these_vars": {
     "kaat1_343a6e41-2533-4734-88d4-d7e177d3c697": {
-      "﻿headword": "kaat",
+      "headword": "kaat",
       "morph_type": "stem",
       "pronunciation": "ka:t",
       "these_vars": {
         "kaat2_a5690f1b-30a7-41b2-86b0-7b6d2c413aa5": {
-          "﻿headword": "kaat",
+          "headword": "kaat",
           "morph_type": "stem",
           "pronunciation": "",
           "these_vars": null,
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:51:58Z",
-          "var_type": [
-            "Weir",
-            "1990; 1994"
-          ]
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Weir",
+            "summary": "1990; 1994"
+          }
         }
       },
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "9b14e810-f57a-4971-9f55-079ec8d00c49": {
           "pos": "n",
@@ -48,7 +46,7 @@
       "var_type": "SIL Dict 2011"
     },
     "kat_f40fa792-adc4-41f2-ad6e-b5120cb7051a": {
-      "﻿headword": "kat",
+      "headword": "kat",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -69,16 +67,13 @@
       "var_type": "Barbosa"
     },
     "kaat3_f725bf08-256e-40b3-9475-6bbf23806316": {
-      "﻿headword": "kaat",
+      "headword": "kaat",
       "morph_type": "stem",
       "pronunciation": "kaːt",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1990; Weir 1994",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1990; Weir 1994"
+      },
       "sense": {
         "2e80dc55-4409-4848-9147-f500dc87416a": {
           "pos": "Noun",

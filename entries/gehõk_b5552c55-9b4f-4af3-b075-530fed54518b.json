@@ -1,16 +1,13 @@
 {
   "entry_id": "gehõk_b5552c55-9b4f-4af3-b075-530fed54518b",
-  "﻿headword": "gehõk",
+  "headword": "gehõk",
   "morph_type": "stem",
   "pronunciation": "k’eˈhɔ̃k˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "a110f895-5003-4337-b4a3-202471d74c63": {
       "pos": "Verb",

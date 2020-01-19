@@ -1,16 +1,13 @@
 {
   "entry_id": "datés_d4d8658e-0692-4022-8f66-d7ff445c29c8",
-  "﻿headword": "datés",
+  "headword": "datés",
   "morph_type": "stem",
   "pronunciation": "daˈtɛʃ]",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "d0178027-9a04-4739-8553-10b961b353eb": {
       "pos": "adj?",

@@ -8,7 +8,6 @@ Created on Fri Dec 13 20:31:29 2019
 
 import pandas as pd
 import json
-from PandasExcel import add_bom, remove_bom
 from ast import literal_eval
 from time import time
 from GenerateLexDir import main as to_json
@@ -24,6 +23,7 @@ def time_exec(f):
 
 
 in_file = 'headword_matches_processed.csv'
+out_file = 'headword_matches_remaining.csv'
 master  = 'flexicon.csv'
 default_tags = ('SIL Dict 2011',
                 'Weir',
@@ -34,9 +34,7 @@ default_tags = ('SIL Dict 2011',
 @time_exec
 def main():
     in_df = pd.read_csv(in_file, index_col='entry_id', keep_default_na=False)
-    remove_bom(in_df)
     flexicon = pd.read_csv(master, index_col='entry_id', keep_default_na=False)
-    remove_bom(flexicon)
     
     # read col 'these_vars' as native python types
     literal_eval_col(in_df, 'variants')
@@ -76,12 +74,8 @@ def main():
     in_df = in_df[has_data]
     print(len(in_df))
     
-    add_bom(in_df)
-    in_df.to_csv(in_file)
-    
-    add_bom(flexicon)
-    flexicon.to_csv(master)
-    
+    in_df.to_csv(out_file)
+    flexicon.to_csv(master) 
     to_json()
 
 

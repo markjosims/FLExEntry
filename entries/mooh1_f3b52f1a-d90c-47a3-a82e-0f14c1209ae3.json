@@ -1,30 +1,28 @@
 {
   "entry_id": "mooh1_f3b52f1a-d90c-47a3-a82e-0f14c1209ae3",
-  "﻿headword": "mooh",
+  "headword": "mooh",
   "morph_type": "stem",
   "pronunciation": "mɔ̃:h",
   "variant_of": null,
   "these_vars": {
     "mooh2_3ffff461-ca95-48c1-818b-de080e69b22b": {
-      "﻿headword": "mooh",
+      "headword": "mooh",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:03:02Z",
-      "var_type": [
-        "Weir",
-        "1986; by means of"
-      ]
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir",
+        "summary": "1986; by means of"
+      }
     }
   },
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "221e6436-7db1-4f75-9fca-2ed8b869232e": {
       "pos": "Noun",

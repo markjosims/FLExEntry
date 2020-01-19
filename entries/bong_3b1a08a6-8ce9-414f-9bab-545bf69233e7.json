@@ -1,16 +1,13 @@
 {
   "entry_id": "bong_3b1a08a6-8ce9-414f-9bab-545bf69233e7",
-  "﻿headword": "bong",
+  "headword": "bong",
   "morph_type": "stem",
   "pronunciation": "boŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "4206a1ef-2c25-4191-bcc9-85cae9d60a8d": {
       "pos": "Verb",

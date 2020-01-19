@@ -1,21 +1,18 @@
 {
   "entry_id": "masʹããh_1cea3332-ac1d-44f0-ad97-8d82420abd3c",
-  "﻿headword": "masʹããh",
+  "headword": "masʹããh",
   "morph_type": "stem",
   "pronunciation": "maʃã̰:h",
   "variant_of": null,
   "these_vars": {
     "masxãah_5ecd9230-e108-4922-aecb-9b7a921ae9b2": {
-      "﻿headword": "masxãah",
+      "headword": "masxãah",
       "morph_type": "stem",
       "pronunciation": "maʃã̰ːh",
       "these_vars": null,
-      "note": [
-        [
-          "Weir 1990",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "Weir 1990"
+      },
       "sense": {
         "c8403b45-cc68-47ac-9602-2b09017e0c40": {
           "pos": "Noun",
@@ -32,12 +29,9 @@
       "var_type": "Weir"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "7d518733-f39a-48c8-aaca-fa05792a8534": {
       "pos": "n",
@@ -49,7 +43,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'masããh_d3e5e124-59db-47e3-b010-06d79c06c710': ('Plural',)}"
+      "these_vars": "{'masããh_d3e5e124-59db-47e3-b010-06d79c06c710': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

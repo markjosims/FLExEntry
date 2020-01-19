@@ -1,16 +1,13 @@
 {
   "entry_id": "dagõn_f7d8ca73-7f0c-4b90-914b-ea59c8e057e1",
-  "﻿headword": "dagõn",
+  "headword": "dagõn",
   "morph_type": "stem",
   "pronunciation": "dagõn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "6d128d41-81a3-471c-9d02-f855e642415a": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'dahegʹõõn_0062786c-16c2-4325-b3e4-fac26c159e80': ('Habitual',)}"
+      "these_vars": "{'dahegʹõõn_0062786c-16c2-4325-b3e4-fac26c159e80': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

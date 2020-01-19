@@ -1,0 +1,28 @@
+{
+  "entry_id": "edah_ac55eff6-e4fa-45d2-a17d-90446273b3f0",
+  "headword": "edah",
+  "morph_type": "stem",
+  "pronunciation": "edah",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "1325af38-6628-4e3b-b295-f029ab7dd4f1": {
+      "pos": "v",
+      "gloss": {
+        "pt": "estar.perto"
+      },
+      "def": {
+        "pt": "estar perto (logo)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'edaa_a88660fb-0dda-4512-a162-a5b314f0bd68': ('Não indicativo',), 'edaah_c18c1c3c-293f-4cf8-92a4-360e2914fa16': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

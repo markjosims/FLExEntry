@@ -1,21 +1,18 @@
 {
   "entry_id": "hỹỹj2_53908455-3b39-4ca5-bc5b-bdcd9f258d77",
-  "﻿headword": "hỹỹj",
+  "headword": "hỹỹj",
   "morph_type": "stem",
   "pronunciation": "hɨ̃:j",
   "variant_of": null,
   "these_vars": {
     "hỹỹj1_b8de92d9-5f80-44ee-a6c1-83a6ea312225": {
-      "﻿headword": "hỹỹj",
+      "headword": "hỹỹj",
       "morph_type": "stem",
       "pronunciation": "hɨ̃:j",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "3e338bdc-f7f3-4f3e-8909-9a5e0882edc5": {
           "pos": "n op",
@@ -27,7 +24,7 @@
           },
           "reverse": "",
           "note": "",
-          "these_vars": "{'hä̃j ỹỹ_5c1a1620-d4fc-4dd4-9a32-7179744fe43f': ('1S Possessivo',)}"
+          "these_vars": "{'hä̃j ỹỹ_5c1a1620-d4fc-4dd4-9a32-7179744fe43f': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
         }
       },
       "date": "2018-03-08T07:17:53Z",

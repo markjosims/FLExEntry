@@ -1,16 +1,13 @@
 {
   "entry_id": "ajãn_542c8377-02d7-46b2-a5d5-238ce60994a9",
-  "﻿headword": "ajãn",
+  "headword": "ajãn",
   "morph_type": "stem",
   "pronunciation": "ajãn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "94752aa3-6cac-44de-8142-28dfde28d1a7": {
       "pos": "n",

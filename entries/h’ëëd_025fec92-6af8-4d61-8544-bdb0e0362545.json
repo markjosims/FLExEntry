@@ -1,21 +1,18 @@
 {
   "entry_id": "h’ëëd_025fec92-6af8-4d61-8544-bdb0e0362545",
-  "﻿headword": "h’ëëd",
+  "headword": "h’ëëd",
   "morph_type": "stem",
   "pronunciation": "hǝʔǝd˺",
   "variant_of": null,
   "these_vars": {
     "hʹëëd2_9e74513c-440f-4e3d-9106-81f0bcd89d90": {
-      "﻿headword": "hʹëëd",
+      "headword": "hʹëëd",
       "morph_type": "stem",
       "pronunciation": "hə̰:d",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "060e2378-9efd-496c-86c5-8c940f2d294a": {
           "pos": "n op",
@@ -34,16 +31,13 @@
       "var_type": "SIL Dict 2011"
     },
     "hʹëëd1_a60368d9-bc6d-49b9-aeef-eaa8980142fa": {
-      "﻿headword": "hʹëëd",
+      "headword": "hʹëëd",
       "morph_type": "stem",
       "pronunciation": "hə̰:d",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "686f8334-2be2-49a6-98dc-ace6be0253af": {
           "pos": "adv",
@@ -62,12 +56,9 @@
       "var_type": "SIL Dict 2011"
     }
   },
-  "note": [
-    [
-      "Fiednotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fiednotes Epps/Obert; 2018"
+  },
   "sense": {
     "82d7231c-5f51-4860-90b3-f2da90deba51": {
       "pos": "Question particle",

@@ -1,16 +1,13 @@
 {
   "entry_id": "esoos_add3968e-1af1-48bc-8f56-5f24adf3025e",
-  "﻿headword": "esoos",
+  "headword": "esoos",
   "morph_type": "stem",
   "pronunciation": "eʃo:ʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "9d55ea25-4021-4c97-af55-30c6c927c056": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'esʹoos_22d7e1de-0605-439f-a2b0-f42c07fdc820': ('Plural',), 'esóts_dd8eac93-4aef-4404-9da4-dc21a8389f50': ('Não indicativo',)}"
+      "these_vars": "{'esʹoos_22d7e1de-0605-439f-a2b0-f42c07fdc820': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'esóts_dd8eac93-4aef-4404-9da4-dc21a8389f50': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

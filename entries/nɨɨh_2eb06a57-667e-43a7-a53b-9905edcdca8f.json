@@ -1,16 +1,13 @@
 {
   "entry_id": "nɨɨh_2eb06a57-667e-43a7-a53b-9905edcdca8f",
-  "﻿headword": "nɨɨh",
+  "headword": "nɨɨh",
   "morph_type": "stem",
   "pronunciation": "nɨːh",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "0c4846b7-4573-4682-801a-2970630de455": {
       "pos": "Pronoun",

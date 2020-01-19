@@ -1,0 +1,26 @@
+{
+  "entry_id": "nxoo_4b7dce3a-006c-458c-ba0c-bb5e1c53defd",
+  "headword": "nxoo",
+  "morph_type": "stem",
+  "pronunciation": "no̰ːʔ",
+  "variant_of": null,
+  "these_vars": {},
+  "note": {
+    "bibliography": [
+      "Weir 1994"
+    ]
+  },
+  "sense": {
+    "a78ce748-7706-4866-9dd9-47f3493c7f10": {
+      "pos": "part?",
+      "gloss": {
+        "en": "fact(itive?)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z"
+}

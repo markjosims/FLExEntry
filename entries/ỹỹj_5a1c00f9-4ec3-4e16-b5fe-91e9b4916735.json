@@ -1,16 +1,13 @@
 {
   "entry_id": "ỹỹj_5a1c00f9-4ec3-4e16-b5fe-91e9b4916735",
-  "﻿headword": "ỹỹj",
+  "headword": "ỹỹj",
   "morph_type": "stem",
   "pronunciation": "ɨ̃:j",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "d3785227-56a8-4a36-b4f5-5179f1c0cf0c": {
       "pos": "n p",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ỹỹnh_ec6a849a-8e80-4b1a-8a4d-aa9eca6aa9b8': ('Singular',)}"
+      "these_vars": "{'ỹỹnh_ec6a849a-8e80-4b1a-8a4d-aa9eca6aa9b8': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

@@ -1,21 +1,18 @@
 {
   "entry_id": "har’ëëng_75809c11-9e9f-4fef-a92c-c3fa46828610",
-  "﻿headword": "har’ëëng",
+  "headword": "har’ëëng",
   "morph_type": "stem",
   "pronunciation": "haɾəʔəgŋ",
   "variant_of": null,
   "these_vars": {
     "harʹëëng_acb44c41-79ab-4a47-b9b0-40038d45c8bf": {
-      "﻿headword": "harʹëëng",
+      "headword": "harʹëëng",
       "morph_type": "stem",
       "pronunciation": "haɾə̰:ŋ",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "63362b5e-44b9-463a-b7f1-960efbdedfa8": {
           "pos": "n",

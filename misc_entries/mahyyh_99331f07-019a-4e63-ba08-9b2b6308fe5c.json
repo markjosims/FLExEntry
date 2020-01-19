@@ -1,0 +1,54 @@
+{
+  "entry_id": "mahyyh_99331f07-019a-4e63-ba08-9b2b6308fe5c",
+  "headword": "mahyyh",
+  "morph_type": "stem",
+  "pronunciation": "mahɨ:h",
+  "variant_of": null,
+  "these_vars": {
+    "hɨɨh2_20301e80-fb96-4e39-b432-945f8939c012": {
+      "headword": "hɨɨh",
+      "morph_type": "stem",
+      "pronunciation": "hɨːh",
+      "these_vars": null,
+      "note": {
+        "bibliography": [
+          "Weir 1994"
+        ]
+      },
+      "sense": {
+        "3522cb26-4f57-44c7-a8cc-ac4d324a6079": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "go.downriver"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "var_type": "Weir"
+    }
+  },
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "2fdaaa67-fb7c-47a8-a5ae-860572f96d7c": {
+      "pos": "v",
+      "gloss": {
+        "pt": "levar.baixo"
+      },
+      "def": {
+        "pt": "levar para baixo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'mahyh_7bc16434-7bac-4022-be8d-1787b33858fe': ('Não indicativo',)}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z"
+}

@@ -1,16 +1,13 @@
 {
   "entry_id": "gatsooh_ba2fdaf6-2fb2-4698-b700-76773ab5976a",
-  "﻿headword": "gatsooh",
+  "headword": "gatsooh",
   "morph_type": "stem",
   "pronunciation": "gaɟo:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "9d4b2d21-64aa-429e-98c0-f0ebd109f1b1": {
       "pos": "n op",

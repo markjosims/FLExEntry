@@ -1,16 +1,13 @@
 {
   "entry_id": "tʹëër_b73b72e2-30b4-4809-9908-9d868d068771",
-  "﻿headword": "tʹëër",
+  "headword": "tʹëër",
   "morph_type": "stem",
   "pronunciation": "tə̰:ɾ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "ed0ba0e2-d323-4f3b-823e-e07bc2bcb0ed": {
       "pos": "n",

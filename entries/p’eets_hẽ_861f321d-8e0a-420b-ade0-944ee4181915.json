@@ -1,21 +1,18 @@
 {
   "entry_id": "p’eets hẽ_861f321d-8e0a-420b-ade0-944ee4181915",
-  "﻿headword": "p’eets hẽ",
+  "headword": "p’eets hẽ",
   "morph_type": "phrase",
   "pronunciation": "peʔeɉ hẽʔ]",
   "variant_of": null,
   "these_vars": {
     "pʹeets hẽ_ec73ec5a-97dd-47c9-8c8c-1d937b51073f": {
-      "﻿headword": "pʹeets hẽ",
+      "headword": "pʹeets hẽ",
       "morph_type": "phrase",
       "pronunciation": "pḛ:ɟ hɛ̃",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "697195e9-d0b8-46a2-b4e4-7eee1f116ed7": {
           "pos": "adv",
@@ -47,7 +44,7 @@
         "pt": "perto"
       },
       "reverse": "",
-      "note": "('Fieldnotes Epps/Obert; 2018', 'bibliography')",
+      "note": "{'bibliography': 'Fieldnotes Epps/Obert; 2018'}",
       "these_vars": ""
     },
     "b4de4d74-e91d-4833-b897-de1c99703bd9": {

@@ -1,16 +1,13 @@
 {
   "entry_id": "wawii_c1914a3d-013e-48cb-a439-131acd70b45e",
-  "﻿headword": "wawii",
+  "headword": "wawii",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "1bb9a9d1-2914-4dc6-9b3b-893787ea37d7": {
       "pos": "Noun",

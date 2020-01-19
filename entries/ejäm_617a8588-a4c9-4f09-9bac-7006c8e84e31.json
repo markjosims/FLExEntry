@@ -1,16 +1,13 @@
 {
   "entry_id": "ejäm_617a8588-a4c9-4f09-9bac-7006c8e84e31",
-  "﻿headword": "ejäm",
+  "headword": "ejäm",
   "morph_type": "stem",
   "pronunciation": "ʔeʔjʌbm",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "cb90b4c0-0aba-4155-b52c-b12c07a05d29": {
       "pos": "Verb",

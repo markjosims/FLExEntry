@@ -1,12 +1,12 @@
 {
   "entry_id": "sõts_bda18a4b-25b2-46d9-a02e-8c971679f674",
-  "﻿headword": "sõts",
+  "headword": "sõts",
   "morph_type": "stem",
   "pronunciation": "ʃõɟ",
   "variant_of": null,
   "these_vars": {
     "ʃɔ̃ɟ_3cbecb22-d966-45e2-a70d-7aeed4c1b9b8": {
-      "﻿headword": "ʃɔ̃ɟ",
+      "headword": "ʃɔ̃ɟ",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "75c5f829-6e42-43df-8ede-9a45fd543f60": {
       "pos": "n",

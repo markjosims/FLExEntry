@@ -1,21 +1,18 @@
 {
   "entry_id": "jag2_c3965c56-0a44-4337-9442-b76f3f1ecc37",
-  "﻿headword": "jag",
+  "headword": "jag",
   "morph_type": "stem",
   "pronunciation": "jag̚",
   "variant_of": null,
   "these_vars": {
     "jag1_01f9bb3f-592f-4c82-b820-5c534600a288": {
-      "﻿headword": "jag",
+      "headword": "jag",
       "morph_type": "stem",
       "pronunciation": "jag",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "0a53e4ac-73b8-4116-9c0c-091bf6a6a02f": {
           "pos": "n",
@@ -25,7 +22,7 @@
           "def": null,
           "reverse": "",
           "note": "",
-          "these_vars": "{'jak ỹỹ_20ea7807-0cbe-4ee3-a129-919380bcf6fc': ('1S Possessivo',)}"
+          "these_vars": "{'jak ỹỹ_20ea7807-0cbe-4ee3-a129-919380bcf6fc': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
         }
       },
       "date": "2018-03-08T07:17:53Z",

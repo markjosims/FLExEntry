@@ -1,16 +1,13 @@
 {
   "entry_id": "kejën_5915aa49-0a4d-4cc2-8be5-b54c2ca89656",
-  "﻿headword": "kejën",
+  "headword": "kejën",
   "morph_type": "stem",
   "pronunciation": "keʔˈjǝdn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert;2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert;2018"
+  },
   "sense": {
     "9bd1c084-434c-40ef-b514-fa1f3ef472c0": {
       "pos": "Verb",

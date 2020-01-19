@@ -1,16 +1,13 @@
 {
   "entry_id": "nu kasewä̃n_703eb3cb-7eb8-40b3-a918-1577508e601d",
-  "﻿headword": "nu kasewä̃n",
+  "headword": "nu kasewä̃n",
   "morph_type": "phrase",
   "pronunciation": "nu kaʃewʌ̃n",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "55d7c82e-f85a-4179-960d-a5f463c4a251": {
       "pos": "v",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'nu kasewʹỹỹn_905727be-2f8d-48b1-ab46-01a0aeb93aa7': ('Habitual',)}"
+      "these_vars": "{'nu kasewʹỹỹn_905727be-2f8d-48b1-ab46-01a0aeb93aa7': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
   "date": "2018-03-08T07:17:53Z"

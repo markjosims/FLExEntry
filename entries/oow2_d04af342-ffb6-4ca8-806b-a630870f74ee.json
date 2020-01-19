@@ -1,21 +1,18 @@
 {
   "entry_id": "oow2_d04af342-ffb6-4ca8-806b-a630870f74ee",
-  "﻿headword": "oow",
+  "headword": "oow",
   "morph_type": "stem",
   "pronunciation": "ʔo:w",
   "variant_of": null,
   "these_vars": {
     "oow1_eb8de02c-9b06-4ddc-af7a-cba13637ac34": {
-      "﻿headword": "oow",
+      "headword": "oow",
       "morph_type": "stem",
       "pronunciation": "o:w",
       "these_vars": null,
-      "note": [
-        [
-          "SIL 2011",
-          "bibliography"
-        ]
-      ],
+      "note": {
+        "bibliography": "SIL 2011"
+      },
       "sense": {
         "c44033fb-f7ea-41e2-9277-e9771aa96ba3": {
           "pos": "n",
@@ -34,7 +31,7 @@
       "var_type": "SIL Dict 2011"
     },
     "ʔoːw1_f450e27e-ab41-4277-a9ec-2d5c346698a5": {
-      "﻿headword": "ʔoːw",
+      "headword": "ʔoːw",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -48,7 +45,7 @@
           "def": null,
           "reverse": "",
           "note": "",
-          "these_vars": "{'ʔoːw2_69b65da0-efcb-44b5-aec4-0fcab8590956': ('Spelling Variant', 'Barbosa 2005; avô')}"
+          "these_vars": "{'ʔoːw2_69b65da0-efcb-44b5-aec4-0fcab8590956': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; avô'}}"
         }
       },
       "date": "2018-06-20T05:09:53Z",

@@ -1,16 +1,13 @@
 {
   "entry_id": "keroo_0309e768-1308-4e05-955c-92fa27bdc0b1",
-  "﻿headword": "keroo",
+  "headword": "keroo",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "1813965a-b95a-4afb-8608-7bea9a3fbed4": {
       "pos": "Noun",

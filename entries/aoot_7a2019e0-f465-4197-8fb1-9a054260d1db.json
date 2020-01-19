@@ -1,16 +1,13 @@
 {
   "entry_id": "aoot_7a2019e0-f465-4197-8fb1-9a054260d1db",
-  "﻿headword": "aoot",
+  "headword": "aoot",
   "morph_type": "stem",
   "pronunciation": "ʔaˈʔɔ:t˺",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "d59ed63e-455d-4631-afc4-79845c4db181": {
       "pos": "Verb",

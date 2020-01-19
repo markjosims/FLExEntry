@@ -1,16 +1,13 @@
 {
   "entry_id": "biin3_e6e5bae8-d2ad-412e-b701-c994681eb9d5",
-  "﻿headword": "biin",
+  "headword": "biin",
   "morph_type": "stem",
   "pronunciation": "biːn",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "15d49ce0-f774-48d7-9c2d-781886f6881d": {
       "pos": "Verb",

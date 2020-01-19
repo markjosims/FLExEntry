@@ -1,16 +1,13 @@
 {
   "entry_id": "sanajooh_cf70f282-1827-4664-bc8f-4edb4e054802",
-  "﻿headword": "sanajooh",
+  "headword": "sanajooh",
   "morph_type": "stem",
   "pronunciation": "ʃanaˈjo:h",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "021df01d-d0a7-4133-a0a5-947c172aed27": {
       "pos": "Noun",

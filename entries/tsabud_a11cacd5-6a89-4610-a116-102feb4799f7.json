@@ -1,12 +1,12 @@
 {
   "entry_id": "tsabud_a11cacd5-6a89-4610-a116-102feb4799f7",
-  "﻿headword": "tsabud",
+  "headword": "tsabud",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "ɟabud_c59dda44-a224-4265-8c63-5a694be26e01": {
-      "﻿headword": "ɟabud",
+      "headword": "ɟabud",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "Fielnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fielnotes Epps/Obert; 2018"
+  },
   "sense": {
     "93baf37f-6deb-47a4-b509-4d183d5e9024": {
       "pos": "Noun",

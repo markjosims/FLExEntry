@@ -1,16 +1,13 @@
 {
   "entry_id": "jahuun_d45899a6-5980-4a1c-86ef-a41ea8848147",
-  "﻿headword": "jahuun",
+  "headword": "jahuun",
   "morph_type": "stem",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "518f9bc6-e4aa-43fd-9858-6ff78eefe803": {
       "pos": "Noun",

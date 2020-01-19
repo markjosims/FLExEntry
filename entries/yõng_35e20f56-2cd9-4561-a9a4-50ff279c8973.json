@@ -1,16 +1,13 @@
 {
   "entry_id": "yõng_35e20f56-2cd9-4561-a9a4-50ff279c8973",
-  "﻿headword": "yõng",
+  "headword": "yõng",
   "morph_type": "stem",
   "pronunciation": "jõŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1994",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1994"
+  },
   "sense": {
     "4d5986eb-80cc-4290-ba32-6a5c0bf242ce": {
       "pos": "Verb",

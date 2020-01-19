@@ -1,16 +1,13 @@
 {
   "entry_id": "tahũũm_480edbaa-0ba8-4eae-968e-71ba5dbe2438",
-  "﻿headword": "tahũũm",
+  "headword": "tahũũm",
   "morph_type": "stem",
   "pronunciation": "tahũ:m",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "9e8ebf5f-450c-4c4e-a13b-5d071541d0f4": {
       "pos": "n",

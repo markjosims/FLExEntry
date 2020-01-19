@@ -1,0 +1,26 @@
+{
+  "entry_id": "kxʉʉ_83036f6e-eb27-4866-9e07-b59e2136ce94",
+  "headword": "kxʉʉ",
+  "morph_type": "stem",
+  "pronunciation": "kə̰ːʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "Weir 1994"
+    ]
+  },
+  "sense": {
+    "c977f046-fd9c-4717-be19-cc14c37d258c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "stalk"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z"
+}

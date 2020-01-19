@@ -1,16 +1,13 @@
 {
   "entry_id": "sahõnh (hẽ)_55883422-b63e-469c-8862-43624dc70b16",
-  "﻿headword": "sahõnh (hẽ)",
+  "headword": "sahõnh (hẽ)",
   "morph_type": "phrase",
   "pronunciation": "ʃahɔ̃ɲ hẽʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
   "sense": {
     "01bb7545-2aa2-4bfe-a07b-5827aa5b8f34": {
       "pos": "adv",

@@ -1,16 +1,13 @@
 {
   "entry_id": "hxãak_349f393a-4584-4d98-8af4-8b0677f466bf",
-  "﻿headword": "hxãak",
+  "headword": "hxãak",
   "morph_type": "stem",
   "pronunciation": "hã̰ːk",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Weir 1986",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Weir 1986"
+  },
   "sense": {
     "7b63a098-c903-4a56-8c78-37a2026696a5": {
       "pos": "Verb",

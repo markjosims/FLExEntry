@@ -1,20 +1,14 @@
 {
   "entry_id": "waëë_860ebf6f-0614-4d29-b3a5-bc6d391c2301",
-  "﻿headword": "waëë",
+  "headword": "waëë",
   "morph_type": "stem",
   "pronunciation": "waʔǝ:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "Fieldnotes Epps/Obert; 2018",
-      "bibliography"
-    ],
-    [
-      "problem: waʔǝ:ʔ or waʔɨ:ʔ",
-      ""
-    ]
-  ],
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
+    "Note": "problem: waʔǝ:ʔ or waʔɨ:ʔ"
+  },
   "sense": {
     "a246f705-b072-40bb-af1e-a1986882a05f": {
       "pos": "Noun",

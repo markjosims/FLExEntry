@@ -1,16 +1,13 @@
 {
   "entry_id": "badah_e82440f2-0d44-46ba-b8ba-777dbf1a0eb3",
-  "﻿headword": "badah",
+  "headword": "badah",
   "morph_type": "stem",
   "pronunciation": "badah",
   "variant_of": null,
   "these_vars": null,
-  "note": [
-    [
-      "SIL 2011",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "SIL 2011"
+  },
   "sense": {
     "b72bc68e-c154-487d-9fee-2457f25cba60": {
       "pos": "adv",
@@ -22,7 +19,7 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'bada_3607fbf6-6d6b-4cfd-92a8-0ba96e99f2ff': ('Unspecified Variant',)}"
+      "these_vars": "{'bada_3607fbf6-6d6b-4cfd-92a8-0ba96e99f2ff': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
   "date": "2018-03-08T07:17:52Z"

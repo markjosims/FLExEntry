@@ -1,0 +1,28 @@
+{
+  "entry_id": "nʹoo hẽnh_02548d67-7403-4ae6-be8f-4064def13b13",
+  "headword": "nʹoo hẽnh",
+  "morph_type": "phrase",
+  "pronunciation": "no̰: hɛ̃ɲ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "bibliography": [
+      "SIL 2011"
+    ]
+  },
+  "sense": {
+    "ae56a69b-7017-4a32-a8ea-5f87e4558b57": {
+      "pos": "adv op",
+      "gloss": {
+        "pt": "rio.pra.baixo"
+      },
+      "def": {
+        "pt": "rio para baixo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-21T21:43:54Z"
+}

@@ -1,12 +1,12 @@
 {
   "entry_id": "saroop_49b0da68-47ae-42c0-ac17-b23a42c0e42e",
-  "﻿headword": "saroop",
+  "headword": "saroop",
   "morph_type": "root",
   "pronunciation": "",
   "variant_of": null,
   "these_vars": {
     "ʃaɾoːp_0023c0a0-6de7-452a-85b6-0f6e0794014a": {
-      "﻿headword": "ʃaɾoːp",
+      "headword": "ʃaɾoːp",
       "morph_type": "stem",
       "pronunciation": "",
       "these_vars": null,
@@ -27,12 +27,9 @@
       "var_type": "Martins"
     }
   },
-  "note": [
-    [
-      "Fielnotes Epps/Obert; 2018",
-      "bibliography"
-    ]
-  ],
+  "note": {
+    "bibliography": "Fielnotes Epps/Obert; 2018"
+  },
   "sense": {
     "f31aaa4d-7201-4477-a98f-08f73eb6131e": {
       "pos": "Noun",
@@ -44,7 +41,7 @@
         "en": "water vine",
         "pt": "cipó da água"
       },
-      "reverse": "[('cipó da água', 'pt'), ('water vine', 'en')]",
+      "reverse": "{'pt': 'cipó da água', 'en': 'water vine'}",
       "note": "",
       "these_vars": ""
     }
