@@ -5,9 +5,7 @@
   "pronunciation": "ɾama",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 11"
-  },
+  "note": {},
   "sense": {
     "2903878f-fea7-478b-a1bd-4c7c6a4ab183": {
       "pos": "?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 11"
 }

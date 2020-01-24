@@ -5,9 +5,7 @@
   "pronunciation": "kajaɾɛ̃:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "9eb27a7f-abaf-49a4-9779-e2d05d98a8f9": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "ga:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "17fa4cea-ea5e-4fac-9e4d-925efe463ffb": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T21:00:14Z"
+  "date": "2018-03-22T21:00:14Z",
+  "bibliography": "SIL Dict 2011"
 }

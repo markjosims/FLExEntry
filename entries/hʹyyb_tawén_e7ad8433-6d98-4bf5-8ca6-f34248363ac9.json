@@ -5,9 +5,7 @@
   "pronunciation": "hɨ̰:b tawɛn",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lições 15  18"
-  },
+  "note": {},
   "sense": {
     "e4491616-c305-46ed-998f-a2270f89e710": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lições 15  18"
 }

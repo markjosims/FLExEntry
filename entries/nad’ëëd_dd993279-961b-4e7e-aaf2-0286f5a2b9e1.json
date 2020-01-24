@@ -6,7 +6,6 @@
   "variant_of": null,
   "these_vars": null,
   "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018",
     "Note": "problem: naˈdǝʔǝd˺ or naˈdɨʔɨd˺"
   },
   "sense": {
@@ -25,5 +24,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T16:56:37Z"
+  "date": "2018-07-08T16:56:37Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

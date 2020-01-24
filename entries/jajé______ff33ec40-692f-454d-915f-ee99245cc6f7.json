@@ -5,9 +5,7 @@
   "pronunciation": "jajɛ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "68581f10-629c-47c8-b21e-dc12a51f30a7": {
       "pos": "adv",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-27T03:09:54Z"
+  "date": "2018-03-27T03:09:54Z",
+  "bibliography": "SIL Dict 2011"
 }

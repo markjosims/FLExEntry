@@ -5,9 +5,7 @@
   "pronunciation": "ʃɛd dɔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "d403fd87-08d6-4339-91d7-48b0e305cb2c": {
       "pos": "adv",
@@ -22,5 +20,6 @@
       "these_vars": "{'séd nado_d7873eaf-cf36-464a-a057-08f1f705e07b': {'type': '_component-lexeme', 'variant-type': 'Negativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

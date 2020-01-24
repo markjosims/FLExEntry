@@ -5,9 +5,7 @@
   "pronunciation": "aha",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "75f04d15-d086-4211-9772-1a28fe91ff37": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'ahaa_686c862e-f8bb-4b61-8c2d-d07f36bd5a6a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

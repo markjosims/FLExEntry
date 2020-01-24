@@ -18,6 +18,7 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T03:24:13Z",
+          "bibliography": "Weir",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Weir",
@@ -32,6 +33,7 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T03:25:13Z",
+          "bibliography": "Martins",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Martins",
@@ -39,9 +41,7 @@
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "000ae3b8-8b94-4104-a444-cd9775352e8c": {
           "pos": "n",
@@ -57,7 +57,11 @@
         }
       },
       "date": "2018-03-08T07:17:52Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
   "note": null,
@@ -77,5 +81,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z"
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

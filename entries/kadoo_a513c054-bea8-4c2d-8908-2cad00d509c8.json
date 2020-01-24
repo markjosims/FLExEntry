@@ -10,20 +10,17 @@
       "morph_type": "stem",
       "pronunciation": "kado",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": null,
       "date": "2018-03-22T21:21:26Z",
+      "bibliography": "SIL Dict 2011",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Não indicativo"
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "6b9308c9-92c1-4405-bc5e-78d7ea232d3d": {
       "pos": "v",
@@ -36,5 +33,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T21:21:11Z"
+  "date": "2018-03-22T21:21:11Z",
+  "bibliography": "SIL Dict 2011"
 }

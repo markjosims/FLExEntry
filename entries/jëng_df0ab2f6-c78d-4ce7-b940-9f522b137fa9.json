@@ -5,9 +5,7 @@
   "pronunciation": "jəŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "c02501ec-c251-460c-8ea9-0a77d9e5f367": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

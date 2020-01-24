@@ -5,9 +5,7 @@
   "pronunciation": "kawaju",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "0dcf1d83-0e4a-4003-aa0c-b9d0076e306d": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

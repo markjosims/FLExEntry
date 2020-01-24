@@ -5,9 +5,7 @@
   "pronunciation": "paˈpu:j",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "81d6c196-eabe-45cf-9c25-3f10765bbb5b": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T17:43:45Z"
+  "date": "2018-07-07T17:43:45Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

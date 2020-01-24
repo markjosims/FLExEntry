@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "wakã:n",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "03be15fe-2dfd-48de-945e-f2953ed6ccc0": {
           "pos": "n op",
@@ -28,7 +26,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
   "note": null,
@@ -48,5 +50,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z"
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

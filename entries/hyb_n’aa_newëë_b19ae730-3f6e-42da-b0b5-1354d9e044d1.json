@@ -5,9 +5,7 @@
   "pronunciation": "hɨb˺ naʔaʔ neʔˈwǝ:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "85ac41ac-e911-4d6d-8c0d-c3e7cd8fde16": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:20:27Z"
+  "date": "2018-07-10T23:20:27Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

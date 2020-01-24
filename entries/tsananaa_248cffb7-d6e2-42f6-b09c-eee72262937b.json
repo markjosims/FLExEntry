@@ -5,9 +5,7 @@
   "pronunciation": "ɟanana:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "b71f8e84-f4a4-49b2-8f8b-e4e22f4e5fc6": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

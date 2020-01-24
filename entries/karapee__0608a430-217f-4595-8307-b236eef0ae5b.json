@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "kaɾeʔˈpɛʔ",
       "these_vars": null,
-      "note": {
-        "bibliography": "Fieldnotes Epps/Obert; 2018"
-      },
+      "note": {},
       "sense": {
         "f86c939e-6f98-4cb1-8f10-7a106cd916da": {
           "pos": "n",
@@ -30,15 +28,14 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
+      "bibliography": "Fieldnotes Epps/Obert; 2018",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Plural"
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "ec6b2a91-b8ab-44f3-8200-648010fa9137": {
       "pos": "n",
@@ -55,5 +52,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
 }

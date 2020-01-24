@@ -5,9 +5,7 @@
   "pronunciation": "nɨːh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1994"
-  },
+  "note": {},
   "sense": {
     "0c4846b7-4573-4682-801a-2970630de455": {
       "pos": "Pronoun",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
 }

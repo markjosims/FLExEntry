@@ -5,9 +5,7 @@
   "pronunciation": "etɨ:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "9eb8fb8f-3e49-45aa-a76c-8512171d60e7": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'ety_047db998-72df-46aa-a083-13e0b004ec6c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'etʹyy_a39997f8-1af1-4566-b7a9-c7b7b33e8687': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

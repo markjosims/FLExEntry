@@ -5,9 +5,7 @@
   "pronunciation": "kawəh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; licão 14"
-  },
+  "note": {},
   "sense": {
     "6eb011c0-fcdb-4af8-af50-6a4126655604": {
       "pos": "?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; licão 14"
 }

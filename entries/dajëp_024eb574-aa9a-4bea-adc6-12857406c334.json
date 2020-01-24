@@ -5,9 +5,7 @@
   "pronunciation": "daˈjǝp˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "a8675526-039d-459c-b4c8-c3434645200d": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T00:09:23Z"
+  "date": "2018-07-10T00:09:23Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

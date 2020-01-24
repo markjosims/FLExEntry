@@ -5,9 +5,7 @@
   "pronunciation": "badah",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "b72bc68e-c154-487d-9fee-2457f25cba60": {
       "pos": "adv",
@@ -22,5 +20,6 @@
       "these_vars": "{'bada_3607fbf6-6d6b-4cfd-92a8-0ba96e99f2ff': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

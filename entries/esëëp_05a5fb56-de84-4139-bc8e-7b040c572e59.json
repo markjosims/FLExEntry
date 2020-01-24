@@ -5,9 +5,7 @@
   "pronunciation": "eʃə:p",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "18d91980-ef6d-425a-b7ca-30734e93614f": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'esʹëëb_9f29486e-c14a-498d-b807-a3b7daaa0252': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

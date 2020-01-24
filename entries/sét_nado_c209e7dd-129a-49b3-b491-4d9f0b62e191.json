@@ -5,9 +5,7 @@
   "pronunciation": "ʃɛt nado",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; licão 14"
-  },
+  "note": {},
   "sense": {
     "a7326904-2bea-4b3e-b444-c254851fa48c": {
       "pos": "adv?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; licão 14"
 }

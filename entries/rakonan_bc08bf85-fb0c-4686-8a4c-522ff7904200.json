@@ -5,9 +5,7 @@
   "pronunciation": "ɾakonan",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "0cb0fc95-2e15-4b30-9087-5a30543ef0ac": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

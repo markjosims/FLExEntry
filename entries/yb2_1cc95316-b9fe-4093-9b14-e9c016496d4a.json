@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "ʔɨb",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "42d42c73-2b27-4491-b344-2161dd12c409": {
           "pos": "Noun",
@@ -26,7 +24,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
   "note": null,
@@ -46,5 +48,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z"
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

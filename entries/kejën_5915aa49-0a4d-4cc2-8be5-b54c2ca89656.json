@@ -5,9 +5,7 @@
   "pronunciation": "keʔˈjǝdn",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert;2018"
-  },
+  "note": {},
   "sense": {
     "9bd1c084-434c-40ef-b514-fa1f3ef472c0": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T12:16:15Z"
+  "date": "2018-07-10T12:16:15Z",
+  "bibliography": "Fieldnotes Epps/Obert;2018"
 }

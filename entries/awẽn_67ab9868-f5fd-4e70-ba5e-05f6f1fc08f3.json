@@ -5,9 +5,7 @@
   "pronunciation": "awɛ̃n",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "2cdcf756-2f7e-43bd-9bb9-a85978065686": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'awʹẽẽn_a22c479e-38d0-468c-b169-fd203006e2ce': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

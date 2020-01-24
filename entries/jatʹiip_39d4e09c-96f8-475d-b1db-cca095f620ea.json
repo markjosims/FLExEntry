@@ -5,9 +5,7 @@
   "pronunciation": "jatḭ:p",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "5ccb98dd-f3e9-4c12-80a4-d28e01af9fbe": {
       "pos": "adv",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "jaˈwǝk˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "3c8e5517-d5a2-45e6-8a6c-a4a5b6a3086a": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:12:46Z"
+  "date": "2018-09-04T00:12:46Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "pa:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "18bb2726-1e99-418a-ad5b-537ea67f2ac5": {
       "pos": "par",
@@ -22,5 +20,6 @@
       "these_vars": "{'paa_2087aff1-e889-4f5e-981c-e1f275c4e308': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

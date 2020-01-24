@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "hɨŋ",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1986"
-      },
+      "note": {},
       "sense": {
         "a66fe342-ed9b-4d45-9e7c-5365002c356f": {
           "pos": "Verb",
@@ -26,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1986",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "1d403bbc-6626-434c-977a-29615f25b110": {
       "pos": "v",
@@ -46,5 +46,6 @@
       "these_vars": "{'ahyy2_1fa33a5c-430d-45ea-8091-b77ec8ca00d2': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ahyk3_48a9115e-12fc-4ad0-a55e-3ff77821a07b': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'ahyyh2_a4db2ba4-29b1-42d6-ba71-d03347f7bf88': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

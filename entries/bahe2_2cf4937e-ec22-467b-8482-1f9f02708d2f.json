@@ -18,6 +18,7 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:08:24Z",
+          "bibliography": "Barbosa",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Barbosa",
@@ -25,9 +26,7 @@
           }
         }
       },
-      "note": {
-        "bibliography": "se traduz a 'paca' em cartilha 4; lição 18  ição 17"
-      },
+      "note": {},
       "sense": {
         "4973e187-e38a-4d79-b74e-f248f36194ed": {
           "pos": "n",
@@ -43,7 +42,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Cartilhas"
+      "bibliography": "se traduz a 'paca' em cartilha 4; lição 18  ição 17",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     }
   },
   "note": null,
@@ -63,5 +66,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z"
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

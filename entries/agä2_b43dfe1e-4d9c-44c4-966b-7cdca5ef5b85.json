@@ -15,11 +15,10 @@
           "morph_type": "stem",
           "pronunciation": "ajḛ:ɲ",
           "these_vars": null,
-          "note": {
-            "bibliography": "SIL 2011"
-          },
+          "note": {},
           "sense": null,
           "date": "2018-03-22T18:30:56Z",
+          "bibliography": "SIL Dict 2011",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Plural"
@@ -30,11 +29,10 @@
           "morph_type": "stem",
           "pronunciation": "magə̰:",
           "these_vars": null,
-          "note": {
-            "bibliography": "SIL 2011"
-          },
+          "note": {},
           "sense": null,
           "date": "2018-03-22T18:29:08Z",
+          "bibliography": "SIL Dict 2011",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Causativo"
@@ -45,20 +43,17 @@
           "morph_type": "stem",
           "pronunciation": "agə:",
           "these_vars": null,
-          "note": {
-            "bibliography": "SIL 2011"
-          },
+          "note": {},
           "sense": null,
           "date": "2018-03-22T18:27:10Z",
+          "bibliography": "SIL Dict 2011",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Não indicativo"
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "46b51355-1a5b-431a-b504-3aba4f228a2d": {
           "pos": "v",
@@ -70,12 +65,14 @@
         }
       },
       "date": "2018-03-22T18:22:12Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "f04d8c55-09b0-4744-8bbe-2e1ef6eb471f": {
       "pos": "Verb",
@@ -92,5 +89,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T15:40:55Z"
+  "date": "2018-07-10T15:40:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

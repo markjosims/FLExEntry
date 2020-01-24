@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "ɾẽn",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "9a719628-d2e0-4766-a5a5-4f76a9aec468": {
           "pos": "Verb",
@@ -26,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "5db5f38b-08f4-4885-acdf-68dfb87f8352": {
       "pos": "v",
@@ -46,5 +46,6 @@
       "these_vars": "{'karẽn2_0bb585b4-9790-479e-b323-e5503770401b': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'karʹẽẽn_f5926d3f-fb91-496a-9777-ce724a4960ba': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

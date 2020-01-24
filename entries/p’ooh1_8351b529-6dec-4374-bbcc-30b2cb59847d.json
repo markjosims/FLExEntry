@@ -18,15 +18,14 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T03:13:14Z",
+          "bibliography": "Martins",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Martins"
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "342e53f6-409d-440d-a08f-0915cce2e678": {
           "pos": "n",
@@ -42,7 +41,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     },
     "po̰ːh2_54d92d11-2e4d-45ab-b4b2-76011f12d6a6": {
       "headword": "po̰ːh",
@@ -63,12 +66,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Barbosa"
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "86d16bb4-a2a6-4698-85d5-5452423b4cfc": {
       "pos": "",
@@ -85,5 +90,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:33:33Z"
+  "date": "2018-09-03T23:33:33Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

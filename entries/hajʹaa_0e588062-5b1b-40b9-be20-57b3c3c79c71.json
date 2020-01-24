@@ -5,9 +5,7 @@
   "pronunciation": "haja̰:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "9f7fc33b-9323-4f28-9524-ede88d422f89": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'haja_49f6d689-75ba-4e67-ac49-a2dc99d9a511': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'hajaa_db4bc457-c4d3-407e-9132-32165df1027e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

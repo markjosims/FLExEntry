@@ -5,9 +5,7 @@
   "pronunciation": "tʃ’oʔoh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "905f7d66-d1f4-4b4f-9af8-6046f1929d46": {
       "pos": "n op",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

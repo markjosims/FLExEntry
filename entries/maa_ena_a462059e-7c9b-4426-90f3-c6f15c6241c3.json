@@ -5,9 +5,7 @@
   "pronunciation": "ma: ena",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "9bd5ef13-0ca5-4550-9eec-36881dc15ec5": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'maa enaa_56b1a3e3-8588-4e67-9dad-5d1c67ab4eeb': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

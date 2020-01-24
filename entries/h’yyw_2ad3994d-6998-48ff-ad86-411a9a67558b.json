@@ -6,7 +6,6 @@
   "variant_of": null,
   "these_vars": null,
   "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018",
     "Note": "problem: hɨʔɨw or hǝʔǝw"
   },
   "sense": {
@@ -25,5 +24,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:54:43Z"
+  "date": "2018-09-03T23:54:43Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

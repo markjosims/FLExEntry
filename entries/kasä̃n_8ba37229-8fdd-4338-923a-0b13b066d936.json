@@ -5,9 +5,7 @@
   "pronunciation": "kaʃʌ̃n",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "368c6261-51f4-4250-8989-35349bda0711": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'kasʹỹỹn_884bad00-f1bd-4d0d-8a8c-495d4b5d4796': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

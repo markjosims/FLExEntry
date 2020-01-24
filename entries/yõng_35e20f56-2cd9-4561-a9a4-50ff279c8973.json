@@ -5,9 +5,7 @@
   "pronunciation": "jõŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1994"
-  },
+  "note": {},
   "sense": {
     "4d5986eb-80cc-4290-ba32-6a5c0bf242ce": {
       "pos": "Verb",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
 }

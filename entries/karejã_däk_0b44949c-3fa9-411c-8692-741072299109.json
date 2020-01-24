@@ -5,9 +5,7 @@
   "pronunciation": "kareʔˈjã dǝk˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "5e00ef76-a98a-4519-b41f-43937d925e04": {
       "pos": "adj?",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T18:28:24Z"
+  "date": "2018-07-07T18:28:24Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

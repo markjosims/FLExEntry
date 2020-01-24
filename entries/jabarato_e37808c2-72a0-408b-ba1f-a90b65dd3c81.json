@@ -5,9 +5,7 @@
   "pronunciation": "jabaɾaˈtoʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "d0714ff3-13cd-4553-a3c4-6ab362b7f866": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T23:04:37Z"
+  "date": "2018-07-27T23:04:37Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

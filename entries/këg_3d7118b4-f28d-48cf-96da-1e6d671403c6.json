@@ -5,9 +5,7 @@
   "pronunciation": "kǝg",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "86d4ca5d-1c9f-4117-8774-ad915272b7c0": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T19:15:47Z"
+  "date": "2018-07-06T19:15:47Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

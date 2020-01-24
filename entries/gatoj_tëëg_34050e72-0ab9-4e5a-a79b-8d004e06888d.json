@@ -5,9 +5,7 @@
   "pronunciation": "k’aˈtoj",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "81cd25b1-644e-410e-99c6-b16a0bf88e44": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:40:00Z"
+  "date": "2018-09-03T23:40:00Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

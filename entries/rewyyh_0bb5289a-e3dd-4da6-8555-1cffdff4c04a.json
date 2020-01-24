@@ -6,7 +6,6 @@
   "variant_of": null,
   "these_vars": null,
   "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018",
     "Note": "investigate semantics"
   },
   "sense": {
@@ -25,5 +24,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T12:24:16Z"
+  "date": "2018-07-10T12:24:16Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

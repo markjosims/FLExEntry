@@ -5,9 +5,7 @@
   "pronunciation": "həp",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "450e5b32-0196-4d6e-869a-fef32594922f": {
       "pos": "",
@@ -18,5 +16,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
 }

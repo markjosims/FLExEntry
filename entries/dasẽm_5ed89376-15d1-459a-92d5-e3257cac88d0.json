@@ -5,9 +5,7 @@
   "pronunciation": "daˈʃẽm",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "fbeebb81-bc04-4fb4-beab-70250b5690fb": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T00:32:43Z"
+  "date": "2018-07-10T00:32:43Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

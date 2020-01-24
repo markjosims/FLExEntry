@@ -5,9 +5,7 @@
   "pronunciation": "ga",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990"
-  },
+  "note": {},
   "sense": {
     "903adfbe-343b-4267-b1a1-10e5581a01b6": {
       "pos": "pre",
@@ -21,5 +19,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-28T21:04:18Z"
+  "date": "2018-03-28T21:04:18Z",
+  "bibliography": "Weir 1990"
 }

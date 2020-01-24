@@ -10,20 +10,17 @@
       "morph_type": "stem",
       "pronunciation": "etɛ̃:k",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": null,
       "date": "2018-03-27T01:30:54Z",
+      "bibliography": "SIL Dict 2011",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Unspecified Variant"
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "b0ede0fe-0800-45cb-9fe1-00e5d67183a5": {
       "pos": "v onom",
@@ -36,5 +33,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-27T01:30:42Z"
+  "date": "2018-03-27T01:30:42Z",
+  "bibliography": "SIL Dict 2011"
 }

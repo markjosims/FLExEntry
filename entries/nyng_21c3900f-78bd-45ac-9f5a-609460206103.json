@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "nɨŋ",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1990"
-      },
+      "note": {},
       "sense": {
         "3a98b7ec-cc98-47f2-93f7-51cdce1288a4": {
           "pos": "Verb",
@@ -26,7 +24,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1990",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     },
     "nɨng1_843e00b2-7a3a-4cfd-bf66-e56a125e44d3": {
       "headword": "nɨng",
@@ -36,6 +38,7 @@
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:09:39Z",
+      "bibliography": "Weir",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Weir",
@@ -43,9 +46,7 @@
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "9bbd029f-a261-402b-95d1-b62467c5f90d": {
       "pos": "v",
@@ -62,5 +63,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

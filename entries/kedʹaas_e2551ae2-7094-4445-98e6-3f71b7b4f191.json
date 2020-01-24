@@ -5,9 +5,7 @@
   "pronunciation": "keda̰:ʃ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 6 f. 'edas' (bater) e par. 'ky' (?)"
-  },
+  "note": {},
   "sense": {
     "507cb411-04ca-4375-bd17-a8f3fc831f5a": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 6 f. 'edas' (bater) e par. 'ky' (?)"
 }

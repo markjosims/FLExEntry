@@ -5,9 +5,7 @@
   "pronunciation": "jɨ̰ːt",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990"
-  },
+  "note": {},
   "sense": {
     "3d209f75-cf18-4375-9a39-ecdcb0114c3a": {
       "pos": "Verb",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z"
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Weir 1990"
 }

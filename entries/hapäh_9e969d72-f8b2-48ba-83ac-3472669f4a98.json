@@ -5,9 +5,7 @@
   "pronunciation": "haˈpʌh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "87c6f66a-3872-4977-bada-eb6b026a7266": {
       "pos": "v",
@@ -52,5 +50,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

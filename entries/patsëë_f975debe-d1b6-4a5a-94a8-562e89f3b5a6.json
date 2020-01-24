@@ -6,7 +6,6 @@
   "variant_of": null,
   "these_vars": null,
   "note": {
-    "bibliography": "SIL 2011",
     "Note": "cf. atón para s."
   },
   "sense": {
@@ -23,5 +22,6 @@
       "these_vars": "{'patsä_a001213b-da2d-4a32-9275-f46be961428a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

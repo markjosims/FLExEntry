@@ -5,9 +5,7 @@
   "pronunciation": "tʌ nɨ:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "28b93402-207f-4897-bcc9-bc03eac8c7f2": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": "{'ta nyy_0c041358-e3a3-4af9-bd2e-8f9a831c1cfd': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

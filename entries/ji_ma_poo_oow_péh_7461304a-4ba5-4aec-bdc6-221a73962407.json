@@ -5,9 +5,7 @@
   "pronunciation": "ji ma po: ˈʔo:w ˈpɛh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "2a168e51-005e-4508-91cf-1ae4015b6b8f": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T19:46:56Z"
+  "date": "2018-07-27T19:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

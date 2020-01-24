@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "tɔːh",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "d379da3f-efe2-4e2f-b1d4-7c3bfa01bd2c": {
           "pos": "Noun",
@@ -26,7 +24,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     },
     "toːh_7f0b89bd-c145-4365-b20a-74fab09a5887": {
       "headword": "toːh",
@@ -47,7 +49,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Barbosa"
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
     }
   },
   "note": null,
@@ -67,5 +73,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z"
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

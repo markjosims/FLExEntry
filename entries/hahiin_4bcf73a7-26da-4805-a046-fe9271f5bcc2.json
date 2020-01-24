@@ -5,9 +5,7 @@
   "pronunciation": "haˈhi:dn",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "254f244f-4991-48fb-901b-854eddda65f0": {
       "pos": "adj?",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T18:14:41Z"
+  "date": "2018-07-07T18:14:41Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "wʌd",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lições 2; 4; 5; 15; 17; 18  15"
-  },
+  "note": {},
   "sense": {
     "814d3c1a-fc0d-4a28-ab96-64634384e8ad": {
       "pos": "adv?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lições 2; 4; 5; 15; 17; 18  15"
 }

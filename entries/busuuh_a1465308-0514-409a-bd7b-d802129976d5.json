@@ -5,9 +5,7 @@
   "pronunciation": "buʃu:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 2"
-  },
+  "note": {},
   "sense": {
     "b1601ccf-4cca-4c12-8c21-e57e47975ec6": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 2"
 }

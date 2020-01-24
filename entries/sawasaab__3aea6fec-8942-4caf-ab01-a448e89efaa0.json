@@ -5,9 +5,7 @@
   "pronunciation": "ʃawaˈʃa:b˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "83d91993-9d85-4caf-a5cc-3b4a6de77067": {
       "pos": "v",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
 }

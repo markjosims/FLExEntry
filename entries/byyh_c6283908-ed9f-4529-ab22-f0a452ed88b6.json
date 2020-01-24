@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "bɨ:",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado em cartilha 4; lição 13 omo 'Wajats Byy' (embora se screva 'Wajats Bëëh' no ortuguês)"
-      },
+      "note": {},
       "sense": {
         "ef46cc30-1d90-4327-8cdf-98a0d991376e": {
           "pos": "n?",
@@ -28,12 +26,14 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Cartilhas"
+      "bibliography": "encontrado em cartilha 4; lição 13 omo 'Wajats Byy' (embora se screva 'Wajats Bëëh' no ortuguês)",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018, SIL 2011"
-  },
+  "note": {},
   "sense": {
     "cfb04c8a-6cd8-4c8c-a5a3-72eaae768e47": {
       "pos": "n op",
@@ -78,5 +78,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018, SIL 2011"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "peʔˈwɔp˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/ Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "7fbd2f47-c78c-4fd7-9aa5-89ad13550e63": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T18:25:37Z"
+  "date": "2018-07-08T18:25:37Z",
+  "bibliography": "Fieldnotes Epps/ Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "nena",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 3"
-  },
+  "note": {},
   "sense": {
     "b6bb5c0e-0f82-44d6-94fe-a7c2d106d127": {
       "pos": "?",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-26T14:47:07Z"
+  "date": "2018-03-26T14:47:07Z",
+  "bibliography": "encontrado em cartilha 4; lição 3"
 }

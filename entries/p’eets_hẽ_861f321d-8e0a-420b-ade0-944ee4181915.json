@@ -10,9 +10,7 @@
       "morph_type": "phrase",
       "pronunciation": "pḛ:ɟ hɛ̃",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "697195e9-d0b8-46a2-b4e4-7eee1f116ed7": {
           "pos": "adv",
@@ -28,7 +26,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
   "note": null,
@@ -62,5 +64,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T17:37:39Z"
+  "date": "2018-07-07T17:37:39Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

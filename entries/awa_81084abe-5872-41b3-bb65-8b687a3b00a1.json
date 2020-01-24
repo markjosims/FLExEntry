@@ -5,9 +5,7 @@
   "pronunciation": "awa",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "69e7fa0a-9e80-485b-b1e1-85464f8b716e": {
       "pos": "v",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

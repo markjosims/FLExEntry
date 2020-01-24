@@ -5,9 +5,7 @@
   "pronunciation": "hub˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epss/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "d2c9ce0b-546e-43b9-a0e7-7e44fd4015d9": {
       "pos": "adj?",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T18:16:04Z"
+  "date": "2018-07-07T18:16:04Z",
+  "bibliography": "Fieldnotes Epss/Obert; 2018"
 }

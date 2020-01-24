@@ -6,7 +6,6 @@
   "variant_of": null,
   "these_vars": null,
   "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018",
     "Note": "(ta) j’aah tyd"
   },
   "sense": {
@@ -25,5 +24,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T20:49:57Z"
+  "date": "2018-07-06T20:49:57Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

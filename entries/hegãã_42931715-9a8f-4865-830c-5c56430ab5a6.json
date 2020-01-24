@@ -5,9 +5,7 @@
   "pronunciation": "hegã:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; licão 14"
-  },
+  "note": {},
   "sense": {
     "d921a3d7-8633-41bd-a115-4c3c4eb18724": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; licão 14"
 }

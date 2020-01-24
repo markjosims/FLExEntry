@@ -5,9 +5,7 @@
   "pronunciation": "haˈja:ɾǝ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "cd6b8162-97b0-43ac-b876-69675eeaa301": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T23:09:15Z"
+  "date": "2018-07-27T23:09:15Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

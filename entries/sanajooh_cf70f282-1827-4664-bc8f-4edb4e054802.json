@@ -5,9 +5,7 @@
   "pronunciation": "ʃanaˈjo:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "021df01d-d0a7-4133-a0a5-947c172aed27": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:01:52Z"
+  "date": "2018-07-08T17:01:52Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

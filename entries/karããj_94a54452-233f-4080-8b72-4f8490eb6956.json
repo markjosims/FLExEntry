@@ -5,9 +5,7 @@
   "pronunciation": "kaˈɾã:j",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "97310a99-7696-4de1-a7f8-e9f056f93b84": {
       "pos": "Noun",
@@ -38,5 +36,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T19:56:22Z"
+  "date": "2018-07-27T19:56:22Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

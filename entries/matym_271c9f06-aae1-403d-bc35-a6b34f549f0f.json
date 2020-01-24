@@ -5,9 +5,7 @@
   "pronunciation": "maˈtɨbm",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "4dfc33d6-18cb-42d0-ac07-83fa43d80266": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-05T14:02:15Z"
+  "date": "2018-07-05T14:02:15Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

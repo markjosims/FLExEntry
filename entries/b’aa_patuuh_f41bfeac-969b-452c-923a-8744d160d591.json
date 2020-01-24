@@ -5,9 +5,7 @@
   "pronunciation": "baʔah paˈtu:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "e94f2a4a-2b0c-479b-85cf-033f7b6c91d1": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:13:07Z"
+  "date": "2018-07-08T17:13:07Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

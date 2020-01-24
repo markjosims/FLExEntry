@@ -5,9 +5,7 @@
   "pronunciation": "ʔeˈhãm",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "524de672-cfcd-498f-ad8a-ff63f63e40a6": {
       "pos": "v",
@@ -24,5 +22,6 @@
       "these_vars": "{'ehãw_0631abaa-832b-4f9c-a680-67323f0bec57': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ehʹããm_bbd4f12e-b495-4a13-93ac-e28286042fcd': {'type': '_component-lexeme', 'variant-type': 'Causativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
 }

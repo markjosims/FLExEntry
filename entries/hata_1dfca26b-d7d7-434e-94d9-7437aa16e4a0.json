@@ -5,9 +5,7 @@
   "pronunciation": "hata",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "11fdfbfa-53aa-48c9-aafc-e5d7e21ee9b4": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": "{'hataa_7341f5d4-0dea-4b5d-b519-76b8be9caaca': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

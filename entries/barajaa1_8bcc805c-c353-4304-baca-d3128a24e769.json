@@ -5,9 +5,7 @@
   "pronunciation": "ˈbaɾaja:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "a65dc2f6-4c79-409b-a3c8-c4bd2307b7e9": {
       "pos": "n",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T23:18:29Z"
+  "date": "2018-03-22T23:18:29Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

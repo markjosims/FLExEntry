@@ -5,9 +5,7 @@
   "pronunciation": "aɾo:k",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "3788e05c-3f9f-4d44-bdbe-902018a84899": {
       "pos": "n",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T17:09:23Z"
+  "date": "2018-03-22T17:09:23Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

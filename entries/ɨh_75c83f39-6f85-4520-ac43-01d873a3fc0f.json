@@ -5,9 +5,7 @@
   "pronunciation": "ʔɨh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1994"
-  },
+  "note": {},
   "sense": {
     "ace27870-012b-4cda-8296-e3c2ff341b60": {
       "pos": "Verb",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
 }

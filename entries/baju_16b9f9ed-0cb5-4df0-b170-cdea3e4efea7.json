@@ -5,9 +5,7 @@
   "pronunciation": "baˈjuʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "5f3a89d8-db19-4cc0-9e59-a02da258eaf4": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:14:26Z"
+  "date": "2018-07-27T20:14:26Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

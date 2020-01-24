@@ -5,9 +5,7 @@
   "pronunciation": "waˈpǝ:dn",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "00b261d7-dcc3-4ead-a393-e6216cc86b5a": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:36:15Z"
+  "date": "2018-07-10T23:36:15Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

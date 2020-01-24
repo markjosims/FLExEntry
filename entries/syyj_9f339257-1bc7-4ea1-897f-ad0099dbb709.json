@@ -5,9 +5,7 @@
   "pronunciation": "ʃɨ:j",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "8dba5f05-3bc0-435d-9dd5-dde7ea11c2e6": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-05T14:12:40Z"
+  "date": "2018-07-05T14:12:40Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

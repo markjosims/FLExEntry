@@ -10,20 +10,17 @@
       "morph_type": "root",
       "pronunciation": "kõm",
       "these_vars": null,
-      "note": {
-        "bibliography": "grafia não certa"
-      },
+      "note": {},
       "sense": null,
       "date": "2018-03-08T16:55:41Z",
+      "bibliography": "grafia não certa",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Unspecified Variant"
       }
     }
   },
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 7"
-  },
+  "note": {},
   "sense": {
     "f8004460-d3fe-4c66-bf50-ba9eba0950ee": {
       "pos": "?",
@@ -38,5 +35,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 7"
 }

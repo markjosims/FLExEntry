@@ -5,9 +5,7 @@
   "pronunciation": "edo:n",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "5fdb3b75-6a14-4dcc-a9ec-2ce227b9a1bf": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'edón_0a6e9703-c45e-4f5e-a9ca-9cce168f7c6e': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

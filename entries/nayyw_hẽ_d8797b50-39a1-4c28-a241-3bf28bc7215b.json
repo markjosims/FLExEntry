@@ -5,9 +5,7 @@
   "pronunciation": "naɨ:w hɛ̃",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "c0c5edbd-74b4-4633-b165-391c649d9aa5": {
       "pos": "adv",
@@ -22,5 +20,6 @@
       "these_vars": "{'nayyw_48c32115-3de9-4059-b1d6-c262a1704223': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

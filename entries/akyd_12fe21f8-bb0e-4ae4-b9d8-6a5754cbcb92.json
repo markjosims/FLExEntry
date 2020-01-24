@@ -5,9 +5,7 @@
   "pronunciation": "akɨd",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 15"
-  },
+  "note": {},
   "sense": {
     "880998ae-bfd2-4d3d-86d3-d0dde93b5c51": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 15"
 }

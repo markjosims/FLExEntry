@@ -5,9 +5,7 @@
   "pronunciation": "heˈjuʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "d0a41f29-94de-4c97-a1ad-81b049e1ede3": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T13:43:36Z"
+  "date": "2018-07-09T13:43:36Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "wanaˈkud˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "765ef189-3688-4d30-b84d-d69ba2715694": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T19:28:21Z"
+  "date": "2018-07-06T19:28:21Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

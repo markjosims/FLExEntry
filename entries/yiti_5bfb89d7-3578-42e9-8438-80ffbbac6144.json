@@ -5,9 +5,7 @@
   "pronunciation": "jitiʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1986"
-  },
+  "note": {},
   "sense": {
     "834ef68f-d3e2-47c7-8452-6b2a93779466": {
       "pos": "adv?",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986"
 }

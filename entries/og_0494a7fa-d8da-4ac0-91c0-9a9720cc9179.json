@@ -5,9 +5,7 @@
   "pronunciation": "og",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 3; ortografia não certa"
-  },
+  "note": {},
   "sense": {
     "9590b51f-1870-494d-872b-0b8ee8932571": {
       "pos": "?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 3; ortografia não certa"
 }

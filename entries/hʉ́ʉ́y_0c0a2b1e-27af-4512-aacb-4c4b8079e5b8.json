@@ -5,9 +5,7 @@
   "pronunciation": "hʌːj",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1994"
-  },
+  "note": {},
   "sense": {
     "32433533-206e-4950-91f0-1aa1ea989767": {
       "pos": "Noun",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
 }

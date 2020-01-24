@@ -5,9 +5,7 @@
   "pronunciation": "kamãˈɾab˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes  Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "714da4b2-e9d1-4e5a-bb4e-81c73526b361": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Fieldnotes  Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "gõ:j",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "77c89938-b4b1-463d-9659-504f4c8f9ebe": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": "{'gõj_e9a4ed5d-91c0-4580-8d52-9e06d2e7efbd': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

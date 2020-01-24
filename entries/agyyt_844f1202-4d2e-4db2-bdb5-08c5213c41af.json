@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "gəːt",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "b5687563-4e80-4e4c-8047-86179cf6fae2": {
           "pos": "Verb",
@@ -26,11 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
   "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018",
     "Note": "problem:ʔaˈk’ɨ:t˺ or ʔaˈk’ǝ:t˺"
   },
   "sense": {
@@ -46,5 +47,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:14:38Z"
+  "date": "2018-07-10T23:14:38Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

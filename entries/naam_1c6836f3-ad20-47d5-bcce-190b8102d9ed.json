@@ -5,9 +5,7 @@
   "pronunciation": "nã:m",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "836ad4c9-a6c7-4f78-a151-73df4f95dc80": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T14:50:11Z"
+  "date": "2018-07-07T14:50:11Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

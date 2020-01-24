@@ -5,9 +5,7 @@
   "pronunciation": "ena",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "a77ea7bf-f7f2-4dc0-8588-ce5cafa93507": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-28T21:04:53Z"
+  "date": "2018-03-28T21:04:53Z",
+  "bibliography": "SIL Dict 2011"
 }

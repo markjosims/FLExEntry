@@ -5,9 +5,7 @@
   "pronunciation": "maˈʃug˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "869ac389-45ec-4ea1-bd54-bac70424c73b": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:09:18Z"
+  "date": "2018-07-08T17:09:18Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

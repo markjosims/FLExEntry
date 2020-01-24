@@ -5,9 +5,7 @@
   "pronunciation": "koːk",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1994"
-  },
+  "note": {},
   "sense": {
     "af9a43fb-27a6-45d7-9e2d-c45de208723a": {
       "pos": "Verb",
@@ -20,5 +18,6 @@
       "these_vars": "{'koːk2_40a485f9-ff7a-4411-9054-18c5766e39b4': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; arrancar (n.i. kog)'}}"
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
 }

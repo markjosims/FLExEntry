@@ -5,9 +5,7 @@
   "pronunciation": "nɨʔ nɔ̃: k’ɔʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "996a51fe-2d2b-4f82-ad73-94cc2506c26d": {
       "pos": "Question particle",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-11T00:01:31Z"
+  "date": "2018-07-11T00:01:31Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

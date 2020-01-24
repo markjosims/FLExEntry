@@ -5,9 +5,7 @@
   "pronunciation": "gada",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "a8001b80-aea8-4a40-af26-d4a9e704890f": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'gadaa_17659126-2402-4a4a-bc5a-71c1e9e0734f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'gedʹaa_1d0fab41-6b9c-423d-957f-9fa8add5d166': {'type': '_component-lexeme', 'variant-type': 'Ext.(?)'}, 'geda_be647e19-7632-4129-9578-86ae00434ad4': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

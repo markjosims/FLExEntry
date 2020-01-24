@@ -5,9 +5,7 @@
   "pronunciation": "k’eˈhɔ̃k˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "a110f895-5003-4337-b4a3-202471d74c63": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T23:56:28Z"
+  "date": "2018-07-09T23:56:28Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "maˈjɨ:w",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert. 2018"
-  },
+  "note": {},
   "sense": {
     "36e6dd1e-e554-49e0-9e40-7164c8216f21": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-04T13:22:00Z"
+  "date": "2018-07-04T13:22:00Z",
+  "bibliography": "Fieldnotes Epps/Obert. 2018"
 }

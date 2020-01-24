@@ -5,9 +5,7 @@
   "pronunciation": "tata̰:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "37d35f87-6a25-4537-9dd5-ce21c1e67f8b": {
       "pos": "n op",
@@ -22,5 +20,6 @@
       "these_vars": "{'tataah_3a4ece63-7d15-430f-a569-fd308bf3fa91': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

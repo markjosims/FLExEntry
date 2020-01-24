@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "hʌŋ",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado em cartilha 4; licão 14"
-      },
+      "note": {},
       "sense": {
         "d53410b3-307e-4e17-9710-01c6015cee6b": {
           "pos": "?",
@@ -28,12 +26,14 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Cartilhas"
+      "bibliography": "encontrado em cartilha 4; licão 14",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "8ac899b5-87a0-4f40-8381-223334c53938": {
       "pos": "v",
@@ -48,5 +48,6 @@
       "these_vars": "{'dahäng_8ab640ce-f06d-48f7-bdac-ab47cd48ff0a': {'type': '_component-lexeme', 'variant-type': 'Causativo'}, 'ahëë_c341ea39-5565-4c4d-9307-015889a92233': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ahëëh_f552375d-10e3-4742-a485-933874754632': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

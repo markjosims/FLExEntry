@@ -5,9 +5,7 @@
   "pronunciation": "jabaˈɾu:t",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "ef54e133-d197-4f71-bea1-8cd979b41d6c": {
       "pos": "adj?",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:12:07Z"
+  "date": "2018-07-27T20:12:07Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

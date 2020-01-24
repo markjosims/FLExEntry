@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "pɛh",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1990; Weir 1994"
-      },
+      "note": {},
       "sense": {
         "ce5eec29-84d1-4460-9820-3988b7210159": {
           "pos": "Pronoun",
@@ -26,11 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1990; Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
   "note": {
-    "bibliography": "SIL 2011",
     "Note": "'non-referential' relative head marker (Weir 1994)"
   },
   "sense": {
@@ -47,5 +48,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

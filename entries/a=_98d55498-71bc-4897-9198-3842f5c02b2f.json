@@ -5,9 +5,7 @@
   "pronunciation": "ʔa",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011; Weir 1984"
-  },
+  "note": {},
   "sense": {
     "c918bbb6-bb97-4ac6-8b02-0e1553b1f487": {
       "pos": "pro",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Weir 1984"
 }

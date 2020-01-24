@@ -5,9 +5,7 @@
   "pronunciation": "hadɨ̰:t hɛ̃",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "5270d80a-4139-4e17-8951-c397a91cb703": {
       "pos": "adv",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "nu gaʃõ:m",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "6766b1ba-9d1c-4cda-b8d5-639662560974": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'nu gesʹõõm_d6c8f2ab-2832-4af0-8120-e601cb6bbe5e': {'type': '_component-lexeme', 'variant-type': 'Causativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

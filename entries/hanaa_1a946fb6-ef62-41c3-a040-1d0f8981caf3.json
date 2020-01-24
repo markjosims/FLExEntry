@@ -5,9 +5,7 @@
   "pronunciation": "hana:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "41d7a879-295b-4bd6-ba70-fe96b8648c69": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-23T17:23:51Z"
+  "date": "2018-03-23T17:23:51Z",
+  "bibliography": "SIL Dict 2011"
 }

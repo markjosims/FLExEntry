@@ -5,9 +5,7 @@
   "pronunciation": "aɨ̃:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "bed4129c-a622-42e6-81b2-2372039e7c4f": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'aä̃_74df2d38-d4c9-40fb-98a2-8b980f93bfde': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'aỹỹh_c99a1e11-f4d3-4fbd-b8e4-ef98dc3ac38b': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'aä̃h_cc1d9e62-4139-45c2-8acc-9b552effdc3d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "daˈpu:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "0ab4eeb0-d256-4a06-a0c1-9bcbe90ba9e0": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:18:37Z"
+  "date": "2018-07-10T23:18:37Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

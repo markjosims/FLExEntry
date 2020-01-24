@@ -10,20 +10,17 @@
       "morph_type": "stem",
       "pronunciation": "awo:b",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado em cartilha 4; lição 11"
-      },
+      "note": {},
       "sense": null,
       "date": "2018-03-22T18:34:47Z",
+      "bibliography": "encontrado em cartilha 4; lição 11",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Unspecified Variant"
       }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "30b6b00e-35b7-4f21-b03c-a7e38c3e76cd": {
       "pos": "v",
@@ -40,5 +37,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

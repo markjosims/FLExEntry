@@ -5,9 +5,7 @@
   "pronunciation": "baʔah bɔd˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "627d8689-d518-4f95-a30f-342caba19d42": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:10:54Z"
+  "date": "2018-07-08T17:10:54Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

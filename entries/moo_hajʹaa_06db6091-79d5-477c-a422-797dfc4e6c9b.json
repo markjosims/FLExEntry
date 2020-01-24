@@ -5,9 +5,7 @@
   "pronunciation": "mo: haja̰:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "3145b43d-25c5-4e04-84cc-e13164a051a2": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'moo hajaa_4e172768-431f-4ec3-bae9-ac35eb37ca87': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'mo hajʹaa_848df29e-e1a4-4336-95fe-fa222b76d202': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "naˈhɔ̃ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "36b30c82-d56b-4845-900a-fff166a82478": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:33:03Z"
+  "date": "2018-07-10T23:33:03Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

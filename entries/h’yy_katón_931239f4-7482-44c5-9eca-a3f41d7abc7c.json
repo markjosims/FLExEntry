@@ -5,9 +5,7 @@
   "pronunciation": "hɨʔɨʔ kaˈtɔn",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "2cdf9ac6-8951-440c-97c6-815df5effb42": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:23:04Z"
+  "date": "2018-07-10T23:23:04Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

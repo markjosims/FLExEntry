@@ -5,9 +5,7 @@
   "pronunciation": "tɛ̃ŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 9"
-  },
+  "note": {},
   "sense": {
     "ef1dd34f-6494-4ec8-a8b3-cbdd1d5394cf": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 9"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "paˈna:ɾǝ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "31844297-6e39-499c-8f1a-cf67e48f5cb3": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:43:01Z"
+  "date": "2018-09-03T23:43:01Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "poːh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "0866d6e1-87fa-40cb-b705-df42ad61f8ee": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

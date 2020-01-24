@@ -24,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:53Z",
-      "var_type": "Martins"
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "3c8fd640-4ed2-4cb7-ab5b-7ecf87503e1e": {
       "pos": "n",
@@ -44,5 +46,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

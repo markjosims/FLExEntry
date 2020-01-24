@@ -13,6 +13,7 @@
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:15:35Z",
+      "bibliography": "Martins",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Martins",
@@ -24,9 +25,7 @@
       "morph_type": "stem",
       "pronunciation": "ɾo̰ːd",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "6bcd1618-330d-451b-86ee-adb48a38e4e3": {
           "pos": "Verb",
@@ -40,12 +39,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "cb5a288a-7be4-4c63-b65b-7763c235b6d4": {
       "pos": "v",
@@ -60,5 +61,6 @@
       "these_vars": "{'terʹood_65ad6eee-f8b9-44d1-8184-e611ee027971': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

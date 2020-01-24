@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "kaɾaːk",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1990"
-      },
+      "note": {},
       "sense": {
         "a6c3238e-46d5-4c6b-9a8c-6d7a9329c4a1": {
           "pos": "Noun",
@@ -26,16 +24,18 @@
         }
       },
       "date": "2018-06-20T05:09:53Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1990",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     },
     "karaak1_e3fbee0f-140f-4414-9435-89051dc09107": {
       "headword": "karaak",
       "morph_type": "stem",
       "pronunciation": "kaɾa:k",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "b9dc77e8-ae20-417f-bdb3-794ff26151c8": {
           "pos": "n",
@@ -51,7 +51,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
   "note": null,
@@ -71,5 +75,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z"
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

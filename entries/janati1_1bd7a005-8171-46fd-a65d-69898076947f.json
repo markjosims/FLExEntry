@@ -5,9 +5,7 @@
   "pronunciation": "janaˈtiʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "f607def6-b1c8-48ba-b317-5b53c0c63def": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:46:33Z"
+  "date": "2018-09-03T23:46:33Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

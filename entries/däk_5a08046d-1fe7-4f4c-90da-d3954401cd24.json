@@ -5,9 +5,7 @@
   "pronunciation": "dʌk",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1986; 1990 (translated to Port. MS), cartilha 4; lição 10"
-  },
+  "note": {},
   "sense": {
     "450e9534-c055-4c95-bead-8ed86564fd80": {
       "pos": "n?",
@@ -23,5 +21,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Weir 1986; 1990 (translated to Port. MS), cartilha 4; lição 10"
 }

@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "to:g",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "0fbb1173-0c04-4673-8d50-a28d9b2b0fc5": {
           "pos": "n op",
@@ -28,7 +26,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
   "note": null,
@@ -48,5 +50,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z"
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

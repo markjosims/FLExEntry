@@ -5,9 +5,7 @@
   "pronunciation": "kaˈma:n",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "5877717c-b38c-4b01-a40f-bf7b85770b22": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:44:36Z"
+  "date": "2018-09-03T23:44:36Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

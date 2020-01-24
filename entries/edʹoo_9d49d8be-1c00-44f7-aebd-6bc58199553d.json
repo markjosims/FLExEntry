@@ -5,9 +5,7 @@
   "pronunciation": "edo̰:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "738bfde9-8123-4d10-80aa-c6d22cac9bdd": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'redʹoo_b006437b-912f-4b7b-a643-0be0f56b7cab': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "tsapap",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "a057e6a2-cb4c-4fae-9b17-509164eb73b8": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-05T13:51:44Z"
+  "date": "2018-07-05T13:51:44Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

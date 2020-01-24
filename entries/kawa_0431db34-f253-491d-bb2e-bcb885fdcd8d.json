@@ -5,9 +5,7 @@
   "pronunciation": "kaˈwaʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "baa0255c-d216-40c6-9314-c2b8ae598c65": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T13:45:32Z"
+  "date": "2018-07-09T13:45:32Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "pana̰:",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado em cartilha 4; lição 9"
-      },
+      "note": {},
       "sense": {
         "f1ef09d9-7c3b-4206-9e37-2401aa4cb06b": {
           "pos": "v?",
@@ -28,12 +26,14 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Cartilhas"
+      "bibliography": "encontrado em cartilha 4; lição 9",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "125852b9-9c3d-49dc-ac87-02e3bdbc19a7": {
       "pos": "par",
@@ -48,5 +48,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

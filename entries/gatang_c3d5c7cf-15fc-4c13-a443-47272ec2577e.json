@@ -5,9 +5,7 @@
   "pronunciation": "k’aʔˈtagŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "ff68d43e-f3d1-40a4-bd63-4cd4f7b2ac23": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T13:41:12Z"
+  "date": "2018-07-09T13:41:12Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

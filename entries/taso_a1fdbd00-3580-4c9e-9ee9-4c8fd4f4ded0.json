@@ -5,9 +5,7 @@
   "pronunciation": "taʃo",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lições 8  17"
-  },
+  "note": {},
   "sense": {
     "81d7e359-3648-41a4-9768-f71bf2a10c3b": {
       "pos": "?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lições 8  17"
 }

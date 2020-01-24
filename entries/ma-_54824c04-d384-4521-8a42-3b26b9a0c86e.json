@@ -5,9 +5,7 @@
   "pronunciation": "ma",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990"
-  },
+  "note": {},
   "sense": {
     "c1aa92e2-ff1a-446b-a634-3d996ee423f1": {
       "pos": "pre",
@@ -23,5 +21,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-29T04:22:11Z"
+  "date": "2018-03-29T04:22:11Z",
+  "bibliography": "Weir 1990"
 }

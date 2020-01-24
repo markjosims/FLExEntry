@@ -5,9 +5,7 @@
   "pronunciation": "nu ʃawa̰:k",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "9cfe8232-c3c5-435e-8c6e-2780b0bc1008": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'nu sawaag_d4230c17-b08e-494c-a5de-7c931fd7e20c': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

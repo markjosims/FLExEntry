@@ -16,15 +16,15 @@ with open('CharConversions.json', encoding='utf8') as f:
 
 def main():
     df = pd.read_csv(in_file, keep_default_na=False)
-    headwords_only = [not x for x in df['variant'] ]
-    df = df[headwords_only]
-    del headwords_only
+#    headwords_only = [not x for x in df['variant'] ]
+#    df = df[headwords_only]
+#    del headwords_only
     
     ipa = [convert_row(row) for index, row in df.iterrows()]
     headwords = df['headword']
     entry_id = df['entry_id']
     with open("ipa_conv_output.csv", 'w', encoding='utf8') as f:
-        f.write('\uFEFFheadword,ipa,entry_id\n')
+        f.write('headword,ipa,entry_id\n')
         for hdwrd, broad, eid in zip(headwords, ipa, entry_id):
             f.write(hdwrd+','+broad+','+eid+'\n')
     
@@ -48,24 +48,20 @@ def add_all(s, a):
         s.add(item)
         
 def convert_row(row):
-    if "weir" in row['variant'].lower()\
-    or "weir" in row['note'].lower():
+    if "weir" in row['bibliography'].lower():
         return to_ipa( row['headword'], bib="weir" )
     
-    elif "martins" in row['variant'].lower()\
-    or "martins" in row['note'].lower():
+    elif "martins" in row['bibliography'].lower():
         return to_ipa( row['headword'], bib="martins" )
     
-    elif "barbosa" in row['variant'].lower()\
-    or "barbosa" in row['note'].lower():
+    elif "barbosa" in row['bibliography'].lower():
         return to_ipa( row['headword'], bib="barbosa" )
     
-    elif "epps" in row['variant'].lower()\
-    or "epps" in row['note'].lower():
+    elif "epps" in row['bibliography'].lower():
         return to_ipa( row['headword'], bib="eppsob" )
     
-    elif "sil 2011" in row['variant'.lower()]\
-    or "sil 2011" in row['note'].lower():
+    elif "sil" in row['bibliography'].lower() or\
+    "cartilha" in row['bibliography'].lower():
         return to_ipa( row['headword'], bib="sil" )
     
     else:
@@ -73,6 +69,10 @@ def convert_row(row):
 
 @ignore_null
 def to_ipa(s, bib=None):
+    if bib and bib not in ('weir', 'martins', 'barbosa', 'eppsob', 'sil'):
+        bib = get_bib(bib)
+    
+    
     s = s.replace('?', '')
     # for all sources, convert lemma orthography into broad ipa transcription
     out = make_conversions(s)
@@ -84,6 +84,25 @@ def to_ipa(s, bib=None):
     
     return out
     
+def get_bib(bib):
+    bib = bib.lower()
+    if "weir" in bib:
+        return "weir"
+    
+    elif "martins" in bib:
+        return "martins"
+    
+    elif "barbosa" in bib:
+        return "barbosa"
+    
+    elif "epps" in bib:
+        return "eppsob"
+    
+    elif "sil" in bib or "cartilha" in bib:
+        return "sil"
+    
+    else:
+        return None 
 
 def make_conversions(s):
     for conversion, conv_dict in char_conversions.items():
@@ -145,9 +164,12 @@ def fix_long(s, bib):
     out = s
     
     for v, nv in zip(vowels, nasal_vowels):
-        long_vs = (v+v, nv+v, nv+nv)
+        long_vs = (nv+nv, nv+v, v+v)
         for l_v in long_vs:
-            out = out.replace(l_v, l_v[0]+':')
+            tgt = l_v[0]+':'
+            if '\u0303' in l_v:
+                tgt = l_v[0] + '\u0303:'
+            out = out.replace(l_v, tgt)
     
     if out != s and bib in ('barbosa', 'martins'):
         # no change should occur for Barbosa or Martins

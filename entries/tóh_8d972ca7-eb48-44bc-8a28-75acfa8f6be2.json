@@ -5,9 +5,7 @@
   "pronunciation": "tɔh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 5"
-  },
+  "note": {},
   "sense": {
     "baa9fb77-a93c-4e8d-9af2-10f58eff43fc": {
       "pos": "onom?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 5"
 }

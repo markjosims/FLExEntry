@@ -5,9 +5,7 @@
   "pronunciation": "tɨːp",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990"
-  },
+  "note": {},
   "sense": {
     "c2076cad-81e1-4e98-8ec1-9cb00525e238": {
       "pos": "Verb",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990"
 }

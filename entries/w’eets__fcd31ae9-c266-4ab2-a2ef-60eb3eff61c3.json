@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "wḛ:ɟ",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "ab1899b3-906e-4bf8-8f7b-137f1974abb8": {
           "pos": "n",
@@ -28,7 +26,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     },
     "wɛːɟ_6884ab96-6eac-4ba5-928f-9d985edf2221": {
       "headword": "wɛːɟ",
@@ -49,12 +51,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Barbosa"
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "85b71c4a-063f-43d5-9d1e-4a54c6553fde": {
       "pos": "Noun",
@@ -71,5 +75,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T22:38:40Z"
+  "date": "2018-07-27T22:38:40Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

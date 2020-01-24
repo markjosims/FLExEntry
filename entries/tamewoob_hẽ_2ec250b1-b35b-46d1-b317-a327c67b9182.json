@@ -5,9 +5,7 @@
   "pronunciation": "tameʔˈwo:b˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "ca80116d-2820-40c9-9cb0-b8778d1876e1": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T18:24:09Z"
+  "date": "2018-07-08T18:24:09Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

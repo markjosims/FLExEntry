@@ -5,9 +5,7 @@
   "pronunciation": "jaˈno:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "9e409799-d500-44e1-97b4-66925497edde": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T20:57:29Z"
+  "date": "2018-07-07T20:57:29Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

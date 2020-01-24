@@ -5,9 +5,7 @@
   "pronunciation": "ɟaɾaɾɛ̃",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "se traduz 'ser torcido' em cartilha 4; lição 13 artilha 4; lição 9"
-  },
+  "note": {},
   "sense": {
     "9727a434-1d36-4144-bdfa-e890bc9b7624": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'tsararẽ2_66896dbf-a84f-4a97-aad9-0d1abb8199e7': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'tsararʹẽẽ_7782df10-d3ef-4a40-9740-8e8a32c0d2ad': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "se traduz 'ser torcido' em cartilha 4; lição 13 artilha 4; lição 9"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "kamehã̰:k",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "e05e7677-4e81-4cfa-92cf-48e4334f35a1": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'moo kamehããg_7d7d5a40-00e6-4495-92d8-70c2f41170b6': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'kamehããg_98b534b6-4fcc-4f15-9b6c-5eba5298d530': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

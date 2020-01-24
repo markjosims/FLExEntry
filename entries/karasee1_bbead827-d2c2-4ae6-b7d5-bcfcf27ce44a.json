@@ -5,9 +5,7 @@
   "pronunciation": "kaɾaʃe:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "cad29c1d-b5eb-4580-99ff-8a4e5dc15a9d": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": "{'karese_b9d3c621-d2c9-41de-88b3-c40939cb6741': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

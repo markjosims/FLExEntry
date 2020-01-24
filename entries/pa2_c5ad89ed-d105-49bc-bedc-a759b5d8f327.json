@@ -5,9 +5,7 @@
   "pronunciation": "pa",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha  4; lição 4"
-  },
+  "note": {},
   "sense": {
     "d1b242cd-f503-417b-a6f3-995553489fb7": {
       "pos": "pre",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-29T13:01:35Z"
+  "date": "2018-03-29T13:01:35Z",
+  "bibliography": "encontrado em cartilha  4; lição 4"
 }

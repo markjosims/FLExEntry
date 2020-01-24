@@ -24,7 +24,11 @@
         }
       },
       "date": "2018-06-20T05:09:53Z",
-      "var_type": "Martins"
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
     },
     "h’ëëb tym_e85dddba-34fd-4ea5-af27-e708019a241b": {
       "headword": "h’ëëb tym",
@@ -32,7 +36,6 @@
       "pronunciation": "hǝʔǝb tɨbm",
       "these_vars": null,
       "note": {
-        "bibliography": "Fieldnotes Epps/Obert; 2018",
         "Note": "problem: hǝʔǝb tɨbm or hɨʔɨb  tɨbm"
       },
       "sense": {
@@ -52,6 +55,7 @@
         }
       },
       "date": "2018-07-27T19:58:36Z",
+      "bibliography": "Fieldnotes Epps/Obert; 2018",
       "var_type": {
         "type": "_component-lexeme",
         "complex-form-type": "Unspecified Complex Form"
@@ -59,7 +63,6 @@
     }
   },
   "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
     "Note": "(ji) h’ëëb"
   },
   "sense": {
@@ -77,5 +80,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
 }

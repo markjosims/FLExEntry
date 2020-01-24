@@ -5,9 +5,7 @@
   "pronunciation": "wəh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990; Weir 1994"
-  },
+  "note": {},
   "sense": {
     "6d063f8b-7562-436f-9259-acbe34c333c9": {
       "pos": "Verb",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990; Weir 1994"
 }

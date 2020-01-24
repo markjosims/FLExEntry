@@ -24,16 +24,18 @@
         }
       },
       "date": "2018-06-20T05:09:53Z",
-      "var_type": "Martins"
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
     },
     "dooh2_f50666b1-7d7e-449a-8205-0cda6a02f920": {
       "headword": "dooh",
       "morph_type": "stem",
       "pronunciation": "doːh",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "daced675-7fe4-4fa2-b6fe-0a7a33a8cd6e": {
           "pos": "pro?",
@@ -47,12 +49,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "d5260a10-522d-4ebb-bad3-a7b77381e7c5": {
       "pos": "par",
@@ -69,5 +73,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
 }

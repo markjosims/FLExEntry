@@ -5,9 +5,7 @@
   "pronunciation": "gə:bã",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 16"
-  },
+  "note": {},
   "sense": {
     "effb7c71-559d-46ab-8522-7f609a9c5f3c": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 16"
 }

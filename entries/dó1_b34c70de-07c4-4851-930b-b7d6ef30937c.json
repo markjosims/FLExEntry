@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "dɔʔ",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "008871fd-4619-4a18-8f3a-e7084bd3eaf6": {
           "pos": "part?",
@@ -26,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "3322dadc-8d0c-4448-a5bd-c32a1f45c1d6": {
       "pos": "adv",
@@ -46,5 +46,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

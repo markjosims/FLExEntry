@@ -5,9 +5,7 @@
   "pronunciation": "kaɾak",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "251ceaa1-02fa-4994-9a82-0abbc8418f91": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'karag_62409d92-e1a8-40e3-88f3-053f8d755bcb': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

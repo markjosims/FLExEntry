@@ -13,6 +13,7 @@
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:47:51Z",
+      "bibliography": "Martins",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Martins"
@@ -23,9 +24,7 @@
       "morph_type": "phrase",
       "pronunciation": "jiʔˈwi:ʔ",
       "these_vars": null,
-      "note": {
-        "bibliography": "Fieldnotes Epps/Obert; 2018"
-      },
+      "note": {},
       "sense": {
         "05113311-c10a-487a-9113-cc9a011fe458": {
           "pos": "Noun",
@@ -43,6 +42,7 @@
         }
       },
       "date": "2018-07-06T20:27:47Z",
+      "bibliography": "Fieldnotes Epps/Obert; 2018",
       "var_type": {
         "type": "_component-lexeme",
         "is-primary": "true",
@@ -50,9 +50,7 @@
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "3bf27487-edce-4483-aa54-0f2a1ae679ed": {
       "pos": "pro",
@@ -67,5 +65,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

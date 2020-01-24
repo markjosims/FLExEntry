@@ -5,9 +5,7 @@
   "pronunciation": "makũ:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "339a2390-193b-4e46-b7d9-76429e5bf07d": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": "{'dakä_088d21b3-b72e-422c-baab-2a35b7838500': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'dakë_9477178e-c20a-43b8-b4e9-7a91edfad5f8': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

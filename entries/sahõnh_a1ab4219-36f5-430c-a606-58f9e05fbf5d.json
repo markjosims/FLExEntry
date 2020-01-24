@@ -5,9 +5,7 @@
   "pronunciation": "ʃahõɲ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1994"
-  },
+  "note": {},
   "sense": {
     "47f25ff7-6c5b-48a8-90bf-80071db11447": {
       "pos": "n? pro?",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
 }

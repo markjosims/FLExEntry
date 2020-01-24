@@ -18,6 +18,7 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T03:33:08Z",
+          "bibliography": "Barbosa",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Barbosa",
@@ -25,9 +26,7 @@
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "198a656a-bddb-463f-8901-a04cb3d349e6": {
           "pos": "n",
@@ -43,6 +42,7 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
+      "bibliography": "SIL Dict 2011",
       "var_type": {
         "type": "_component-lexeme",
         "is-primary": "true",
@@ -50,9 +50,7 @@
       }
     }
   },
-  "note": {
-    "bibliography": "Fielndotes Epps/Obert; 2018z"
-  },
+  "note": {},
   "sense": {
     "7ab7912a-ba94-4a25-bb50-ddcf8a772df9": {
       "pos": "Noun",
@@ -69,5 +67,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:46:00Z"
+  "date": "2018-09-04T00:46:00Z",
+  "bibliography": "Fielndotes Epps/Obert; 2018z"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "jɛm",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990"
-  },
+  "note": {},
   "sense": {
     "96a1f748-5b3d-4976-8903-e1f536a20685": {
       "pos": "adv?",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990"
 }

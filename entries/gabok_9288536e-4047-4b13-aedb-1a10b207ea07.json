@@ -5,9 +5,7 @@
   "pronunciation": "gabok",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "cartilha 4; lição 4"
-  },
+  "note": {},
   "sense": {
     "282db821-28d3-43a6-bfd5-5f739c562939": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-26T16:29:15Z"
+  "date": "2018-03-26T16:29:15Z",
+  "bibliography": "cartilha 4; lição 4"
 }

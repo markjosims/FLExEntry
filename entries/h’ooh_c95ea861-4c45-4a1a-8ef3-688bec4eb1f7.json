@@ -24,16 +24,18 @@
         }
       },
       "date": "2018-06-20T05:09:53Z",
-      "var_type": "Martins"
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
     },
     "hxóóh2_b044b02d-9a90-4a89-97f6-6723b314e380": {
       "headword": "hxóóh",
       "morph_type": "stem",
       "pronunciation": "hɔ̰ːh",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1986; Weir 1990"
-      },
+      "note": {},
       "sense": {
         "15b1cb7d-2e50-4350-ba50-279aaaabe67b": {
           "pos": "Noun",
@@ -47,7 +49,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1986; Weir 1990",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     },
     "hʹooh_cdd344c3-6d2f-4e37-b2a3-cf9d784437f7": {
       "headword": "hʹooh",
@@ -62,6 +68,7 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:36:15Z",
+          "bibliography": "Weir",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Weir",
@@ -69,9 +76,7 @@
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "bcb81019-a9e2-487c-a95d-81fc3143d276": {
           "pos": "n",
@@ -87,7 +92,11 @@
         }
       },
       "date": "2018-03-08T07:17:52Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
   "note": null,
@@ -107,5 +116,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z"
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

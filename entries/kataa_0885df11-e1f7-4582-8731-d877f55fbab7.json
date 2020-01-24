@@ -5,9 +5,7 @@
   "pronunciation": "kata:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "cd962a77-92e5-4f64-8d18-27b4f9b75d40": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'kata_3eb7ccd4-c020-4a9f-aa39-6024fd8231ea': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

@@ -10,6 +10,7 @@ import json
 import pandas as pd
 from ast import literal_eval
 from datetime import datetime
+from GenerateLexDir import main as gld
 #from PandasExcel import remove_bom, add_bom
 
 master = 'flexicon.csv'
@@ -43,6 +44,8 @@ def main():
         
         if 'bibliography' in note.keys():
             bib = note.pop('bibliography')
+            if bib == 'SIL 2011':
+                bib = 'SIL Dict 2011'
             bib = bib[0] if len(bib)==1 else bib
             
         elif 'martins' in variant or 'martins' in note_str:
@@ -65,7 +68,8 @@ def main():
     
     print(bib_col.count(''))
     flexicon['bibliography'] = bib_col
-    flexicon.to_csv('flexiconNEW.csv')
+    flexicon.to_csv('flexicon.csv')
+    gld()
         
         
 

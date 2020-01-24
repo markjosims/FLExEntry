@@ -5,9 +5,7 @@
   "pronunciation": "gawɛ̃n",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "85489b82-dc9d-4e03-ad2d-a136f079d042": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'gawʹẽẽn_b9edea85-8937-43c2-84c8-a464e854301f': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

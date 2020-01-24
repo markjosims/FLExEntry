@@ -10,11 +10,10 @@
       "morph_type": "phrase",
       "pronunciation": "mo na̰: kawa̰:t",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado en cartilha 4; lição 2"
-      },
+      "note": {},
       "sense": null,
       "date": "2018-03-20T23:00:19Z",
+      "bibliography": "encontrado en cartilha 4; lição 2",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Unspecified Variant"
@@ -25,20 +24,17 @@
       "morph_type": "phrase",
       "pronunciation": "mo: na̰: kawa̰:d",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": null,
       "date": "2018-03-20T22:58:41Z",
+      "bibliography": "SIL Dict 2011",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Não indicativo"
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "61bb1e24-6231-443a-ba04-ad4062d25ca9": {
       "pos": "v",
@@ -53,5 +49,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-20T22:57:47Z"
+  "date": "2018-03-20T22:57:47Z",
+  "bibliography": "SIL Dict 2011"
 }

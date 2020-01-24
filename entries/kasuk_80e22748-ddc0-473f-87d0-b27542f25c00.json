@@ -5,9 +5,7 @@
   "pronunciation": "kaʃuk",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "cb9fef40-4b1b-4ca3-b48f-062d545d3841": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'kasug_0a6b31fb-6433-4d7b-b051-c162f4767c39': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'kesuk_e88be7eb-f37b-4e0c-a513-0e71556555c9': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

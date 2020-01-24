@@ -5,9 +5,7 @@
   "pronunciation": "k’anaˈpog˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "5988c52b-c4a7-40a0-878d-df06c0a3a6f1": {
       "pos": "adj?",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T20:55:06Z"
+  "date": "2018-07-07T20:55:06Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

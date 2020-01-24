@@ -5,9 +5,7 @@
   "pronunciation": "ʃaɾãːp",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1986"
-  },
+  "note": {},
   "sense": {
     "e6ed8205-a75b-492e-b735-026e48c1919b": {
       "pos": "Noun",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986"
 }

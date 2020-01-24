@@ -5,9 +5,7 @@
   "pronunciation": "heˈɾoʔot˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "6fa82561-043e-4219-ac78-208d19594928": {
       "pos": "Verb",
@@ -38,5 +36,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T23:51:42Z"
+  "date": "2018-07-09T23:51:42Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

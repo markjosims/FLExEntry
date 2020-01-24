@@ -5,9 +5,7 @@
   "pronunciation": "ega̰:k",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "800c7fc9-2b48-4677-a088-e7c1e7cbc3a2": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'egaag_ef05545d-dce0-494b-9a22-3d3474a9c500': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

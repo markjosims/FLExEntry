@@ -5,9 +5,7 @@
   "pronunciation": "etə̰:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "004bf7ff-86e6-4e43-b24e-166a28b9023a": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'etʹëë_e8722275-3877-4fed-99c7-d79cb00d40ae': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'etʹëëh2_fc228f01-64d1-4339-a57d-a5ac1cab8d3f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

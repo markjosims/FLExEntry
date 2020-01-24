@@ -5,9 +5,7 @@
   "pronunciation": "pogŋ jɛʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "53146169-ac77-4722-9116-40e9a81a306a": {
       "pos": "adv",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T17:10:49Z"
+  "date": "2018-03-22T17:10:49Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "taˈjuʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "cd1bdf95-2c19-4544-bf47-692a2029f954": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:05:35Z"
+  "date": "2018-07-27T20:05:35Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

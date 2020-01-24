@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 13 20:31:29 2019
-
 @author: marks
 """
 
@@ -89,7 +88,8 @@ def transfer_variants(source, update, flexicon):
     
     for k, v in update.copy().items():
         if v in default_tags:
-            source[k] = update.pop(k)
+            source[k] = {'type': '_component-lexeme',
+                  'variant-type': update.pop(k)}
         elif 'DELETE' in v.upper():
             update.pop(k)
             flexicon.drop(k, inplace=True)

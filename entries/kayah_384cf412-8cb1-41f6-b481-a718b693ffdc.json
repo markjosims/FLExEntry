@@ -5,9 +5,7 @@
   "pronunciation": "kajah",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1986"
-  },
+  "note": {},
   "sense": {
     "d77f95a1-7fb5-4d01-8bb9-fcdac0f24568": {
       "pos": "adv?",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986"
 }

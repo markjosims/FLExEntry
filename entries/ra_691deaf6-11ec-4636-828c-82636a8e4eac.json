@@ -5,9 +5,7 @@
   "pronunciation": "ɾa",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990 (la)"
-  },
+  "note": {},
   "sense": {
     "6704bbec-ab67-4664-8cc6-dccf621623a7": {
       "pos": "pre",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T17:13:55Z"
+  "date": "2018-03-22T17:13:55Z",
+  "bibliography": "Weir 1990 (la)"
 }

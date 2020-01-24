@@ -5,9 +5,7 @@
   "pronunciation": "ji meʔ ˈhe:t˺ ˈpɛh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "d3f3789f-497c-46fc-851e-869de94cdfee": {
       "pos": "",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T19:45:33Z"
+  "date": "2018-07-27T19:45:33Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

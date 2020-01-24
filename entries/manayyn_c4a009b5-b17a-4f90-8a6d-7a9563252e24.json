@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "manaɨːn",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1990"
-      },
+      "note": {},
       "sense": {
         "fab5e3b9-7ef3-4340-9ee4-d9cdfc149c07": {
           "pos": "Noun",
@@ -26,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1990",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "451fd2cd-70b4-4785-a743-cd90333bd2fb": {
       "pos": "n",
@@ -48,5 +48,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

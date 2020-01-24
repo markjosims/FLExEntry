@@ -5,9 +5,7 @@
   "pronunciation": "mã: neʔˈwǝ:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "b84cd77c-3713-4b45-8b23-b33d562e63f4": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T12:15:12Z"
+  "date": "2018-07-10T12:15:12Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

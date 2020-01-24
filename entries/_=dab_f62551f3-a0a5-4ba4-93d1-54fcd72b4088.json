@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "dab",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1990; Weir 1994"
-      },
+      "note": {},
       "sense": {
         "e5e8dd1c-61f9-4c37-a984-5cd3eb190828": {
           "pos": "Noun",
@@ -26,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1990; Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011;  Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "8c804958-f401-4cb4-834d-f68b70f4021d": {
       "pos": "n op",
@@ -48,5 +48,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011;  Fieldnotes Epps/Obert; 2018"
 }

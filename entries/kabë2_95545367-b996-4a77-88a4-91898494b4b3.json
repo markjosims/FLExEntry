@@ -18,6 +18,7 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:52:35Z",
+          "bibliography": "Barbosa",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Barbosa",
@@ -25,9 +26,7 @@
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "8ac6625d-c1b7-4b3c-8b9f-5ddc68261ce9": {
           "pos": "n",
@@ -43,7 +42,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
   "note": null,
@@ -63,5 +66,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z"
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

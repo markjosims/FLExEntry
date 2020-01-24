@@ -18,15 +18,14 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:42:28Z",
+          "bibliography": "Barbosa",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Barbosa"
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
-      },
+      "note": {},
       "sense": {
         "98de5dc6-189c-40fd-bf5d-588fc070fa6b": {
           "pos": "n",
@@ -44,7 +43,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     },
     "ʔɨ̃ːn3_8a3f7405-eec1-49f8-b745-65fb7c006f0c": {
       "headword": "ʔɨ̃ːn",
@@ -65,7 +68,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
   "note": null,
@@ -85,5 +92,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z"
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

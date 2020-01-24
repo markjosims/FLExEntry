@@ -5,9 +5,7 @@
   "pronunciation": "ehõ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "bf184f6a-a427-4cf4-832a-1021b02ff1d0": {
       "pos": "v p",
@@ -22,5 +20,6 @@
       "these_vars": "{'ehũũ_bf3a2c09-ff50-4944-89c6-bf4650437ac1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

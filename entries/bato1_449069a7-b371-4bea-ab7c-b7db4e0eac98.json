@@ -5,9 +5,7 @@
   "pronunciation": "baˈtoʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "2b876c4a-2d5a-471a-a400-fc7b2675aba1": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-08-23T23:45:59Z"
+  "date": "2018-08-23T23:45:59Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

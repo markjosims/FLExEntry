@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "meʔ",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1986"
-      },
+      "note": {},
       "sense": {
         "06d1acf7-f6fb-42db-8940-7f1670215cb0": {
           "pos": "post",
@@ -26,7 +24,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1986",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     },
     "me2_b636faa8-d192-455f-a9c4-c233998d4085": {
       "headword": "me",
@@ -36,6 +38,7 @@
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:01:00Z",
+      "bibliography": "Weir",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Weir",
@@ -43,9 +46,7 @@
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "8924887b-cdf7-4ff1-8f77-11972f9c2cfa": {
       "pos": "posp",
@@ -60,5 +61,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

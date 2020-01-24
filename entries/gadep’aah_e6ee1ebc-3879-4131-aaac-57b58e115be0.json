@@ -5,9 +5,7 @@
   "pronunciation": "k’adeˈpaʔah",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "87619968-796b-456c-bb8a-d6c609145a1e": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:08:56Z"
+  "date": "2018-07-10T23:08:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

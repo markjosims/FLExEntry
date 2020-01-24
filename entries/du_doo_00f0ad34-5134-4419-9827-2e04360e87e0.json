@@ -5,9 +5,7 @@
   "pronunciation": "du do:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "1040d54b-f002-4f07-826d-01add3578cf8": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'du do_f04e460e-1fca-47d3-a451-15fe4f773b94': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

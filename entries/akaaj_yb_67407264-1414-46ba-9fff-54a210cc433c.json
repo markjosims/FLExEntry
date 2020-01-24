@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "ʔaˈka:j",
       "these_vars": null,
-      "note": {
-        "bibliography": "Fielndotes Epps/Obert; 2018"
-      },
+      "note": {},
       "sense": {
         "7b2f74a2-1187-430f-883d-bc7461515afc": {
           "pos": "Noun",
@@ -30,6 +28,7 @@
         }
       },
       "date": "2018-09-04T00:05:48Z",
+      "bibliography": "Fielndotes Epps/Obert; 2018",
       "var_type": {
         "type": "_component-lexeme",
         "is-primary": "true",
@@ -49,15 +48,14 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:43:40Z",
+          "bibliography": "Martins",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Martins"
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "6a0d97cc-a657-454f-854f-61f46e7fb7c7": {
           "pos": "n op",
@@ -75,6 +73,7 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
+      "bibliography": "SIL Dict 2011",
       "var_type": {
         "type": "_component-lexeme",
         "is-primary": "true",
@@ -99,5 +98,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:07:58Z"
+  "date": "2018-09-04T00:07:58Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

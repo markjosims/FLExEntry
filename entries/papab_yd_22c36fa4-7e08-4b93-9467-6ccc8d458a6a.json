@@ -5,9 +5,7 @@
   "pronunciation": "papab˺ ˈʔɨd˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "ee28e349-2c82-4d8c-964e-f023c132303d": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:34:17Z"
+  "date": "2018-07-15T20:34:17Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

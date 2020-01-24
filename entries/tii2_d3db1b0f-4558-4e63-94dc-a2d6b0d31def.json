@@ -24,16 +24,18 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Barbosa"
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
     },
     "tii1_487f32cf-ecef-4acb-b46f-049fe7ed4361": {
       "headword": "tii",
       "morph_type": "stem",
       "pronunciation": "ti:",
       "these_vars": null,
-      "note": {
-        "bibliography": "parece ter uso verbal em muitas ições em cartilha 4"
-      },
+      "note": {},
       "sense": {
         "2b8284c8-5ded-444a-ba33-54dd77d36f31": {
           "pos": "onom",
@@ -49,16 +51,18 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Cartilhas"
+      "bibliography": "parece ter uso verbal em muitas ições em cartilha 4",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     },
     "ti_6e529536-55b7-49da-b65f-093cf90a0686": {
       "headword": "ti",
       "morph_type": "stem",
       "pronunciation": "ti",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado em cartilha 4; varias ições"
-      },
+      "note": {},
       "sense": {
         "c3e01ab7-5336-425c-a22a-b2c899a7bf44": {
           "pos": "?",
@@ -74,7 +78,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Cartilhas"
+      "bibliography": "encontrado em cartilha 4; varias ições",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     },
     "tatɨʔ_bff6445e-d390-4aad-ab41-55bd70892fac": {
       "headword": "tatɨʔ",
@@ -95,11 +103,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
   "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018",
     "Note": "(ta) tii"
   },
   "sense": {
@@ -118,5 +129,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-04-04T19:21:41Z"
+  "date": "2018-04-04T19:21:41Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

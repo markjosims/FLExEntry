@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "hoːɲ",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1990"
-      },
+      "note": {},
       "sense": {
         "31005f5c-fc42-4d7e-bfc2-ce2205c6c02a": {
           "pos": "Noun",
@@ -26,16 +24,18 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1990",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     },
     "hõõnh_42868451-c808-4d59-afa0-bd2bce2b61dc": {
       "headword": "hõõnh",
       "morph_type": "stem",
       "pronunciation": "hõ:ɲ",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado em cartilha 4; lição 15"
-      },
+      "note": {},
       "sense": {
         "b49180bf-eefb-4aa6-8293-79d90f0ee643": {
           "pos": "v",
@@ -51,16 +51,18 @@
         }
       },
       "date": "2018-03-23T14:30:22Z",
-      "var_type": "Cartilhas"
+      "bibliography": "encontrado em cartilha 4; lição 15",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     },
     "hoonh1_485e1de8-8cfa-4e5a-aa46-f0bc283b8323": {
       "headword": "hoonh",
       "morph_type": "stem",
       "pronunciation": "ho:ɲ",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado em cartilha 4; lição 15"
-      },
+      "note": {},
       "sense": {
         "06714875-94ad-416a-bcc6-9d944aea9e37": {
           "pos": "?",
@@ -76,7 +78,11 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Cartilhas"
+      "bibliography": "encontrado em cartilha 4; lição 15",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     }
   },
   "note": null,
@@ -96,5 +102,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z"
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

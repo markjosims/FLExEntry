@@ -5,9 +5,7 @@
   "pronunciation": "haˈhǝ:bm",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011; Fieldnotes Epps/Obert 2018"
-  },
+  "note": {},
   "sense": {
     "cf16c452-b4b1-40f1-87b8-b62a8dcdda71": {
       "pos": "v",
@@ -24,5 +22,6 @@
       "these_vars": "{'hahëëw_fd77a6ed-fbcc-4d9a-9f75-6c822da7adec': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert 2018"
 }

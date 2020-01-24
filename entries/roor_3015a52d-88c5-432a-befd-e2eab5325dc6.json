@@ -24,7 +24,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Barbosa"
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
     },
     "ɾoːɾ_4cf16e5f-320d-49e2-a128-4ae50a674b2b": {
       "headword": "ɾoːɾ",
@@ -45,12 +49,14 @@
         }
       },
       "date": "2018-06-20T05:09:53Z",
-      "var_type": "Martins"
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "8477b726-76d0-4630-9a39-a67f1840cdb1": {
       "pos": "Noun",
@@ -67,5 +73,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:43:14Z"
+  "date": "2018-07-27T20:43:14Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

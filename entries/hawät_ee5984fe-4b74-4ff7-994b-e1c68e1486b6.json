@@ -5,9 +5,7 @@
   "pronunciation": "hawʌt",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 7"
-  },
+  "note": {},
   "sense": {
     "81d0ec1a-1cc0-424c-b3b2-c7d4c47c377c": {
       "pos": "v?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 7"
 }

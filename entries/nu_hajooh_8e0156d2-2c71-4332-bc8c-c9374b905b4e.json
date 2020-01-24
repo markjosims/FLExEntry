@@ -5,9 +5,7 @@
   "pronunciation": "nu hajo:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "a42313c2-bde0-4404-9e5a-2b132e0b8fb4": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'nu hajóh_6bf1f3bb-dcb1-4824-a92d-de6b44718126': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

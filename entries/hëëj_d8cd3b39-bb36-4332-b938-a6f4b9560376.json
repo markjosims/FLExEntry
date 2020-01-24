@@ -13,6 +13,7 @@
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:34:19Z",
+      "bibliography": "Barbosa",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Barbosa",
@@ -20,9 +21,7 @@
       }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "3e07042d-6ad2-4334-a9dd-65ffa7f1cc5f": {
       "pos": "n",
@@ -39,5 +38,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "ʔəːn",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990; Weir 1994"
-  },
+  "note": {},
   "sense": {
     "79da03e1-4a27-4135-8017-085bcee7a754": {
       "pos": "Noun",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990; Weir 1994"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "ahəm",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "a4aea16f-64e1-4bdc-8411-ad2ed5a6900c": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-26T15:16:18Z"
+  "date": "2018-03-26T15:16:18Z",
+  "bibliography": "SIL Dict 2011"
 }

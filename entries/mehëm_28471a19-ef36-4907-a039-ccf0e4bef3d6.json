@@ -5,9 +5,7 @@
   "pronunciation": "me'hǝbm",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "1437ba31-e115-4332-a0f1-841dd59837a6": {
       "pos": "Verb",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T18:36:45Z"
+  "date": "2018-07-08T18:36:45Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

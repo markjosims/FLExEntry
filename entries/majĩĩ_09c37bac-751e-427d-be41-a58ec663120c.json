@@ -5,9 +5,7 @@
   "pronunciation": "majĩ:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "cda22660-faca-483a-8a4f-06875d500273": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": "{'majẽ ỹỹ_6c0165cc-4959-42c0-93b9-412aca283abd': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

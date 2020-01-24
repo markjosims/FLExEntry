@@ -5,9 +5,7 @@
   "pronunciation": "bʌʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1986; Weir 1990"
-  },
+  "note": {},
   "sense": {
     "764be976-ed27-495c-921b-c40cb3a6f56b": {
       "pos": "post",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986; Weir 1990"
 }

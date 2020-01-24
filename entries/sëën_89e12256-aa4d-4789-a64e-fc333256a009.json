@@ -24,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Barbosa"
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "5c784c5b-38e2-421f-add2-dffe0f786aec": {
       "pos": "Noun",
@@ -46,5 +48,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T20:30:39Z"
+  "date": "2018-07-06T20:30:39Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

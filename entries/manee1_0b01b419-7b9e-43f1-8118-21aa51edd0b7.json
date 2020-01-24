@@ -5,9 +5,7 @@
   "pronunciation": "mãnẽ:ʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018z"
-  },
+  "note": {},
   "sense": {
     "ccb1c736-e479-487d-aa05-d74fb2f3f1cc": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:04:27Z"
+  "date": "2018-09-04T00:04:27Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018z"
 }

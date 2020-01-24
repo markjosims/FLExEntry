@@ -13,6 +13,7 @@
       "note": null,
       "sense": null,
       "date": "2018-06-20T03:45:39Z",
+      "bibliography": "Martins",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Martins",
@@ -20,9 +21,7 @@
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "1ab6285d-23e9-45e5-a7cc-1500226c8600": {
       "pos": "n",
@@ -37,5 +36,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

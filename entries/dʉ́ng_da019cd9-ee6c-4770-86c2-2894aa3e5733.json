@@ -5,9 +5,7 @@
   "pronunciation": "dʌŋ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1986"
-  },
+  "note": {},
   "sense": {
     "32f40b45-9213-485c-9865-f67b353bb7fb": {
       "pos": "Verb",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "mana:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "3dc7d08c-b772-4047-88f7-269b129dba53": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'mana1_969e27e7-634a-41d6-8edd-afaee3c494ab': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

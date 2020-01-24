@@ -24,7 +24,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Barbosa"
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
     },
     "ɟa̰ːʔ1_a058b08f-ae3d-4e0a-8148-0072620999d7": {
       "headword": "ɟa̰ːʔ",
@@ -34,15 +38,14 @@
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:50:06Z",
+      "bibliography": "Barbosa",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Barbosa"
       }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "0c15c446-085e-4f2f-b3e4-07009775e872": {
       "pos": "n",
@@ -59,5 +62,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

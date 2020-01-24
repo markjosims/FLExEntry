@@ -5,9 +5,7 @@
   "pronunciation": "mãɉ’eʔˈhɨ̃:k˺",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fielnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "60386658-4087-43a6-993c-100c8138b09a": {
       "pos": "v",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-23T15:53:01Z"
+  "date": "2018-03-23T15:53:01Z",
+  "bibliography": "Fielnotes Epps/Obert; 2018"
 }

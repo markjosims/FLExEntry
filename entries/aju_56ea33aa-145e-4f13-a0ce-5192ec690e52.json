@@ -5,9 +5,7 @@
   "pronunciation": "ʔaˈjuʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "aad23cec-165e-476b-982d-1ce2333d251a": {
       "pos": "adj?",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:13:24Z"
+  "date": "2018-07-27T20:13:24Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

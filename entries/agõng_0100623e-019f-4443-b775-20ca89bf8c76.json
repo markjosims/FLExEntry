@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "gõŋ",
       "these_vars": null,
-      "note": {
-        "bibliography": "em cartilha 4; lição 1"
-      },
+      "note": {},
       "sense": {
         "326a56ee-0d71-4230-8bfc-7a1799534060": {
           "pos": "v?",
@@ -28,12 +26,14 @@
         }
       },
       "date": "2018-04-03T23:23:26Z",
-      "var_type": "Cartilhas"
+      "bibliography": "em cartilha 4; lição 1",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "6e8e07f3-28a9-4adb-b230-f819c944b12a": {
       "pos": "v",
@@ -48,5 +48,6 @@
       "these_vars": "{'agõõ&#xA;agõõh_1d766776-1931-480e-977b-b58d276ced0d': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'agõõh_6c755d0f-ffd9-4912-88d2-daaf488e9cf3': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

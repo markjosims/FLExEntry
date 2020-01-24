@@ -5,9 +5,7 @@
   "pronunciation": "taɾaˈpo:",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "62b8ed0f-48aa-4a8a-a1c8-3f7ac323e420": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:20:09Z"
+  "date": "2018-09-04T00:20:09Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

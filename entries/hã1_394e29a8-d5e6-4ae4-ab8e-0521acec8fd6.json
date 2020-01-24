@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "hãʔ",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1986; Weir 1990"
-      },
+      "note": {},
       "sense": {
         "efcdf5dd-3acd-4522-9ee8-d3bfe838653e": {
           "pos": "post",
@@ -26,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1986; Weir 1990",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "bae33632-023a-43fa-8d51-7f8b94477d8d": {
       "pos": "posp",
@@ -46,5 +46,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

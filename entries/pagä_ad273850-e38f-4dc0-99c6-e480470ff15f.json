@@ -5,9 +5,7 @@
   "pronunciation": "pagʌ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 4"
-  },
+  "note": {},
   "sense": {
     "e15a640f-2051-4b54-92b9-da7fd8180204": {
       "pos": "?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 4"
 }

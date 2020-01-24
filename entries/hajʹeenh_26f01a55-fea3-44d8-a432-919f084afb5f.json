@@ -5,9 +5,7 @@
   "pronunciation": "hajḛ:ɲ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 3"
-  },
+  "note": {},
   "sense": {
     "4f28851e-1c45-48d6-a628-c0f98b840ed6": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 3"
 }

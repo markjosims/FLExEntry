@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "ɨd",
       "these_vars": null,
-      "note": {
-        "bibliography": "encontrado em cartilha 4; lição 2"
-      },
+      "note": {},
       "sense": {
         "116e58fa-335b-410f-834f-9a3eaa553042": {
           "pos": "?",
@@ -28,12 +26,14 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "Cartilhas"
+      "bibliography": "encontrado em cartilha 4; lição 2",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "4f1ffcc8-89dd-465c-afaa-dd5aaf49639d": {
       "pos": "n",
@@ -48,5 +48,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

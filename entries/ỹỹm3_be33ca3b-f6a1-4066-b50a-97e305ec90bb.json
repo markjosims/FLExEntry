@@ -18,15 +18,14 @@
           "note": null,
           "sense": null,
           "date": "2018-06-20T02:41:34Z",
+          "bibliography": "Martins",
           "var_type": {
             "type": "_component-lexeme",
             "variant-type": "Martins"
           }
         }
       },
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "32600c78-a96b-4def-aa2b-f3c475c42fb6": {
           "pos": "n",
@@ -42,16 +41,18 @@
         }
       },
       "date": "2018-03-08T07:17:53Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     },
     "ɨɨm_d43b320e-3a28-431e-897d-97757c461f9f": {
       "headword": "ɨɨm",
       "morph_type": "stem",
       "pronunciation": "ʔɨːm",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "d7f78951-6d34-4d24-b872-dd997cccbdd7": {
           "pos": "Noun",
@@ -65,7 +66,11 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
   "note": null,
@@ -85,5 +90,6 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z"
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "nahʌːh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Weir 1990; Weir 1994"
-  },
+  "note": {},
   "sense": {
     "8aa075ca-a6d4-4f87-b38a-00ec3971b01e": {
       "pos": "",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z"
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990; Weir 1994"
 }

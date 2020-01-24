@@ -5,9 +5,7 @@
   "pronunciation": "tama",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "fab79933-5699-4b6b-a062-a9cb5fc17138": {
       "pos": "v",
@@ -22,5 +20,6 @@
       "these_vars": "{'tamaa_8f24b528-f97d-4d68-8bb1-3f78a7be44c1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

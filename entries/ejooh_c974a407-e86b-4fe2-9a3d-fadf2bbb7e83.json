@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "jɔːh",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "0db286de-5996-4c6a-b98d-192808062521": {
           "pos": "Verb",
@@ -26,16 +24,18 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     },
     "ajooh_6b941ece-fe4f-4d4e-a905-9b463ae697d4": {
       "headword": "ajooh",
       "morph_type": "stem",
       "pronunciation": "ajo:h",
       "these_vars": null,
-      "note": {
-        "bibliography": "SIL 2011"
-      },
+      "note": {},
       "sense": {
         "9b2e3474-7e9b-4165-9907-91fefd1ce14e": {
           "pos": "v",
@@ -51,12 +51,14 @@
         }
       },
       "date": "2018-03-08T07:17:52Z",
-      "var_type": "SIL Dict 2011"
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "bbf9ec9e-d88d-4144-b402-b8c622e69cac": {
       "pos": "v",
@@ -87,5 +89,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

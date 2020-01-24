@@ -5,9 +5,7 @@
   "pronunciation": "kɔbm",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "9e4aac3d-a335-44e5-b2e2-e7e8d10a8df6": {
       "pos": "n",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-23T16:07:18Z"
+  "date": "2018-03-23T16:07:18Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

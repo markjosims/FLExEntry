@@ -10,9 +10,7 @@
       "morph_type": "stem",
       "pronunciation": "pɔ̰ːjub",
       "these_vars": null,
-      "note": {
-        "bibliography": "Weir 1994"
-      },
+      "note": {},
       "sense": {
         "fb1ced58-8719-4453-8745-a66a8dd1bf7c": {
           "pos": "Adverb",
@@ -26,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:54Z",
-      "var_type": "Weir"
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "4720225d-9cb6-43ec-ab59-dfb89b42b27a": {
       "pos": "adv",
@@ -46,5 +46,6 @@
       "these_vars": "{'pʹooj up_d243caec-72a6-40fa-a4e3-d9422bad97fc': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

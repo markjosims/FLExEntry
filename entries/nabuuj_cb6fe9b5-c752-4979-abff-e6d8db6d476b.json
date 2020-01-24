@@ -6,7 +6,6 @@
   "variant_of": null,
   "these_vars": null,
   "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018",
     "Note": "(ji) nabuuj"
   },
   "sense": {
@@ -25,5 +24,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T18:59:24Z"
+  "date": "2018-07-06T18:59:24Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

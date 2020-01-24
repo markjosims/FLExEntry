@@ -24,12 +24,14 @@
         }
       },
       "date": "2018-06-20T05:09:53Z",
-      "var_type": "Martins"
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
     }
   },
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "06828f55-93eb-4a3a-9427-3a116cbdfc2b": {
       "pos": "Noun",
@@ -46,5 +48,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:14:42Z"
+  "date": "2018-09-04T00:14:42Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

@@ -5,9 +5,7 @@
   "pronunciation": "ɾahanad",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "1fac5b2e-aea1-4a02-9450-9d9f9c569943": {
       "pos": "n",
@@ -22,5 +20,6 @@
       "these_vars": "{'rahana_9124a74d-9b78-4331-acbf-99f4a85482e2': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z"
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
 }

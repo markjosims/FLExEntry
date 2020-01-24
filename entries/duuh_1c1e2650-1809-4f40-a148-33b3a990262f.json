@@ -24,7 +24,11 @@
         }
       },
       "date": "2018-06-20T05:09:53Z",
-      "var_type": "Martins"
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
     },
     "duːh1_b4bc3933-afcd-45d9-9eea-c1dc19d0f3b5": {
       "headword": "duːh",
@@ -34,6 +38,7 @@
       "note": null,
       "sense": null,
       "date": "2018-06-20T02:16:50Z",
+      "bibliography": "Martins",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Martins",
@@ -41,9 +46,7 @@
       }
     }
   },
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "034a0409-242f-4bb1-a927-c33794ddb359": {
       "pos": "n op",
@@ -58,5 +61,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
 }

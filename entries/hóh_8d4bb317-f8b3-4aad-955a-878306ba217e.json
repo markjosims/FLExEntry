@@ -5,9 +5,7 @@
   "pronunciation": "hɔh",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 6"
-  },
+  "note": {},
   "sense": {
     "0b9287cf-a869-45e9-962a-288d71b29ff5": {
       "pos": "interj?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 6"
 }

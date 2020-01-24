@@ -5,9 +5,7 @@
   "pronunciation": "jeʔˈwaʔ",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "10bef4c5-594e-483b-87a7-dfbe9a7b3d95": {
       "pos": "Verb",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T13:47:11Z"
+  "date": "2018-07-09T13:47:11Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

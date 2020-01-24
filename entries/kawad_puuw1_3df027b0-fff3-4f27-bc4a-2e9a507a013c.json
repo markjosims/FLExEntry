@@ -5,9 +5,7 @@
   "pronunciation": "kaˈwad pu:w",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "7d751aa3-1b35-4a2a-9c4b-60a29dcba06a": {
       "pos": "Noun",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:31:48Z"
+  "date": "2018-09-03T23:31:48Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

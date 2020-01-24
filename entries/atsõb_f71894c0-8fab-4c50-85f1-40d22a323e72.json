@@ -5,9 +5,7 @@
   "pronunciation": "aɟõb",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "SIL 2011"
-  },
+  "note": {},
   "sense": {
     "c22a5392-61c4-45d1-bfa5-9c4d0a17ba06": {
       "pos": "n",
@@ -20,5 +18,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T22:54:14Z"
+  "date": "2018-03-22T22:54:14Z",
+  "bibliography": "SIL Dict 2011"
 }

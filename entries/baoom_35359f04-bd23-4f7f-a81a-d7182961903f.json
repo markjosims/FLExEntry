@@ -5,9 +5,7 @@
   "pronunciation": "bao:m",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 17"
-  },
+  "note": {},
   "sense": {
     "e6913542-93c7-4295-bd41-d28397f714d6": {
       "pos": "?",
@@ -22,5 +20,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-23T16:13:58Z"
+  "date": "2018-03-23T16:13:58Z",
+  "bibliography": "encontrado em cartilha 4; lição 17"
 }

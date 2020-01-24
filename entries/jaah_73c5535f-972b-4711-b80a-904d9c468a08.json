@@ -5,9 +5,7 @@
   "pronunciation": "ja:h",
   "variant_of": null,
   "these_vars": null,
-  "note": {
-    "bibliography": "Fieldnotes Epps/Obert; 2018"
-  },
+  "note": {},
   "sense": {
     "c9f767f7-b1b3-4859-b9bf-21721018cdf4": {
       "pos": "Question particle",
@@ -24,5 +22,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-11T00:07:32Z"
+  "date": "2018-07-11T00:07:32Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
 }

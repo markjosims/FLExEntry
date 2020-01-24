@@ -28,12 +28,14 @@
         }
       },
       "date": "2019-01-14T03:46:55Z",
-      "var_type": "Cartilhas"
+      "bibliography": "Fieldnotes Epps/Obert; 2018",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
     }
   },
-  "note": {
-    "bibliography": "encontrado em cartilha 4; lição 10"
-  },
+  "note": {},
   "sense": {
     "8c1aad7d-4892-42d9-ae54-1bb16ebcef00": {
       "pos": "?",
@@ -48,5 +50,6 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z"
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado em cartilha 4; lição 10"
 }
