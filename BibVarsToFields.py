@@ -28,9 +28,14 @@ def main():
             if 'variant-type' not in v_dict:
                 continue
             bib = get_bib(v_dict['variant-type'])
+            if not bib:
+                continue
             
             these_bib_vars[bib] = flexicon.at[v_id, 'headword']
             flexicon.drop(v_id, inplace=True)
+        if not these_bib_vars:
+            continue
+        assert index in flexicon.index, index
         flexicon.at[index, 'other_sources'] = str(these_bib_vars)
     
     print(len(flexicon))

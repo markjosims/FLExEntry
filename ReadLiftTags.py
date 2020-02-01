@@ -21,7 +21,8 @@ def tag_globals():
                   '<relation type':read_variant,
                   '<lexical-unit>':read_lu,
                   '<sense':read_sense_wrapper,
-                  "<trait  name='morph-type'":read_morph_type
+                  "<trait  name='morph-type'":read_morph_type,
+                  '<field type="':read_custom_field
                   }
     entry_keys =   {'dateModified':'date',
                     '<pronunciation':'pronunciation',
@@ -29,7 +30,8 @@ def tag_globals():
                     '<relation type':'variant_of',
                     '<lexical-unit>':'headword',
                     '<sense':'sense',
-                    "<trait  name='morph-type'":'morph_type'
+                    "<trait  name='morph-type'":'morph_type',
+                    '<field type="':'other_forms'
                     }
     sense_tags = {'<definition>':read_definition,
                   '<grammatical-info':read_pos,
@@ -48,7 +50,7 @@ def read_entry(r, id_only=False):
     open_tag = read_decode(r)
     assert open_tag.startswith('<entry')
     
-    entry_id = get_xml_kwarg(open_tag, 'id')
+    entry_id = get_xml_attr(open_tag, 'id')
     if entry_id.startswith('='):
         entry_id = ' ' + entry_id
     if not id_only:
@@ -56,8 +58,10 @@ def read_entry(r, id_only=False):
         entry_data['note'] = {}
         entry_data['sense'] = []
         entry_data['variant_of'] = {}
+        entry_data['other_forms'] = {}
         entry_data['entry_id'] = entry_id
-        entry_data['date'] = get_xml_kwarg(open_tag, 'dateCreated')
+        entry_data['date'] = get_xml_attr(open_tag, 'dateCreated')
+        entry_data['date_modified'] = get_xml_attr(open_tag, 'date_modified')
     
     line, line_bytes = r_d_bytes(r)
     while True:
@@ -92,7 +96,7 @@ def read_sense(r, id_only=False):
     open_tag = read_decode(r)
     assert open_tag.startswith('<sense')
     
-    sense_id = get_xml_kwarg(open_tag, 'id')
+    sense_id = get_xml_attr(open_tag, 'id')
     if not id_only:
         sense_data = {k:None for k in sense_keys.values()}
         sense_data['sense_id'] = sense_id
@@ -141,7 +145,7 @@ def read_definition(r):
     this_def = {}
     s = read_decode(r)
     while s != '</definition>':
-        lang = get_xml_kwarg(s, 'lang')
+        lang = get_xml_attr(s, 'lang')
         assert lang not in this_def.keys(), lang
         def_str = read_form(s)
         this_def[lang] = def_str
@@ -167,14 +171,14 @@ def read_variant(r):
     return variants
 
 def get_variant(s, r):
-    ref = get_xml_kwarg(s, 'ref')
+    ref = get_xml_attr(s, 'ref')
     ref = ref if ref else 'null'
-    var_type = get_xml_kwarg(s, 'type')
+    var_type = get_xml_attr(s, 'type')
     data = {'type': var_type}
     s = read_decode(r)
     while s.startswith('<trait '):
-        name = get_xml_kwarg(s, 'name')
-        value = get_xml_kwarg(s, 'value')
+        name = get_xml_attr(s, 'name')
+        value = get_xml_attr(s, 'value')
         assert name in ('variant-type', 'complex-form-type', 'is-primary'), name
         if name in data and type(data[name]) is tuple:
             data[name] = (*data[name], value)
@@ -215,7 +219,7 @@ def get_note(s, r):
     if s == '<note>':
         note_type = 'Note'
     else:
-        note_type = get_xml_kwarg(s, 'type')
+        note_type = get_xml_attr(s, 'type')
     s = read_decode(r)
     notes = []
     while s.startswith('<form '):
@@ -251,13 +255,28 @@ def read_gloss(r):
     return glosses
     
 def get_gloss(s):
-    lang = get_xml_kwarg(s, 'lang')
+    lang = get_xml_attr(s, 'lang')
     assert lang in ('pt', 'en'), lang
     s = read_span(s)
     s = re_gloss.sub("", s)
     s = read_text(s)
     assert 'gloss>' not in s
     return (s.strip(), lang)
+
+def read_custom_field(r):
+    data = {}
+    line, line_bytes = r_d_bytes(r)
+    while line.startswith('<field'):
+        datum_type = get_xml_attr(line, 'type')
+        line = read_decode(r)
+        datum = read_form(line)
+        assert datum_type not in data
+        data[datum_type] = datum
+        line = read_decode(r)
+        assert line.startswith('</field>')
+        line, line_bytes = r_d_bytes(r)
+    step_back(r, line_bytes)
+    return data
 
 def read_reversal(r):
     revs = {}
@@ -272,7 +291,7 @@ def read_reversal(r):
     return revs
 
 def get_reversal(s, r):
-    lang = get_xml_kwarg(s, 'lang')
+    lang = get_xml_attr(s, 'lang')
     assert lang in ('pt', 'en'), lang
     s = read_span(s)
     s = re_rev.sub("", s)
@@ -291,7 +310,7 @@ def read_lu(r):
     open_tag = read_decode(r)
     assert open_tag == '<lexical-unit>', open_tag
     s = read_decode(r)
-    lang = get_xml_kwarg(s, 'lang')
+    lang = get_xml_attr(s, 'lang')
     assert lang == 'mbj', lang
     s = read_form(s)
     end_tag = read_decode(r)
@@ -300,14 +319,14 @@ def read_lu(r):
     
 def read_morph_type(r):
     s = read_decode(r)
-    assert get_xml_kwarg(s, 'name') == 'morph-type'
-    return get_xml_kwarg(s, 'value')
+    assert get_xml_attr(s, 'name') == 'morph-type'
+    return get_xml_attr(s, 'value')
 
 def read_pos(r):
     s = read_decode(r)
     end_tag = read_decode(r)
     assert end_tag == '</grammatical-info>'
-    return get_xml_kwarg(s, 'value')
+    return get_xml_attr(s, 'value')
 
 def read_decode(r):
     line = r.readline()
@@ -329,7 +348,7 @@ def step_back(r, line_bytes):
     offset = len(line_bytes) * -1
     r.seek(offset, 1)
 
-def get_xml_kwarg(s, label):
+def get_xml_attr(s, label):
     split = s.split(sep="'")
     kwarg_found = False
     for chunk in split:

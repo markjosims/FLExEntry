@@ -11,8 +11,8 @@ from time import time
 import pandas as pd
 
 in_file = 'export.lift'
-out_file = 'flexicon.csv'
-senses_file = 'flex_senses.csv'
+out_file = 'flexiconTEST.csv'
+senses_file = 'flex_sensesTEST.csv'
 
 # decorator
 def time_exec(f):
@@ -29,7 +29,7 @@ def main():
     entries_df = get_entries_df()
     get_these_vars(entries_df, entries_df)
     entries_df = entries_df.loc[:,['headword', 'entry_id', 'morph_type',
-                                 'pronunciation', 'variant_of', 'these_vars',
+                                 'pronunciation', 'variant_of', 'these_vars', 'other_forms',
                                  'note', 'sense', 'date']]
 
     senses_df = get_senses_df()
@@ -42,7 +42,7 @@ def main():
 @time_exec
 def get_entries_df():
     entries_df = pd.DataFrame(columns = ['headword', 'entry_id', 'morph_type',
-                                 'pronunciation', 'variant_of', 'note', 'sense',
+                                 'pronunciation', 'variant_of', 'note', 'sense', 'other_forms',
                                  'date'])
     with open(in_file, 'rb') as f:
         line_bytes = f.readline()
@@ -113,6 +113,12 @@ def get_vars_for_id(entry_id, entries_df):
 
 def return_dfs():
     return get_entries_df(), get_senses_df()
+
+def set_filenames(in_name=in_file, out_name=out_file, senses_name=senses_file):
+    global in_file, out_file, senses_file
+    in_file = in_name
+    out_file = out_name
+    senses_file = senses_name
           
 if __name__ == '__main__':
     main()

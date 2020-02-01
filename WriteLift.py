@@ -11,13 +11,14 @@ import lxml.etree as etree
 import WriteLiftTags as wlt
 from ast import literal_eval
 
-in_file = 'flexicon.csv'
+in_file = 'flexiconHDWRDS.csv'
 senses_file = 'flex_senses.csv'
 lit_cols_flexicon = (
                      'variant_of',
                      'these_vars',
                      'note',
-                     'sense'
+                     'sense',
+                     'other_sources'
                     )
 lit_cols_senses = (
                    'gloss',
@@ -47,11 +48,11 @@ def main():
         wlt.write_entry(row, root)
     
     tree = ET.ElementTree(root)
-    tree.write(out_file)
+    tree.write(out_file, encoding='utf8')
     
     
     file = etree.parse(out_file)
-    out = etree.tostring(file, pretty_print=True).decode('utf8')
+    out = etree.tostring(file, pretty_print=True, encoding='unicode')
     with open(out_file, 'w', encoding='utf8') as f:
         f.write('<?xml version="1.0" encoding="UTF-8" ?>\n')
         f.write(out)

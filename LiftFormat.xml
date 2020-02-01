@@ -35,6 +35,14 @@
 		?
 	</relation>
 	*
+	<field type="CustomFieldName">
+		<form lang="">
+			<text>
+				custom field data
+			</text>
+		</form>
+	</field>
+	*
 	<sense id="">
 		<grammatical-info value="{POS}"></grammatical-info>
 		<gloss lang="">

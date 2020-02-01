@@ -19,7 +19,8 @@ def tag_globals():
                   'pronunciation':write_pronunc,
                   'note':write_note,
                   'variant_of':write_var,
-                  'sense':write_sense
+                  'sense':write_sense,
+                  'other_sources':write_custom
                  }
     sense_tags = {
                   'grammatical-info':write_pos,
@@ -65,7 +66,10 @@ def write_note(row, entry):
         else:
             v = ' ,'.join(v)
         
-        note = ET.SubElement(entry, 'note', type=k)
+        if k.startswith('Note'):
+            note = ET.SubElement(entry, 'note')
+        else:
+            note = ET.SubElement(entry, 'note', type=k)
         form = ET.SubElement(note, 'form', lang=analys_lang[0])
         ET.SubElement(form, 'text').text = v
         
@@ -77,7 +81,11 @@ def write_var(row, entry):
     for k, v in var_dict.items():
         assert type(v) is dict
         
-        relation = ET.SubElement(entry, 'relation', type=v.pop('type'), ref=k)
+        attr = {'ref':k}
+        v_type = v.pop('type')
+        if not v_type.startswith('null'):
+            attr['type'] = v_type
+        relation = ET.SubElement(entry, 'relation')
         summ = v.pop('summary') if 'summary' in v else None
         
         for sub_k, sub_v in v.items():
@@ -87,6 +95,17 @@ def write_var(row, entry):
             field = ET.SubElement(relation, 'field', type='summary')
             form = ET.SubElement(field, 'form', lang=analys_lang[0])
             ET.SubElement(form, 'text').text = summ
+
+def write_custom(row, entry):
+    custom_fields = row['other_sources']
+    if not custom_fields:
+        return
+
+    for k, v in custom_fields.items():
+        assert k, k
+        field = ET.SubElement(entry, 'field', type=k)
+        form = ET.SubElement(field, 'form', lang=analys_lang[0])
+        ET.SubElement(form, 'text').text = v
             
 def write_sense(row, entry):
     senses = row['sense']

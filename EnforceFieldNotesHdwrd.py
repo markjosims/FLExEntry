@@ -80,6 +80,7 @@ def add_hypoth_entry(index, row):
     bib = get_bib(row['bibliography'])
     new_id = new_unique_id(index)
     new_headword = to_ipa( row['headword'], bib=bib )
+    assert new_headword
     new_id = new_headword + '_' + new_id
     
     flexicon.at[index, 'variant_of'][new_id] = {'type':'_component-lexeme',
