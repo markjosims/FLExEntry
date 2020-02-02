@@ -1,0 +1,23 @@
+{
+  "entry_id": "hoːg_723e50e1-90fb-40f4-bc9c-896a5af946c3",
+  "headword": "hoːg",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "576f94eb-c354-46e8-8cc8-8c8a8302af39": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "colher sorva n.i."
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

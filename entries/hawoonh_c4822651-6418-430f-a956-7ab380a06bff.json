@@ -1,0 +1,27 @@
+{
+  "entry_id": "hawoonh_c4822651-6418-430f-a956-7ab380a06bff",
+  "headword": "hawoonh",
+  "morph_type": "stem",
+  "pronunciation": "hawo:ɲ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "17f67f9a-bf1d-4a22-a828-01b248ae8f4d": {
+      "pos": "v",
+      "gloss": {
+        "en": "dry",
+        "pt": "seco"
+      },
+      "def": {
+        "en": "dry",
+        "pt": "seco"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+}

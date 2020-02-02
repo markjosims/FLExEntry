@@ -123,8 +123,7 @@
 </grammatical-info>
 <gloss lang="pt"><text>árvore.sp</text></gloss>
 <definition>
-<form lang="pt"><text>esp. de árvore; tinta para pintar
-as cuias de casca dessa árvore</text></form>
+<form lang="pt"><text>esp. de árvore; tinta para pintar as cuias de casca dessa árvore</text></form>
 </definition>
 </sense>
 </entry>
@@ -608,9 +607,7 @@ as cuias de casca dessa árvore</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>encontrado em cartilha 4, lições 2,
-3 e 12, cada vez com sentido
-futuro</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lições 2, 3 e 12, cada vez com sentido futuro</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>jḛ:ɲ</text></form>
@@ -1028,9 +1025,7 @@ futuro</text></form>
 <gloss lang="pt"><text>criança.sg</text></gloss>
 <definition>
 <form lang="en"><text>child (sg)</text></form>
-<form lang="pt"><text>criança (sg)
-acompanham ou trabalham
-para uma pessoa</text></form>
+<form lang="pt"><text>criança (sg) acompanham ou trabalham para uma pessoa</text></form>
 </definition>
 </sense>
 </entry>
@@ -1340,8 +1335,7 @@ para uma pessoa</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>levantar.coisa</text></gloss>
 <definition>
-<form lang="pt"><text>exclamação (grito) quando
-levanta alguma coisa pesada</text></form>
+<form lang="pt"><text>exclamação (grito) quando levanta alguma coisa pesada</text></form>
 </definition>
 </sense>
 </entry>
@@ -2167,8 +2161,7 @@ levanta alguma coisa pesada</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>conseguir</text></gloss>
 <definition>
-<form lang="pt"><text>saber; terminar; conseguir;
-matar; fazer</text></form>
+<form lang="pt"><text>saber; terminar; conseguir; matar; fazer</text></form>
 </definition>
 </sense>
 </entry>
@@ -2229,8 +2222,7 @@ matar; fazer</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>encontrado em cartilha 4, lições 2, 4, 5, 15, 17, 18
-e 15</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lições 2, 4, 5, 15, 17, 18 e 15</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>wʌd</text></form>
@@ -2305,8 +2297,7 @@ e 15</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>corda.de.subir(?)</text></gloss>
 <definition>
-<form lang="pt"><text>pedaço de cipó que se usa para
-subir uma árvore</text></form>
+<form lang="pt"><text>pedaço de cipó que se usa para subir uma árvore</text></form>
 </definition>
 </sense>
 </entry>
@@ -3769,8 +3760,7 @@ subir uma árvore</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>nádegas</text></gloss>
 <definition>
-<form lang="pt"><text>nádegas; assento; começo;
-início</text></form>
+<form lang="pt"><text>nádegas; assento; começo; início</text></form>
 </definition>
 </sense>
 </entry>
@@ -4120,8 +4110,7 @@ início</text></form>
 </entry>
 <entry dateCreated="2018-03-08T07:17:53Z" dateModified="2018-06-20T01:46:10Z" id="agõõ&#xA;agõõh_1d766776-1931-480e-977b-b58d276ced0d" guid="1d766776-1931-480e-977b-b58d276ced0d">
 <lexical-unit>
-<form lang="mbj"><text>agõõ
-agõõh</text></form>
+<form lang="mbj"><text>agõõ agõõh</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
@@ -4131,8 +4120,7 @@ agõõh</text></form>
 <trait  name="variant-type" value="Não indicativo"/>
 </relation>
 <pronunciation>
-<form lang="mbj"><text>agõ:
-agõ:h</text></form>
+<form lang="mbj"><text>agõ: agõ:h</text></form>
 </pronunciation>
 </entry>
 <entry dateCreated="2018-03-08T07:17:52Z" dateModified="2018-06-20T01:46:10Z" id="ahyk2_1d767c30-7dd2-4d0a-bb47-35c23e55617a" guid="1d767c30-7dd2-4d0a-bb47-35c23e55617a" order="2">
@@ -4482,8 +4470,7 @@ agõ:h</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>cartilha 4, lições 5 e
-15</text></form>
+<form lang="pt"><text>cartilha 4, lições 5 e 15</text></form>
 </note>
 <relation type="_component-lexeme" ref="18bb2726-1e99-418a-ad5b-537ea67f2ac5" order="0">
 <trait  name="variant-type" value="Unspecified Variant"/>
@@ -5101,9 +5088,7 @@ agõ:h</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>aparece em lição 5 junto ao
-prefixo rab- uma vez e ram-
-outra</text></form>
+<form lang="pt"><text>aparece em lição 5 junto ao prefixo rab- uma vez e ram- outra</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>agə:m</text></form>
@@ -6052,8 +6037,6 @@ outra</text></form>
 <note type="bibliography">
 <form lang="en"><text>Fieldnotes Epps/Obert, 2018</text></form>
 </note>
-<pronunciation>
-</pronunciation>
 <sense id="eab3df35-21e9-4e76-b8c5-cf5efd2b18a1">
 <grammatical-info value="Noun">
 </grammatical-info>
@@ -7302,8 +7285,7 @@ outra</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>cartilha 4, lições 8 e
-15</text></form>
+<form lang="pt"><text>cartilha 4, lições 8 e 15</text></form>
 </note>
 <relation type="_component-lexeme" ref="">
 <trait  name="variant-type" value="Unspecified Variant"/>
@@ -7410,8 +7392,7 @@ outra</text></form>
 <gloss lang="pt"><text>comida</text></gloss>
 <definition>
 <form lang="en"><text>food (no meat)</text></form>
-<form lang="pt"><text>comida (sendo não carne nem
-peixe)</text></form>
+<form lang="pt"><text>comida (sendo não carne nem peixe)</text></form>
 </definition>
 </sense>
 </entry>
@@ -8091,8 +8072,7 @@ peixe)</text></form>
 <gloss lang="pt"><text>NEG</text></gloss>
 <definition>
 <form lang="en"><text>no</text></form>
-<form lang="pt"><text>não; algo inexistente;
-negativo</text></form>
+<form lang="pt"><text>não; algo inexistente; negativo</text></form>
 </definition>
 </sense>
 </entry>
@@ -8487,8 +8467,7 @@ negativo</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>andar</text></gloss>
 <definition>
-<form lang="pt"><text>andar; viver; estar em movi-
-mento</text></form>
+<form lang="pt"><text>andar; viver; estar em movi- mento</text></form>
 </definition>
 </sense>
 </entry>
@@ -9414,8 +9393,7 @@ mento</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>enterrado</text></gloss>
 <definition>
-<form lang="pt"><text>enterrado; fixado dentro de;
-fixado em</text></form>
+<form lang="pt"><text>enterrado; fixado dentro de; fixado em</text></form>
 </definition>
 </sense>
 </entry>
@@ -9660,8 +9638,7 @@ fixado em</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>parece ter uso verbal em muitas
-lições em cartilha 4</text></form>
+<form lang="pt"><text>parece ter uso verbal em muitas lições em cartilha 4</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>ti:</text></form>
@@ -9969,8 +9946,7 @@ lições em cartilha 4</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>choque</text></gloss>
 <definition>
-<form lang="pt"><text>choque elétrico (escorpião,
-poraquê)</text></form>
+<form lang="pt"><text>choque elétrico (escorpião, poraquê)</text></form>
 </definition>
 </sense>
 </entry>
@@ -10753,8 +10729,6 @@ poraquê)</text></form>
 <note type="bibliography">
 <form lang="en"><text>Fieldnotes Epps/Obert, 2018</text></form>
 </note>
-<pronunciation>
-</pronunciation>
 <sense id="f59ae34f-ef9f-447c-b27b-a2a66f1b722f">
 <grammatical-info value="Verb">
 </grammatical-info>
@@ -11230,8 +11204,7 @@ poraquê)</text></form>
 <sense id="94752aa3-6cac-44de-8142-28dfde28d1a7">
 <grammatical-info value="n">
 </grammatical-info>
-<gloss lang="pt"><text>bebê.antes.de.nascer
-(feto?)</text></gloss>
+<gloss lang="pt"><text>bebê.antes.de.nascer (feto?)</text></gloss>
 <definition>
 <form lang="pt"><text>bebê antes de nascer</text></form>
 </definition>
@@ -13011,8 +12984,7 @@ poraquê)</text></form>
 <grammatical-info value="par">
 </grammatical-info>
 <gloss lang="en"><text>RPT</text></gloss>
-<gloss lang="pt"><text>relatado
-(abreviação?)</text></gloss>
+<gloss lang="pt"><text>relatado (abreviação?)</text></gloss>
 <definition>
 <form lang="en"><text>they say</text></form>
 <form lang="pt"><text>dizem que</text></form>
@@ -14607,8 +14579,7 @@ poraquê)</text></form>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
 <form lang="en"><text>Epps/Obert, fieldnotes 2019</text></form>
-<form lang="pt"><text>encontrado em cartilha 4, varias
-lições</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, varias lições</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>ti</text></form>
@@ -14949,8 +14920,7 @@ lições</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>sacudir.cabeça</text></gloss>
 <definition>
-<form lang="pt"><text>sacudir a cabeça depois de
-tomar banho; esquivar-se</text></form>
+<form lang="pt"><text>sacudir a cabeça depois de tomar banho; esquivar-se</text></form>
 </definition>
 </sense>
 </entry>
@@ -14967,9 +14937,7 @@ tomar banho; esquivar-se</text></form>
 </entry>
 <entry dateCreated="2018-03-08T07:17:53Z" dateModified="2018-06-20T01:46:10Z" id="gawaja&#xA;\vn&#xA;gawajah_70a91ef0-c2f3-423a-9b33-f394a9ea55af" guid="70a91ef0-c2f3-423a-9b33-f394a9ea55af">
 <lexical-unit>
-<form lang="mbj"><text>gawaja
-\vn
-gawajah</text></form>
+<form lang="mbj"><text>gawaja \vn gawajah</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
@@ -14979,9 +14947,7 @@ gawajah</text></form>
 <trait  name="variant-type" value="Não indicativo"/>
 </relation>
 <pronunciation>
-<form lang="mbj"><text>gawaja
-\vn
-gawajah</text></form>
+<form lang="mbj"><text>gawaja \vn gawajah</text></form>
 </pronunciation>
 </entry>
 <entry dateCreated="2018-03-08T07:17:53Z" dateModified="2018-06-20T01:46:10Z" id="gëëw_70fc9c7c-beca-459a-a973-51d3d66e4ec4" guid="70fc9c7c-beca-459a-a973-51d3d66e4ec4">
@@ -15064,8 +15030,6 @@ gawajah</text></form>
 <form lang="en"><text>a.lot</text></form>
 <form lang="pt"><text>muito</text></form>
 </definition>
-<example>
-</example>
 </sense>
 </entry>
 <entry dateCreated="2018-03-08T07:17:53Z" dateModified="2019-11-18T21:20:57Z" id="waw&apos;oos_713c2e49-683d-4b4c-b21a-cb6fbd07c005" guid="713c2e49-683d-4b4c-b21a-cb6fbd07c005">
@@ -15864,9 +15828,7 @@ gawajah</text></form>
 </entry>
 <entry dateCreated="2018-03-08T07:17:53Z" dateModified="2018-06-20T01:46:10Z" id="eba&#xA;\vp&#xA;ebah_7865f86a-bc3f-4cbc-94a2-1b2a25389631" guid="7865f86a-bc3f-4cbc-94a2-1b2a25389631">
 <lexical-unit>
-<form lang="mbj"><text>eba
-\vp
-ebah</text></form>
+<form lang="mbj"><text>eba \vp ebah</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
@@ -15876,9 +15838,7 @@ ebah</text></form>
 <trait  name="variant-type" value="Plural"/>
 </relation>
 <pronunciation>
-<form lang="mbj"><text>eba
-\vp
-ebah</text></form>
+<form lang="mbj"><text>eba \vp ebah</text></form>
 </pronunciation>
 </entry>
 <entry dateCreated="2018-07-06T19:32:40Z" dateModified="2018-07-06T19:32:40Z" id="anaak_786a66da-ee64-4cd0-b5d7-d98c0ee6d3be" guid="786a66da-ee64-4cd0-b5d7-d98c0ee6d3be">
@@ -16179,9 +16139,7 @@ ebah</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>tirar.comida</text></gloss>
 <definition>
-<form lang="pt"><text>tirar comida, não liquida da
-panela (com cuia, concha,
-colher, etc.)</text></form>
+<form lang="pt"><text>tirar comida, não liquida da panela (com cuia, concha, colher, etc.)</text></form>
 </definition>
 </sense>
 </entry>
@@ -16975,8 +16933,7 @@ colher, etc.)</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>macaco.prego</text></gloss>
 <definition>
-<form lang="pt"><text>esp. de macaco (macacao
-prego)</text></form>
+<form lang="pt"><text>esp. de macaco (macacao prego)</text></form>
 </definition>
 </sense>
 </entry>
@@ -17188,10 +17145,6 @@ prego)</text></form>
 <form lang="mbj"><text>boog k'ëë</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="phrase"/>
-<variant>
-<form lang="mbj"><text>'' Boog k'ëë</text></form>
-<trait  name="morph-type" value="phrase"/>
-</variant>
 <relation type="_component-lexeme" ref="">
 <trait  name="complex-form-type" value="Compound"/>
 </relation>
@@ -17534,8 +17487,7 @@ prego)</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>se traduz a "paca" em cartilha 4, lição 18 
-lição 17</text></form>
+<form lang="pt"><text>se traduz a "paca" em cartilha 4, lição 18  lição 17</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>bahe</text></form>
@@ -17720,8 +17672,7 @@ lição 17</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="phrase"/>
 <note type="bibliography">
-<form lang="pt"><text>cartilha 4, lições 1
-11 e 17</text></form>
+<form lang="pt"><text>cartilha 4, lições 1 11 e 17</text></form>
 </note>
 <relation type="_component-lexeme" ref="3145b43d-25c5-4e04-84cc-e13164a051a2" order="0">
 <trait  name="variant-type" value="Unspecified Variant"/>
@@ -17749,8 +17700,6 @@ lição 17</text></form>
 <note type="bibliography">
 <form lang="en"><text>Fieldnotes Epps/Obert, 2018</text></form>
 </note>
-<pronunciation>
-</pronunciation>
 <sense id="2fa64abe-8789-4608-b11c-6673593a90a2">
 <grammatical-info value="n">
 </grammatical-info>
@@ -17798,8 +17747,7 @@ lição 17</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>encontrado em cartilha 4, lição 16
-(talvez relacionado com g'ẽẽ?)</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lição 16 (talvez relacionado com g'ẽẽ?)</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>gɛ̃:</text></form>
@@ -17916,11 +17864,9 @@ lição 17</text></form>
 <sense id="77c89938-b4b1-463d-9659-504f4c8f9ebe">
 <grammatical-info value="n">
 </grammatical-info>
-<gloss lang="pt"><text>acompanhamento
-(?)</text></gloss>
+<gloss lang="pt"><text>acompanhamento (?)</text></gloss>
 <definition>
-<form lang="pt"><text>comida que acompanha o peixe
-ou a carne</text></form>
+<form lang="pt"><text>comida que acompanha o peixe ou a carne</text></form>
 </definition>
 </sense>
 </entry>
@@ -20157,8 +20103,7 @@ ou a carne</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>listrado.com.anéis</text></gloss>
 <definition>
-<form lang="pt"><text>ser listrado perpendicularmente
-(em forma de anel)</text></form>
+<form lang="pt"><text>ser listrado perpendicularmente (em forma de anel)</text></form>
 </definition>
 </sense>
 </entry>
@@ -20436,8 +20381,7 @@ ou a carne</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>se traduz "ser torcido" em cartilha 4, lição 13
-cartilha 4, lição 9</text></form>
+<form lang="pt"><text>se traduz "ser torcido" em cartilha 4, lição 13 cartilha 4, lição 9</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>ɟaɾaɾɛ̃</text></form>
@@ -20476,8 +20420,7 @@ cartilha 4, lição 9</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>Weir 1986, 1990
-4 e 11</text></form>
+<form lang="pt"><text>Weir 1986, 1990 4 e 11</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>do:</text></form>
@@ -20829,8 +20772,6 @@ cartilha 4, lição 9</text></form>
 <definition>
 <form lang="pt"><text>2sg possessivo</text></form>
 </definition>
-<example>
-</example>
 </sense>
 </entry>
 <entry dateCreated="2018-06-20T05:09:54Z" dateModified="2019-12-20T19:43:23Z" id="wëëm_990d5cb5-98be-420d-9662-a39d1662fc24" guid="990d5cb5-98be-420d-9662-a39d1662fc24">
@@ -21962,8 +21903,7 @@ cartilha 4, lição 9</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>encontrado em cartilha 4, lições 8
-e 17</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lições 8 e 17</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>taʃo</text></form>
@@ -22997,9 +22937,7 @@ e 17</text></form>
 <gloss lang="pt"><text>bater.com.pau</text></gloss>
 <definition>
 <form lang="en"><text>beat (clothes or fish poison)</text></form>
-<form lang="pt"><text>bater (roupa, ou veneno para
-peixe) com pau; molhar (a
-chuva)</text></form>
+<form lang="pt"><text>bater (roupa, ou veneno para peixe) com pau; molhar (a chuva)</text></form>
 </definition>
 </sense>
 </entry>
@@ -23092,8 +23030,7 @@ chuva)</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>cartilha 4 (varias lições)
-lições)</text></form>
+<form lang="pt"><text>cartilha 4 (varias lições) lições)</text></form>
 </note>
 <relation type="_component-lexeme" ref="5d24971c-7fce-49dc-9988-bb1f09205e3c" order="0">
 <trait  name="variant-type" value="Unspecified Variant"/>
@@ -23229,8 +23166,6 @@ lições)</text></form>
 <note type="bibliography">
 <form lang="en"><text>Fieldnotes Epps/Obert, 2018</text></form>
 </note>
-<pronunciation>
-</pronunciation>
 <sense id="7ddabbf3-62e0-4d27-8810-382c9d945a3d">
 <grammatical-info value="Noun">
 </grammatical-info>
@@ -23329,8 +23264,7 @@ lições)</text></form>
 <trait  name="morph-type" value="root"/>
 <note type="bibliography">
 <form lang="en"><text>Epps/Obert, fieldnotes 2019</text></form>
-<form lang="pt"><text>encontrado em cartilha 4, lições 5
-e 13</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lições 5 e 13</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>kɨ:h</text></form>
@@ -23858,7 +23792,6 @@ e 13</text></form>
 <entry dateCreated="2019-11-15T22:16:56Z" dateModified="2019-11-15T22:18:18Z" id="kawajããn_afa28d54-abe7-4f7e-8f88-3198bb0aa7ca" guid="afa28d54-abe7-4f7e-8f88-3198bb0aa7ca">
 <lexical-unit>
 <form lang="mbj"><text>kawajããn</text></form>
-<form lang="pt"><text>bravo</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="root"/>
 <note type="bibliography">
@@ -24530,8 +24463,7 @@ e 13</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>ambaiba.sp</text></gloss>
 <definition>
-<form lang="pt"><text>esp. de ambaiba; instrumento
-que da ritmo à dança</text></form>
+<form lang="pt"><text>esp. de ambaiba; instrumento que da ritmo à dança</text></form>
 </definition>
 </sense>
 </entry>
@@ -25491,8 +25423,7 @@ que da ritmo à dança</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>rede.balançando</text></gloss>
 <definition>
-<form lang="pt"><text>som produzido por rede
-balançando</text></form>
+<form lang="pt"><text>som produzido por rede balançando</text></form>
 </definition>
 </sense>
 </entry>
@@ -26365,7 +26296,6 @@ balançando</text></form>
 </pronunciation>
 <sense id="3f87d70b-ee06-4051-b104-acebd4df65d9">
 <grammatical-info value="pro">
-<trait name="type" value="affix"/>
 </grammatical-info>
 <gloss lang="en"><text>3SG.POSS</text></gloss>
 <gloss lang="pt"><text>3SG.POSS</text></gloss>
@@ -26650,7 +26580,6 @@ balançando</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>pu:d ʃu:dn</text></form>
-<form lang="pt"><text>pu:d ʃu:dn</text></form>
 </pronunciation>
 <sense id="f2812f3a-1ee2-4436-b09f-a54d3e974756">
 <grammatical-info value="Noun">
@@ -27459,8 +27388,7 @@ balançando</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>odor.da.transpiração</text></gloss>
 <definition>
-<form lang="pt"><text>odor da transpiração debaixo
-das axilas</text></form>
+<form lang="pt"><text>odor da transpiração debaixo das axilas</text></form>
 </definition>
 </sense>
 </entry>
@@ -27716,8 +27644,7 @@ das axilas</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>virar.olhos</text></gloss>
 <definition>
-<form lang="pt"><text>virar os olhos para olhar para
-trás</text></form>
+<form lang="pt"><text>virar os olhos para olhar para trás</text></form>
 </definition>
 </sense>
 </entry>
@@ -29810,10 +29737,7 @@ trás</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>Weir 1990
-na forma dum prefixo nas lições 
-de cartilha 4 (e não aparece no
-diccionário)</text></form>
+<form lang="pt"><text>Weir 1990</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>ha</text></form>
@@ -30917,8 +30841,7 @@ diccionário)</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>encontrado em cartilha 4, lição 6
-cf. "edas" (bater) e par. "ky" (?)</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lição 6 cf. "edas" (bater) e par. "ky" (?)</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>keda̰:ʃ</text></form>
@@ -31021,8 +30944,7 @@ cf. "edas" (bater) e par. "ky" (?)</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>encontrado em cartilha 4, lição 17;
-cf. pronome "hahỹỹh"</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lição 17; cf. pronome "hahỹỹh"</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>hɨ̃:h</text></form>
@@ -31653,8 +31575,7 @@ cf. pronome "hahỹỹh"</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="phrase"/>
 <note type="bibliography">
-<form lang="pt"><text>encontrado em cartilha 4, lições 15
-e 18</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lições 15 e 18</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>hɨ̰:b tawɛn</text></form>
@@ -31797,8 +31718,7 @@ e 18</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>partir.madiera</text></gloss>
 <definition>
-<form lang="pt"><text>partir madiera (para casa, cerca
-etc.).</text></form>
+<form lang="pt"><text>partir madiera (para casa, cerca etc.).</text></form>
 </definition>
 </sense>
 </entry>
@@ -33660,8 +33580,7 @@ etc.).</text></form>
 </grammatical-info>
 <gloss lang="pt"><text>levar(?)</text></gloss>
 <definition>
-<form lang="pt"><text>ter mais de um objeto na mão
-(p obj)</text></form>
+<form lang="pt"><text>ter mais de um objeto na mão (p obj)</text></form>
 </definition>
 </sense>
 </entry>
@@ -33693,10 +33612,7 @@ etc.).</text></form>
 </lexical-unit>
 <trait  name="morph-type" value="stem"/>
 <note type="bibliography">
-<form lang="pt"><text>encontrado em cartilha 4, lição 13
-como "Wajats Byy" (embora se
-escreva "Wajats Bëëh" no
-português)</text></form>
+<form lang="pt"><text>encontrado em cartilha 4, lição 13 como "Wajats Byy"</text></form>
 </note>
 <pronunciation>
 <form lang="mbj"><text>bɨ:</text></form>

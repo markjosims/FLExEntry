@@ -1,0 +1,27 @@
+{
+  "entry_id": "nohiin_2eb79e5f-8144-44dd-881c-e554c62de348",
+  "headword": "nohiin",
+  "morph_type": "phrase",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "eab3df35-21e9-4e76-b8c5-cf5efd2b18a1": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "elecric.eel",
+        "pt": "poraquê"
+      },
+      "def": {
+        "en": "electric eel",
+        "pt": "poraquê"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

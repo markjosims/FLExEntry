@@ -1,0 +1,25 @@
+{
+  "entry_id": "kasarõõ_7eaf28d1-1aab-4a34-a6b4-de0eed6eb7b7",
+  "headword": "kasarõõ",
+  "morph_type": "stem",
+  "pronunciation": "kaʃaɾõ:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "32a368a7-d87b-441c-bc01-f27a308a8b1a": {
+      "pos": "v",
+      "gloss": {
+        "pt": "enrolado"
+      },
+      "def": {
+        "pt": "enrolado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'kasarõ_04f383e2-28e7-4ca8-8903-46ecb268dcec': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

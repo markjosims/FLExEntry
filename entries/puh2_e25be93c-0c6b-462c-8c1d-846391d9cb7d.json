@@ -1,0 +1,25 @@
+{
+  "entry_id": "puh2_e25be93c-0c6b-462c-8c1d-846391d9cb7d",
+  "headword": "puh",
+  "morph_type": "stem",
+  "pronunciation": "puh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "c01d2c33-5d01-4010-bd0e-43ed951120a0": {
+      "pos": "n",
+      "gloss": {
+        "pt": "peixe.sp"
+      },
+      "def": {
+        "pt": "esp. de peixe"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

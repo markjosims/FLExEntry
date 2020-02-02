@@ -1,0 +1,57 @@
+{
+  "entry_id": "mooh1_f3b52f1a-d90c-47a3-a82e-0f14c1209ae3",
+  "headword": "mooh",
+  "morph_type": "stem",
+  "pronunciation": "mɔ̃:h",
+  "variant_of": null,
+  "these_vars": {
+    "mooh2_3ffff461-ca95-48c1-818b-de080e69b22b": {
+      "headword": "mooh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:03:02Z",
+      "bibliography": "Weir",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir",
+        "summary": "1986; by means of"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "221e6436-7db1-4f75-9fca-2ed8b869232e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "hand",
+        "pt": "mão"
+      },
+      "def": {
+        "en": "hand",
+        "pt": "mão"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "5476275b-a9c8-40f2-ad43-5657776bb111": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tributary",
+        "pt": "afluente"
+      },
+      "def": {
+        "en": "tributary",
+        "pt": "afluente"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

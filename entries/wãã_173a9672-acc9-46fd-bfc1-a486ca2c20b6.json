@@ -1,0 +1,41 @@
+{
+  "entry_id": "wãã_173a9672-acc9-46fd-bfc1-a486ca2c20b6",
+  "headword": "wãã",
+  "morph_type": "stem",
+  "pronunciation": "wã:",
+  "variant_of": null,
+  "these_vars": {
+    "wãːʔ_073d0277-42e3-44aa-ae4b-f715bb7fbca7": {
+      "headword": "wãːʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:42:57Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins",
+        "summary": "buriti"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "c636c551-14df-4f20-859b-8bdd92d2d7c7": {
+      "pos": "n",
+      "gloss": {
+        "pt": "grelo.de.buriti"
+      },
+      "def": {
+        "pt": "grelo de buriti"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

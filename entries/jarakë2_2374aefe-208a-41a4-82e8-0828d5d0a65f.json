@@ -1,0 +1,27 @@
+{
+  "entry_id": "jarakë2_2374aefe-208a-41a4-82e8-0828d5d0a65f",
+  "headword": "jarakë",
+  "morph_type": "stem",
+  "pronunciation": "jaɾakəʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "ba35b885-67b8-42fc-9792-c3e8ff5f2f1e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "chicha",
+        "pt": "caxiri"
+      },
+      "def": {
+        "en": "chicha (manioc beer)",
+        "pt": "caxiri; chicha de mandioca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

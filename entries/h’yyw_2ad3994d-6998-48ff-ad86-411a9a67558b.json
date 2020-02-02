@@ -1,0 +1,29 @@
+{
+  "entry_id": "h’yyw_2ad3994d-6998-48ff-ad86-411a9a67558b",
+  "headword": "h’yyw",
+  "morph_type": "root",
+  "pronunciation": "hɨʔɨw",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "Note": "problem: hɨʔɨw or hǝʔǝw"
+  },
+  "sense": {
+    "13d917cc-9f14-4a79-962c-832df62443ac": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "achiote; Bixa orellana",
+        "pt": "urucum; Bixa orellana"
+      },
+      "def": {
+        "en": "achiote",
+        "pt": "urucum"
+      },
+      "reverse": "{'pt': 'urucum', 'en': 'achiote'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-09-03T23:54:43Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,53 @@
+{
+  "entry_id": "sawyym_ee869356-dc53-4210-9fa0-608972e8e311",
+  "headword": "sawyym",
+  "morph_type": "stem",
+  "pronunciation": "ʃaˈwɨ:bm",
+  "variant_of": null,
+  "these_vars": {
+    "ʃawiːm_3304d40a-0ff3-4883-8eb2-39d590ec7ac6": {
+      "headword": "ʃawiːm",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "8514105d-85ef-4e8d-b4af-d88e0e619b08": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "bacaba"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "de1b80ce-c0a1-4ca7-b1cd-85f08ce75416": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "black.palm",
+        "pt": "bacaba"
+      },
+      "def": {
+        "en": "black palm",
+        "pt": "bacaba"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T23:12:12Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,23 @@
+{
+  "entry_id": "ʃɔ̃j_8e6a0cb5-acf9-4b5c-9e9a-934623fb6e8e",
+  "headword": "ʃɔ̃j",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "6129a80c-815d-463c-8ae0-f6f6795b9642": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de sapo"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

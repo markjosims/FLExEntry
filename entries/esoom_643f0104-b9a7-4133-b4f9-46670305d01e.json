@@ -1,0 +1,53 @@
+{
+  "entry_id": "esoom_643f0104-b9a7-4133-b4f9-46670305d01e",
+  "headword": "esoom",
+  "morph_type": "stem",
+  "pronunciation": "ʔeˈʃo:bm",
+  "variant_of": null,
+  "these_vars": {
+    "sóóm_fd2f84a4-1299-4c5e-92f2-d44f1681cf10": {
+      "headword": "sóóm",
+      "morph_type": "stem",
+      "pronunciation": "ʃɔːm",
+      "these_vars": null,
+      "note": {},
+      "sense": {
+        "24ffb224-5e5e-4e0d-bf93-cf66125bee6a": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "shout.with.blowgun"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Weir 1986",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "187d327c-351d-4a51-bb5e-1e87cec180ce": {
+      "pos": "v",
+      "gloss": {
+        "en": "kill.with.sarabatana",
+        "pt": "flechar.com.sarabatana"
+      },
+      "def": {
+        "en": "kill with arrow",
+        "pt": "flechar com sarabatana"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

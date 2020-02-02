@@ -1,0 +1,27 @@
+{
+  "entry_id": "nu mam’ets_a8c51389-ad02-44b3-918d-af90e6e438ba",
+  "headword": "nu mam’ets",
+  "morph_type": "phrase",
+  "pronunciation": "nũ mãˈmeɉ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "7671c5b4-a8ba-4cf5-9aa7-c6954fd27aeb": {
+      "pos": "",
+      "gloss": {
+        "en": "nape",
+        "pt": "nuca"
+      },
+      "def": {
+        "en": "nape (of neck)",
+        "pt": "nuca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-07T17:39:42Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

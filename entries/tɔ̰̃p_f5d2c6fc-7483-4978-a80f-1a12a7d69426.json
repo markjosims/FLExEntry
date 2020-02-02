@@ -1,0 +1,23 @@
+{
+  "entry_id": "tɔ̰̃p_f5d2c6fc-7483-4978-a80f-1a12a7d69426",
+  "headword": "tɔ̰̃p",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "cf6d4de6-25d4-4745-9df7-8b8c3259055f": {
+      "pos": "adv?",
+      "gloss": {
+        "en": "no fundo"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'tɔ̰̃ːp1_1b10b3b5-155e-44cc-916b-7278638746c8': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; no fundo (do rio)'}}"
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": ""
+}

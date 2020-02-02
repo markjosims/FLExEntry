@@ -1,0 +1,27 @@
+{
+  "entry_id": "matatoor_2de11573-a933-4e44-9f6d-079cf82e42fc",
+  "headword": "matatoor",
+  "morph_type": "stem",
+  "pronunciation": "mãtato:ɾᵊ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "702b39fe-8ebe-419f-81d3-9e0a5616edbf": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "brown.wooly.monkey",
+        "pt": "macaco.barrigudo"
+      },
+      "def": {
+        "en": "brown woolly monkey",
+        "pt": "macaco barrigudo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

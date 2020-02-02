@@ -1,0 +1,27 @@
+{
+  "entry_id": "karasee2_430d97ec-8027-4c94-a20c-9abe0c446010",
+  "headword": "karasee",
+  "morph_type": "stem",
+  "pronunciation": "kaɾaʃe:ʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "9bc52c52-a082-4024-8c95-1b2b4d904241": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "niece/nephew",
+        "pt": "sobrinha/o"
+      },
+      "def": {
+        "en": "niece/nephew",
+        "pt": "sobrinha/o"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

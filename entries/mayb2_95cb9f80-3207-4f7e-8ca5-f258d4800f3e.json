@@ -1,0 +1,27 @@
+{
+  "entry_id": "mayb2_95cb9f80-3207-4f7e-8ca5-f258d4800f3e",
+  "headword": "mayb",
+  "morph_type": "stem",
+  "pronunciation": "mãʔɨb̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "3cfd6cff-7ce9-408e-b125-1b8d1d34329c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "father.in.law",
+        "pt": "sogro"
+      },
+      "def": {
+        "en": "father-in-law",
+        "pt": "sogro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

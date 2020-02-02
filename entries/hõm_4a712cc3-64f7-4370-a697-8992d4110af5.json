@@ -1,0 +1,40 @@
+{
+  "entry_id": "hõm_4a712cc3-64f7-4370-a697-8992d4110af5",
+  "headword": "hõm",
+  "morph_type": "root",
+  "pronunciation": "hõm",
+  "variant_of": null,
+  "these_vars": {
+    "kõm_3ade4628-db94-4ccf-949d-5a7dd7f9a3dc": {
+      "headword": "kõm",
+      "morph_type": "root",
+      "pronunciation": "kõm",
+      "these_vars": null,
+      "note": {},
+      "sense": null,
+      "date": "2018-03-08T16:55:41Z",
+      "bibliography": "encontrado na cartilha 4; ortografia não certa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "f8004460-d3fe-4c66-bf50-ba9eba0950ee": {
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 7"
+}

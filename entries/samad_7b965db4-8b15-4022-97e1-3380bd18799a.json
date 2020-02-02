@@ -1,0 +1,27 @@
+{
+  "entry_id": "samad_7b965db4-8b15-4022-97e1-3380bd18799a",
+  "headword": "samad",
+  "morph_type": "stem",
+  "pronunciation": "ʃabmãd̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "28cf09b1-08ef-437e-a7bb-31e8fc298ddf": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "son.in.law",
+        "pt": "genro"
+      },
+      "def": {
+        "en": "son-in-law",
+        "pt": "genro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

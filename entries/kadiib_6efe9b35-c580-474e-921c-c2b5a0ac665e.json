@@ -1,0 +1,27 @@
+{
+  "entry_id": "kadiib_6efe9b35-c580-474e-921c-c2b5a0ac665e",
+  "headword": "kadiib",
+  "morph_type": "stem",
+  "pronunciation": "kadi:b̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "8752555e-5f51-4bd5-8adf-a310665345c6": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "flea",
+        "pt": "pulga"
+      },
+      "def": {
+        "en": "large flea on dogs",
+        "pt": "pulga maior que fica no cachorro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

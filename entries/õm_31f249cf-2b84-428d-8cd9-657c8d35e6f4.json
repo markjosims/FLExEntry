@@ -1,0 +1,27 @@
+{
+  "entry_id": "õm_31f249cf-2b84-428d-8cd9-657c8d35e6f4",
+  "headword": "õm",
+  "morph_type": "stem",
+  "pronunciation": "ʔɔ̃m",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "52fae732-8d15-4f01-a9f0-41c450dbcc2f": {
+      "pos": "Pronoun",
+      "gloss": {
+        "en": "2SG",
+        "pt": "2SG"
+      },
+      "def": {
+        "en": "you",
+        "pt": "você"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018, Weir 1990; Weir 1994"
+}

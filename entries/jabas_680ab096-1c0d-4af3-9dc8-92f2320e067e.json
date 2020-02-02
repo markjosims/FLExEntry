@@ -1,0 +1,25 @@
+{
+  "entry_id": "jabas_680ab096-1c0d-4af3-9dc8-92f2320e067e",
+  "headword": "jabas",
+  "morph_type": "stem",
+  "pronunciation": "jabaʃ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "a7fbf75e-4592-4194-8d79-3474f17d08f4": {
+      "pos": "n",
+      "gloss": {
+        "pt": "acariquara"
+      },
+      "def": {
+        "pt": "esp. de árvore (acariquara)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

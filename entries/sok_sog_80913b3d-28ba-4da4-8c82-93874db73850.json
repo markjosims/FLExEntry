@@ -1,0 +1,27 @@
+{
+  "entry_id": "sok (sog?)_80913b3d-28ba-4da4-8c82-93874db73850",
+  "headword": "sok (sog?)",
+  "morph_type": "phrase",
+  "pronunciation": "ʃok̚  ʃog̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "80811e83-be04-40fd-95f2-a220bf016501": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "daughter.in.law",
+        "pt": "nora"
+      },
+      "def": {
+        "en": "daughter-in-law",
+        "pt": "nora"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

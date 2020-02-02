@@ -1,0 +1,27 @@
+{
+  "entry_id": "gawar’ëëb/gawar’yyb_88f5442a-e153-4784-ba0c-d6f0dd629fb3",
+  "headword": "gawar’ÿÿb",
+  "morph_type": "stem",
+  "pronunciation": "k'awaɾəʔəb̚ k'awaɾɨʔɨb̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "8a636d4b-32b0-4a71-88fd-0a7404cabc7f": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tick",
+        "pt": "carrapato"
+      },
+      "def": {
+        "en": "medium-sized tick",
+        "pt": "carrapato meio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

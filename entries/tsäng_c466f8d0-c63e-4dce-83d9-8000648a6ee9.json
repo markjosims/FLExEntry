@@ -1,0 +1,53 @@
+{
+  "entry_id": "tsäng_c466f8d0-c63e-4dce-83d9-8000648a6ee9",
+  "headword": "tsäng",
+  "morph_type": "stem",
+  "pronunciation": "tʃ’ǝgŋ",
+  "variant_of": null,
+  "these_vars": {
+    "ɟʌŋ_09ce3a4d-30ad-4a1c-be7f-7d36d99bd019": {
+      "headword": "ɟʌŋ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "51922532-79d3-4916-ac16-c4521d5bc7ee": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "barro"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "cc9f34a8-de79-4840-9302-2b6a98a2c2e8": {
+      "pos": "n",
+      "gloss": {
+        "en": "clay",
+        "pt": "barro"
+      },
+      "def": {
+        "en": "clay",
+        "pt": "barro"
+      },
+      "reverse": "",
+      "note": "{'semantics': 'barro para casa/panela'}",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+}

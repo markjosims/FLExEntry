@@ -1,0 +1,23 @@
+{
+  "entry_id": "wʌːɲ_345e0be9-fd6c-4456-b6f4-f3418d520cea",
+  "headword": "wʌːɲ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "15a7f818-801a-4e3d-8a36-d10a4c1ced69": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "ir para o porto (pl wʌ̰ːɲ)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

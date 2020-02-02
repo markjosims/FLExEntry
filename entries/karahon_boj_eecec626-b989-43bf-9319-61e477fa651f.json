@@ -1,0 +1,27 @@
+{
+  "entry_id": "karahon boj_eecec626-b989-43bf-9319-61e477fa651f",
+  "headword": "karahon boj",
+  "morph_type": "phrase",
+  "pronunciation": "kaɾahodn boj",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "623433c4-1d6c-4fce-a333-4ffb212c76ea": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "praying.mantis",
+        "pt": "louva-a-deus"
+      },
+      "def": {
+        "en": "praying mantis",
+        "pt": "louva-a-deus"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

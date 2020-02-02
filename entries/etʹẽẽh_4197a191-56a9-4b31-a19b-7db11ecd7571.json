@@ -1,0 +1,40 @@
+{
+  "entry_id": "etʹẽẽh_4197a191-56a9-4b31-a19b-7db11ecd7571",
+  "headword": "etʹẽẽh",
+  "morph_type": "stem",
+  "pronunciation": "etḛ̃:h",
+  "variant_of": null,
+  "these_vars": {
+    "etẽẽng_a0db919e-cf78-4b10-a7cc-cca6acba0bd0": {
+      "headword": "etẽẽng",
+      "morph_type": "stem",
+      "pronunciation": "etɛ̃:ŋ",
+      "these_vars": null,
+      "note": {},
+      "sense": null,
+      "date": "2018-03-22T17:29:32Z",
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Não indicativo"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "16ea75bd-34bc-4cde-9c54-17f1298a64d9": {
+      "pos": "v",
+      "gloss": {
+        "pt": "bater.em.metal"
+      },
+      "def": {
+        "pt": "bater em metal (por exemplo batendo cano de espingarda)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T17:28:59Z",
+  "bibliography": "SIL Dict 2011"
+}

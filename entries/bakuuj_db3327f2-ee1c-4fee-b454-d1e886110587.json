@@ -1,0 +1,27 @@
+{
+  "entry_id": "bakuuj_db3327f2-ee1c-4fee-b454-d1e886110587",
+  "headword": "bakuuj",
+  "morph_type": "stem",
+  "pronunciation": "baku:j",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "5fbfd5a1-5a70-48d6-88ab-48feff876d61": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "small.neotropical.otter",
+        "pt": "lontra"
+      },
+      "def": {
+        "en": "Neotropical Otter (small)",
+        "pt": "lontra"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

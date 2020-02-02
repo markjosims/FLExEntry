@@ -1,0 +1,27 @@
+{
+  "entry_id": "edëp_3002897c-a97c-4886-b7e8-355b2d3c9866",
+  "headword": "edëp",
+  "morph_type": "stem",
+  "pronunciation": "ʔeˈdǝp˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "477e6ffe-d8c1-4195-ae84-7a5d6279e634": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.alive",
+        "pt": "estar.vivo"
+      },
+      "def": {
+        "en": "be alive",
+        "pt": "estar vivo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T15:43:38Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

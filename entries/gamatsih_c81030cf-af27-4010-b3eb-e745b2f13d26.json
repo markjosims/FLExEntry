@@ -1,0 +1,27 @@
+{
+  "entry_id": "gamatsih_c81030cf-af27-4010-b3eb-e745b2f13d26",
+  "headword": "gamatsih",
+  "morph_type": "stem",
+  "pronunciation": "k'abmãɟih",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "b3a9c3ed-6375-4eac-ac14-eba997b909cf": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tick",
+        "pt": "carrapato"
+      },
+      "def": {
+        "en": "small tick",
+        "pt": "carrapato pequeno; carrapato da coça"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

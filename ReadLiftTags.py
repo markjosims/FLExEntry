@@ -46,6 +46,15 @@ def tag_globals():
                   '<reversal type':'reverse'
                   }
 
+def skip_head(r):
+    line, line_bytes = r_d_bytes(r)
+    if line.startswith('<?xml'):
+        while line != '</header>':
+            line = read_decode(r)
+    else:
+        assert line.startswith('<entry')
+        step_back(r, line_bytes)
+        
 def read_entry(r, id_only=False):
     open_tag = read_decode(r)
     assert open_tag.startswith('<entry')
@@ -61,7 +70,7 @@ def read_entry(r, id_only=False):
         entry_data['other_forms'] = {}
         entry_data['entry_id'] = entry_id
         entry_data['date'] = get_xml_attr(open_tag, 'dateCreated')
-        entry_data['date_modified'] = get_xml_attr(open_tag, 'date_modified')
+        entry_data['date_modified'] = get_xml_attr(open_tag, 'dateModified')
     
     line, line_bytes = r_d_bytes(r)
     while True:
@@ -80,7 +89,7 @@ def read_entry(r, id_only=False):
                         entry_data[key] = data
                 break
         else:
-            assert line == '</entry>', line
+            assert line == '</entry>', entry_data
             break
         
         line, line_bytes = r_d_bytes(r)
@@ -88,7 +97,7 @@ def read_entry(r, id_only=False):
         return entry_id
     entry_data = {k:(v if v else None) for k, v in entry_data.items()}
     headword = entry_data['headword']
-    headword = ' '+headword if headword.startswith('=') else headword
+    headword = ' '+headword if (type(headword) is str and headword.startswith('=')) else headword
     entry_data['headword'] = headword
     return entry_data
 
@@ -133,7 +142,7 @@ def read_pronunciation(r):
     s = read_decode(r)
     s = read_form(s)
     end_tag = read_decode(r)
-    assert end_tag == '</pronunciation>'
+    assert end_tag == '</pronunciation>', end_tag
     return s
 
 def read_definition(r):
@@ -179,7 +188,7 @@ def get_variant(s, r):
     while s.startswith('<trait '):
         name = get_xml_attr(s, 'name')
         value = get_xml_attr(s, 'value')
-        assert name in ('variant-type', 'complex-form-type', 'is-primary'), name
+        assert name in ('variant-type', 'complex-form-type', 'is-primary', 'hide-minor-entry'), name
         if name in data and type(data[name]) is tuple:
             data[name] = (*data[name], value)
         elif name in data:
@@ -226,7 +235,7 @@ def get_note(s, r):
         notes.append(read_form(s))
         s = read_decode(r)
     end_tag = s
-    assert end_tag == '</note>'
+    assert end_tag == '</note>', end_tag
     notes = ', '.join(notes)
     return note_type, notes
         
@@ -325,7 +334,7 @@ def read_morph_type(r):
 def read_pos(r):
     s = read_decode(r)
     end_tag = read_decode(r)
-    assert end_tag == '</grammatical-info>'
+    assert end_tag == '</grammatical-info>', end_tag
     return get_xml_attr(s, 'value')
 
 def read_decode(r):

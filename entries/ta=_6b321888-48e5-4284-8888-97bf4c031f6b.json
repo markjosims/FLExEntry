@@ -1,0 +1,24 @@
+{
+  "entry_id": "ta=_6b321888-48e5-4284-8888-97bf4c031f6b",
+  "headword": "ta=",
+  "morph_type": "proclitic",
+  "pronunciation": "ta",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "cab2d0d2-6e63-4303-8efd-ae1938c076b7": {
+      "pos": "pro",
+      "gloss": {
+        "en": "3sg.A",
+        "pt": "3sg.A"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "{'bibliography': 'Weir 1984'}",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-02T14:53:28Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "ëër_139ca9bb-450f-4124-8497-3fa5f304fa62",
+  "headword": "ëër",
+  "morph_type": "stem",
+  "pronunciation": "ʔǝǝɾǝ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "2ead3007-e5a6-45a3-bafa-401642bb2ba8": {
+      "pos": "Pronoun",
+      "gloss": {
+        "en": "1PLincl",
+        "pt": "1PLincl"
+      },
+      "def": {
+        "en": "we (inclusive)",
+        "pt": "nós (inclusive)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T23:50:09Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

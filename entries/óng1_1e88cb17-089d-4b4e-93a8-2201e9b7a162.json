@@ -1,0 +1,55 @@
+{
+  "entry_id": "óng1_1e88cb17-089d-4b4e-93a8-2201e9b7a162",
+  "headword": "óng",
+  "morph_type": "stem",
+  "pronunciation": "ɔŋ",
+  "variant_of": null,
+  "these_vars": {
+    "óng2_b2f5d0a7-8aba-4c37-9bda-ac5494c75035": {
+      "headword": "óng",
+      "morph_type": "stem",
+      "pronunciation": "ʔɔgŋ",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "b4d6a318-2f0e-43b2-923a-3c0a864f9e3f": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "pat.aunt",
+            "pt": "tia paterna"
+          },
+          "def": {
+            "en": "paternal aunt",
+            "pt": "tia paterna"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2019-01-14T03:46:56Z",
+      "bibliography": "Fieldnotes Epps/Obert; 2018",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "b332b324-ee35-454a-b08f-5fd45203d43e": {
+      "pos": "n",
+      "gloss": {
+        "pt": "tio"
+      },
+      "def": {
+        "pt": "tio (irmão do pai)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T20:36:54Z",
+  "bibliography": "SIL Dict 2011"
+}

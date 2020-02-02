@@ -1,0 +1,23 @@
+{
+  "entry_id": "kanũːd_b2baabe1-7db5-4e9b-bbdc-12589f894eff",
+  "headword": "kanũːd",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "4026826f-c9c1-4fcd-b728-763101143927": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "socó"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

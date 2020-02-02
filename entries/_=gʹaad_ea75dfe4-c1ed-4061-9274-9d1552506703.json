@@ -1,0 +1,27 @@
+{
+  "entry_id": " =gʹaad_ea75dfe4-c1ed-4061-9274-9d1552506703",
+  "headword": " =gʹaad",
+  "morph_type": "stem",
+  "pronunciation": "taʔˈkaʔad˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "113018d1-8a45-4e64-8548-ea228a767a93": {
+      "pos": "n",
+      "gloss": {
+        "en": "leaf",
+        "pt": "folha"
+      },
+      "def": {
+        "en": "leaf",
+        "pt": "folha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

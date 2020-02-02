@@ -1,0 +1,55 @@
+{
+  "entry_id": "p’aa hẽnh_022f0eb2-2301-40e8-809c-927ccebeff3c",
+  "headword": "p’aa hẽnh",
+  "morph_type": "phrase",
+  "pronunciation": "paʔaʔ hẽɲ",
+  "variant_of": null,
+  "these_vars": {
+    "pʹaa hẽnh_988a43b7-7d72-4d87-be1d-c63c761e1dc2": {
+      "headword": "pʹaa hẽnh",
+      "morph_type": "phrase",
+      "pronunciation": "pa̰: hɛ̃ɲ",
+      "these_vars": null,
+      "note": {},
+      "sense": {
+        "f667416b-3d6c-47e3-af04-3f8dfa905b2d": {
+          "pos": "adv",
+          "gloss": {
+            "pt": "de.novo"
+          },
+          "def": {
+            "pt": "de novo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "3954f8c6-283b-4e9f-a9b1-5e9ea6096fcc": {
+      "pos": "adv?",
+      "gloss": {
+        "en": "again",
+        "pt": "de.novo"
+      },
+      "def": {
+        "en": "again",
+        "pt": "de.novo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-15T20:18:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

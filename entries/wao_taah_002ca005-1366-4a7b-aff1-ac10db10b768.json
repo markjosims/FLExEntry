@@ -1,0 +1,27 @@
+{
+  "entry_id": "wao taah_002ca005-1366-4a7b-aff1-ac10db10b768",
+  "headword": "wao taah",
+  "morph_type": "phrase",
+  "pronunciation": "waʔoʔ ta:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "802366cc-fff6-4c35-bff4-a403f4b4130d": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "small.basket",
+        "pt": "cesto.pequeno"
+      },
+      "def": {
+        "en": "basket; small",
+        "pt": "cesto pequeno"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

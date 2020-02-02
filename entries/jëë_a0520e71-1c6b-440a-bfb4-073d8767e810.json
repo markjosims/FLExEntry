@@ -1,0 +1,53 @@
+{
+  "entry_id": "jëë_a0520e71-1c6b-440a-bfb4-073d8767e810",
+  "headword": "jëë",
+  "morph_type": "stem",
+  "pronunciation": "jə:",
+  "variant_of": null,
+  "these_vars": {
+    "jɤːʔ_2d1daa55-a783-476e-a7fa-47d1ef2527ac": {
+      "headword": "jɤːʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "d5c887de-287d-41c6-a53b-81aa31936d71": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "pupunha"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "b487a001-f2e9-4175-8ca9-4720edda4966": {
+      "pos": "n",
+      "gloss": {
+        "en": "peach.palm",
+        "pt": "pupunha"
+      },
+      "def": {
+        "en": "peach palm",
+        "pt": "pupunha"
+      },
+      "reverse": "{'pt': 'pupunha', 'en': 'peach palm'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

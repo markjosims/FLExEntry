@@ -1,0 +1,27 @@
+{
+  "entry_id": "heju_fedba8b8-eb2a-485b-921b-5cf055f61895",
+  "headword": "heju",
+  "morph_type": "stem",
+  "pronunciation": "heˈjuʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "d0a41f29-94de-4c97-a1ad-81b049e1ede3": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "burn.self",
+        "pt": "se.queimar"
+      },
+      "def": {
+        "en": "burn oneself",
+        "pt": "se queimar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-09T13:43:36Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

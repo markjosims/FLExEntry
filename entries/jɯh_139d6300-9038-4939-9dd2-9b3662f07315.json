@@ -1,0 +1,23 @@
+{
+  "entry_id": "jɯh_139d6300-9038-4939-9dd2-9b3662f07315",
+  "headword": "jɯh",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "6f428c2e-845f-4b62-84f1-291273a9cafd": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de pássaro"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

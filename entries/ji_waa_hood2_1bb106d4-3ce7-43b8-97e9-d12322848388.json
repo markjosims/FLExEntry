@@ -1,0 +1,27 @@
+{
+  "entry_id": "ji waa hood2_1bb106d4-3ce7-43b8-97e9-d12322848388",
+  "headword": "ji waa hood",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ wa:ʔ ho:d̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "f3a70c40-7c7d-4b86-9b69-e929a8077078": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "bowl",
+        "pt": "tijela"
+      },
+      "def": {
+        "en": "bowl",
+        "pt": "tijela"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

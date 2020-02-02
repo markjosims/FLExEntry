@@ -1,0 +1,23 @@
+{
+  "entry_id": "ɾaːb_844bc49d-15ff-46f9-9bbc-334bd10da620",
+  "headword": "ɾaːb",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "53cc9f67-9981-46dd-8f52-4fc06b3699df": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de árvore da caatinga"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

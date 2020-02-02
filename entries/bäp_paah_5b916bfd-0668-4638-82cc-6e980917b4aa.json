@@ -1,0 +1,25 @@
+{
+  "entry_id": "bäp paah_5b916bfd-0668-4638-82cc-6e980917b4aa",
+  "headword": "bäp paah",
+  "morph_type": "phrase",
+  "pronunciation": "bʌp pa:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "b0ff496e-2353-4333-9178-eb4c29cd3f1e": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "cedo.de.manhã"
+      },
+      "def": {
+        "pt": "cedo de manhã"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

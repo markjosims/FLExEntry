@@ -1,0 +1,53 @@
+{
+  "entry_id": "hũũt_fcbc9a08-ecac-4e11-b568-cad430854b14",
+  "headword": "hũũt",
+  "morph_type": "stem",
+  "pronunciation": "hũ:t˺",
+  "variant_of": null,
+  "these_vars": {
+    "hũːt2_2dab5f66-5578-47a2-bee1-414855d0f8eb": {
+      "headword": "hũːt",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "0479caf1-8bfe-4184-b42c-03656a81e03b": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "tabaco; fumo"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "ccbbc6d2-0db8-4a06-b1e9-e09291e496a6": {
+      "pos": "n",
+      "gloss": {
+        "en": "tobaco",
+        "pt": "tabaco"
+      },
+      "def": {
+        "en": "tobaco",
+        "pt": "tabaco"
+      },
+      "reverse": "{'en': 'tobaco', 'pt': 'tabaco'}",
+      "note": "{'semantics': "probably bought tobaco. compare with ''baruur''"}",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldotes Epps/Obert; 2018"
+}

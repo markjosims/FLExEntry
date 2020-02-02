@@ -1,0 +1,23 @@
+{
+  "entry_id": "gʌːw_d75c6521-2155-4784-a864-2198b50b7ec4",
+  "headword": "gʌːw",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "e304c06d-bb2f-4566-b11e-49cd0559bec2": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "derrubar roça"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

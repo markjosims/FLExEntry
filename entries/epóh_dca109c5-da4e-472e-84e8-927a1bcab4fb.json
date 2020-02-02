@@ -1,0 +1,41 @@
+{
+  "entry_id": "epóh_dca109c5-da4e-472e-84e8-927a1bcab4fb",
+  "headword": "epóh",
+  "morph_type": "stem",
+  "pronunciation": "ʔeˈpɔh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "dc17573e-4b44-4ed8-827a-975638a69a0e": {
+      "pos": "v",
+      "gloss": {
+        "en": "eat.fruit",
+        "pt": "comer.fruta"
+      },
+      "def": {
+        "en": "eat fruit",
+        "pt": "comer fruta"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "ac582354-6bc9-404a-b94d-beae0d9cf86b": {
+      "pos": "v",
+      "gloss": {
+        "en": "suck",
+        "pt": "chupar"
+      },
+      "def": {
+        "en": "suck",
+        "pt": "chupar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

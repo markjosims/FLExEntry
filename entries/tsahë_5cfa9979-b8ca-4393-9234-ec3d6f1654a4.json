@@ -1,0 +1,27 @@
+{
+  "entry_id": "tsahë_5cfa9979-b8ca-4393-9234-ec3d6f1654a4",
+  "headword": "tsahë",
+  "morph_type": "stem",
+  "pronunciation": "tʃ’ahǝʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "aad8289a-65f0-4d5a-8f63-b4710165cd58": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "wet",
+        "pt": "molhado"
+      },
+      "def": {
+        "en": "wet",
+        "pt": "molhado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T23:58:39Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

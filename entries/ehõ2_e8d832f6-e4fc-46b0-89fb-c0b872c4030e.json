@@ -1,0 +1,25 @@
+{
+  "entry_id": "ehõ2_e8d832f6-e4fc-46b0-89fb-c0b872c4030e",
+  "headword": "ehõ",
+  "morph_type": "stem",
+  "pronunciation": "ehõ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "bf184f6a-a427-4cf4-832a-1021b02ff1d0": {
+      "pos": "v p",
+      "gloss": {
+        "pt": "amarrar"
+      },
+      "def": {
+        "pt": "amarrar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ehũũ_bf3a2c09-ff50-4944-89c6-bf4650437ac1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

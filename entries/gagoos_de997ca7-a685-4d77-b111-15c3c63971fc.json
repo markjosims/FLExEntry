@@ -1,0 +1,27 @@
+{
+  "entry_id": "gagoos_de997ca7-a685-4d77-b111-15c3c63971fc",
+  "headword": "gagoos",
+  "morph_type": "stem",
+  "pronunciation": "k’aʔˈk’o:ʃ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "ffdf2416-6710-43d8-87b9-8e418a0f463f": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "dig",
+        "pt": "cavar"
+      },
+      "def": {
+        "en": "dig",
+        "pt": "cavar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T00:11:03Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

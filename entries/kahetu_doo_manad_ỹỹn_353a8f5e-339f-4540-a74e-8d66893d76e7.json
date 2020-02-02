@@ -1,0 +1,27 @@
+{
+  "entry_id": "kahetu doo manad ỹỹn_353a8f5e-339f-4540-a74e-8d66893d76e7",
+  "headword": "kahetu doo manad ỹỹn",
+  "morph_type": "phrase",
+  "pronunciation": "kahetuʔ do:ʔ mãnãd̚ ʔɨ̃:n",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "977d8588-e430-4c62-a415-24496dff5e0e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tattoo",
+        "pt": "tatuagem"
+      },
+      "def": {
+        "en": "tattoo",
+        "pt": "tatuagem"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,23 @@
+{
+  "entry_id": "hɨɨh1_4a6af09e-19e4-45b8-8276-00edcd7b1ff8",
+  "headword": "hɨɨh",
+  "morph_type": "stem",
+  "pronunciation": "hɨːh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "4aabaf78-573d-46c2-bc70-7997be11e1a0": {
+      "pos": "DEM",
+      "gloss": {
+        "en": "DEM"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
+}

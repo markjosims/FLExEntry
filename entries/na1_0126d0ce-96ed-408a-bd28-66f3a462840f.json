@@ -1,0 +1,25 @@
+{
+  "entry_id": "na1_0126d0ce-96ed-408a-bd28-66f3a462840f",
+  "headword": "na",
+  "morph_type": "stem",
+  "pronunciation": "na",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "6c7274f4-8b5b-442d-9e05-9dfbff1f938a": {
+      "pos": "v imp",
+      "gloss": {
+        "pt": "me.da"
+      },
+      "def": {
+        "pt": "me da"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

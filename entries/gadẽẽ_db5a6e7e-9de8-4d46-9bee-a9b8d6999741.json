@@ -1,0 +1,25 @@
+{
+  "entry_id": "gadẽẽ_db5a6e7e-9de8-4d46-9bee-a9b8d6999741",
+  "headword": "gadẽẽ",
+  "morph_type": "stem",
+  "pronunciation": "gadɛ̃:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "ace4a8e2-a5e5-4723-bf0e-83cee47e98ba": {
+      "pos": "v",
+      "gloss": {
+        "pt": "cheio"
+      },
+      "def": {
+        "pt": "cheio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'gadʹẽẽ_31ec894a-0475-48de-9d61-b2a12b3a0778': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

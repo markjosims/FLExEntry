@@ -1,0 +1,23 @@
+{
+  "entry_id": "jabaɾuːt_5bad5a7b-1227-4ba0-aaca-042c0906d02f",
+  "headword": "jabaɾuːt",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "2e2be456-424b-4ddd-8c4b-340caa7e9695": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "azul"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

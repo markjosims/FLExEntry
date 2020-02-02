@@ -1,0 +1,23 @@
+{
+  "entry_id": "maɾahuːd2_ef1c8465-a5e4-4269-b0ee-40fed97f627b",
+  "headword": "maɾahuːd",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "576c1d73-3876-4f46-bc4e-c81f86d84341": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "solteiro"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

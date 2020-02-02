@@ -1,0 +1,27 @@
+{
+  "entry_id": "tarapoo_1bbe350a-6922-4fb5-b0e4-84e752d72ded",
+  "headword": "tarapoo",
+  "morph_type": "root",
+  "pronunciation": "taɾaˈpo:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "62b8ed0f-48aa-4a8a-a1c8-3f7ac323e420": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "amazon.treegrape",
+        "pt": "cucura"
+      },
+      "def": {
+        "en": "amazon tree grape",
+        "pt": "cucura"
+      },
+      "reverse": "{'pt': 'cucura', 'en': 'amazon tree grape'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-09-04T00:20:09Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

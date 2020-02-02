@@ -1,0 +1,27 @@
+{
+  "entry_id": "ji jó jaỹỹh doo_1d117540-a496-4b56-897c-25fb21e2108f",
+  "headword": "ji jó jaỹỹh doo",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ jɔʔ jaʔɨ̃:h do:ʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "42ca101b-9b7b-44a3-bba8-06371025ae57": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "bed",
+        "pt": "cama"
+      },
+      "def": {
+        "en": "bed",
+        "pt": "cama"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

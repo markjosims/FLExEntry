@@ -1,0 +1,27 @@
+{
+  "entry_id": "sahõnh (hẽ)_55883422-b63e-469c-8862-43624dc70b16",
+  "headword": "sahõnh (hẽ)",
+  "morph_type": "phrase",
+  "pronunciation": "ʃahɔ̃ɲ hẽʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "01bb7545-2aa2-4bfe-a07b-5827aa5b8f34": {
+      "pos": "adv",
+      "gloss": {
+        "en": "all",
+        "pt": "tudo"
+      },
+      "def": {
+        "en": "all",
+        "pt": "tudo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

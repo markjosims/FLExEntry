@@ -1,0 +1,53 @@
+{
+  "entry_id": "ehë̃p_df3af308-6431-4a3e-aea7-e9264917d791",
+  "headword": "ehë̃p",
+  "morph_type": "stem",
+  "pronunciation": "ʔehə̃p̚",
+  "variant_of": null,
+  "these_vars": {
+    "hɯ̃p_ceabb022-1ecb-48b9-b5d2-01c836094d5f": {
+      "headword": "hɯ̃p",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "a71ae3ed-1389-4b08-aea6-f7d4cf5225a8": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "ralar"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "4778e212-2f81-4496-b99d-294b71d6a3fa": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "grate",
+        "pt": "ralar"
+      },
+      "def": {
+        "en": "grate",
+        "pt": "ralar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

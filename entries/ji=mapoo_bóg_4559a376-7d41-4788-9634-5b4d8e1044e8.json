@@ -1,0 +1,27 @@
+{
+  "entry_id": "ji=mapoo bóg_4559a376-7d41-4788-9634-5b4d8e1044e8",
+  "headword": "ji=mapoo bóg",
+  "morph_type": "phrase",
+  "pronunciation": "maˈpo: ˈbɔg˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "93667167-4a3e-4a1b-b26b-d9cf1bb28821": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "fingernail",
+        "pt": "unha"
+      },
+      "def": {
+        "en": "fingernail",
+        "pt": "unha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T19:54:49Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

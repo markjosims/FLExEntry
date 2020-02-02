@@ -1,0 +1,23 @@
+{
+  "entry_id": "dʉ́k_f5ccdeb4-f609-45e0-ba1d-6bb5082adeb6",
+  "headword": "dʉ́k",
+  "morph_type": "stem",
+  "pronunciation": "dʌk",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "b7057afd-513e-41ff-bdfb-28df4e4c3dc5": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.suspended"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986; Weir 1990"
+}

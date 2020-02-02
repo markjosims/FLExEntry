@@ -1,0 +1,23 @@
+{
+  "entry_id": "babʌʔ_5218fe78-92c7-4850-b139-d29849e7363b",
+  "headword": "babʌʔ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "3c76e2d9-5808-43fb-84eb-701a50f9009f": {
+      "pos": "adv?",
+      "gloss": {
+        "en": "aqui"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

@@ -1,0 +1,25 @@
+{
+  "entry_id": "karahʹëëts_64589d1d-687e-431a-9434-15abd1193369",
+  "headword": "karahʹëëts",
+  "morph_type": "stem",
+  "pronunciation": "kaɾahə̰:ɟ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "b1143fea-aa0e-4892-b684-fe3641bcad19": {
+      "pos": "n",
+      "gloss": {
+        "pt": "periquito.verde"
+      },
+      "def": {
+        "pt": "esp. de periquito (verde)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

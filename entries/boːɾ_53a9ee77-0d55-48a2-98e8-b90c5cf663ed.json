@@ -1,0 +1,23 @@
+{
+  "entry_id": "boːɾ_53a9ee77-0d55-48a2-98e8-b90c5cf663ed",
+  "headword": "boːɾ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "1fd687b5-7fe5-406d-8101-4c39a74ae32b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "inajá"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

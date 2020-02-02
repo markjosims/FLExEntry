@@ -1,0 +1,27 @@
+{
+  "entry_id": "ebaan_a4743021-4fb5-4c67-a96c-b605a21e6d44",
+  "headword": "ebaan",
+  "morph_type": "stem",
+  "pronunciation": "ʔe ˈbã:n",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "a7ca0748-82d5-4f99-8f89-0fef61c7c8ae": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "thick.surface",
+        "pt": "grosso.superficie"
+      },
+      "def": {
+        "en": "thick for surface",
+        "pt": "grosso para superficies"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-08T18:17:57Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

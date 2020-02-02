@@ -1,0 +1,23 @@
+{
+  "entry_id": "daap_2c5b7407-1bb9-4ee2-b743-8ad9b0f2f316",
+  "headword": "daap",
+  "morph_type": "stem",
+  "pronunciation": "daːp",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "c073101f-a142-417f-b40a-81133c260729": {
+      "pos": "Adverb",
+      "gloss": {
+        "en": "for.no.reason"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
+}

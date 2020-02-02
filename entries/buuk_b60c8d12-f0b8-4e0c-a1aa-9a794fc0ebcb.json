@@ -1,0 +1,25 @@
+{
+  "entry_id": "buuk_b60c8d12-f0b8-4e0c-a1aa-9a794fc0ebcb",
+  "headword": "buuk",
+  "morph_type": "stem",
+  "pronunciation": "bu:k",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "974f52a4-055b-4f7f-adcc-3ce7affed7bc": {
+      "pos": "n",
+      "gloss": {
+        "pt": "cipó.sp"
+      },
+      "def": {
+        "pt": "esp. de cipó"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

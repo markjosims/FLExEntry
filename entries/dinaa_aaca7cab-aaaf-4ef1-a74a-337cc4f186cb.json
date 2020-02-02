@@ -1,0 +1,23 @@
+{
+  "entry_id": "dinaa_aaca7cab-aaaf-4ef1-a74a-337cc4f186cb",
+  "headword": "dinaa",
+  "morph_type": "stem",
+  "pronunciation": "dinaːʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "532dc17f-bf65-4d18-9545-d3e0a9b1aa66": {
+      "pos": "?",
+      "gloss": {
+        "en": "PART"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
+}

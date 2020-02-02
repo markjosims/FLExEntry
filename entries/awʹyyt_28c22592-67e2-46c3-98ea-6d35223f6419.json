@@ -1,0 +1,25 @@
+{
+  "entry_id": "awʹyyt_28c22592-67e2-46c3-98ea-6d35223f6419",
+  "headword": "awʹyyt",
+  "morph_type": "stem",
+  "pronunciation": "awɨ̰:t",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "0f54e79a-55e6-42a4-8d23-a909fd2bb52f": {
+      "pos": "v",
+      "gloss": {
+        "pt": "encontrar"
+      },
+      "def": {
+        "pt": "encontrar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'awyyd_98bfe604-99a5-4e00-b2b6-35b535dd8535': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

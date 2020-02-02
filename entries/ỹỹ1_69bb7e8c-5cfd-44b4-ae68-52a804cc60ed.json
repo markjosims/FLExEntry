@@ -1,0 +1,27 @@
+{
+  "entry_id": "ỹỹ1_69bb7e8c-5cfd-44b4-ae68-52a804cc60ed",
+  "headword": "ỹỹ",
+  "morph_type": "root",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "4000a589-7062-4b5d-be82-89258c2e733c": {
+      "pos": "pro",
+      "gloss": {
+        "en": "1sg.POSS.SG",
+        "pt": "1sg.POSS.SG"
+      },
+      "def": {
+        "en": "1st person possessive pronoun; singular possessed entity",
+        "pt": "pronome possessivo; 1 pessoa singular; possuido singular"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-02T15:00:05Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

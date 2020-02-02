@@ -1,0 +1,23 @@
+{
+  "entry_id": "wəm/wɨːm_990d5cb5-98be-420d-9662-a39d1662fc24",
+  "headword": "wəm/wɨːm",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "832045c5-8729-4d05-abcf-7b9fd60d538b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "morcego"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

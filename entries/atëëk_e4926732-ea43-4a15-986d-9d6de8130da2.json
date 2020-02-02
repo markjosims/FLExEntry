@@ -1,0 +1,25 @@
+{
+  "entry_id": "atëëk_e4926732-ea43-4a15-986d-9d6de8130da2",
+  "headword": "atëëk",
+  "morph_type": "stem",
+  "pronunciation": "atə:k",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "1d032139-a1cb-4d8f-ae92-69319e340357": {
+      "pos": "v",
+      "gloss": {
+        "pt": "arrumar"
+      },
+      "def": {
+        "pt": "arrumar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'atʹëëg_134f1576-46ff-42aa-b2a7-0331f238570a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

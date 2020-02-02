@@ -1,0 +1,23 @@
+{
+  "entry_id": "ʃim_8fcc8ace-4a78-4e08-b476-999f1c035aac",
+  "headword": "ʃim",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "3d035500-87f7-4b30-b7eb-17c74c6e0f6b": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "partir (hab ʃḭːm)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

@@ -1,0 +1,23 @@
+{
+  "entry_id": "wɛ̃m_d85377b8-bd2e-46c4-b056-cf8c3e2a4e87",
+  "headword": "wɛ̃m",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "8bca097c-89bd-4367-a52c-62fbb559ef3c": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "esticar"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

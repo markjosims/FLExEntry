@@ -1,0 +1,27 @@
+{
+  "entry_id": "ts’ëëg_95dec863-c133-43ea-b839-25af3fbb4312",
+  "headword": "ts’ëëg",
+  "morph_type": "stem",
+  "pronunciation": "tʃ’ǝʔǝg˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "6da2ae83-6c6f-4e5e-bfc2-f6fac626cd69": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "buriti.palm",
+        "pt": "buriti"
+      },
+      "def": {
+        "en": "buriti palm",
+        "pt": "buriti"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T23:14:36Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "nyy bä_944e0023-3f41-48d4-be6a-36e2e59a4ead",
+  "headword": "nyy bä",
+  "morph_type": "phrase",
+  "pronunciation": "nɨ: bʌʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "3d019497-809d-447b-8550-2aff441a5af9": {
+      "pos": "Question particle",
+      "gloss": {
+        "en": "where",
+        "pt": "onde"
+      },
+      "def": {
+        "en": "where",
+        "pt": "onde"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-11T00:03:59Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

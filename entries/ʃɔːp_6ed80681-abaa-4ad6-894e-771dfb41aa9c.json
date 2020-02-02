@@ -1,0 +1,23 @@
+{
+  "entry_id": "ʃɔːp_6ed80681-abaa-4ad6-894e-771dfb41aa9c",
+  "headword": "ʃɔːp",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "4f4ceaa2-5cea-40f7-9d90-fc417b604cd2": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "saltar (pl ʃɔ̰ːp)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

@@ -17,6 +17,9 @@ master = 'flexicon.csv'
 martins_file = 'MartinsDatabase.csv'
 barbosa_file = 'BarbosaDatabase.csv'
  
+read_date = lambda s : datetime.strptime(s, '%Y-%m-%dT%H:%M:%SZ')
+cutoff = datetime(2018, 6, 30)
+
 def main():
     martins_df = pd.read_csv(martins_file)
     barbosa_df = pd.read_csv(barbosa_file)
@@ -27,9 +30,6 @@ def main():
     martins = list( martins_df['martins'] )
     barbosa = list( barbosa_df['barbosa'] )
     unexpected = list( martins_df['barbosa'] )
-    
-    cutoff = datetime(2018, 6, 30)
-    read_date = lambda s : datetime.strptime(s, '%Y-%m-%dT%H:%M:%SZ')
     
     bib_col = []
     
@@ -68,7 +68,7 @@ def main():
     
     print(bib_col.count(''))
     flexicon['bibliography'] = bib_col
-    flexicon.to_csv('flexicon.csv')
+    flexicon.to_csv(master)
     gld()
         
         

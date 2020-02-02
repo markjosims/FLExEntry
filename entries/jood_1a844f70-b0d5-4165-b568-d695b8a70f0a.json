@@ -1,0 +1,27 @@
+{
+  "entry_id": "jood_1a844f70-b0d5-4165-b568-d695b8a70f0a",
+  "headword": "jood",
+  "morph_type": "stem",
+  "pronunciation": "jo:d˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "e7ebf375-f74f-4014-8dda-2500f242b2c4": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "anaconda",
+        "pt": "sucuri"
+      },
+      "def": {
+        "en": "anaconda",
+        "pt": "sucuri"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T23:03:29Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

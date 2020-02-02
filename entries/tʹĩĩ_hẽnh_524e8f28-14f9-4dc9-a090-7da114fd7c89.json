@@ -1,0 +1,25 @@
+{
+  "entry_id": "tʹĩĩ hẽnh_524e8f28-14f9-4dc9-a090-7da114fd7c89",
+  "headword": "tʹĩĩ hẽnh",
+  "morph_type": "phrase",
+  "pronunciation": "tḭ̃: hɛ̃ɲ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "55b7cce4-4891-4d38-86f2-55b14b2c805c": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "lá"
+      },
+      "def": {
+        "pt": "lá"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

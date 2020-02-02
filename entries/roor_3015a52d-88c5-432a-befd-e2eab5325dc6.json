@@ -1,0 +1,78 @@
+{
+  "entry_id": "roor_3015a52d-88c5-432a-befd-e2eab5325dc6",
+  "headword": "roor",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": {
+    "ʔaɾoːɾ_02510f6f-9440-4065-8ef1-609ab7927a49": {
+      "headword": "ʔaɾoːɾ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "3d19b6a9-f920-46d1-b00b-de01d5c63975": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "carará"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
+    },
+    "ɾoːɾ_4cf16e5f-320d-49e2-a128-4ae50a674b2b": {
+      "headword": "ɾoːɾ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "5bfc14d2-a70b-4322-bae6-1e5e2f7d40d6": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "pato"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "8477b726-76d0-4630-9a39-a67f1840cdb1": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "duck",
+        "pt": "pato"
+      },
+      "def": {
+        "en": "duck",
+        "pt": "pato"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T20:43:14Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,23 @@
+{
+  "entry_id": "tʉ́2_e8a45bd9-e67b-4f28-ac1a-5e55f7c05c03",
+  "headword": "tʉ́",
+  "morph_type": "stem",
+  "pronunciation": "tʌʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "0563e647-67c7-46a0-87d5-27bb4087d6df": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "food"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990"
+}

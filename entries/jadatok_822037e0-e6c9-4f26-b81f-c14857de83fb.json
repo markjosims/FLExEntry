@@ -1,0 +1,25 @@
+{
+  "entry_id": "jadatok_822037e0-e6c9-4f26-b81f-c14857de83fb",
+  "headword": "jadatok",
+  "morph_type": "stem",
+  "pronunciation": "jadatok",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "b1175a2d-aa4a-4330-b39f-fa0a408497a5": {
+      "pos": "v",
+      "gloss": {
+        "pt": "inclinado"
+      },
+      "def": {
+        "pt": "inclinado (árvore ou pessoa)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'jadatog_3fe4e340-414b-45a8-9f44-8fa4206a37c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'nu jadatoog_e201b7a5-265d-4e84-8d16-27c0ea05ac4b': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
+}

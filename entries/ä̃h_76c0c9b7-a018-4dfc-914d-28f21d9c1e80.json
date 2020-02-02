@@ -1,0 +1,25 @@
+{
+  "entry_id": "ä̃h_76c0c9b7-a018-4dfc-914d-28f21d9c1e80",
+  "headword": "ä̃h",
+  "morph_type": "stem",
+  "pronunciation": "ʌ̃h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "3d7a245a-3c01-482f-a9ae-7315b08028dd": {
+      "pos": "n p",
+      "gloss": {
+        "pt": "dias"
+      },
+      "def": {
+        "pt": "dias"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

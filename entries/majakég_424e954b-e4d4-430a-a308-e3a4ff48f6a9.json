@@ -1,0 +1,27 @@
+{
+  "entry_id": "majakég_424e954b-e4d4-430a-a308-e3a4ff48f6a9",
+  "headword": "majakég",
+  "morph_type": "stem",
+  "pronunciation": "mãjakɛg̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "40d6fa03-71b8-4dc8-8b0e-48637f1caa20": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tick",
+        "pt": "carrapato"
+      },
+      "def": {
+        "en": "large white tick",
+        "pt": "carrapato grande e branco"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

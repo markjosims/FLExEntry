@@ -1,0 +1,25 @@
+{
+  "entry_id": "kajaa_83922ee0-946f-468f-b13d-bdba82d957ba",
+  "headword": "kajaa",
+  "morph_type": "stem",
+  "pronunciation": "kaja:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "51df100f-fdcb-460f-8f6d-932797cc5b68": {
+      "pos": "v",
+      "gloss": {
+        "pt": "chegar"
+      },
+      "def": {
+        "pt": "chegar; terminar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'kaja_661cf15c-fe73-4d92-997c-a7572c531f9b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
+}

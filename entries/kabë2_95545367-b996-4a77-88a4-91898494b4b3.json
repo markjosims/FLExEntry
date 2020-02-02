@@ -1,0 +1,71 @@
+{
+  "entry_id": "kabë2_95545367-b996-4a77-88a4-91898494b4b3",
+  "headword": "kabë",
+  "morph_type": "stem",
+  "pronunciation": "kabəʔ",
+  "variant_of": null,
+  "these_vars": {
+    "kabë1_f3f3eac8-03b9-4b3b-be87-4d8a15178bc3": {
+      "headword": "kabë",
+      "morph_type": "stem",
+      "pronunciation": "kabə",
+      "these_vars": {
+        "kabəʔ_d70c2c74-ace0-4bcf-b320-69051e676ebd": {
+          "headword": "kabəʔ",
+          "morph_type": "stem",
+          "pronunciation": "",
+          "these_vars": null,
+          "note": null,
+          "sense": null,
+          "date": "2018-06-20T02:52:35Z",
+          "bibliography": "Barbosa",
+          "var_type": {
+            "type": "_component-lexeme",
+            "variant-type": "Barbosa",
+            "summary": "quati"
+          }
+        }
+      },
+      "note": {},
+      "sense": {
+        "8ac6625d-c1b7-4b3c-8b9f-5ddc68261ce9": {
+          "pos": "n",
+          "gloss": {
+            "pt": "coati"
+          },
+          "def": {
+            "pt": "coati"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "1967519c-1401-4d14-95ff-2fec582f47d3": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "coatamundi",
+        "pt": "quati"
+      },
+      "def": {
+        "en": "cotamundi; coatimundi",
+        "pt": "quati"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

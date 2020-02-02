@@ -1,0 +1,25 @@
+{
+  "entry_id": "erih_fda709d5-d037-4b44-9d89-2168a98aa9c6",
+  "headword": "erih",
+  "morph_type": "stem",
+  "pronunciation": "eɾih",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "c04f78de-1738-43f9-9aba-fb3f4335aef5": {
+      "pos": "v",
+      "gloss": {
+        "pt": "escrever"
+      },
+      "def": {
+        "pt": "escrever; desenhar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'eriih_7b220d07-1e11-4f11-b07f-4cefc59183e6': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'erii_acd22ffd-8fe5-4349-baeb-04dca25ccb2c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'erʹiih_ae31ae98-7acb-45bd-aa66-ec86365b6ebc': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

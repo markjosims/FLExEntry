@@ -1,0 +1,27 @@
+{
+  "entry_id": "mariij t’aah_966cdbff-a337-4753-b971-2813b0c4b292",
+  "headword": "mariij t’aah",
+  "morph_type": "phrase",
+  "pronunciation": "mãɾi:j taʔah",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "3d692d05-a5d4-4fbf-97cd-fb8b731c414b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "knife",
+        "pt": "faca"
+      },
+      "def": {
+        "en": "knife",
+        "pt": "faca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

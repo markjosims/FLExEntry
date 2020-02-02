@@ -188,7 +188,7 @@ def fix_lar(s, bib):
         out = s
         while lar_char in out:
             idx = out.index(lar_char)
-            assert len(out) > idx, out
+            assert len(out) > idx+1, out
             lar_vowel = out[idx+1]
             assert lar_vowel in char_conversions['__vowels']+['\u0303'], f"headword: {s}, lar_vowel: {lar_vowel}, out: {out}"
             

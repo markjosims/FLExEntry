@@ -1,0 +1,27 @@
+{
+  "entry_id": "jabaruut_97730e1c-4b00-42dd-bf5f-ae67b93de788",
+  "headword": "jabaruut",
+  "morph_type": "stem",
+  "pronunciation": "jabaˈɾu:t",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "ef54e133-d197-4f71-bea1-8cd979b41d6c": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "blue",
+        "pt": "azul"
+      },
+      "def": {
+        "en": "blue",
+        "pt": "azul"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T20:12:07Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

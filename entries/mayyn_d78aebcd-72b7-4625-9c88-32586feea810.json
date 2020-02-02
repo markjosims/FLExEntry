@@ -1,0 +1,25 @@
+{
+  "entry_id": "mayyn_d78aebcd-72b7-4625-9c88-32586feea810",
+  "headword": "mayyn",
+  "morph_type": "stem",
+  "pronunciation": "maɨ:n",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "524e2ad3-3854-45ff-aad8-6ff4b5292003": {
+      "pos": "n",
+      "gloss": {
+        "pt": "sogra"
+      },
+      "def": {
+        "pt": "sogra"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

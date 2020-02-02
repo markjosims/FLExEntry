@@ -1,0 +1,55 @@
+{
+  "entry_id": "hapäh_9e969d72-f8b2-48ba-83ac-3472669f4a98",
+  "headword": "hapäh",
+  "morph_type": "stem",
+  "pronunciation": "haˈpʌh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "87c6f66a-3872-4977-bada-eb6b026a7266": {
+      "pos": "v",
+      "gloss": {
+        "en": "see",
+        "pt": "ver"
+      },
+      "def": {
+        "en": "see",
+        "pt": "ver"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "47d31671-ecf0-47b4-a4d0-be26e05167f3": {
+      "pos": "v",
+      "gloss": {
+        "en": "know",
+        "pt": "saber"
+      },
+      "def": {
+        "en": "know",
+        "pt": "saber"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "d9d59f38-a96d-465b-a528-6b512bf0bd61": {
+      "pos": "v",
+      "gloss": {
+        "en": "understand",
+        "pt": "entender"
+      },
+      "def": {
+        "en": "understand",
+        "pt": "entender"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

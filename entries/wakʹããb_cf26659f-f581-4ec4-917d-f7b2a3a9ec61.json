@@ -1,0 +1,41 @@
+{
+  "entry_id": "wakʹããb_cf26659f-f581-4ec4-917d-f7b2a3a9ec61",
+  "headword": "wakʹããb",
+  "morph_type": "stem",
+  "pronunciation": "wakã̰:b",
+  "variant_of": null,
+  "these_vars": {
+    "wakã̰ːb_a3e3e61a-ea8b-4f65-ad5a-28ae00a931f6": {
+      "headword": "wakã̰ːb",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:45:39Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins",
+        "summary": "bagagem"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "1ab6285d-23e9-45e5-a7cc-1500226c8600": {
+      "pos": "n",
+      "gloss": {
+        "pt": "pertences"
+      },
+      "def": {
+        "pt": "pertences"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

@@ -1,0 +1,25 @@
+{
+  "entry_id": "adäk1_774abf52-37f4-472c-9e05-0d6566bafdfe",
+  "headword": "adäk",
+  "morph_type": "stem",
+  "pronunciation": "adʌk",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "e3697b1e-4f93-4ceb-ad0c-61c4a1dfff2d": {
+      "pos": "v",
+      "gloss": {
+        "pt": "estar"
+      },
+      "def": {
+        "pt": "pendurado; estar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'padäg1_82f3367d-8f49-4938-b2ad-fda2f8534143': {'type': '_component-lexeme', 'variant-type': 'Não indicativo plural'}, 'padëëk1_c3d960d6-c8b1-4659-b1e3-8e2b632633bb': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'adäg_d289f0e6-47b0-44cd-86fb-ad0272176d13': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

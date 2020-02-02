@@ -1,0 +1,27 @@
+{
+  "entry_id": "kanés g’aad_2ee0c600-0fc1-45ee-803e-4332e97219c8",
+  "headword": "kanés g’aad",
+  "morph_type": "phrase",
+  "pronunciation": "kadnɛ̃ʃ k'aʔad̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "2dc97e07-7a50-4b60-9c45-06506daa7bbc": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "roof.thatch.palm",
+        "pt": "caraná"
+      },
+      "def": {
+        "en": "palm for roof thatch",
+        "pt": "caraná"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

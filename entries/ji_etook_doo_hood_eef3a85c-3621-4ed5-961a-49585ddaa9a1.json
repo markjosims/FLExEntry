@@ -1,0 +1,27 @@
+{
+  "entry_id": "ji etook doo hood_eef3a85c-3621-4ed5-961a-49585ddaa9a1",
+  "headword": "ji etook doo hood",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ ʔeto:k̚ do:ʔ ho:d̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "848e9ef3-9586-479e-a8f1-aae802cdfba4": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "mortar",
+        "pt": "pilão"
+      },
+      "def": {
+        "en": "mortar",
+        "pt": "pilão"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

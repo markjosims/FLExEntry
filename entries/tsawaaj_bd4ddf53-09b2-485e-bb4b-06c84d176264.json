@@ -1,0 +1,53 @@
+{
+  "entry_id": "tsawaaj_bd4ddf53-09b2-485e-bb4b-06c84d176264",
+  "headword": "tsawaaj",
+  "morph_type": "stem",
+  "pronunciation": "tʃ'awa:j",
+  "variant_of": null,
+  "these_vars": {
+    "ɟawaːj_b03fc85e-ed55-4fb1-a5b5-02f36f54c659": {
+      "headword": "ɟawaːj",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "ef83758b-9301-4a62-a3a6-b24460de9fc6": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "mucura"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "1e5d684b-9692-43d8-bd75-2dc0d213702d": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "opossum",
+        "pt": "mucura"
+      },
+      "def": {
+        "en": "opossum",
+        "pt": "mucura"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

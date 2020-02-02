@@ -1,0 +1,55 @@
+{
+  "entry_id": "gatoj2_821cf217-373a-468c-809d-befd11a285c3",
+  "headword": "gatoj",
+  "morph_type": "stem",
+  "pronunciation": "k'atoj",
+  "variant_of": null,
+  "these_vars": {
+    "gatoj1_078662dd-26f4-4367-9768-df5ae4614a59": {
+      "headword": "gatoj",
+      "morph_type": "stem",
+      "pronunciation": "gatoj",
+      "these_vars": null,
+      "note": {},
+      "sense": {
+        "ab6100d4-bae8-44a2-8b89-ad9b4dd741bc": {
+          "pos": "n",
+          "gloss": {
+            "pt": "flecha"
+          },
+          "def": {
+            "pt": "flecha; planta que se faz flecha"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "04136b99-da36-48b3-afdb-7c8a47d55bf9": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "arrow",
+        "pt": "flecha"
+      },
+      "def": {
+        "en": "arrow",
+        "pt": "flecha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

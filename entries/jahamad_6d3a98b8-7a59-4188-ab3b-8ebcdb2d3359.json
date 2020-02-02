@@ -1,0 +1,53 @@
+{
+  "entry_id": "jahamad_6d3a98b8-7a59-4188-ab3b-8ebcdb2d3359",
+  "headword": "jahamad",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": {
+    "jahamaːd_ff8ca9d5-b389-4faf-88b6-3714f610b696": {
+      "headword": "jahamaːd",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "7ca6a82d-889c-4ffe-a188-5a4c9ee21eaf": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "mutum"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "206b2b80-0ea4-4a5a-a706-5b2ae1822ab9": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "curassow",
+        "pt": "mutum"
+      },
+      "def": {
+        "en": "curassow",
+        "pt": "mutum"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T20:19:18Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

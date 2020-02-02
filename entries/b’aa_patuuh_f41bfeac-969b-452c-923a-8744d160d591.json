@@ -1,0 +1,27 @@
+{
+  "entry_id": "b’aa patuuh_f41bfeac-969b-452c-923a-8744d160d591",
+  "headword": "b’aa patuuh",
+  "morph_type": "phrase",
+  "pronunciation": "baʔah paˈtu:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "e94f2a4a-2b0c-479b-85cf-033f7b6c91d1": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "stub",
+        "pt": "toco"
+      },
+      "def": {
+        "en": "stub",
+        "pt": "toco"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-08T17:13:07Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

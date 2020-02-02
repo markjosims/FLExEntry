@@ -1,0 +1,23 @@
+{
+  "entry_id": "wapad_6d1f39e4-a447-4cba-b3ff-b4b8f1eed9ae",
+  "headword": "wapad",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "00044171-b90b-4bf3-a830-42baef578fee": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de peixe"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

@@ -1,0 +1,29 @@
+{
+  "entry_id": "k’ëë_33265ec6-c2f0-40d5-a1eb-edc43610b9ea",
+  "headword": "k’ëë",
+  "morph_type": "root",
+  "pronunciation": "kǝʔǝh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "Note": "check spelling h?, (ji) k’ëë(h)"
+  },
+  "sense": {
+    "d73132b7-a04f-4f16-9bfd-c1fb641a572b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "bone",
+        "pt": "osso"
+      },
+      "def": {
+        "en": "bone",
+        "pt": "osso"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-04T14:25:35Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

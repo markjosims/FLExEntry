@@ -1,0 +1,27 @@
+{
+  "entry_id": "ji ma poo oow péh_7461304a-4ba5-4aec-bdc6-221a73962407",
+  "headword": "ji ma poo oow péh",
+  "morph_type": "phrase",
+  "pronunciation": "ji ma po: ˈʔo:w ˈpɛh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "2a168e51-005e-4508-91cf-1ae4015b6b8f": {
+      "pos": "",
+      "gloss": {
+        "en": "NMRL5",
+        "pt": "NMRL5"
+      },
+      "def": {
+        "en": "five",
+        "pt": "cinco"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T19:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

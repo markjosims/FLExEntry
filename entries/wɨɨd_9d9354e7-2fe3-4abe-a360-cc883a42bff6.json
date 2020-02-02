@@ -1,0 +1,23 @@
+{
+  "entry_id": "wɨɨd_9d9354e7-2fe3-4abe-a360-cc883a42bff6",
+  "headword": "wɨɨd",
+  "morph_type": "stem",
+  "pronunciation": "wɨːd",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "abef926e-30eb-474e-acdb-321061749115": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "find"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
+}

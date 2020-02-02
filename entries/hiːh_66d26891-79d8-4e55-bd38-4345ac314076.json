@@ -1,0 +1,23 @@
+{
+  "entry_id": "hiːh_66d26891-79d8-4e55-bd38-4345ac314076",
+  "headword": "hiːh",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "fa3726e8-ddd6-455c-9b3a-a9ef809d6cb3": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "abelha"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

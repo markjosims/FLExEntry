@@ -1,0 +1,25 @@
+{
+  "entry_id": "wät2_6f82fc68-dc2b-409a-86de-9dcd3f28347e",
+  "headword": "wät",
+  "morph_type": "stem",
+  "pronunciation": "wʌt",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "a3abfa60-b011-4cff-9a02-93a83f8e8399": {
+      "pos": "intj",
+      "gloss": {
+        "pt": "lá vai"
+      },
+      "def": {
+        "pt": "lá vai; quero passar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

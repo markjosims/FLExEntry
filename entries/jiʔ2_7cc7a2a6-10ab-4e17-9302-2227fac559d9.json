@@ -1,0 +1,23 @@
+{
+  "entry_id": "jiʔ2_7cc7a2a6-10ab-4e17-9302-2227fac559d9",
+  "headword": "jiʔ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "e67bf0c3-c8fb-49e2-970d-3dfe971dc4fe": {
+      "pos": "Pronoun",
+      "gloss": {
+        "en": "pronome indeterminado"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

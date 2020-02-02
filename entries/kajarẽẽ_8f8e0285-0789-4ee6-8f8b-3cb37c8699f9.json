@@ -1,0 +1,25 @@
+{
+  "entry_id": "kajarẽẽ_8f8e0285-0789-4ee6-8f8b-3cb37c8699f9",
+  "headword": "kajarẽẽ",
+  "morph_type": "stem",
+  "pronunciation": "kajaɾɛ̃:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "9eb27a7f-abaf-49a4-9779-e2d05d98a8f9": {
+      "pos": "n",
+      "gloss": {
+        "pt": "maracanã"
+      },
+      "def": {
+        "pt": "esp. de arara verde (maracanã)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

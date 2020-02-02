@@ -1,0 +1,27 @@
+{
+  "entry_id": "aoot_7a2019e0-f465-4197-8fb1-9a054260d1db",
+  "headword": "aoot",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈʔɔ:t˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "d59ed63e-455d-4631-afc4-79845c4db181": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "cry",
+        "pt": "chorar"
+      },
+      "def": {
+        "en": "cry",
+        "pt": "chorar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-09T23:53:19Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

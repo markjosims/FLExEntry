@@ -1,0 +1,27 @@
+{
+  "entry_id": "ji tsyym sahõnh hẽ_aeffdfca-557a-4b2e-84d8-63802e1f73f5",
+  "headword": "ji tsyym sahõnh hẽ",
+  "morph_type": "phrase",
+  "pronunciation": "ji tʃ’ɨ:bm ʃaˈhɔ̃ɲ ˈhẽʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "96393d18-7f80-4a9e-998b-120f63260717": {
+      "pos": "",
+      "gloss": {
+        "en": "NRML20",
+        "pt": "NMRL20"
+      },
+      "def": {
+        "en": "twenty",
+        "pt": "vinte"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T19:50:00Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

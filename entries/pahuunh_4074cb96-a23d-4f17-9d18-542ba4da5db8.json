@@ -1,0 +1,27 @@
+{
+  "entry_id": "pahuunh_4074cb96-a23d-4f17-9d18-542ba4da5db8",
+  "headword": "pahuunh",
+  "morph_type": "stem",
+  "pronunciation": "paˈhu:ɲ]",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "f198f67b-d5b1-4247-a10c-d182cdfe0ded": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "blow",
+        "pt": "soprar"
+      },
+      "def": {
+        "en": "blow",
+        "pt": "soprar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-08T18:47:26Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

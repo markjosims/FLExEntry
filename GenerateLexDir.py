@@ -11,10 +11,18 @@ import pandas as pd
 from shutil import rmtree
 from ast import literal_eval
 from time import time
+from platform import system
 
 master = 'flexicon.csv'
 senses = 'flex_senses.csv'
 out = 'entries'
+system = system()
+if system == 'Windows':
+    dir_delim = '\\'
+else:
+    assert system == 'Linux'
+    dir_delim = '/'
+
 
 # decorator
 def time_exec(f):
@@ -22,7 +30,7 @@ def time_exec(f):
         start = time()
         f(*args, **kwargs)
         end = time()
-        (str(f), end-start)
+        print(str(f), end-start)
     return g
 
 def main():
@@ -166,7 +174,7 @@ def write_json_dir(headwords):
         filehead = data['entry_id']
         filehead = rep_all(filehead, '/ ', '_')
         filehead = rep_all(filehead, '()[]? ', '')
-        filename = out + '\\' + filehead + '.json'
+        filename = out + dir_delim + filehead + '.json'
         temp = json.dumps(data, indent=2)
         temp = temp.encode('utf8')
         with open(filename, 'w', encoding='utf8') as f:
@@ -175,7 +183,7 @@ def write_json_dir(headwords):
             
 def clean_dir(folder):
     wd = os.getcwd()
-    folder_path = wd+'\\'+folder
+    folder_path = wd+dir_delim+folder
     try:
         rmtree(folder_path)
     except FileNotFoundError:

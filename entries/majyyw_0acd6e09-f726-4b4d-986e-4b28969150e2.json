@@ -1,0 +1,27 @@
+{
+  "entry_id": "majyyw_0acd6e09-f726-4b4d-986e-4b28969150e2",
+  "headword": "majyyw",
+  "morph_type": "stem",
+  "pronunciation": "maˈjɨ:w",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "36e6dd1e-e554-49e0-9e40-7164c8216f21": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "blood",
+        "pt": "sangue"
+      },
+      "def": {
+        "en": "blood",
+        "pt": "sangue"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-04T13:22:00Z",
+  "bibliography": "Fieldnotes Epps/Obert. 2018"
+}

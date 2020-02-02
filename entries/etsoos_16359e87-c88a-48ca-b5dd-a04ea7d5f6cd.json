@@ -1,0 +1,27 @@
+{
+  "entry_id": "etsoos_16359e87-c88a-48ca-b5dd-a04ea7d5f6cd",
+  "headword": "etsoos",
+  "morph_type": "stem",
+  "pronunciation": "ʔeˈɉ’o:ʃ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "9cefa735-d18d-434b-bde0-61102d140d37": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "spit",
+        "pt": "cuspir"
+      },
+      "def": {
+        "en": "spit",
+        "pt": "cuspir"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T23:07:33Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,23 @@
+{
+  "entry_id": "bung_5748fd7b-1d89-45b1-9f10-c880f23bf815",
+  "headword": "bung",
+  "morph_type": "stem",
+  "pronunciation": "buŋ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "9a4d2677-8bd7-44c0-84a4-35572de60159": {
+      "pos": "n",
+      "gloss": {
+        "pt": "mutuca"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T15:49:02Z",
+  "bibliography": "SIL Dict 2011"
+}

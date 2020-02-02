@@ -1,0 +1,41 @@
+{
+  "entry_id": "sii_33c93f86-60af-4c20-81f8-b9e6c82adc18",
+  "headword": "sii",
+  "morph_type": "stem",
+  "pronunciation": "ʃi:",
+  "variant_of": null,
+  "these_vars": {
+    "ʃiːʔ_9aa368a0-1f4c-484d-836b-4c974b506fd5": {
+      "headword": "ʃiːʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:19:39Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins",
+        "summary": "com"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "a94a5328-8617-4879-a786-42ceb1a0493b": {
+      "pos": "posp op",
+      "gloss": {
+        "pt": "com"
+      },
+      "def": {
+        "pt": "com; ao mismo tempo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

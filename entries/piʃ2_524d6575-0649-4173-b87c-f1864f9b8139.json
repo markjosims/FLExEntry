@@ -1,0 +1,49 @@
+{
+  "entry_id": "piʃ2_524d6575-0649-4173-b87c-f1864f9b8139",
+  "headword": "piʃ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": {
+    "piʃ1_34779d1b-888c-4885-8c33-f0cb9c912908": {
+      "headword": "piʃ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "48216aea-c916-4a33-93fd-ca968c40c581": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "espremer (n.i. piɟ)"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "b229711f-8858-496c-a6c3-b7de9e7610de": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espremer mandioca"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

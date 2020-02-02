@@ -1,0 +1,27 @@
+{
+  "entry_id": "syyj_9f339257-1bc7-4ea1-897f-ad0099dbb709",
+  "headword": "syyj",
+  "morph_type": "stem",
+  "pronunciation": "ʃɨ:j",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "8dba5f05-3bc0-435d-9dd5-dde7ea11c2e6": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "grease",
+        "pt": "gordura"
+      },
+      "def": {
+        "en": "grease",
+        "pt": "gordura"
+      },
+      "reverse": "",
+      "note": "{'grammar': 'ta syyj'}",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-05T14:12:40Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

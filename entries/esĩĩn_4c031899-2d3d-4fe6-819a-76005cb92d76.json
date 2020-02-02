@@ -1,0 +1,27 @@
+{
+  "entry_id": "esĩĩn_4c031899-2d3d-4fe6-819a-76005cb92d76",
+  "headword": "esĩĩn",
+  "morph_type": "stem",
+  "pronunciation": "ʔeˈʃĩ:n",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "2c141c62-5936-4788-9b52-0fe3f3a42093": {
+      "pos": "v",
+      "gloss": {
+        "en": "kill.with.arrow",
+        "pt": "flechar"
+      },
+      "def": {
+        "en": "kill with arrow",
+        "pt": "flechar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,80 @@
+{
+  "entry_id": "gaw’ëëng_475a687b-0e2b-4a1c-bf41-4336e322a2b7",
+  "headword": "gaw’ëëng",
+  "morph_type": "stem",
+  "pronunciation": "k'awəʔəgŋ",
+  "variant_of": null,
+  "these_vars": {
+    "gawɤ̰ːŋ_2bd9f56d-c1db-441e-a7ea-d1bf2e4d2d49": {
+      "headword": "gawɤ̰ːŋ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "315b3a73-8f64-4a46-8566-6bc087c13f50": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "rato"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    },
+    "gawʹëëng_2fb03076-0f14-4f82-8e15-80490ce7afb9": {
+      "headword": "gawʹëëng",
+      "morph_type": "stem",
+      "pronunciation": "gawə̰:ŋ",
+      "these_vars": null,
+      "note": {},
+      "sense": {
+        "54f1c665-1b46-4363-9617-61dcfd708da1": {
+          "pos": "n",
+          "gloss": {
+            "pt": "camundongo"
+          },
+          "def": {
+            "pt": "camundongo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "419b47a6-d47d-4c3f-84dd-822528664164": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "mouse",
+        "pt": "camundongo"
+      },
+      "def": {
+        "en": "mouse",
+        "pt": "camundongo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

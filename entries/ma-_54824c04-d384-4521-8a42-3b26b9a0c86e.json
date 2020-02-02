@@ -1,0 +1,26 @@
+{
+  "entry_id": "ma-_54824c04-d384-4521-8a42-3b26b9a0c86e",
+  "headword": "ma-",
+  "morph_type": "stem",
+  "pronunciation": "ma",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "c1aa92e2-ff1a-446b-a634-3d996ee423f1": {
+      "pos": "pre",
+      "gloss": {
+        "en": "INSTR",
+        "pt": "INSTR"
+      },
+      "def": {
+        "en": "by means of"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-29T04:22:11Z",
+  "bibliography": "Weir 1990"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "ji mehëëm doo_41cdd323-ee8c-4975-aba4-daf5052fc895",
+  "headword": "ji mehëëm doo",
+  "morph_type": "phrase",
+  "pronunciation": "jiʔ mẽhə:bm do:ʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "045768b1-0ece-4ba6-be9e-5d5d48363dea": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "incantation",
+        "pt": "benzimento"
+      },
+      "def": {
+        "en": "incantation",
+        "pt": "benzimento"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "kewan t’ëëh_dec39ffe-7d21-44ce-b1db-304de4924879",
+  "headword": "kewan t’ëëh",
+  "morph_type": "phrase",
+  "pronunciation": "kewadn təʔəh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "eb30efea-efb1-4c1e-8c9a-d7cb19730b98": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "palm weevil",
+        "pt": "larva"
+      },
+      "def": {
+        "en": "edible palm-dwelling larva (palm weevil)",
+        "pt": "larva; broca-do-coqueiro; aramandaiá"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

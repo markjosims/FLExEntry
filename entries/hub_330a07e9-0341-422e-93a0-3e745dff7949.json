@@ -1,0 +1,27 @@
+{
+  "entry_id": "hub_330a07e9-0341-422e-93a0-3e745dff7949",
+  "headword": "hub",
+  "morph_type": "stem",
+  "pronunciation": "hub˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "d2c9ce0b-546e-43b9-a0e7-7e44fd4015d9": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "right",
+        "pt": "direito"
+      },
+      "def": {
+        "en": "right",
+        "pt": "direito"
+      },
+      "reverse": "",
+      "note": "{'semantics': 'right arm'}",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-07T18:16:04Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

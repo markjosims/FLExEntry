@@ -1,0 +1,26 @@
+{
+  "entry_id": "gä_8c3e9683-efa0-43fd-b2c6-7fb130828ae8",
+  "headword": "gä",
+  "morph_type": "stem",
+  "pronunciation": "gʌ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "Note": "Weir 1986 (gʉ)"
+  },
+  "sense": {
+    "e8fdaa09-effb-413a-b981-cc07f2c1760a": {
+      "pos": "v",
+      "gloss": {
+        "en": "be.in.hammock",
+        "pt": "estar.na.rede"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

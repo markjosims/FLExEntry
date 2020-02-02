@@ -1,0 +1,27 @@
+{
+  "entry_id": "makahe bëh_dd945543-0b14-435c-bb3f-30f393078ef0",
+  "headword": "makahe bëh",
+  "morph_type": "phrase",
+  "pronunciation": "mãkaheʔ bəh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "ecd9c0a4-ce4e-453e-aa39-5d3fd19f4bea": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "paper",
+        "pt": "papel"
+      },
+      "def": {
+        "en": "paper",
+        "pt": "papel"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

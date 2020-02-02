@@ -1,0 +1,40 @@
+{
+  "entry_id": "atëëh_7e4715cc-02ed-41de-b7e8-6d2b30d174cd",
+  "headword": "atëëh",
+  "morph_type": "stem",
+  "pronunciation": "atə:h",
+  "variant_of": null,
+  "these_vars": {
+    "atë_f220b4c8-df69-4f7d-bdce-35307c815909": {
+      "headword": "atë",
+      "morph_type": "stem",
+      "pronunciation": "atə",
+      "these_vars": null,
+      "note": {},
+      "sense": null,
+      "date": "2018-03-27T02:57:49Z",
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Não indicativo"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "16134e8b-c30e-4f5d-9ae5-02f30c6f29a6": {
+      "pos": "v",
+      "gloss": {
+        "pt": "estar.caindo"
+      },
+      "def": {
+        "pt": "estar caindo (só árvore e galho)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-27T02:54:27Z",
+  "bibliography": "SIL Dict 2011"
+}

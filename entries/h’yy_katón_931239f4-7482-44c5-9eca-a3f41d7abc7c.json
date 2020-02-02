@@ -1,0 +1,27 @@
+{
+  "entry_id": "h’yy katón_931239f4-7482-44c5-9eca-a3f41d7abc7c",
+  "headword": "h’yy katón",
+  "morph_type": "phrase",
+  "pronunciation": "hɨʔɨʔ kaˈtɔn",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "2cdf9ac6-8951-440c-97c6-815df5effb42": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.sad",
+        "pt": "ficar.triste"
+      },
+      "def": {
+        "en": "be.sad",
+        "pt": "ficar;triste"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T23:23:04Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "gasoom2_1c16d365-be77-4968-953b-7db5ca036d79",
+  "headword": "gasoom",
+  "morph_type": "stem",
+  "pronunciation": "k'aʃo:bm",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "f6dfd01c-5879-4c4c-9632-14981c14bdb8": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "fishing.bait",
+        "pt": "isca"
+      },
+      "def": {
+        "en": "bait for fishing",
+        "pt": "isca /  minhoca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

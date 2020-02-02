@@ -1,0 +1,25 @@
+{
+  "entry_id": "pahëëw_d96d5d0b-d7d0-4a83-bba8-d73b7c44fbc0",
+  "headword": "pahëëw",
+  "morph_type": "stem",
+  "pronunciation": "pahə:w",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "6d32cb3f-e9e9-4531-aa2b-526b10f42941": {
+      "pos": "n",
+      "gloss": {
+        "pt": "moço"
+      },
+      "def": {
+        "pt": "moço"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

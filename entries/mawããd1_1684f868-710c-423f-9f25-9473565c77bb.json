@@ -1,0 +1,27 @@
+{
+  "entry_id": "mawããd1_1684f868-710c-423f-9f25-9473565c77bb",
+  "headword": "mawããd",
+  "morph_type": "stem",
+  "pronunciation": "mawããd",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "49875121-3e4e-4cd8-a4b4-4c61dcf5e10b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "pineapple",
+        "pt": "abacaxi"
+      },
+      "def": {
+        "en": "pineapple",
+        "pt": "abacaxi"
+      },
+      "reverse": "{'en': 'pineapple', 'pt': 'abacaxi'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-09-03T23:37:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

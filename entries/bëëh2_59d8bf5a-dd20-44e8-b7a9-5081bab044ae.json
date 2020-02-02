@@ -1,0 +1,27 @@
+{
+  "entry_id": "bëëh2_59d8bf5a-dd20-44e8-b7a9-5081bab044ae",
+  "headword": "bëëh",
+  "morph_type": "stem",
+  "pronunciation": "bǝ:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "3244d12a-db56-4f1b-835e-3ca76ca002b0": {
+      "pos": "pro",
+      "gloss": {
+        "en": "2PL",
+        "pt": "2PL"
+      },
+      "def": {
+        "en": "you",
+        "pt": "vocês"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

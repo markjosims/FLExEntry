@@ -1,0 +1,27 @@
+{
+  "entry_id": "wareem_0bb01848-edbd-4404-9b11-155bb61f0429",
+  "headword": "wareem",
+  "morph_type": "stem",
+  "pronunciation": "waˈɾe:bm",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "09b33e05-02c4-48be-a02b-c4ecfe355f80": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "turn",
+        "pt": "virar"
+      },
+      "def": {
+        "en": "turn something",
+        "pt": "virar algo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T23:34:43Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

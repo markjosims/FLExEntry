@@ -1,0 +1,41 @@
+{
+  "entry_id": "karããj_94a54452-233f-4080-8b72-4f8490eb6956",
+  "headword": "karããj",
+  "morph_type": "stem",
+  "pronunciation": "kaˈɾã:j",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "97310a99-7696-4de1-a7f8-e9f056f93b84": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "hook",
+        "pt": "anzol"
+      },
+      "def": {
+        "en": "hook",
+        "pt": "anzol"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "77696b8f-d6a1-489b-ae42-b131a18a44b6": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "claw",
+        "pt": "garra"
+      },
+      "def": {
+        "en": "clawz",
+        "pt": "garra"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T19:56:22Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

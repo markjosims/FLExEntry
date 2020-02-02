@@ -1,0 +1,27 @@
+{
+  "entry_id": "tsyym gagỹỹw_e22fef50-ce5d-4409-b5a1-f114f7d50ea0",
+  "headword": "tsyym gagỹỹw",
+  "morph_type": "phrase",
+  "pronunciation": "tʃ’ɨ:bm k’aˈk’ɨ̃:w",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "e65aa258-c9d8-4ddc-aab0-06c359092ae7": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "ankle",
+        "pt": "tornozelo"
+      },
+      "def": {
+        "en": "ankle",
+        "pt": "tornozelo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-15T20:21:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

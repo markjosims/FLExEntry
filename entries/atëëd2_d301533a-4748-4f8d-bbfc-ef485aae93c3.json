@@ -1,0 +1,55 @@
+{
+  "entry_id": "atëëd2_d301533a-4748-4f8d-bbfc-ef485aae93c3",
+  "headword": "atëëd",
+  "morph_type": "stem",
+  "pronunciation": "ʔatə:d̚",
+  "variant_of": null,
+  "these_vars": {
+    "atëëd1_95b72b78-8ccd-4c61-a213-45127865783a": {
+      "headword": "atëëd",
+      "morph_type": "stem",
+      "pronunciation": "atə:d",
+      "these_vars": null,
+      "note": {},
+      "sense": {
+        "a43f239c-e7dd-4388-bfe2-b10029dae56e": {
+          "pos": "n",
+          "gloss": {
+            "pt": "caba"
+          },
+          "def": {
+            "pt": "caba"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "bibliography": "SIL Dict 2011",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "SIL Dict 2011"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "ecea21e5-7367-4762-bd5c-6881a835e7d5": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "wasp",
+        "pt": "caba"
+      },
+      "def": {
+        "en": "wasp",
+        "pt": "caba"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "hehud_b82a47dc-46f1-456c-8ef2-a60b69edde18",
+  "headword": "hehud",
+  "morph_type": "stem",
+  "pronunciation": "heʔˈhud˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "9894851c-dd8d-47d6-854a-48143a4dd300": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "sweat",
+        "pt": "suar"
+      },
+      "def": {
+        "en": "sweat",
+        "pt": "suar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-15T20:42:03Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

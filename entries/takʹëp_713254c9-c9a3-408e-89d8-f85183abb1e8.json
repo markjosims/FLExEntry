@@ -1,0 +1,51 @@
+{
+  "entry_id": "takʹëp_713254c9-c9a3-408e-89d8-f85183abb1e8",
+  "headword": "takʹëp",
+  "morph_type": "stem",
+  "pronunciation": "takə̰p",
+  "variant_of": null,
+  "these_vars": {
+    "takɤ̰p_05bff17e-0f67-47a7-8c0f-aaeb5194a218": {
+      "headword": "takɤ̰p",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "f36dee8c-63a9-493d-80bb-eee92d8ec9df": {
+          "pos": "?",
+          "gloss": {
+            "en": "forte"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "e51b5395-a1b4-44d8-84cd-019a3371d037": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "INTS"
+      },
+      "def": {
+        "pt": "intensificador"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

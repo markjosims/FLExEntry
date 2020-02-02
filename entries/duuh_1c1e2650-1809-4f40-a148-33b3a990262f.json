@@ -1,0 +1,66 @@
+{
+  "entry_id": "duuh_1c1e2650-1809-4f40-a148-33b3a990262f",
+  "headword": "duuh",
+  "morph_type": "stem",
+  "pronunciation": "du:h",
+  "variant_of": null,
+  "these_vars": {
+    "duːh2_8cad8cbe-211f-4aa3-bd6e-b9d4d6bcebb8": {
+      "headword": "duːh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "e51661bd-1335-4d9e-b430-fce904f9fc90": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "fundo"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    },
+    "duːh1_b4bc3933-afcd-45d9-9eea-c1dc19d0f3b5": {
+      "headword": "duːh",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T02:16:50Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins",
+        "summary": "fundo"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "034a0409-242f-4bb1-a927-c33794ddb359": {
+      "pos": "n op",
+      "gloss": {
+        "pt": "nádegas"
+      },
+      "def": {
+        "pt": "nádegas; assento; começo; nício"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

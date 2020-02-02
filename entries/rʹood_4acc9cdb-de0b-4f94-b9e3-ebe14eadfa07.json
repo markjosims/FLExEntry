@@ -1,0 +1,66 @@
+{
+  "entry_id": "rʹood_4acc9cdb-de0b-4f94-b9e3-ebe14eadfa07",
+  "headword": "rʹood",
+  "morph_type": "stem",
+  "pronunciation": "ɾo̰:d",
+  "variant_of": null,
+  "these_vars": {
+    "ɾo̰:d_0c829fa4-9159-4c0f-bbd0-974ce4a7a960": {
+      "headword": "ɾo̰:d",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:15:35Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins",
+        "summary": "fala"
+      }
+    },
+    "lxood_6014263a-2bf5-4bc5-9ea3-0189c7dd05cb": {
+      "headword": "lxood",
+      "morph_type": "stem",
+      "pronunciation": "ɾo̰ːd",
+      "these_vars": null,
+      "note": {},
+      "sense": {
+        "6bcd1618-330d-451b-86ee-adb48a38e4e3": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "speak n.i."
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Weir 1994",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "cb5a288a-7be4-4c63-b65b-7763c235b6d4": {
+      "pos": "v",
+      "gloss": {
+        "pt": "fala"
+      },
+      "def": {
+        "pt": "fala"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'terʹood_65ad6eee-f8b9-44d1-8184-e611ee027971': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

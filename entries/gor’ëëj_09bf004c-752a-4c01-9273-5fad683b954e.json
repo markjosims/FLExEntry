@@ -1,0 +1,27 @@
+{
+  "entry_id": "gor’ëëj_09bf004c-752a-4c01-9273-5fad683b954e",
+  "headword": "gor’ëëj",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "71701844-6504-4d95-853e-158eb0eb8caa": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "guan",
+        "pt": "jacu"
+      },
+      "def": {
+        "en": "guan",
+        "pt": "jacu"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T20:22:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

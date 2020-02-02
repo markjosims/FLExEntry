@@ -1,0 +1,23 @@
+{
+  "entry_id": "jaɾaːk_67892484-cc37-4642-b7d8-f72b736f6254",
+  "headword": "jaɾaːk",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "d5618481-3a56-45bc-803c-b8a4de30bd81": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "onça pintada"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

@@ -1,0 +1,76 @@
+{
+  "entry_id": "juʔ2_268efbd6-8e22-4f0a-b085-761f16553757",
+  "headword": "juʔ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": {
+    "ju_5dae869a-3b1b-46a6-8326-74a340630984": {
+      "headword": "ju",
+      "morph_type": "stem",
+      "pronunciation": "ju",
+      "these_vars": null,
+      "note": {},
+      "sense": {
+        "4a4f2624-50f9-4820-a471-57c867677cd3": {
+          "pos": "n?",
+          "gloss": {
+            "pt": "?"
+          },
+          "def": {
+            "pt": "?"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-03-08T07:17:53Z",
+      "bibliography": "encontrado na cartilha 4; licão 14",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Cartilhas"
+      }
+    },
+    "juʔ1_7bb13b61-6e0f-4bd3-9889-18139d7bb2ac": {
+      "headword": "juʔ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "d108abdf-f26e-436f-bf25-080eac6d4842": {
+          "pos": "?",
+          "gloss": {
+            "en": "queimado"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "f4a48a32-b937-40f5-bc30-b63c9b147668": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "fogo"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

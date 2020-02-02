@@ -1,0 +1,23 @@
+{
+  "entry_id": "ɟug_96302045-3340-4193-98f5-4d19048d0d48",
+  "headword": "ɟug",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "503692c8-69c9-411a-8005-9f514a6bf0c3": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de planta"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

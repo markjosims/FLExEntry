@@ -1,0 +1,53 @@
+{
+  "entry_id": "mabëng_c197d537-44e1-4a6f-abe7-fa15aead02e7",
+  "headword": "mabëng",
+  "morph_type": "stem",
+  "pronunciation": "mãbəgŋ",
+  "variant_of": null,
+  "these_vars": {
+    "mabəŋ_2e0a7a92-fed2-4403-94ac-b9bf1c602912": {
+      "headword": "mabəŋ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "40ede637-6942-4ae3-a232-93416da42454": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "cotiara"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
+    }
+  },
+  "note": null,
+  "sense": {
+    "d2037ec6-96f8-4116-acb4-69375e82081a": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "green.acouchi",
+        "pt": "cutiara"
+      },
+      "def": {
+        "en": "Green Acouchi",
+        "pt": "cutiara"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

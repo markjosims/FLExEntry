@@ -1,0 +1,53 @@
+{
+  "entry_id": "papỹỹj_3194bd97-3568-41d3-ad94-fa7e9d5d6930",
+  "headword": "papỹỹj",
+  "morph_type": "stem",
+  "pronunciation": "paˈpɨ̃:j",
+  "variant_of": null,
+  "these_vars": {
+    "papɨ̃ːj_9c5efada-f2ba-4e84-a163-5a5325c9fb8c": {
+      "headword": "papɨ̃ːj",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "bc6387cc-13b1-42f3-9cc3-ef59da11962e": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "sol"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Weir",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Weir"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "fb412a69-3838-4492-87dd-2d5971e0cd4c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "sun",
+        "pt": "sol"
+      },
+      "def": {
+        "en": "sun",
+        "pt": "sol"
+      },
+      "reverse": "",
+      "note": "{'Note': 'here any notes about meaning variants in texts?'}",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-02-02T19:33:51Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

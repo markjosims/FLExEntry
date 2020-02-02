@@ -1,0 +1,27 @@
+{
+  "entry_id": "bebuu_43e0b62c-df25-4402-9772-5305e03bb339",
+  "headword": "bebuu",
+  "morph_type": "stem",
+  "pronunciation": "beʔbu:ʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "c3f32943-c934-4eb8-81e2-f360e8cc9a6c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "paxiuba.palm",
+        "pt": "paxiuba"
+      },
+      "def": {
+        "en": "paxiuba palm",
+        "pt": "paxiuba"
+      },
+      "reverse": "{'pt': 'paxiuba', 'en': 'paxiuba palm'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-09-03T23:22:48Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,25 @@
+{
+  "entry_id": "mäs_c3900618-266d-43a6-960f-e941a433d706",
+  "headword": "mäs",
+  "morph_type": "stem",
+  "pronunciation": "mʌʃ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "b661ed42-f117-47e9-948a-fd6bdcd840f9": {
+      "pos": "n",
+      "gloss": {
+        "pt": "civilizado"
+      },
+      "def": {
+        "pt": "civilizado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

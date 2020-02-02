@@ -1,0 +1,25 @@
+{
+  "entry_id": "ewëën_cf2ba2cf-1b12-4871-8529-c04cfe09aa5f",
+  "headword": "ewëën",
+  "morph_type": "stem",
+  "pronunciation": "ewə:n",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "576d82b4-95b9-46c6-8b26-e78d948cb115": {
+      "pos": "v",
+      "gloss": {
+        "pt": "correr.atrás"
+      },
+      "def": {
+        "pt": "correr atrás"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

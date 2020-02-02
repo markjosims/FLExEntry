@@ -1,0 +1,25 @@
+{
+  "entry_id": "tahũũk_c560af5a-d243-4a19-8738-f3c43449f3b8",
+  "headword": "tahũũk",
+  "morph_type": "stem",
+  "pronunciation": "tahũ:k",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "391d2895-022d-4e26-9e36-1d6993578635": {
+      "pos": "v",
+      "gloss": {
+        "pt": "roncar"
+      },
+      "def": {
+        "pt": "roncar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ahũũk_3e8c2dfa-419e-441c-b8a7-5792c1618c8d': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'tahʹũũg_7aa8a715-eb2d-4621-9155-2f1f0e2ba1a0': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011"
+}

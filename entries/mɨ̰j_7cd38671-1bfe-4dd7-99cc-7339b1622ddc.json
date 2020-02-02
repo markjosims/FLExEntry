@@ -1,0 +1,23 @@
+{
+  "entry_id": "mɨ̰j_7cd38671-1bfe-4dd7-99cc-7339b1622ddc",
+  "headword": "mɨ̰j",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "9c14ccac-e14c-4308-8362-3cc93bac34bc": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "perema"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

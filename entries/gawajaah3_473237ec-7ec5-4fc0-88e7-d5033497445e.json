@@ -1,0 +1,27 @@
+{
+  "entry_id": "gawajaah3_473237ec-7ec5-4fc0-88e7-d5033497445e",
+  "headword": "gawajaah",
+  "morph_type": "stem",
+  "pronunciation": "k'awaja:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "54ca8363-569b-4e6f-ae6a-dda192b53693": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "hunt",
+        "pt": "caçar"
+      },
+      "def": {
+        "en": "hunt",
+        "pt": "caçar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,41 @@
+{
+  "entry_id": "her’oot_fcd85a56-cfb3-4e88-b636-3a81739ffd26",
+  "headword": "her’oot",
+  "morph_type": "stem",
+  "pronunciation": "heˈɾoʔot˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "6fa82561-043e-4219-ac78-208d19594928": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "tell.story",
+        "pt": "contar.historia"
+      },
+      "def": {
+        "en": "tell a story",
+        "pt": "contar historia"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "b0b1821a-b002-42b1-8e13-ebec54ae67bd": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "say",
+        "pt": "dizer"
+      },
+      "def": {
+        "en": "say",
+        "pt": "dizer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-09T23:51:42Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

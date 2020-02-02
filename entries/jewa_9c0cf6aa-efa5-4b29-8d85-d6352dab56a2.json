@@ -1,0 +1,27 @@
+{
+  "entry_id": "jewa_9c0cf6aa-efa5-4b29-8d85-d6352dab56a2",
+  "headword": "jewa",
+  "morph_type": "stem",
+  "pronunciation": "jeʔˈwaʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "10bef4c5-594e-483b-87a7-dfbe9a7b3d95": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "chew",
+        "pt": "mastigar"
+      },
+      "def": {
+        "en": "chew",
+        "pt": "mastigar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-09T13:47:11Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

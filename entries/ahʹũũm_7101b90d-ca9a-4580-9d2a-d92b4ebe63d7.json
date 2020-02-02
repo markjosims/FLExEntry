@@ -1,0 +1,25 @@
+{
+  "entry_id": "ahʹũũm_7101b90d-ca9a-4580-9d2a-d92b4ebe63d7",
+  "headword": "ahʹũũm",
+  "morph_type": "stem",
+  "pronunciation": "ahṵ̃:m",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "472c2165-859a-4acf-aca2-e864bd6380d2": {
+      "pos": "v p",
+      "gloss": {
+        "pt": "subir.rio"
+      },
+      "def": {
+        "pt": "ir; subir o rio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ahõm1_22caba00-d293-40b0-9c79-dd140ebef072': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}, 'ahũũm_c1aba4f1-8144-4560-a16e-b9f106f47381': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

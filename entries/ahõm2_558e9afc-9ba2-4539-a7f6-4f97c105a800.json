@@ -1,0 +1,25 @@
+{
+  "entry_id": "ahõm2_558e9afc-9ba2-4539-a7f6-4f97c105a800",
+  "headword": "ahõm",
+  "morph_type": "stem",
+  "pronunciation": "ahõm",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "748c43d4-58b7-4a17-9148-b7fb606c05f9": {
+      "pos": "v",
+      "gloss": {
+        "pt": "ir"
+      },
+      "def": {
+        "pt": "ir; sair; subir o rio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

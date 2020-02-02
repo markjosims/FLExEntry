@@ -1,0 +1,27 @@
+{
+  "entry_id": "kawajad2_36b45174-a9b6-440b-b816-1d552c94f171",
+  "headword": "kawajad",
+  "morph_type": "stem",
+  "pronunciation": "kawajad̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "3177cdee-1741-4b37-82c7-6c7ffe9a60aa": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "deer",
+        "pt": "veado"
+      },
+      "def": {
+        "en": "deer",
+        "pt": "veado; cariacu"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

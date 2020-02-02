@@ -1,0 +1,25 @@
+{
+  "entry_id": "jëng_df0ab2f6-c78d-4ce7-b940-9f522b137fa9",
+  "headword": "jëng",
+  "morph_type": "stem",
+  "pronunciation": "jəŋ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "c02501ec-c251-460c-8ea9-0a77d9e5f367": {
+      "pos": "n",
+      "gloss": {
+        "pt": "sapo.sp"
+      },
+      "def": {
+        "pt": "esp. de sapo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

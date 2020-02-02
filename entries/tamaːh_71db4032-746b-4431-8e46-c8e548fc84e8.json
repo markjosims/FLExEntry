@@ -1,0 +1,23 @@
+{
+  "entry_id": "tamaːh_71db4032-746b-4431-8e46-c8e548fc84e8",
+  "headword": "tamaːh",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "cd0fc3fb-83fc-4473-938c-989573ab1b1c": {
+      "pos": "post?",
+      "gloss": {
+        "en": "sem"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

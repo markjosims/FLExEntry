@@ -1,0 +1,27 @@
+{
+  "entry_id": "karatu_5a0df1f2-ad66-44d9-8b7e-ebb5d37aee27",
+  "headword": "karatu",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "73f7e406-6f01-44da-81c6-8fc549a1bdf5": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "parrot",
+        "pt": "papagaio"
+      },
+      "def": {
+        "en": "parrot",
+        "pt": "papagaio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T20:31:26Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

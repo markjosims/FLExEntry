@@ -1,0 +1,25 @@
+{
+  "entry_id": "mahõk_6e9f39fd-5ff5-47ac-b69e-1c9432b66c90",
+  "headword": "mahõk",
+  "morph_type": "stem",
+  "pronunciation": "mahõk",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "449e256e-85a4-465c-bcf3-571d63f37366": {
+      "pos": "v",
+      "gloss": {
+        "pt": "ferida.ardenda"
+      },
+      "def": {
+        "pt": "ferida que arde"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'mahõg_05dd3abd-6534-4b59-b015-78d391e1d399': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'mahʹõõk_539045c3-27c3-4505-bfd8-c07905439195': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

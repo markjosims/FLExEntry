@@ -1,0 +1,41 @@
+{
+  "entry_id": "tarabʹiir_0f63a383-1083-460b-8cde-add3326cf317",
+  "headword": "tarabʹiir",
+  "morph_type": "stem",
+  "pronunciation": "taɾabḭ:ɾ",
+  "variant_of": null,
+  "these_vars": {
+    "taɾabḭɾ_7419cdf8-6b8c-44f5-9517-0b846de8ecca": {
+      "headword": "taɾabḭɾ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": null,
+      "date": "2018-06-20T03:28:32Z",
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa",
+        "summary": "minhoca"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "a5b82222-a737-4e50-89de-da16ef801861": {
+      "pos": "n",
+      "gloss": {
+        "pt": "do.gapó"
+      },
+      "def": {
+        "pt": "esp. de manioca (do gapó)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 3"
+}

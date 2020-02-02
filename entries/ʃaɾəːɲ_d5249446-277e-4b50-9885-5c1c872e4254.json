@@ -1,0 +1,23 @@
+{
+  "entry_id": "ʃaɾəːɲ_d5249446-277e-4b50-9885-5c1c872e4254",
+  "headword": "ʃaɾəːɲ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "bafe05e4-8e22-48b3-8003-2f796b93d9e5": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "ingá-cipó"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

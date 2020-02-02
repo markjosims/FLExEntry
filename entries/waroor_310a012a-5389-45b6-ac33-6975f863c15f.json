@@ -1,0 +1,27 @@
+{
+  "entry_id": "waroor_310a012a-5389-45b6-ac33-6975f863c15f",
+  "headword": "waroor",
+  "morph_type": "stem",
+  "pronunciation": "waɾo:ɾᵊ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "ee444718-1be5-4be0-a9d0-4313d0a7a7c8": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "snail",
+        "pt": "caracol"
+      },
+      "def": {
+        "en": "snail",
+        "pt": "caracol"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

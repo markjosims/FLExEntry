@@ -1,0 +1,53 @@
+{
+  "entry_id": "j’ããr_afb2c658-3980-4715-a1ca-bed049b872a9",
+  "headword": "j’ããr",
+  "morph_type": "stem",
+  "pronunciation": "jaˈʔaɾǝ",
+  "variant_of": null,
+  "these_vars": {
+    "jã̰ːɾ_84285bfb-a147-47a4-a0d0-30818be5a223": {
+      "headword": "jã̰ːɾ",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "1f02cdd2-03d5-462e-b34f-8dc77c83fedd": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "caranguejo"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:53Z",
+      "bibliography": "Martins",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Martins"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "4f6cd69b-ecc3-4e16-af60-cd4750c24c9d": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "crab",
+        "pt": "caranguejo"
+      },
+      "def": {
+        "en": "crab",
+        "pt": "caranguejo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T23:01:42Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

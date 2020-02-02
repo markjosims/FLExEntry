@@ -1,0 +1,25 @@
+{
+  "entry_id": "mabooh_d4cd0f8d-7eb6-444d-988a-892e659baad6",
+  "headword": "mabooh",
+  "morph_type": "stem",
+  "pronunciation": "mabo:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "5880c48b-d253-4be0-a14f-a560270d41b1": {
+      "pos": "n",
+      "gloss": {
+        "pt": "planta.sp"
+      },
+      "def": {
+        "pt": "esp. de planta"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

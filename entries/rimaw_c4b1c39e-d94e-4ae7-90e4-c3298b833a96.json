@@ -1,0 +1,27 @@
+{
+  "entry_id": "rimaw_c4b1c39e-d94e-4ae7-90e4-c3298b833a96",
+  "headword": "rimaw",
+  "morph_type": "stem",
+  "pronunciation": "ɾibmãw",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "5634076d-37d1-4dbb-a469-cd13e28dda52": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "lime",
+        "pt": "limão"
+      },
+      "def": {
+        "en": "lime",
+        "pt": "limão"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

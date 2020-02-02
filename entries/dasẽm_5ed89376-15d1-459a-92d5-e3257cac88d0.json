@@ -1,0 +1,27 @@
+{
+  "entry_id": "dasẽm_5ed89376-15d1-459a-92d5-e3257cac88d0",
+  "headword": "dasẽm",
+  "morph_type": "stem",
+  "pronunciation": "daˈʃẽm",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "fbeebb81-bc04-4fb4-beab-70250b5690fb": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "flow",
+        "pt": "correr.agua"
+      },
+      "def": {
+        "en": "flow",
+        "pt": "rcorrer.agua;"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T00:32:43Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

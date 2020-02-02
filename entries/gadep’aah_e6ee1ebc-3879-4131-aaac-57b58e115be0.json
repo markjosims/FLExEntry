@@ -1,0 +1,27 @@
+{
+  "entry_id": "gadep’aah_e6ee1ebc-3879-4131-aaac-57b58e115be0",
+  "headword": "gadep’aah",
+  "morph_type": "stem",
+  "pronunciation": "k’adeˈpaʔah",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "87619968-796b-456c-bb8a-d6c609145a1e": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "split.firewood",
+        "pt": "rachar.lenha"
+      },
+      "def": {
+        "en": "split firewood",
+        "pt": "rachar lenha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T23:08:56Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "matym_271c9f06-aae1-403d-bc35-a6b34f549f0f",
+  "headword": "matym",
+  "morph_type": "stem",
+  "pronunciation": "maˈtɨbm",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "4dfc33d6-18cb-42d0-ac07-83fa43d80266": {
+      "pos": "",
+      "gloss": {
+        "en": "eye",
+        "pt": "olho"
+      },
+      "def": {
+        "en": "eye",
+        "pt": "olho"
+      },
+      "reverse": "",
+      "note": "{'grammar': '(ji) matym'}",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-05T14:02:15Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "jëm_5c2a82e1-ebb7-4287-90df-d3a28ccaa053",
+  "headword": "jëm",
+  "morph_type": "stem",
+  "pronunciation": "jəbm",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "ba7b6925-c9c9-4031-898a-f9f0253621bd": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "ritual.festival",
+        "pt": "dabucuri"
+      },
+      "def": {
+        "en": "ritual festival",
+        "pt": "dabucuri"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

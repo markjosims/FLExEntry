@@ -1,0 +1,27 @@
+{
+  "entry_id": "ra_691deaf6-11ec-4636-828c-82636a8e4eac",
+  "headword": "ra",
+  "morph_type": "stem",
+  "pronunciation": "ɾa",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "6704bbec-ab67-4664-8cc6-dccf621623a7": {
+      "pos": "pre",
+      "gloss": {
+        "en": "3P",
+        "pt": "3P"
+      },
+      "def": {
+        "en": "3P",
+        "pt": "3P"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T17:13:55Z",
+  "bibliography": "Weir 1990 (la)"
+}

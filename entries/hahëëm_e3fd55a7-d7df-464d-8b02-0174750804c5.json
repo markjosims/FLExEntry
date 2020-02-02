@@ -1,0 +1,27 @@
+{
+  "entry_id": "hahëëm_e3fd55a7-d7df-464d-8b02-0174750804c5",
+  "headword": "hahëëm",
+  "morph_type": "stem",
+  "pronunciation": "haˈhǝ:bm",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "cf16c452-b4b1-40f1-87b8-b62a8dcdda71": {
+      "pos": "v",
+      "gloss": {
+        "en": "cold",
+        "pt": "frio"
+      },
+      "def": {
+        "en": "cold",
+        "pt": "frio (estar com frio)"
+      },
+      "reverse": "",
+      "note": "{'grammar': 'verb or adjective?'}",
+      "these_vars": "{'hahëëw_fd77a6ed-fbcc-4d9a-9f75-6c822da7adec': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert 2018"
+}

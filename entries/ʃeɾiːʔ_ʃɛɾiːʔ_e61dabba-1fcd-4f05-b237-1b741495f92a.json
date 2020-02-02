@@ -1,0 +1,23 @@
+{
+  "entry_id": "ʃeɾiːʔ/ʃɛɾiːʔ_e61dabba-1fcd-4f05-b237-1b741495f92a",
+  "headword": "ʃeɾiːʔ/ʃɛɾiːʔ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "2dcde15e-e320-4528-ba5d-eaed04480ec5": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "periquito"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

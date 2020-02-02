@@ -1,0 +1,53 @@
+{
+  "entry_id": "ajat_32eac6de-1dac-4fe7-96eb-afb8fdd8a693",
+  "headword": "ajat",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈjat",
+  "variant_of": null,
+  "these_vars": {
+    "ʔajat_c5b4a15c-8d79-4996-b956-443c2143e1b7": {
+      "headword": "ʔajat",
+      "morph_type": "stem",
+      "pronunciation": "",
+      "these_vars": null,
+      "note": null,
+      "sense": {
+        "00147e7a-5cf2-4451-89d3-c2f442919a18": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "deitar"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "date": "2018-06-20T05:09:54Z",
+      "bibliography": "Barbosa",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Barbosa"
+      }
+    }
+  },
+  "note": {},
+  "sense": {
+    "d86d7892-a9dd-4711-bde6-a91c478f0b29": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "lie.down",
+        "pt": "deitar.chão"
+      },
+      "def": {
+        "en": "lie down (ground)",
+        "pt": "deitar no chão"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-10T15:39:39Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

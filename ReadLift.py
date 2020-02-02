@@ -5,14 +5,17 @@ Created on Sun Nov 17 17:36:07 2019
 @author: Mark
 """
 
-from ReadLiftTags import read_entry, read_sense, step_back
+from ReadLiftTags import skip_head, read_entry, read_sense, step_back
 from GenerateLexDir import generate_lex_dir
 from time import time
 import pandas as pd
 
 in_file = 'export.lift'
-out_file = 'flexiconTEST.csv'
-senses_file = 'flex_sensesTEST.csv'
+out_file = 'flexicon.csv'
+senses_file = 'flex_senses.csv'
+
+global run_lex_dir
+run_lex_dir = False
 
 # decorator
 def time_exec(f):
@@ -30,21 +33,24 @@ def main():
     get_these_vars(entries_df, entries_df)
     entries_df = entries_df.loc[:,['headword', 'entry_id', 'morph_type',
                                  'pronunciation', 'variant_of', 'these_vars', 'other_forms',
-                                 'note', 'sense', 'date']]
+                                 'note', 'sense', 'date', 'date_modified']]
 
     senses_df = get_senses_df()
     get_these_vars(senses_df, entries_df)
     
     entries_df.to_csv(out_file, encoding='utf8', index=False)   
-    senses_df.to_csv(senses_file, encoding='utf8', index=False)   
-    generate_lex_dir(entries_df, senses_df)
+    senses_df.to_csv(senses_file, encoding='utf8', index=False)
+    if run_lex_dir:
+        generate_lex_dir(entries_df, senses_df)
   
 @time_exec
 def get_entries_df():
     entries_df = pd.DataFrame(columns = ['headword', 'entry_id', 'morph_type',
                                  'pronunciation', 'variant_of', 'note', 'sense', 'other_forms',
-                                 'date'])
+                                 'date', 'date_modified'])
     with open(in_file, 'rb') as f:
+        skip_head(f)
+        
         line_bytes = f.readline()
         while line_bytes:
             line_str = line_bytes.decode('utf8').strip()
@@ -122,3 +128,4 @@ def set_filenames(in_name=in_file, out_name=out_file, senses_name=senses_file):
           
 if __name__ == '__main__':
     main()
+    run_lex_dir=True

@@ -1,0 +1,23 @@
+{
+  "entry_id": "mɨh_48a57db1-f031-4fb0-a057-d5006fb63d43",
+  "headword": "mɨh",
+  "morph_type": "stem",
+  "pronunciation": "mɨh",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "0dd17887-8c82-4044-89f2-d01810b1a001": {
+      "pos": "?",
+      "gloss": {
+        "en": "RLT(?)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994"
+}

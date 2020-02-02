@@ -1,0 +1,25 @@
+{
+  "entry_id": "hepũũ_ef03e002-08aa-40c2-9509-41327e679084",
+  "headword": "hepũũ",
+  "morph_type": "stem",
+  "pronunciation": "hepũ:",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "8b859c8e-4f06-4162-904c-0b3d029ad246": {
+      "pos": "v",
+      "gloss": {
+        "pt": "grande"
+      },
+      "def": {
+        "pt": "grande"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'hepõ_804ba3dc-742b-4d69-ba4c-969cb0d34c1f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

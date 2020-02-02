@@ -1,0 +1,23 @@
+{
+  "entry_id": "wɨm_d70249ce-c638-4f54-9217-c3728f3fc3e5",
+  "headword": "wɨm",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "da30a093-9487-4ef9-aab6-088a4e01187e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "quatipuru"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

@@ -1,0 +1,25 @@
+{
+  "entry_id": "hahỹỹh_c9b7d1df-1bb9-48d2-a71c-af0fdd38ed70",
+  "headword": "hahỹỹh",
+  "morph_type": "stem",
+  "pronunciation": "hahɨ̃:h",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "d0241a76-b53b-466b-adbc-ed0b68da452a": {
+      "pos": "pro",
+      "gloss": {
+        "pt": "este"
+      },
+      "def": {
+        "pt": "este"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011"
+}

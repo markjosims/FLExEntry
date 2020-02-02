@@ -1,0 +1,27 @@
+{
+  "entry_id": "baju_16b9f9ed-0cb5-4df0-b170-cdea3e4efea7",
+  "headword": "baju",
+  "morph_type": "stem",
+  "pronunciation": "baˈjuʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "5f3a89d8-db19-4cc0-9e59-a02da258eaf4": {
+      "pos": "",
+      "gloss": {
+        "en": "hot",
+        "pt": "quente"
+      },
+      "def": {
+        "en": "hot (sun)",
+        "pt": "quente (sol)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-27T20:14:26Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

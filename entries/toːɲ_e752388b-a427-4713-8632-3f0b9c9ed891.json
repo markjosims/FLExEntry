@@ -1,0 +1,23 @@
+{
+  "entry_id": "toːɲ_e752388b-a427-4713-8632-3f0b9c9ed891",
+  "headword": "toːɲ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "06c5bbaa-0114-4a4e-929b-1d6d6280f451": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "estar sentado (pl to̰ːɲ)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

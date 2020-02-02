@@ -1,0 +1,27 @@
+{
+  "entry_id": "kamak_dfae89f9-0470-48cd-9b48-c0d0ab77f609",
+  "headword": "kamak",
+  "morph_type": "stem",
+  "pronunciation": "kabmãk̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "6742a5d0-c7fd-42f3-a056-1a241a027690": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "strangler.vine",
+        "pt": "apui"
+      },
+      "def": {
+        "en": "strangler vine",
+        "pt": "apui"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

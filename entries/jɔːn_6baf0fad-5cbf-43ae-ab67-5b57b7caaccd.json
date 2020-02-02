@@ -1,0 +1,23 @@
+{
+  "entry_id": "jɔ(ː)n_6baf0fad-5cbf-43ae-ab67-5b57b7caaccd",
+  "headword": "jɔ(ː)n",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "18b3c387-e206-412f-b0dc-5b0776ecbe6c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tamanduá"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa"
+}

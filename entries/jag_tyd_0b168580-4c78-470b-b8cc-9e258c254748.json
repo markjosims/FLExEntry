@@ -1,0 +1,27 @@
+{
+  "entry_id": "jag tyd_0b168580-4c78-470b-b8cc-9e258c254748",
+  "headword": "jag tyd",
+  "morph_type": "phrase",
+  "pronunciation": "jag̚ tɨd̚",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "6d7a0e30-f14e-4502-be6f-a87ec5630571": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "hammock.string",
+        "pt": "fio.de.rede"
+      },
+      "def": {
+        "en": "string used to hang hammock",
+        "pt": "corda para atar rede"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

@@ -1,0 +1,27 @@
+{
+  "entry_id": "mar’ããs ma_e484acce-74a9-4e3c-a1be-ab05b83c5614",
+  "headword": "mar’ããs ma",
+  "morph_type": "phrase",
+  "pronunciation": "mãɾãʔãʃ mãʔ",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "8dc79657-958d-44e9-bcfb-6c9c0157e696": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "club",
+        "pt": "clava"
+      },
+      "def": {
+        "en": "club",
+        "pt": "clava; porrete"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

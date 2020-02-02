@@ -1,0 +1,29 @@
+{
+  "entry_id": "nabuuj_cb6fe9b5-c752-4979-abff-e6d8db6d476b",
+  "headword": "nabuuj",
+  "morph_type": "stem",
+  "pronunciation": "naˈbu:j",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {
+    "Note": "(ji) nabuuj"
+  },
+  "sense": {
+    "439b0ade-ce1c-48c9-83ac-8deba397e943": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "ear",
+        "pt": "orelha"
+      },
+      "def": {
+        "en": "ear",
+        "pt": "orelha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-07-06T18:59:24Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

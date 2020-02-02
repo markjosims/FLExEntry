@@ -1,0 +1,27 @@
+{
+  "entry_id": "japũũn_a77d9223-0041-4bcf-b223-2f5b7ba7a1dc",
+  "headword": "japũũn",
+  "morph_type": "stem",
+  "pronunciation": "japũ:n",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "61eb6c89-62e9-4d43-9631-a60b3b75416f": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "bread.griddle",
+        "pt": "forno.p.beiju"
+      },
+      "def": {
+        "en": "griddle for cooking flatbread",
+        "pt": "forno para beiju"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2019-01-14T03:46:55Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

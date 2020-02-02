@@ -1,0 +1,23 @@
+{
+  "entry_id": "ʔagɔp_04058245-c971-4e27-85ac-b9a2c17f90d4",
+  "headword": "ʔagɔp",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "5cce2064-600f-4164-823b-b65c8545b57f": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "buscar água"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}

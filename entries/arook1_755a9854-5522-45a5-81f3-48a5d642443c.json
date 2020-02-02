@@ -1,0 +1,27 @@
+{
+  "entry_id": "arook1_755a9854-5522-45a5-81f3-48a5d642443c",
+  "headword": "arook",
+  "morph_type": "stem",
+  "pronunciation": "aɾo:k",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "3788e05c-3f9f-4d44-bdbe-902018a84899": {
+      "pos": "n",
+      "gloss": {
+        "en": "aturá",
+        "pt": "aturá"
+      },
+      "def": {
+        "en": "aturá",
+        "pt": "aturá"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T17:09:23Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

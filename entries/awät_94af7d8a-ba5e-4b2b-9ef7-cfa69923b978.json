@@ -1,0 +1,41 @@
+{
+  "entry_id": "awät_94af7d8a-ba5e-4b2b-9ef7-cfa69923b978",
+  "headword": "awät",
+  "morph_type": "stem",
+  "pronunciation": "ʔaˈwǝt˺",
+  "variant_of": null,
+  "these_vars": null,
+  "note": {},
+  "sense": {
+    "2c08905d-ed34-4bce-a5d7-9819044844bd": {
+      "pos": "v",
+      "gloss": {
+        "en": "walk",
+        "pt": "andar"
+      },
+      "def": {
+        "en": "walk",
+        "pt": "andar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ma wëëd_6a5a6d9b-e53c-43d3-899a-cc60e56ffab8': {'type': '_component-lexeme', 'variant-type': 'Causativo não indicativo'}, 'wʹëët_78cc870c-148a-4b0a-b684-18e13bce9b43': {'type': '_component-lexeme', 'variant-type': 'Ext.(?)'}}"
+    },
+    "36e6ef46-3bde-4e2b-b316-156547409325": {
+      "pos": "v",
+      "gloss": {
+        "en": "live",
+        "pt": "viver"
+      },
+      "def": {
+        "en": "live (metaphorical)",
+        "pt": "viver (metaforico)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Fieldnotes Epps/Obert; 2018"
+}

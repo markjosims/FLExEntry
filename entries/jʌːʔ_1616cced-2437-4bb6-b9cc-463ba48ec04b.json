@@ -1,0 +1,23 @@
+{
+  "entry_id": "jʌːʔ_1616cced-2437-4bb6-b9cc-463ba48ec04b",
+  "headword": "jʌːʔ",
+  "morph_type": "stem",
+  "pronunciation": "",
+  "variant_of": null,
+  "these_vars": null,
+  "note": null,
+  "sense": {
+    "1ec5c496-b253-497a-9daf-0f3edb0fb00e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de fruta"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins"
+}
