@@ -1,0 +1,28 @@
+{
+  "entry_id": "matə:h_e7e8d396-6ffd-46a2-9c452ba9d806df55",
+  "headword": "matə:h",
+  "morph_type": "stem",
+  "pronunciation": "matə:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "03c77401-7d29-449e-8690-79b696621935": {
+      "pos": "v",
+      "gloss": {
+        "pt": "dobrar"
+      },
+      "def": {
+        "pt": "dobrar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'matëh_0577a7cf-1a2c-4828-a81c-ecff2bab519b': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'metëh_2a349d15-08ba-4b91-8480-9d780ef195ca': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'matëëh'}"
+}

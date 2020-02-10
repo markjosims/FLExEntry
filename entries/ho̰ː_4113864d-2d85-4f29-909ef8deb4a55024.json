@@ -1,0 +1,28 @@
+{
+  "entry_id": "ho̰:_4113864d-2d85-4f29-909ef8deb4a55024",
+  "headword": "ho̰:",
+  "morph_type": "stem",
+  "pronunciation": "ho̰:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "0876d3e9-e52c-4b96-ad67-676bff348f78": {
+      "pos": "n",
+      "gloss": {
+        "pt": "inambu pequeno"
+      },
+      "def": {
+        "pt": "esp. de pássaro (inambu pequeno)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'hʹoo'}"
+}

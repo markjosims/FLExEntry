@@ -1,0 +1,26 @@
+{
+  "entry_id": "ha:k_c0fa3ce4-38f4-40ac-bb8c1f8ae64f94a0",
+  "headword": "ha:k",
+  "morph_type": "stem",
+  "pronunciation": "ha:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "9e5c6254-d1c4-4be6-9063-f8fb832a183f": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "surucucu"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'haːk'}"
+}

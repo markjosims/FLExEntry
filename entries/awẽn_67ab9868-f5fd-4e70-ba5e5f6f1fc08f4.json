@@ -1,0 +1,28 @@
+{
+  "entry_id": "awẽn_67ab9868-f5fd-4e70-ba5e5f6f1fc08f4",
+  "headword": "awẽn",
+  "morph_type": "stem",
+  "pronunciation": "awẽn",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "2cdcf756-2f7e-43bd-9bb9-a85978065686": {
+      "pos": "v",
+      "gloss": {
+        "pt": "misturar"
+      },
+      "def": {
+        "pt": "misturar; mexer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'awʹẽẽn_a22c479e-38d0-468c-b169-fd203006e2ce': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'awẽn'}"
+}

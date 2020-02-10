@@ -1,0 +1,26 @@
+{
+  "entry_id": "ʃahõɲ_a1ab4219-36f5-430c-a60658f9e05fbf5e",
+  "headword": "ʃahõɲ",
+  "morph_type": "stem",
+  "pronunciation": "ʃahõɲ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "47f25ff7-6c5b-48a8-90bf-80071db11447": {
+      "pos": "n? pro?",
+      "gloss": {
+        "en": "all"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'sahõnh'}"
+}

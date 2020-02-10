@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃatə:h_faede2ca-26e4-47e4-82b79b5b0517a522",
+  "headword": "ʃatə:h",
+  "morph_type": "stem",
+  "pronunciation": "ʃatə:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "c0cbab5b-37b9-40f4-bb34-d13317663d3b": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 17",
+  "other_sources": "{'Cartilhas': 'satëëh'}"
+}

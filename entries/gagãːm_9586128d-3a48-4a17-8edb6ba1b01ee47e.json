@@ -1,0 +1,28 @@
+{
+  "entry_id": "gagã:m_9586128d-3a48-4a17-8edb6ba1b01ee47e",
+  "headword": "gagã:m",
+  "morph_type": "stem",
+  "pronunciation": "gagã:m",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "cd2f91cd-cfee-4d62-899c-5b7f35a7c2fb": {
+      "pos": "v",
+      "gloss": {
+        "pt": "listrado.com.anéis"
+      },
+      "def": {
+        "pt": "ser listrado perpendicularmente em forma de anel)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'gagããm'}"
+}

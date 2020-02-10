@@ -1,0 +1,28 @@
+{
+  "entry_id": "kata:_0885df11-e1f7-4582-8731d877f55fbab8",
+  "headword": "kata:",
+  "morph_type": "stem",
+  "pronunciation": "kata:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "cd962a77-92e5-4f64-8d18-27b4f9b75d40": {
+      "pos": "v",
+      "gloss": {
+        "pt": "encontrar-se"
+      },
+      "def": {
+        "pt": "encontar-se"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'kata_3eb7ccd4-c020-4a9f-aa39-6024fd8231ea': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'kataa'}"
+}

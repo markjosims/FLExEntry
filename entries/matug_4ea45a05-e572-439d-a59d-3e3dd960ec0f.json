@@ -3,7 +3,7 @@
   "headword": "matug",
   "morph_type": "stem",
   "pronunciation": "maˈtug˺",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018z"
+  "bibliography": "Fieldnotes Epps/Obert; 2018z",
+  "other_sources": ""
 }

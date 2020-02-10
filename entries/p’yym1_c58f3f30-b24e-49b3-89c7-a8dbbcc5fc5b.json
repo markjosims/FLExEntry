@@ -3,36 +3,8 @@
   "headword": "p’yym",
   "morph_type": "stem",
   "pronunciation": "pɨʔɨbm",
-  "variant_of": null,
-  "these_vars": {
-    "pʹyym_48a754db-ea05-4440-bcad-eec33e19477e": {
-      "headword": "pʹyym",
-      "morph_type": "stem",
-      "pronunciation": "pɨ̰:m",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "e08317a8-6964-4524-981c-ee61e958a38a": {
-          "pos": "n",
-          "gloss": {
-            "pt": "veneno"
-          },
-          "def": {
-            "pt": "veneno"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "0ff02acc-9504-470e-9510-8732c92ad6ee": {
@@ -51,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'pʹyym'}"
 }

@@ -1,0 +1,26 @@
+{
+  "entry_id": "eh (v. e:h)_f34fc58d-6e5c-4fe8-96042572208081d9",
+  "headword": "eh (v. e:h)",
+  "morph_type": "phrase",
+  "pronunciation": "eh (v. e:h)",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "5eb8548a-8774-4e1b-9077-b42afb34f6b8": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.big"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990",
+  "other_sources": "{'Weir': 'eh (v. eeh)'}"
+}

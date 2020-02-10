@@ -3,7 +3,7 @@
   "headword": "sigõõh",
   "morph_type": "stem",
   "pronunciation": "ʃiˈk’ɔ̃:h",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-08T17:08:13Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

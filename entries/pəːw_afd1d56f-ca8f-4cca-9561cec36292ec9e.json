@@ -1,0 +1,26 @@
+{
+  "entry_id": "pə:w_afd1d56f-ca8f-4cca-9561cec36292ec9e",
+  "headword": "pə:w",
+  "morph_type": "stem",
+  "pronunciation": "pə:w",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "e590312c-74dc-4c1f-b837-2b58e68e294e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de árvore"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'pɤːw'}"
+}

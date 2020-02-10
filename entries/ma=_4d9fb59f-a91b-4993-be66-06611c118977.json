@@ -3,7 +3,7 @@
   "headword": "ma=",
   "morph_type": "proclitic",
   "pronunciation": "",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": null,
   "sense": {
@@ -22,5 +22,6 @@
     }
   },
   "date": "2018-07-02T14:46:30Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

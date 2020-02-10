@@ -1,0 +1,28 @@
+{
+  "entry_id": "bə:h_962a8de8-7f65-4e60-b8a4c16d27943a33",
+  "headword": "bə:h",
+  "morph_type": "stem",
+  "pronunciation": "bə:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "b0f67bb0-4d54-42df-9b69-fb3dfe73d1c1": {
+      "pos": "n op",
+      "gloss": {
+        "pt": "suco"
+      },
+      "def": {
+        "pt": "suco; liquido"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Weir': 'bʉʉh', 'Sil Dict 2011': 'bëëh'}"
+}

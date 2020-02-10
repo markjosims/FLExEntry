@@ -1,0 +1,26 @@
+{
+  "entry_id": "wapi:t_5d48e59f-e89b-450f-a91e94535ea368c7",
+  "headword": "wapi:t",
+  "morph_type": "stem",
+  "pronunciation": "wapi:t",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "4341ee7a-6fea-49e8-aed4-11164ddab9e0": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "maracajá"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'wapiːt'}"
+}

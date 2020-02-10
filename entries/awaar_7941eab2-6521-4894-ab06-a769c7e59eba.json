@@ -3,39 +3,8 @@
   "headword": "awaar",
   "morph_type": "stem",
   "pronunciation": "ʔawa:ɾǝ",
-  "variant_of": null,
-  "these_vars": {
-    "ʔawaɾ_02cfa92b-6ede-4498-a37c-7f6ef21e91b0": {
-      "headword": "ʔawaɾ",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": null,
-      "date": "2018-06-20T01:58:47Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa",
-        "summary": "cachorro"
-      }
-    },
-    "awaal_39fa617f-734d-4d5e-866c-120030def907": {
-      "headword": "awaal",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": null,
-      "date": "2018-06-20T01:56:33Z",
-      "bibliography": "Weir",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Weir",
-        "summary": "1986; dog"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "f29f17fb-2c81-400d-8bb4-f183d2ff5369": {
@@ -54,5 +23,6 @@
     }
   },
   "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'ʔawaɾ', 'Weir': 'awaal'}"
 }

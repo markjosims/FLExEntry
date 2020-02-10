@@ -1,0 +1,26 @@
+{
+  "entry_id": "pɛɲ_293c09f6-ed2a-4868-9b87ece2b457b61f",
+  "headword": "pɛɲ",
+  "morph_type": "stem",
+  "pronunciation": "pɛɲ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "67c332e6-9e7c-4da6-a3cd-36feba618322": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "distância"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'pɛɲ'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "gõ̰:h_eb41f0ed-d6f9-4d6e-85b336781b9f4841",
+  "headword": "gõ̰:h",
+  "morph_type": "stem",
+  "pronunciation": "gõ̰:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "fb8a364a-20b0-4a9d-89a7-a2aec9e384b4": {
+      "pos": "n",
+      "gloss": {
+        "pt": "caba.ovo"
+      },
+      "def": {
+        "pt": "ovo de caba; ovo de abelha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'gʹõõh'}"
+}

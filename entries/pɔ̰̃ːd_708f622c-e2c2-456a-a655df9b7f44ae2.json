@@ -1,0 +1,26 @@
+{
+  "entry_id": "pɔ̰̃:d_708f622c-e2c2-456a-a655df9b7f44ae2",
+  "headword": "pɔ̰̃:d",
+  "morph_type": "stem",
+  "pronunciation": "pɔ̰̃:d",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source undef."
+  },
+  "sense": {
+    "c129d025-a31f-417d-bd34-173a03678aa5": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de trepadeira"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "",
+  "other_sources": "{'undef': 'pɔ̰̃ːd'}"
+}

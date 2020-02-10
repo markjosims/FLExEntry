@@ -3,59 +3,8 @@
   "headword": "tooh",
   "morph_type": "stem",
   "pronunciation": "to:h",
-  "variant_of": null,
-  "these_vars": {
-    "tóóh_18f789fd-8b37-49ce-9f44-303247b20dde": {
-      "headword": "tóóh",
-      "morph_type": "stem",
-      "pronunciation": "tɔːh",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "d379da3f-efe2-4e2f-b1d4-7c3bfa01bd2c": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "wild.pig"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Weir 1994",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Weir"
-      }
-    },
-    "toːh_7f0b89bd-c145-4365-b20a-74fab09a5887": {
-      "headword": "toːh",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "d7ce1338-8451-43c5-b430-3a0f60d558f5": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "quiexada"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "c9c714c3-9bc2-43f6-9308-3e57bf3ab2ca": {
@@ -74,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Weir': 'tóóh', 'Barbosa': 'toːh'}"
 }

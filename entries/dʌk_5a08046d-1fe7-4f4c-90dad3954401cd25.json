@@ -1,0 +1,29 @@
+{
+  "entry_id": "dʌk_5a08046d-1fe7-4f4c-90dad3954401cd25",
+  "headword": "dʌk",
+  "morph_type": "stem",
+  "pronunciation": "dʌk",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "450e9534-c055-4c95-bead-8ed86564fd80": {
+      "pos": "n?",
+      "gloss": {
+        "en": "be.suspended",
+        "pt": "suspendido"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "Weir 1986; 1990 (translated to Port. MS), cartilha 4; lição 10",
+  "other_sources": "{'Weir': 'däk'}"
+}

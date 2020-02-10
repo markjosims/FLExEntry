@@ -1,0 +1,28 @@
+{
+  "entry_id": "dɔ_b34c70de-07c4-4851-930bb7d6ef30937d",
+  "headword": "dɔ",
+  "morph_type": "stem",
+  "pronunciation": "dɔ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "3322dadc-8d0c-4448-a5bd-c32a1f45c1d6": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "ainda"
+      },
+      "def": {
+        "pt": "ainda"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Weir': 'dó', 'Sil Dict 2011': 'dó'}"
+}

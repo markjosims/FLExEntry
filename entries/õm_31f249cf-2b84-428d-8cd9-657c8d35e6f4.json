@@ -3,7 +3,7 @@
   "headword": "õm",
   "morph_type": "stem",
   "pronunciation": "ʔɔ̃m",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018, Weir 1990; Weir 1994"
+  "bibliography": "Fieldnotes Epps/Obert; 2018, Weir 1990; Weir 1994",
+  "other_sources": ""
 }

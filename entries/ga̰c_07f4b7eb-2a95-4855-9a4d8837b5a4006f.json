@@ -1,0 +1,26 @@
+{
+  "entry_id": "ga̰c_07f4b7eb-2a95-4855-9a4d8837b5a4006f",
+  "headword": "ga̰c",
+  "morph_type": "stem",
+  "pronunciation": "ga̰c",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "5a92a4b9-5c68-4cbb-8d09-4b2115434816": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "areia"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ga̰ɟ'}"
+}

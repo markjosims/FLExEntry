@@ -1,0 +1,28 @@
+{
+  "entry_id": "gabok_9288536e-4047-4b13-aedb1a10b207ea08",
+  "headword": "gabok",
+  "morph_type": "stem",
+  "pronunciation": "gabok",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "282db821-28d3-43a6-bfd5-5f739c562939": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-26T16:29:15Z",
+  "bibliography": "cartilha 4; lição 4",
+  "other_sources": "{'Cartilhas': 'gabok'}"
+}

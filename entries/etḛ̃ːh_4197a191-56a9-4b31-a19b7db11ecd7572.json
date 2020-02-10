@@ -1,0 +1,28 @@
+{
+  "entry_id": "etḛ̃:h_4197a191-56a9-4b31-a19b7db11ecd7572",
+  "headword": "etḛ̃:h",
+  "morph_type": "stem",
+  "pronunciation": "etḛ̃:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "16ea75bd-34bc-4cde-9c54-17f1298a64d9": {
+      "pos": "v",
+      "gloss": {
+        "pt": "bater.em.metal"
+      },
+      "def": {
+        "pt": "bater em metal (por exemplo batendo cano de espingarda)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T17:28:59Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'etʹẽẽh'}"
+}

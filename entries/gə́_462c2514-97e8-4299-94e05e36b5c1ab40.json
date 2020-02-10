@@ -1,0 +1,26 @@
+{
+  "entry_id": "gə́_462c2514-97e8-4299-94e05e36b5c1ab40",
+  "headword": "gə́",
+  "morph_type": "stem",
+  "pronunciation": "gə́",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "88a2695a-b53d-4cf6-936f-8d4ffb99ff56": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.in.hammock"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986",
+  "other_sources": "{'Weir': 'gʉ́'}"
+}

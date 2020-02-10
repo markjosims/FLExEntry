@@ -1,0 +1,26 @@
+{
+  "entry_id": "tɔ̰̃:p_9cceec82-ec11-4fd0-9417c81d9b1b5b72",
+  "headword": "tɔ̰̃:p",
+  "morph_type": "stem",
+  "pronunciation": "tɔ̰̃:p",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source undef."
+  },
+  "sense": {
+    "a666ad75-f16d-4256-a561-377b5438bd63": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "no fundo (do rio)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "",
+  "other_sources": "{'undef': 'tɔ̰̃ːp'}"
+}

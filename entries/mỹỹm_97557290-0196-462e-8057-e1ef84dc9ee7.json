@@ -3,77 +3,8 @@
   "headword": "mỹỹm",
   "morph_type": "stem",
   "pronunciation": "mɨ̃:m",
-  "variant_of": null,
-  "these_vars": {
-    "myym_632462d5-0968-40f4-a457-813d01824927": {
-      "headword": "myym",
-      "morph_type": "stem",
-      "pronunciation": "mɨ:m",
-      "these_vars": {
-        "mɨɨm1_db9988e2-952d-4c97-9459-82d6e116e782": {
-          "headword": "mɨɨm",
-          "morph_type": "stem",
-          "pronunciation": "",
-          "these_vars": null,
-          "note": null,
-          "sense": null,
-          "date": "2018-06-20T03:02:07Z",
-          "bibliography": "Weir",
-          "var_type": {
-            "type": "_component-lexeme",
-            "variant-type": "Weir",
-            "summary": "1994; axe"
-          }
-        }
-      },
-      "note": {},
-      "sense": {
-        "8a0757b9-7617-433a-b0c8-4ba16c891c48": {
-          "pos": "n",
-          "gloss": {
-            "pt": "machado"
-          },
-          "def": {
-            "pt": "machado"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    },
-    "mɨɨm2_a2418be7-62d2-404b-8f3e-6ebd2c5de915": {
-      "headword": "mɨɨm",
-      "morph_type": "stem",
-      "pronunciation": "mɨːm",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "8fd64453-4f0d-4333-8b34-fa163c51f2bc": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "axe"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Weir 1994",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Weir"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "05914b5d-e8d3-4f1a-8928-e15b2060dffe": {
@@ -92,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'myym', 'Weir': 'mɨɨm'}"
 }

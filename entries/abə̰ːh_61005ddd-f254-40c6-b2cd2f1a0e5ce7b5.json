@@ -1,0 +1,28 @@
+{
+  "entry_id": "abə̰:h_61005ddd-f254-40c6-b2cd2f1a0e5ce7b5",
+  "headword": "abə̰:h",
+  "morph_type": "stem",
+  "pronunciation": "abə̰:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "af5b17b1-8339-44fa-aace-571fa3b52be2": {
+      "pos": "v p h",
+      "gloss": {
+        "pt": "em.pé"
+      },
+      "def": {
+        "pt": "em pé; no chão"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'dabëëh_01834ee1-a032-4bfb-8827-07f2ace9c99f': {'type': '_component-lexeme', 'variant-type': 'Causativo'}, 'abëëh_6e59c75d-2c2e-434c-b175-579c2363b6c5': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'abʹëëh'}"
+}

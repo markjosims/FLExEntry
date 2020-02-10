@@ -1,0 +1,28 @@
+{
+  "entry_id": "wagɨ̰:_229d329d-4a9b-4de3-a37adf48df52884b",
+  "headword": "wagɨ̰:",
+  "morph_type": "stem",
+  "pronunciation": "wagɨ̰:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "ba0f6a91-81d7-49e3-be04-7eeb0297efb0": {
+      "pos": "n",
+      "gloss": {
+        "pt": "cipó.sp"
+      },
+      "def": {
+        "pt": "esp. de cipó"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'wagʹyy'}"
+}

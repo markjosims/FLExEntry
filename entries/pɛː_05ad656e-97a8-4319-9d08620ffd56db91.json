@@ -1,0 +1,26 @@
+{
+  "entry_id": "pɛ:_05ad656e-97a8-4319-9d08620ffd56db91",
+  "headword": "pɛ:",
+  "morph_type": "stem",
+  "pronunciation": "pɛ:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "1bc07424-3f32-458c-b32e-b0cccc692b49": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "farinha"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'pɛːʔ'}"
+}

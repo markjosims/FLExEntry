@@ -3,36 +3,8 @@
   "headword": "p’eets hẽ",
   "morph_type": "phrase",
   "pronunciation": "peʔeɉ hẽʔ]",
-  "variant_of": null,
-  "these_vars": {
-    "pʹeets hẽ_ec73ec5a-97dd-47c9-8c8c-1d937b51073f": {
-      "headword": "pʹeets hẽ",
-      "morph_type": "phrase",
-      "pronunciation": "pḛ:ɟ hɛ̃",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "697195e9-d0b8-46a2-b4e4-7eee1f116ed7": {
-          "pos": "adv",
-          "gloss": {
-            "pt": "perto"
-          },
-          "def": {
-            "pt": "perto"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "91dcc3b9-cc81-41c9-b099-8363fbeba894": {
@@ -65,5 +37,6 @@
     }
   },
   "date": "2018-07-07T17:37:39Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'pʹeets hẽ'}"
 }

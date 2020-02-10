@@ -1,0 +1,28 @@
+{
+  "entry_id": "wã:_173a9672-acc9-46fd-bfc1a486ca2c20b7",
+  "headword": "wã:",
+  "morph_type": "stem",
+  "pronunciation": "wã:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "c636c551-14df-4f20-859b-8bdd92d2d7c7": {
+      "pos": "n",
+      "gloss": {
+        "pt": "grelo.de.buriti"
+      },
+      "def": {
+        "pt": "grelo de buriti"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Martins': 'wãːʔ', 'Sil Dict 2011': 'wãã'}"
+}

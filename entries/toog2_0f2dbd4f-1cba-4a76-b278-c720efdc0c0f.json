@@ -3,36 +3,8 @@
   "headword": "toog",
   "morph_type": "stem",
   "pronunciation": "to:g̚",
-  "variant_of": null,
-  "these_vars": {
-    "toog1_fc56d0a8-16ea-459f-9fff-c846b615c3e0": {
-      "headword": "toog",
-      "morph_type": "stem",
-      "pronunciation": "to:g",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "0fbb1173-0c04-4673-8d50-a28d9b2b0fc5": {
-          "pos": "n op",
-          "gloss": {
-            "pt": "filha"
-          },
-          "def": {
-            "pt": "filha"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": "{'tok ỹỹ_3aee6c29-2602-4601-b146-47cf62c3c463': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "09da2923-e6d9-40fd-be0d-ddc17b8f36fe": {
@@ -51,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'toog'}"
 }

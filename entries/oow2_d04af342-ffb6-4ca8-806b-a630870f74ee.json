@@ -3,61 +3,8 @@
   "headword": "oow",
   "morph_type": "stem",
   "pronunciation": "ʔo:w",
-  "variant_of": null,
-  "these_vars": {
-    "oow1_eb8de02c-9b06-4ddc-af7a-cba13637ac34": {
-      "headword": "oow",
-      "morph_type": "stem",
-      "pronunciation": "o:w",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "c44033fb-f7ea-41e2-9277-e9771aa96ba3": {
-          "pos": "n",
-          "gloss": {
-            "pt": "vovó/ô"
-          },
-          "def": {
-            "pt": "vovó/ô; que não é legitimo"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    },
-    "ʔoːw1_f450e27e-ab41-4277-a9ec-2d5c346698a5": {
-      "headword": "ʔoːw",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "6348b12b-4bf5-4ab0-8d85-62ef1f664d54": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "avô"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": "{'ʔoːw2_69b65da0-efcb-44b5-aec4-0fcab8590956': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; avô'}}"
-        }
-      },
-      "date": "2018-06-20T05:09:53Z",
-      "bibliography": "Martins",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Martins"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "ab533c93-f223-4216-9aa0-6f4ffc09a7bf": {
@@ -76,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'oow', 'Martins': 'ʔoːw'}"
 }

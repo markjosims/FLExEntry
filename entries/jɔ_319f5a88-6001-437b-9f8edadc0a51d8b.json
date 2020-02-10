@@ -1,0 +1,44 @@
+{
+  "entry_id": "jɔ_319f5a88-6001-437b-9f8edadc0a51d8b",
+  "headword": "jɔ",
+  "morph_type": "stem",
+  "pronunciation": "jɔ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "daf97cf6-d8a0-4504-93d9-e9e5ba4c5843": {
+      "pos": "adv",
+      "gloss": {
+        "en": "on",
+        "pt": "em.cima"
+      },
+      "def": {
+        "en": "on",
+        "pt": "em cima"
+      },
+      "reverse": "",
+      "note": "{'bibliography': 'Fieldnotes Epps/Obert; 2018'}",
+      "these_vars": ""
+    },
+    "b2381743-f8f7-4b32-b7c1-f8203f6f3261": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "back",
+        "pt": "costas"
+      },
+      "def": {
+        "en": "back",
+        "pt": "costas"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Weir': 'yó', 'Martins': 'jɔʔ', 'Sil Dict 2011': 'jó'}"
+}

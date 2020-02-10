@@ -3,7 +3,7 @@
   "headword": "janooh",
   "morph_type": "stem",
   "pronunciation": "jaˈno:h",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-07T20:57:29Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

@@ -1,0 +1,26 @@
+{
+  "entry_id": "no̰:_4b7dce3a-006c-458c-ba0cbb5e1c53defe",
+  "headword": "no̰:",
+  "morph_type": "stem",
+  "pronunciation": "no̰:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "a78ce748-7706-4866-9dd9-47f3493c7f10": {
+      "pos": "part?",
+      "gloss": {
+        "en": "fact(itive?)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Cartilhas': 'noo', 'Weir': 'nxoo'}"
+}

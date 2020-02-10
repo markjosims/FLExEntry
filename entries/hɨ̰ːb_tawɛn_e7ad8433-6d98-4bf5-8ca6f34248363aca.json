@@ -1,0 +1,28 @@
+{
+  "entry_id": "hɨ̰:b tawɛn_e7ad8433-6d98-4bf5-8ca6f34248363aca",
+  "headword": "hɨ̰:b tawɛn",
+  "morph_type": "phrase",
+  "pronunciation": "hɨ̰:b tawɛn",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "e4491616-c305-46ed-998f-a2270f89e710": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lições 15  18",
+  "other_sources": "{'Cartilhas': 'hʹyyb tawén'}"
+}

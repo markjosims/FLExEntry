@@ -1,0 +1,28 @@
+{
+  "entry_id": "hajõk_4c2a000d-241d-4b5a-b2058c46b9773692",
+  "headword": "hajõk",
+  "morph_type": "stem",
+  "pronunciation": "hajõk",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "10d8bbd5-d198-4c97-b005-818bfb21938e": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "muitos"
+      },
+      "def": {
+        "pt": "muitos"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'hajõõh_2a633761-8222-43c0-8d5e-76122088df50': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'hajõõ_b23141fb-d829-45df-8736-bc21544328dc': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'hajõk'}"
+}

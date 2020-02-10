@@ -3,36 +3,8 @@
   "headword": "byyh",
   "morph_type": "stem",
   "pronunciation": "bɨ:h",
-  "variant_of": null,
-  "these_vars": {
-    "byy_f9c7c3ad-da4f-4387-9548-a0bbcc776ce5": {
-      "headword": "byy",
-      "morph_type": "stem",
-      "pronunciation": "bɨ:",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "ef46cc30-1d90-4327-8cdf-98a0d991376e": {
-          "pos": "n?",
-          "gloss": {
-            "pt": "nome dum lugar?"
-          },
-          "def": {
-            "pt": "nome dum lugar?"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "encontrado na cartilha 4; lição 13 omo 'Wajats Byy' (embora se screva 'Wajats Bëëh' no ortuguês)",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Cartilhas"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "cfb04c8a-6cd8-4c8c-a5a3-72eaae768e47": {
@@ -79,5 +51,6 @@
     }
   },
   "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018, SIL 2011"
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018, SIL 2011",
+  "other_sources": "{'Cartilhas': 'byy'}"
 }

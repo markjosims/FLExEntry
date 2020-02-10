@@ -3,7 +3,7 @@
   "headword": "garagoor",
   "morph_type": "stem",
   "pronunciation": "k’aɾaʔˈk’o:rǝ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-08T18:22:52Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

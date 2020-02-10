@@ -3,34 +3,8 @@
   "headword": "sawyk",
   "morph_type": "root",
   "pronunciation": "ʃaˈwɨk˺",
-  "variant_of": null,
-  "these_vars": {
-    "ʃawɯk_687394cd-d7e8-4953-99e3-6c1caa551f59": {
-      "headword": "ʃawɯk",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "142636db-f2e9-469c-a661-1a759966d7e4": {
-          "pos": "Verb",
-          "gloss": {
-            "en": "algodão"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:53Z",
-      "bibliography": "Martins",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Martins"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "06828f55-93eb-4a3a-9427-3a116cbdfc2b": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2018-09-04T00:14:42Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Martins': 'ʃawɯk'}"
 }

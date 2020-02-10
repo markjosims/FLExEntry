@@ -1,0 +1,28 @@
+{
+  "entry_id": "hecɨ̰:t_086f87aa-bef9-4eb9-97764bf5d409a57e",
+  "headword": "hecɨ̰:t",
+  "morph_type": "stem",
+  "pronunciation": "hecɨ̰:t",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "eef2d335-3c5d-48a4-a68f-0de3984365f8": {
+      "pos": "v",
+      "gloss": {
+        "pt": "lavar"
+      },
+      "def": {
+        "pt": "lavar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-29T04:52:40Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'hetsʹyyt'}"
+}

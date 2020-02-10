@@ -3,7 +3,7 @@
   "headword": "rewyyh",
   "morph_type": "stem",
   "pronunciation": "",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {
     "Note": "investigate semantics"
@@ -25,5 +25,6 @@
     }
   },
   "date": "2018-07-10T12:24:16Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

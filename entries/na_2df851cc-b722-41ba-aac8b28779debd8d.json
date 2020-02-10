@@ -1,0 +1,26 @@
+{
+  "entry_id": "na_2df851cc-b722-41ba-aac8b28779debd8d",
+  "headword": "na",
+  "morph_type": "stem",
+  "pronunciation": "na",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "820f1f6f-ab91-45fb-b2aa-b394c9c16188": {
+      "pos": "part?",
+      "gloss": {
+        "en": "perm(???)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'na'}"
+}

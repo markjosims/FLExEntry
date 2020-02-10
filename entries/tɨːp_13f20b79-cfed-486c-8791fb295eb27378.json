@@ -1,0 +1,26 @@
+{
+  "entry_id": "tɨ:p_13f20b79-cfed-486c-8791fb295eb27378",
+  "headword": "tɨ:p",
+  "morph_type": "stem",
+  "pronunciation": "tɨ:p",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "c2076cad-81e1-4e98-8ec1-9cb00525e238": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "lay.egg"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990",
+  "other_sources": "{'Weir': 'tɨɨp'}"
+}

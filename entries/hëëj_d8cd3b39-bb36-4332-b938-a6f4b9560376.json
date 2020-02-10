@@ -3,24 +3,8 @@
   "headword": "hëëj",
   "morph_type": "stem",
   "pronunciation": "hǝ:j",
-  "variant_of": null,
-  "these_vars": {
-    "hə:j_dcce0c15-b25b-4991-88a9-5dc42079fd0c": {
-      "headword": "hə:j",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": null,
-      "date": "2018-06-20T02:34:19Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa",
-        "summary": "mato"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "3e07042d-6ad2-4334-a9dd-65ffa7f1cc5f": {
@@ -39,5 +23,6 @@
     }
   },
   "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'hə:j'}"
 }

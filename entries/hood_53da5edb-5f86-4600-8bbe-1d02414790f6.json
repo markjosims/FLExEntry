@@ -3,34 +3,8 @@
   "headword": "hood",
   "morph_type": "stem",
   "pronunciation": "ho:d˺",
-  "variant_of": null,
-  "these_vars": {
-    "huːd_b2369c93-dd34-408b-8ca3-82a40aa1adee": {
-      "headword": "huːd",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "abe5b97c-448f-4f6c-ac6a-bdda6bfa9e1b": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "areia"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "e61b54b0-0fd5-4562-8ee5-b6724a0bf18f": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'huːd'}"
 }

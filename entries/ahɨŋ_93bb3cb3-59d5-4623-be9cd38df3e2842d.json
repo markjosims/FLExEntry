@@ -1,0 +1,28 @@
+{
+  "entry_id": "ahɨŋ_93bb3cb3-59d5-4623-be9cd38df3e2842d",
+  "headword": "ahɨŋ",
+  "morph_type": "stem",
+  "pronunciation": "ahɨŋ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "1d403bbc-6626-434c-977a-29615f25b110": {
+      "pos": "v",
+      "gloss": {
+        "pt": "descer"
+      },
+      "def": {
+        "pt": "baizar; descer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ahyy2_1fa33a5c-430d-45ea-8091-b77ec8ca00d2': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ahyk3_48a9115e-12fc-4ad0-a55e-3ff77821a07b': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'ahyyh2_a4db2ba4-29b1-42d6-ba71-d03347f7bf88': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Weir': 'hɨng', 'Sil Dict 2011': 'ahyng'}"
+}

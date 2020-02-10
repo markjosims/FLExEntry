@@ -1,0 +1,28 @@
+{
+  "entry_id": "pã̰:_9fab38fa-5fc0-4ee4-b82ec53f098b21ad",
+  "headword": "pã̰:",
+  "morph_type": "stem",
+  "pronunciation": "pã̰:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "f275b2ad-cf9d-4d4b-9d62-cae59f0e18e3": {
+      "pos": "conj",
+      "gloss": {
+        "pt": "devido"
+      },
+      "def": {
+        "pt": "devido"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'pʹãã'}"
+}

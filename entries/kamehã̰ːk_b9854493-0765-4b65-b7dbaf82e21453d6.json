@@ -1,0 +1,28 @@
+{
+  "entry_id": "kamehã̰:k_b9854493-0765-4b65-b7dbaf82e21453d6",
+  "headword": "kamehã̰:k",
+  "morph_type": "stem",
+  "pronunciation": "kamehã̰:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "e05e7677-4e81-4cfa-92cf-48e4334f35a1": {
+      "pos": "v",
+      "gloss": {
+        "pt": "parar.descansar"
+      },
+      "def": {
+        "pt": "parar para descansar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'moo kamehããg_7d7d5a40-00e6-4495-92d8-70c2f41170b6': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'kamehããg_98b534b6-4fcc-4f15-9b6c-5eba5298d530': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'kamehʹããk'}"
+}

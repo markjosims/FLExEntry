@@ -1,0 +1,28 @@
+{
+  "entry_id": "aba̰:p_fb163b95-c7fc-49f2-a57f52ccffdb1ec3",
+  "headword": "aba̰:p",
+  "morph_type": "stem",
+  "pronunciation": "aba̰:p",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "da1d6aab-2ab4-4ac5-b3a9-f21cdd6ef115": {
+      "pos": "v",
+      "gloss": {
+        "pt": "secar.rio"
+      },
+      "def": {
+        "pt": "secar (rio)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'abaanh_cf5c8b30-9e96-42af-a731-e2fa95c608df': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'abʹaap'}"
+}

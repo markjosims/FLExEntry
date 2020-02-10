@@ -1,0 +1,26 @@
+{
+  "entry_id": "maraka(:)w_81a4f1d6-0f63-4473-8154e6377deca3a8",
+  "headword": "maraka(:)w",
+  "morph_type": "stem",
+  "pronunciation": "maraka(:)w",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "fce96a6e-3ec1-4f43-a264-fb5ba3ab39ad": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "cabeçudo"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'maɾaka(ː)w'}"
+}

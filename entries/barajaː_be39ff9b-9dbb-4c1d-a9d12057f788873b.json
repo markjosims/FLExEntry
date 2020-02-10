@@ -1,0 +1,26 @@
+{
+  "entry_id": "baraja:_be39ff9b-9dbb-4c1d-a9d12057f788873b",
+  "headword": "baraja:",
+  "morph_type": "stem",
+  "pronunciation": "baraja:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "d984594b-4e06-43b6-bd2b-431609ff3c54": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "abacate"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'baɾajaːʔ'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "napic_a954c4fb-344a-484a-b3fffd8834174c42",
+  "headword": "napic",
+  "morph_type": "stem",
+  "pronunciation": "napic",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "e557d8cf-3565-42c7-a7ad-e577b285276b": {
+      "pos": "n",
+      "gloss": {
+        "pt": "peneira"
+      },
+      "def": {
+        "pt": "peneira"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'napits'}"
+}

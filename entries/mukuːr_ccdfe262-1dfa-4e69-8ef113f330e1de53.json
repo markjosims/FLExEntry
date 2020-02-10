@@ -1,0 +1,26 @@
+{
+  "entry_id": "muku:r_ccdfe262-1dfa-4e69-8ef113f330e1de53",
+  "headword": "muku:r",
+  "morph_type": "stem",
+  "pronunciation": "muku:r",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "01262f0b-5755-4740-aa2d-6fd7316cd433": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de árvore"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'mukuːɾ'}"
+}

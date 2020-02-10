@@ -1,0 +1,28 @@
+{
+  "entry_id": "hɨ̰̃:b bao:m_3e0aea77-e698-42a0-a972531ee834a421",
+  "headword": "hɨ̰̃:b bao:m",
+  "morph_type": "phrase",
+  "pronunciation": "hɨ̰̃:b bao:m",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "1ea34d7f-91ac-4226-baeb-2754b4dfddc4": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 17",
+  "other_sources": "{'Cartilhas': 'hʹỹỹb baoom'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "hiwi_72b3cc1c-0855-48c3-a31377ddde846f2b",
+  "headword": "hiwi",
+  "morph_type": "stem",
+  "pronunciation": "hiwi",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "c9005353-607b-4122-ab64-e086edf63149": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "cabeludo"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'hiwiʔ'}"
+}

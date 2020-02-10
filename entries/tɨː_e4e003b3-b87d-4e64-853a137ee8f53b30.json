@@ -1,0 +1,26 @@
+{
+  "entry_id": "tɨ:_e4e003b3-b87d-4e64-853a137ee8f53b30",
+  "headword": "tɨ:",
+  "morph_type": "stem",
+  "pronunciation": "tɨ:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "5c2fa871-16cb-4ba1-8762-f6e0ba5e37f4": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "fish"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990",
+  "other_sources": "{'Weir': 'tɨɨ'}"
+}

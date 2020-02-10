@@ -3,7 +3,7 @@
   "headword": "karapee",
   "morph_type": "stem",
   "pronunciation": "kaɾaˈpe:ʔ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": {
     "karepé_7c800678-ce5e-401e-abba-a2b95fbbf65c": {
       "headword": "karepé",
@@ -29,6 +29,7 @@
       },
       "date": "2018-03-08T07:17:53Z",
       "bibliography": "Fieldnotes Epps/Obert; 2018",
+      "other_sources": "",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Plural"
@@ -53,5 +54,6 @@
     }
   },
   "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

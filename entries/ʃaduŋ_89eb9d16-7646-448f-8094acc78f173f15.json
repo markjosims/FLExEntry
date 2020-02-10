@@ -1,0 +1,26 @@
+{
+  "entry_id": "ʃaduŋ_89eb9d16-7646-448f-8094acc78f173f15",
+  "headword": "ʃaduŋ",
+  "morph_type": "stem",
+  "pronunciation": "ʃaduŋ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "2c112a51-912d-4c95-9374-f0fad9a4e65a": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "liso"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ʃaduŋ'}"
+}

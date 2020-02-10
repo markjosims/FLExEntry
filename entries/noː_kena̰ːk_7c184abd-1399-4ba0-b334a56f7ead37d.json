@@ -1,0 +1,28 @@
+{
+  "entry_id": "no: kena̰:k_7c184abd-1399-4ba0-b334a56f7ead37d",
+  "headword": "no: kena̰:k",
+  "morph_type": "phrase",
+  "pronunciation": "no: kena̰:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "7eba24e2-94bc-4963-b826-bd027b2e7085": {
+      "pos": "v",
+      "gloss": {
+        "pt": "gostar.de"
+      },
+      "def": {
+        "pt": "gostar de comida"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'noo kenʹaak'}"
+}

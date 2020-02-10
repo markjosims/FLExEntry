@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃõc_bda18a4b-25b2-46d9-a02e8c971679f675",
+  "headword": "ʃõc",
+  "morph_type": "stem",
+  "pronunciation": "ʃõc",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "75c5f829-6e42-43df-8ede-9a45fd543f60": {
+      "pos": "n",
+      "gloss": {
+        "pt": "gafanhoto.sp"
+      },
+      "def": {
+        "pt": "esp. de gafanhoto"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Martins': 'ʃɔ̃ɟ', 'Sil Dict 2011': 'sõts'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "waraja_683c1d7f-eef3-4a57-a336e0efda31e703",
+  "headword": "waraja",
+  "morph_type": "stem",
+  "pronunciation": "waraja",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "a9f29c8b-73ea-49d4-9031-1586721fd962": {
+      "pos": "n",
+      "gloss": {
+        "pt": "tatu.canastro"
+      },
+      "def": {
+        "pt": "tatu canastro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'waraja'}"
+}

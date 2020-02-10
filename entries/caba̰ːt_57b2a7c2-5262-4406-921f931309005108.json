@@ -1,0 +1,28 @@
+{
+  "entry_id": "caba̰:t_57b2a7c2-5262-4406-921f931309005108",
+  "headword": "caba̰:t",
+  "morph_type": "stem",
+  "pronunciation": "caba̰:t",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "c5dadd4f-a0d6-4385-bc10-bb1ff25313e5": {
+      "pos": "v",
+      "gloss": {
+        "pt": "torcer"
+      },
+      "def": {
+        "pt": "torcer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'tsabaad_f222e48e-84ab-4825-ad8f-88b9481a8a1b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'tsabʹaat'}"
+}

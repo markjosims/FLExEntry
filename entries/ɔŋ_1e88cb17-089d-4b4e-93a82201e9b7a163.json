@@ -1,0 +1,28 @@
+{
+  "entry_id": "ɔŋ_1e88cb17-089d-4b4e-93a82201e9b7a163",
+  "headword": "ɔŋ",
+  "morph_type": "stem",
+  "pronunciation": "ɔŋ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "b332b324-ee35-454a-b08f-5fd45203d43e": {
+      "pos": "n",
+      "gloss": {
+        "pt": "tio"
+      },
+      "def": {
+        "pt": "tio (irmão do pai)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T20:36:54Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'óng'}"
+}

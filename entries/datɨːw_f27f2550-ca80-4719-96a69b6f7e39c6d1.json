@@ -1,0 +1,28 @@
+{
+  "entry_id": "datɨ:w_f27f2550-ca80-4719-96a69b6f7e39c6d1",
+  "headword": "datɨ:w",
+  "morph_type": "stem",
+  "pronunciation": "datɨ:w",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "cc96d952-97c0-4b33-bae6-1ae5e68108ca": {
+      "pos": "n",
+      "gloss": {
+        "pt": "porto"
+      },
+      "def": {
+        "pt": "porto"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'datyyw'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "puh_e25be93c-0c6b-462c-8c1d846391d9cb7e",
+  "headword": "puh",
+  "morph_type": "stem",
+  "pronunciation": "puh",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "c01d2c33-5d01-4010-bd0e-43ed951120a0": {
+      "pos": "n",
+      "gloss": {
+        "pt": "peixe.sp"
+      },
+      "def": {
+        "pt": "esp. de peixe"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'puh'}"
+}

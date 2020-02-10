@@ -1,0 +1,26 @@
+{
+  "entry_id": "kamag_bc987b37-12a6-49c4-a1b8209cf0f6a9f7",
+  "headword": "kamag",
+  "morph_type": "stem",
+  "pronunciation": "kamag",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "5c356c25-ce12-4ca2-ac95-f94fb53e4500": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "defunto"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'kamag'}"
+}

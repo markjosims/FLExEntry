@@ -1,0 +1,26 @@
+{
+  "entry_id": "da:b_6c6f913f-603e-4dd7-99d1c9122d333284",
+  "headword": "da:b",
+  "morph_type": "stem",
+  "pronunciation": "da:b",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "049bfb50-0aed-4fd9-824d-35e46740aa3c": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "fazer rede"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'daːb'}"
+}

@@ -3,113 +3,8 @@
   "headword": "tii",
   "morph_type": "stem",
   "pronunciation": "ti:ʔ",
-  "variant_of": null,
-  "these_vars": {
-    "tatiʔ_0585473a-015e-4c8d-8204-f0cdcdef9673": {
-      "headword": "tatiʔ",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "3fb463f2-0bbd-44a1-b4b4-59d3b08d41f2": {
-          "pos": "pro?",
-          "gloss": {
-            "en": "aquele"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    },
-    "tii1_487f32cf-ecef-4acb-b46f-049fe7ed4361": {
-      "headword": "tii",
-      "morph_type": "stem",
-      "pronunciation": "ti:",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "2b8284c8-5ded-444a-ba33-54dd77d36f31": {
-          "pos": "onom",
-          "gloss": {
-            "pt": "ossos.secos"
-          },
-          "def": {
-            "pt": "som de ossos secos"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "parece ter uso verbal em muitas ições na cartilha 4",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Cartilhas"
-      }
-    },
-    "ti_6e529536-55b7-49da-b65f-093cf90a0686": {
-      "headword": "ti",
-      "morph_type": "stem",
-      "pronunciation": "ti",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "c3e01ab7-5336-425c-a22a-b2c899a7bf44": {
-          "pos": "?",
-          "gloss": {
-            "pt": "?"
-          },
-          "def": {
-            "pt": "?"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "encontrado na cartilha 4; varias ições",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Cartilhas"
-      }
-    },
-    "tatɨʔ_bff6445e-d390-4aad-ab41-55bd70892fac": {
-      "headword": "tatɨʔ",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "97948c29-e3f3-441c-bf6e-5c833672d715": {
-          "pos": "n?",
-          "gloss": {
-            "en": "este"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Weir",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Weir"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {
     "Note": "(ta) tii"
   },
@@ -130,5 +25,6 @@
     }
   },
   "date": "2018-04-04T19:21:41Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'tatiʔ', 'Cartilhas': 'ti', 'Weir': 'tatɨʔ'}"
 }

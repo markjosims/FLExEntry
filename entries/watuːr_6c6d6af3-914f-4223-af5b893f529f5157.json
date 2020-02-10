@@ -1,0 +1,26 @@
+{
+  "entry_id": "watu:r_6c6d6af3-914f-4223-af5b893f529f5157",
+  "headword": "watu:r",
+  "morph_type": "stem",
+  "pronunciation": "watu:r",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "e75d1c68-c38d-49b5-b8c5-1ec453549fec": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "macaco.sp"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'watuːɾ'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "ego̰:k_5ec7aac4-cca0-47a4-a577600f5e9d0f3",
+  "headword": "ego̰:k",
+  "morph_type": "stem",
+  "pronunciation": "ego̰:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "060fcd69-4092-44c0-921c-ad969353f142": {
+      "pos": "v",
+      "gloss": {
+        "pt": "cavar.cará"
+      },
+      "def": {
+        "pt": "cavar cará"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'egʹook'}"
+}

@@ -3,34 +3,8 @@
   "headword": "sëën",
   "morph_type": "stem",
   "pronunciation": "ʃǝ:dn",
-  "variant_of": null,
-  "these_vars": {
-    "ʃəːn_9ff6ef51-bc0d-4bbc-b462-525c60f0df2f": {
-      "headword": "ʃəːn",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "cfe9901e-6345-4f27-a730-29761de0e492": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "cabelo"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "5c784c5b-38e2-421f-add2-dffe0f786aec": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2018-07-06T20:30:39Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'ʃəːn'}"
 }

@@ -1,0 +1,26 @@
+{
+  "entry_id": "ɛ:j_71537484-6042-45a2-b10be64b182d75f",
+  "headword": "ɛ:j",
+  "morph_type": "stem",
+  "pronunciation": "ɛ:j",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "38c77ac4-32ef-4b11-bdda-6cc0046a77d3": {
+      "pos": "intj?",
+      "gloss": {
+        "en": "tudo bem!"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'ʔɛːj'}"
+}

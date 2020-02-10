@@ -1,0 +1,28 @@
+{
+  "entry_id": "kahɨ̰̃:t_ea2fe099-2a0c-4037-8cc3845740fe5a86",
+  "headword": "kahɨ̰̃:t",
+  "morph_type": "stem",
+  "pronunciation": "kahɨ̰̃:t",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "686421e5-a67a-4a6c-a0b1-0f5a4ce97378": {
+      "pos": "v",
+      "gloss": {
+        "pt": "mudar-se"
+      },
+      "def": {
+        "pt": "mudar-se"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'kahỹỹd_f636972a-af07-4a05-91fe-c4deb510fe6e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'kahʹỹỹt'}"
+}

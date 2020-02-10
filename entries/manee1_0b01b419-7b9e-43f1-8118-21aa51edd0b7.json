@@ -3,7 +3,7 @@
   "headword": "manee",
   "morph_type": "root",
   "pronunciation": "mãnẽ:ʔ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-09-04T00:04:27Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018z"
+  "bibliography": "Fieldnotes Epps/Obert; 2018z",
+  "other_sources": ""
 }

@@ -3,7 +3,7 @@
   "headword": "nyy bä",
   "morph_type": "phrase",
   "pronunciation": "nɨ: bʌʔ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-11T00:03:59Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

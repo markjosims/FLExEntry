@@ -1,0 +1,28 @@
+{
+  "entry_id": "gawaja:h_4bcdb228-d5c9-43a8-91d9692c155c8ffd",
+  "headword": "gawaja:h",
+  "morph_type": "stem",
+  "pronunciation": "gawaja:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "a2fb14ca-83eb-4758-b022-40299430c92a": {
+      "pos": "v",
+      "gloss": {
+        "pt": "não.alcançar"
+      },
+      "def": {
+        "pt": "não alcançar com os pés"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'gawajah_1c43c5f6-18af-437e-90c9-8506069bb3d1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'gawaja_bb44afa9-15eb-4d8f-91fb-f8ec0e2129cd': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'gawajaah'}"
+}

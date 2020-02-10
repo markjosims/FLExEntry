@@ -1,0 +1,28 @@
+{
+  "entry_id": "ma: ena_a462059e-7c9b-4426-90f3c6f15c6241c4",
+  "headword": "ma: ena",
+  "morph_type": "phrase",
+  "pronunciation": "ma: ena",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "9bd5ef13-0ca5-4550-9eec-36881dc15ec5": {
+      "pos": "v",
+      "gloss": {
+        "pt": "fazer.barulho"
+      },
+      "def": {
+        "pt": "fazer barulho"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'maa enaa_56b1a3e3-8588-4e67-9dad-5d1c67ab4eeb': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'maa ena'}"
+}

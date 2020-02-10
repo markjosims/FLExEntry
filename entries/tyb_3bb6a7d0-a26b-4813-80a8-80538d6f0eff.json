@@ -3,7 +3,7 @@
   "headword": "tyb",
   "morph_type": "stem",
   "pronunciation": "tɨb˺",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {
     "Note": "ta tyb"
@@ -25,5 +25,6 @@
     }
   },
   "date": "2018-07-06T19:07:01Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

@@ -3,36 +3,8 @@
   "headword": "jaw’ëëj",
   "morph_type": "stem",
   "pronunciation": "jawəʔəj",
-  "variant_of": null,
-  "these_vars": {
-    "jawʹëëj_7fe321e9-23f6-4491-9470-7bad482bbd8e": {
-      "headword": "jawʹëëj",
-      "morph_type": "stem",
-      "pronunciation": "jawə̰:j",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "a5e2b283-ba66-4a9a-b6d5-0d00c197061a": {
-          "pos": "n",
-          "gloss": {
-            "pt": "macaco.prego"
-          },
-          "def": {
-            "pt": "esp. de macaco (macacao rego)"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "f2830f31-931d-40cd-b8cb-627d1284a204": {
@@ -51,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'jawʹëëj'}"
 }

@@ -1,0 +1,26 @@
+{
+  "entry_id": "hɨ̃:j_4462532d-74ae-455b-84335a21f802135a",
+  "headword": "hɨ̃:j",
+  "morph_type": "stem",
+  "pronunciation": "hɨ̃:j",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "9e2ec90f-459c-456d-ac20-b78398cf24c1": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "formiga.sp"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'hɨ̃ːj'}"
+}

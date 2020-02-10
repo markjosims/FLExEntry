@@ -1,0 +1,28 @@
+{
+  "entry_id": "karahə̰:c_64589d1d-687e-431a-943415abd119336a",
+  "headword": "karahə̰:c",
+  "morph_type": "stem",
+  "pronunciation": "karahə̰:c",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "b1143fea-aa0e-4892-b684-fe3641bcad19": {
+      "pos": "n",
+      "gloss": {
+        "pt": "periquito.verde"
+      },
+      "def": {
+        "pt": "esp. de periquito (verde)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'karahʹëëts'}"
+}

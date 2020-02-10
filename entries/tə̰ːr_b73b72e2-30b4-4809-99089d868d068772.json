@@ -1,0 +1,28 @@
+{
+  "entry_id": "tə̰:r_b73b72e2-30b4-4809-99089d868d068772",
+  "headword": "tə̰:r",
+  "morph_type": "stem",
+  "pronunciation": "tə̰:r",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "ed0ba0e2-d323-4f3b-823e-e07bc2bcb0ed": {
+      "pos": "n",
+      "gloss": {
+        "pt": "filho/a"
+      },
+      "def": {
+        "pt": "filho/a"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'tʹëër'}"
+}

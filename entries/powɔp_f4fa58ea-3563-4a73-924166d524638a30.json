@@ -1,0 +1,28 @@
+{
+  "entry_id": "powɔp_f4fa58ea-3563-4a73-924166d524638a30",
+  "headword": "powɔp",
+  "morph_type": "stem",
+  "pronunciation": "powɔp",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "963113bc-c1d2-4eb4-82f8-9d0d67f0d8bf": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 7",
+  "other_sources": "{'Cartilhas': 'powóp'}"
+}

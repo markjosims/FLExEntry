@@ -1,0 +1,28 @@
+{
+  "entry_id": "tʌ_5ea024ce-8d5b-461c-ae9697daffe5dbb1",
+  "headword": "tʌ",
+  "morph_type": "stem",
+  "pronunciation": "tʌ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "71a959cb-ec10-4807-9737-5effea2f547c": {
+      "pos": "n",
+      "gloss": {
+        "pt": "carne/peixe"
+      },
+      "def": {
+        "pt": "comida (carne ou peixe)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Barbosa': 'tʌʔ', 'Weir': 'tʉ́', 'Sil Dict 2011': 'tä'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "tɨ_aff14eee-a080-4359-931b8e0eba6379bb",
+  "headword": "tɨ",
+  "morph_type": "stem",
+  "pronunciation": "tɨ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "8f40b299-9b38-442a-a95c-cff1264ef2df": {
+      "pos": "n",
+      "gloss": {
+        "pt": "rosto"
+      },
+      "def": {
+        "pt": "rosto; olho"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'ty'}"
+}

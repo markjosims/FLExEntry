@@ -3,36 +3,8 @@
   "headword": "har’ëëng",
   "morph_type": "stem",
   "pronunciation": "haɾəʔəgŋ",
-  "variant_of": null,
-  "these_vars": {
-    "harʹëëng_acb44c41-79ab-4a47-b9b0-40038d45c8bf": {
-      "headword": "harʹëëng",
-      "morph_type": "stem",
-      "pronunciation": "haɾə̰:ŋ",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "63362b5e-44b9-463a-b7f1-960efbdedfa8": {
-          "pos": "n",
-          "gloss": {
-            "pt": "caça"
-          },
-          "def": {
-            "pt": "caça"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "9443f9d5-d1bb-42b8-86ac-1fe40199862a": {
@@ -51,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'harʹëëng'}"
 }

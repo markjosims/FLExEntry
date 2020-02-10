@@ -1,0 +1,26 @@
+{
+  "entry_id": "ko:k_6a2444a1-51f9-429d-83ad2dbc45c37cc7",
+  "headword": "ko:k",
+  "morph_type": "stem",
+  "pronunciation": "ko:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "af9a43fb-27a6-45d7-9e2d-c45de208723a": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.light (n.i. kog)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'koːk2_40a485f9-ff7a-4411-9054-18c5766e39b4': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; arrancar (n.i. kog)'}}"
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'kook'}"
+}

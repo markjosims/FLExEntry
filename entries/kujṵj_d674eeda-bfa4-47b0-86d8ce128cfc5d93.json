@@ -1,0 +1,26 @@
+{
+  "entry_id": "kujṵj_d674eeda-bfa4-47b0-86d8ce128cfc5d93",
+  "headword": "kujṵj",
+  "morph_type": "stem",
+  "pronunciation": "kujṵj",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source undef."
+  },
+  "sense": {
+    "46d41f20-3c20-4b60-a2f3-31a6fa41c39a": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de pássaro"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "",
+  "other_sources": "{'undef': 'kujṵj'}"
+}

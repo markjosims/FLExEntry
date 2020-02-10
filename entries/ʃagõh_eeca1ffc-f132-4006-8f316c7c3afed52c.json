@@ -1,0 +1,26 @@
+{
+  "entry_id": "ʃagõh_eeca1ffc-f132-4006-8f316c7c3afed52c",
+  "headword": "ʃagõh",
+  "morph_type": "stem",
+  "pronunciation": "ʃagõh",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "1910bcf8-0c26-4cfd-a0ac-3b617787df95": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "estrela"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'ʃagõh'}"
+}

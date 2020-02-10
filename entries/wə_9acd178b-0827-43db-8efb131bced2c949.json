@@ -1,0 +1,26 @@
+{
+  "entry_id": "wə_9acd178b-0827-43db-8efb131bced2c949",
+  "headword": "wə",
+  "morph_type": "stem",
+  "pronunciation": "wə",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "f2196210-d7e3-488e-a17b-3e4913285f27": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "céu"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'wɤʔ'}"
+}

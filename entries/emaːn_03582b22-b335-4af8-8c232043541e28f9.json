@@ -1,0 +1,28 @@
+{
+  "entry_id": "ema:n_03582b22-b335-4af8-8c232043541e28f9",
+  "headword": "ema:n",
+  "morph_type": "stem",
+  "pronunciation": "ema:n",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "78c667fd-9fc9-4c6e-902e-65be92b2bef6": {
+      "pos": "v",
+      "gloss": {
+        "pt": "peneirar"
+      },
+      "def": {
+        "pt": "peneirar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'emaan'}"
+}

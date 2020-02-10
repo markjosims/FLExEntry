@@ -1,0 +1,26 @@
+{
+  "entry_id": "wə́ə́h_9d0b411e-72c8-4dcf-906599e30f1d6d24",
+  "headword": "wə́ə́h",
+  "morph_type": "stem",
+  "pronunciation": "wə́ə́h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "9878c9f0-7143-43e8-b621-1b970cb700ec": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.big.MULT"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990",
+  "other_sources": "{'Weir': 'wʉ́ʉ́h'}"
+}

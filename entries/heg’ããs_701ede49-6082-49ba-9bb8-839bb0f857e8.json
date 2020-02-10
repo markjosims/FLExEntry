@@ -3,7 +3,7 @@
   "headword": "heg’ããs",
   "morph_type": "stem",
   "pronunciation": "heʔˈk’aʔaʃ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-10T15:54:50Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

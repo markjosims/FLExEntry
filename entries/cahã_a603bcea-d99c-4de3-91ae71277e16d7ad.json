@@ -1,0 +1,28 @@
+{
+  "entry_id": "cahã_a603bcea-d99c-4de3-91ae71277e16d7ad",
+  "headword": "cahã",
+  "morph_type": "stem",
+  "pronunciation": "cahã",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "7be0dd72-8c78-40e3-8938-84d254258169": {
+      "pos": "n",
+      "gloss": {
+        "pt": "pica-pau.sp"
+      },
+      "def": {
+        "pt": "esp. de pica-pau"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'tsahã'}"
+}

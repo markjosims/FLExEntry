@@ -3,34 +3,8 @@
   "headword": "mabëng",
   "morph_type": "stem",
   "pronunciation": "mãbəgŋ",
-  "variant_of": null,
-  "these_vars": {
-    "mabəŋ_2e0a7a92-fed2-4403-94ac-b9bf1c602912": {
-      "headword": "mabəŋ",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "40ede637-6942-4ae3-a232-93416da42454": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "cotiara"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "d2037ec6-96f8-4116-acb4-69375e82081a": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'mabəŋ'}"
 }

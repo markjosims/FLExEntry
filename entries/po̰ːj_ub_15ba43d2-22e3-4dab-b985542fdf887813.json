@@ -1,0 +1,28 @@
+{
+  "entry_id": "po̰:j ub_15ba43d2-22e3-4dab-b985542fdf887813",
+  "headword": "po̰:j ub",
+  "morph_type": "phrase",
+  "pronunciation": "po̰:j ub",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "4720225d-9cb6-43ec-ab59-dfb89b42b27a": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "há.muito.tempo"
+      },
+      "def": {
+        "pt": "há muito tempo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'pʹooj up_d243caec-72a6-40fa-a4e3-d9422bad97fc': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Weir': 'pxóóyub', 'Sil Dict 2011': 'pʹooj ub'}"
+}

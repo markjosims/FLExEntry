@@ -1,0 +1,28 @@
+{
+  "entry_id": "dakə:_72943245-797e-4342-b1592272bb0b1244",
+  "headword": "dakə:",
+  "morph_type": "stem",
+  "pronunciation": "dakə:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "4094d4fb-6161-476e-ab87-f393940a25d0": {
+      "pos": "v",
+      "gloss": {
+        "pt": "enterrar"
+      },
+      "def": {
+        "pt": "enterrar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'dakëë'}"
+}

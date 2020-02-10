@@ -1,0 +1,28 @@
+{
+  "entry_id": "puh_57bb72df-4cf6-4402-bd614bed152962c1",
+  "headword": "puh",
+  "morph_type": "stem",
+  "pronunciation": "puh",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "e5c980c3-0c6d-4eda-a360-d37a5e7c831d": {
+      "pos": "n",
+      "gloss": {
+        "pt": "espuma"
+      },
+      "def": {
+        "pt": "espuma"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Martins': 'puh', 'Sil Dict 2011': 'puh'}"
+}

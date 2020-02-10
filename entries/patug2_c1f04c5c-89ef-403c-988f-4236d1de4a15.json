@@ -3,77 +3,8 @@
   "headword": "patug",
   "morph_type": "stem",
   "pronunciation": "patug̚",
-  "variant_of": null,
-  "these_vars": {
-    "patuk2_2e68cc00-c5fe-4d28-ae84-197a9603094c": {
-      "headword": "patuk",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "cb603532-ead3-407b-b70e-51063952c623": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "marido"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    },
-    "patug1_68ff8d38-34fa-472c-87a3-4bada7ef12a6": {
-      "headword": "patug",
-      "morph_type": "stem",
-      "pronunciation": "patug",
-      "these_vars": {
-        "patuk1_19d93933-7d2f-4546-8ad9-1659bbd4153a": {
-          "headword": "patuk",
-          "morph_type": "stem",
-          "pronunciation": "",
-          "these_vars": null,
-          "note": null,
-          "sense": null,
-          "date": "2018-06-20T03:11:24Z",
-          "bibliography": "Barbosa",
-          "var_type": {
-            "type": "_component-lexeme",
-            "variant-type": "Barbosa",
-            "summary": "marido"
-          }
-        }
-      },
-      "note": {},
-      "sense": {
-        "3575cb14-4aff-468a-b74d-b936a17cca8a": {
-          "pos": "n op",
-          "gloss": {
-            "pt": "marido"
-          },
-          "def": {
-            "pt": "marido"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": "{'patʹuuk_95ecf63c-72cb-4662-a1a4-a330039fb0be': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'patuk ỹỹ_a22ec753-2a35-49b2-b385-7c338a490e70': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "26c894d3-bb0d-41f6-9e29-5a2ee36f6773": {
@@ -92,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'patuk', 'Sil Dict 2011': 'patug'}"
 }

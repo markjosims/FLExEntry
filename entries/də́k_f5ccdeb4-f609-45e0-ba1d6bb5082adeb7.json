@@ -1,0 +1,26 @@
+{
+  "entry_id": "də́k_f5ccdeb4-f609-45e0-ba1d6bb5082adeb7",
+  "headword": "də́k",
+  "morph_type": "stem",
+  "pronunciation": "də́k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "b7057afd-513e-41ff-bdfb-28df4e4c3dc5": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.suspended"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986; Weir 1990",
+  "other_sources": "{'Weir': 'dʉ́k'}"
+}

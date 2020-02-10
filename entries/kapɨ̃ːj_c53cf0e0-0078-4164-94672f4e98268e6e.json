@@ -1,0 +1,28 @@
+{
+  "entry_id": "kapɨ̃:j_c53cf0e0-0078-4164-94672f4e98268e6e",
+  "headword": "kapɨ̃:j",
+  "morph_type": "stem",
+  "pronunciation": "kapɨ̃:j",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "53b25d44-42ea-4911-a93d-5e5d7ce8b07a": {
+      "pos": "n",
+      "gloss": {
+        "pt": "igarapé"
+      },
+      "def": {
+        "pt": "igarapé"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'kapỹỹj'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "kado:_a513c054-bea8-4c2d-89082cad00d509c9",
+  "headword": "kado:",
+  "morph_type": "stem",
+  "pronunciation": "kado:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "6b9308c9-92c1-4405-bc5e-78d7ea232d3d": {
+      "pos": "v",
+      "gloss": {
+        "pt": "queimar"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T21:21:11Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'kadoo'}"
+}

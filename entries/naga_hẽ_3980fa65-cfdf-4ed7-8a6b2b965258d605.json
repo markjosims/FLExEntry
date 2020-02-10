@@ -1,0 +1,28 @@
+{
+  "entry_id": "naga hẽ_3980fa65-cfdf-4ed7-8a6b2b965258d605",
+  "headword": "naga hẽ",
+  "morph_type": "phrase",
+  "pronunciation": "naga hẽ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "0d4cf44d-0715-4fa1-8d3d-2f6f1f9029a1": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "hoje"
+      },
+      "def": {
+        "pt": "hoje"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'naga hẽ'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃare:j_3b28e452-5d26-4a88-94a5a228bff09db2",
+  "headword": "ʃare:j",
+  "morph_type": "stem",
+  "pronunciation": "ʃare:j",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "8c1aad7d-4892-42d9-ae54-1bb16ebcef00": {
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 10",
+  "other_sources": "{'Cartilhas': 'sareej'}"
+}

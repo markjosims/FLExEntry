@@ -1,0 +1,26 @@
+{
+  "entry_id": "mapa:d_f3c7d2d0-2b4f-4816-989082193821aa5c",
+  "headword": "mapa:d",
+  "morph_type": "stem",
+  "pronunciation": "mapa:d",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "65269da4-8a6e-41eb-81dc-a858dac26313": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de taioba"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'mapaːd'}"
+}

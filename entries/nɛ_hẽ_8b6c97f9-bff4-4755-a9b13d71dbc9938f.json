@@ -1,0 +1,28 @@
+{
+  "entry_id": "nɛ hẽ_8b6c97f9-bff4-4755-a9b13d71dbc9938f",
+  "headword": "nɛ hẽ",
+  "morph_type": "phrase",
+  "pronunciation": "nɛ hẽ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "8ec1dc6a-55f8-4841-83c9-2a234566d43a": {
+      "pos": "par",
+      "gloss": {
+        "pt": "assim.mesmo"
+      },
+      "def": {
+        "pt": "assim mesmo; enfático"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'né hẽ'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "hero̰:t_d42677cf-1d23-49c3-b1ed1d7c4b59b99d",
+  "headword": "hero̰:t",
+  "morph_type": "stem",
+  "pronunciation": "hero̰:t",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "4fa64b65-6c56-41ec-8d5b-fc6912a436ac": {
+      "pos": "v",
+      "gloss": {
+        "pt": "falar"
+      },
+      "def": {
+        "pt": "falar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'merʹood_1662b162-c4ec-4d14-b1cf-05095739c61b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'herʹoot'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "maru:ʃ_9e8a8696-6179-4389-bd3e277c6064a6bb",
+  "headword": "maru:ʃ",
+  "morph_type": "stem",
+  "pronunciation": "maru:ʃ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "fba85b9e-c1bc-4f8a-98d2-34356783bfd4": {
+      "pos": "n",
+      "gloss": {
+        "pt": "moça"
+      },
+      "def": {
+        "pt": "moça"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Martins': 'maɾuʃ', 'Sil Dict 2011': 'maruus'}"
+}

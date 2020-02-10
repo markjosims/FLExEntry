@@ -1,0 +1,26 @@
+{
+  "entry_id": "jɔ(:)n_6baf0fad-5cbf-43ae-ab675b57b7caacce",
+  "headword": "jɔ(:)n",
+  "morph_type": "stem",
+  "pronunciation": "jɔ(:)n",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "18b3c387-e206-412f-b0dc-5b0776ecbe6c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tamanduá"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'jɔ(ː)n'}"
+}

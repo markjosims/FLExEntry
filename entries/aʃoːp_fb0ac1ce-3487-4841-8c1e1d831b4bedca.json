@@ -1,0 +1,28 @@
+{
+  "entry_id": "aʃo:p_fb0ac1ce-3487-4841-8c1e1d831b4bedca",
+  "headword": "aʃo:p",
+  "morph_type": "stem",
+  "pronunciation": "aʃo:p",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "ff3c1d3f-d6c2-41ac-97d2-91bfeff55db5": {
+      "pos": "v",
+      "gloss": {
+        "pt": "subir"
+      },
+      "def": {
+        "pt": "subir barranco; ir para o mato"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'asʹop_55e919f1-5e17-4f6d-9559-021124620cff': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'asʹoop_71c0e137-a8b7-42b8-9ae2-97f2f748b234': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'asʹoob_f12910bc-5840-465c-a9f7-213f9742fa53': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Martins': 'ʔaʃoːp', 'Sil Dict 2011': 'asoop'}"
+}

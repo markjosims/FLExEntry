@@ -1,0 +1,28 @@
+{
+  "entry_id": "og_0494a7fa-d8da-4ac0-91c09a9720cc917a",
+  "headword": "og",
+  "morph_type": "stem",
+  "pronunciation": "og",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "9590b51f-1870-494d-872b-0b8ee8932571": {
+      "pos": "?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 3; ortografia não certa",
+  "other_sources": "{'Cartilhas': 'og'}"
+}

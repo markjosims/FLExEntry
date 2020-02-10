@@ -1,0 +1,26 @@
+{
+  "entry_id": "aʃop_f5f8196a-3021-4af8-b22f7317b5d12711",
+  "headword": "aʃop",
+  "morph_type": "stem",
+  "pronunciation": "aʃop",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "cc670aac-f288-40ce-9795-9da0bfd83077": {
+      "pos": "v imp?",
+      "gloss": {
+        "en": "fique sentado!"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ʔaʃop'}"
+}

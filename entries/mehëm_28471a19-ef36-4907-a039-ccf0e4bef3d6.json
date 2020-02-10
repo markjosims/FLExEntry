@@ -3,7 +3,7 @@
   "headword": "mehëm",
   "morph_type": "stem",
   "pronunciation": "me'hǝbm",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -21,5 +21,6 @@
     }
   },
   "date": "2018-07-08T18:36:45Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

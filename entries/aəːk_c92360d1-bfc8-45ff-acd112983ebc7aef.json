@@ -1,0 +1,26 @@
+{
+  "entry_id": "aə:k_c92360d1-bfc8-45ff-acd112983ebc7aef",
+  "headword": "aə:k",
+  "morph_type": "stem",
+  "pronunciation": "aə:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "e4489566-a302-4526-ac2c-198ba9bb7271": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-04-03T22:42:08Z",
+  "bibliography": "encontrado na cartilha 4; lição 9",
+  "other_sources": "{'Cartilhas': 'aëëk'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "pa:n_e4920278-36b2-4b6c-b2669c72f3055ccf",
+  "headword": "pa:n",
+  "morph_type": "stem",
+  "pronunciation": "pa:n",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "da99b92a-99a8-46a9-ac21-2e7e6280e71c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "igual"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'paːn'}"
+}

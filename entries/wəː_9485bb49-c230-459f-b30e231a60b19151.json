@@ -1,0 +1,26 @@
+{
+  "entry_id": "wə:_9485bb49-c230-459f-b30e231a60b19151",
+  "headword": "wə:",
+  "morph_type": "stem",
+  "pronunciation": "wə:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "d4e0ac2f-b4c3-4b3e-a771-376b391e869e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "mato caído"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'wɤːʔ'}"
+}

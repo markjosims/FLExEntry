@@ -3,34 +3,8 @@
   "headword": "karaba",
   "morph_type": "stem",
   "pronunciation": "kaɾabaʔ",
-  "variant_of": null,
-  "these_vars": {
-    "kaɾabaʔ1_e5b1bd43-23ef-4e3f-b224-c4d00c9030b5": {
-      "headword": "kaɾabaʔ",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "6b4038ef-af5f-4b05-9c65-52c2ab3da3d3": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "arco"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": "{'kaɾabaʔ2_8ae97929-9a49-4389-8dab-54fb2d7a4e19': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; arco'}}"
-        }
-      },
-      "date": "2018-06-20T05:09:53Z",
-      "bibliography": "Martins",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Martins"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "7ab1f647-029f-4dd9-b0fe-ed369c38af75": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Martins': 'kaɾabaʔ'}"
 }

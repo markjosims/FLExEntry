@@ -1,0 +1,26 @@
+{
+  "entry_id": "ra:b_844bc49d-15ff-46f9-9bbc334bd10da621",
+  "headword": "ra:b",
+  "morph_type": "stem",
+  "pronunciation": "ra:b",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "53cc9f67-9981-46dd-8f52-4fc06b3699df": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de árvore da caatinga"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ɾaːb'}"
+}

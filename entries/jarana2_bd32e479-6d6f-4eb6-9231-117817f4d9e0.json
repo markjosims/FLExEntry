@@ -3,36 +3,8 @@
   "headword": "jarana",
   "morph_type": "stem",
   "pronunciation": "jaɾadnãʔ",
-  "variant_of": null,
-  "these_vars": {
-    "jarana1_7ed1327f-e40d-4e09-8a0e-7b022090c381": {
-      "headword": "jarana",
-      "morph_type": "stem",
-      "pronunciation": "jaɾana",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "a3438d04-891a-4e4d-97bb-dd6081e693fe": {
-          "pos": "n",
-          "gloss": {
-            "pt": "curauá"
-          },
-          "def": {
-            "pt": "esp. de planta (curauá)"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "90264752-e438-4aea-80d1-8a33152fd555": {
@@ -51,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'jarana'}"
 }

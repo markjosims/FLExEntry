@@ -1,0 +1,28 @@
+{
+  "entry_id": "hɨb na̰:_f36368e5-54f1-4cad-87fd7c40436bda70",
+  "headword": "hɨb na̰:",
+  "morph_type": "phrase",
+  "pronunciation": "hɨb na̰:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "5e84c851-3898-4013-a050-c8bff6e1c368": {
+      "pos": "par",
+      "gloss": {
+        "pt": "razão"
+      },
+      "def": {
+        "pt": "razão; por isso"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'hyb nʹaa'}"
+}

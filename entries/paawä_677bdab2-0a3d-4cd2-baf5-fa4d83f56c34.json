@@ -3,7 +3,7 @@
   "headword": "paawä",
   "morph_type": "stem",
   "pronunciation": "pa:wʌ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {
     "Note": "Check modal/ contrafractualidade"
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018, SIL 2011"
+  "bibliography": "Fieldnotes Epps/Obert; 2018, SIL 2011",
+  "other_sources": ""
 }

@@ -1,0 +1,26 @@
+{
+  "entry_id": "tə́_e8a45bd9-e67b-4f28-ac1a5e55f7c05c04",
+  "headword": "tə́",
+  "morph_type": "stem",
+  "pronunciation": "tə́",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "0563e647-67c7-46a0-87d5-27bb4087d6df": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "food"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990",
+  "other_sources": "{'Weir': 'tʉ́'}"
+}

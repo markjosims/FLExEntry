@@ -1,0 +1,28 @@
+{
+  "entry_id": "bareʌ̃m du:h_0708e024-79a0-4338-a33467e1b0207230",
+  "headword": "bareʌ̃m du:h",
+  "morph_type": "phrase",
+  "pronunciation": "bareʌ̃m du:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "5ed87031-8faa-4805-9bd7-492143782ee2": {
+      "pos": "n",
+      "gloss": {
+        "pt": "pessoa.medrosa"
+      },
+      "def": {
+        "pt": "pessoa medrosa"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'bareä̃m duuh'}"
+}

@@ -3,34 +3,8 @@
   "headword": "jamog",
   "morph_type": "stem",
   "pronunciation": "jabmõg̚",
-  "variant_of": null,
-  "these_vars": {
-    "jamɔg_cc35fe75-2dbf-432f-a1fa-1c3e802dd99d": {
-      "headword": "jamɔg",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "a944753c-1de7-45e1-90ca-97f3fec17f6d": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "catitu"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "86d77eb4-debf-4e16-8a1c-7b0fb869dc12": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'jamɔg'}"
 }

@@ -1,0 +1,28 @@
+{
+  "entry_id": "pajə:h_f2432392-3a38-477e-b43328593f111325",
+  "headword": "pajə:h",
+  "morph_type": "stem",
+  "pronunciation": "pajə:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "baaf6269-ef17-4198-9903-c6211c2b24b6": {
+      "pos": "v",
+      "gloss": {
+        "pt": "amanhacer"
+      },
+      "def": {
+        "pt": "amanhacer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'pajʹëë_481e0acf-5957-47da-b623-158e07815ca8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'pajʹëëh_f3e58350-fdf3-4dcb-a18a-2902268e4a9f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'pajëëh'}"
+}

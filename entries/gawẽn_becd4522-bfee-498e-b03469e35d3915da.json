@@ -1,0 +1,28 @@
+{
+  "entry_id": "gawẽn_becd4522-bfee-498e-b03469e35d3915da",
+  "headword": "gawẽn",
+  "morph_type": "stem",
+  "pronunciation": "gawẽn",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "85489b82-dc9d-4e03-ad2d-a136f079d042": {
+      "pos": "v",
+      "gloss": {
+        "pt": "mexer"
+      },
+      "def": {
+        "pt": "mexer (mingau)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'gawʹẽẽn_b9edea85-8937-43c2-84c8-a464e854301f': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'gawẽn'}"
+}

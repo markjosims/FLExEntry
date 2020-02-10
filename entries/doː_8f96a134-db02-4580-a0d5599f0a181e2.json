@@ -1,0 +1,26 @@
+{
+  "entry_id": "do:_8f96a134-db02-4580-a0d5599f0a181e2",
+  "headword": "do:",
+  "morph_type": "stem",
+  "pronunciation": "do:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "b36a187e-5829-4fd1-9714-474ec69e016f": {
+      "pos": "Pronoun",
+      "gloss": {
+        "en": "the.one"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986; Weir 1990",
+  "other_sources": "{'Weir': 'doo'}"
+}

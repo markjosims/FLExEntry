@@ -1,0 +1,26 @@
+{
+  "entry_id": "pṵ:h_f3f47438-a4db-4f2e-96e195798984f94",
+  "headword": "pṵ:h",
+  "morph_type": "stem",
+  "pronunciation": "pṵ:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source undef."
+  },
+  "sense": {
+    "11f3ce48-4bee-49f3-b29a-62d043eaed1e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de árvore"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "",
+  "other_sources": "{'undef': 'pṵːh'}"
+}

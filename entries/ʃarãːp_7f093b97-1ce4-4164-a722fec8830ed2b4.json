@@ -1,0 +1,26 @@
+{
+  "entry_id": "ʃarã:p_7f093b97-1ce4-4164-a722fec8830ed2b4",
+  "headword": "ʃarã:p",
+  "morph_type": "stem",
+  "pronunciation": "ʃarã:p",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "e6ed8205-a75b-492e-b735-026e48c1919b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "measles"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986",
+  "other_sources": "{'Weir': 'salãap'}"
+}

@@ -3,7 +3,7 @@
   "headword": "gas’yys",
   "morph_type": "stem",
   "pronunciation": "k’aˈʃǝʔǝʃ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {
     "Note": "problem: k’aˈʃǝʔǝʃ or k’aˈʃ ɨ̃ʔ ɨ̃ʃ"
@@ -25,5 +25,6 @@
     }
   },
   "date": "2018-07-10T15:47:27Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

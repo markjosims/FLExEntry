@@ -1,0 +1,28 @@
+{
+  "entry_id": "apə:m_7e41cce1-029f-43d8-962451e60ee383a3",
+  "headword": "apə:m",
+  "morph_type": "stem",
+  "pronunciation": "apə:m",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "66506917-c97c-4e7b-8070-11ff24f9304a": {
+      "pos": "v",
+      "gloss": {
+        "pt": "bater"
+      },
+      "def": {
+        "pt": "bater com instrumento"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'apëëm'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "mɨ:j_79d22043-a50a-490e-92dc1dc765665622",
+  "headword": "mɨ:j",
+  "morph_type": "stem",
+  "pronunciation": "mɨ:j",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "acd0a02b-de35-4f49-bbd4-4a45184b76c5": {
+      "pos": "n",
+      "gloss": {
+        "pt": "lar"
+      },
+      "def": {
+        "pt": "lar; aldeia"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'myyj'}"
+}

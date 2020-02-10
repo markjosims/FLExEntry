@@ -1,0 +1,28 @@
+{
+  "entry_id": "maɨb_349e4dd8-a1ef-4b14-992897ae00ed26e6",
+  "headword": "maɨb",
+  "morph_type": "stem",
+  "pronunciation": "maɨb",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "7e16fe29-401f-4e39-85c3-e1d2131c90f1": {
+      "pos": "n op",
+      "gloss": {
+        "pt": "sogro"
+      },
+      "def": {
+        "pt": "sogro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'mayb'}"
+}

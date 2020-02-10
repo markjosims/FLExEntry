@@ -1,0 +1,28 @@
+{
+  "entry_id": "cɛm hẽ_9bf0a714-c259-43b7-a1b58cacc9636db4",
+  "headword": "cɛm hẽ",
+  "morph_type": "phrase",
+  "pronunciation": "cɛm hẽ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "629f769d-8878-4f1c-aa51-fd867347fbe8": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "ontem"
+      },
+      "def": {
+        "pt": "ontem"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'tsém hẽ'}"
+}

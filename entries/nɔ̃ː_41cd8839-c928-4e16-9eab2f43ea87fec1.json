@@ -1,0 +1,26 @@
+{
+  "entry_id": "nɔ̃:_41cd8839-c928-4e16-9eab2f43ea87fec1",
+  "headword": "nɔ̃:",
+  "morph_type": "stem",
+  "pronunciation": "nɔ̃:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "4907135e-b016-4fa8-b248-cf346ed5b146": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "dar (nɔ̃ʔ inf.; nɔ̰̃ːʔ n.i.)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'nɔ̃ːʔ'}"
+}

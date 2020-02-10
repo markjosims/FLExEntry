@@ -1,0 +1,26 @@
+{
+  "entry_id": "tɨŋ_5724ff6d-c354-4517-881fba3c003e92d3",
+  "headword": "tɨŋ",
+  "morph_type": "stem",
+  "pronunciation": "tɨŋ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "8e788101-8a78-4ef3-8bd4-f6fd04a269a3": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "support"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990",
+  "other_sources": "{'Weir': 'tɨng'}"
+}

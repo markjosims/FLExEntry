@@ -1,0 +1,26 @@
+{
+  "entry_id": "karaʃɨd_1586f3ed-3480-4767-8d98e5fd9e2ae9a8",
+  "headword": "karaʃɨd",
+  "morph_type": "stem",
+  "pronunciation": "karaʃɨd",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "afe2c3c2-e63c-4828-b924-a3ecff2a390e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "aracoã"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'kaɾaʃɨd'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "hɨ̃:_fee5a672-b4ee-4f11-a91addb6298bf762",
+  "headword": "hɨ̃:",
+  "morph_type": "stem",
+  "pronunciation": "hɨ̃:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "4713b0d1-e327-4b22-a41b-7db7430fe70e": {
+      "pos": "par?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T21:18:02Z",
+  "bibliography": "encontrado na cartilha 4; lição 14",
+  "other_sources": "{'Cartilhas': 'hỹỹ'}"
+}

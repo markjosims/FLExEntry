@@ -1,0 +1,26 @@
+{
+  "entry_id": "pã:n_3c54dc3d-a8fb-4e8f-bf74224ddecc7653",
+  "headword": "pã:n",
+  "morph_type": "stem",
+  "pronunciation": "pã:n",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source undef."
+  },
+  "sense": {
+    "7e68776b-8660-4a6d-bafa-6fc04b4c9f3c": {
+      "pos": "?",
+      "gloss": {
+        "en": "tecido"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "",
+  "other_sources": "{'undef': 'pãːn'}"
+}

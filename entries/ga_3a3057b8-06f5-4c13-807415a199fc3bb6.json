@@ -1,0 +1,27 @@
+{
+  "entry_id": "ga_3a3057b8-06f5-4c13-807415a199fc3bb6",
+  "headword": "ga",
+  "morph_type": "stem",
+  "pronunciation": "ga",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "903adfbe-343b-4267-b1a1-10e5581a01b6": {
+      "pos": "pre",
+      "gloss": {
+        "en": "inside.of",
+        "pt": "dentro"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-28T21:04:18Z",
+  "bibliography": "Weir 1990",
+  "other_sources": "{'Weir': 'ga'}"
+}

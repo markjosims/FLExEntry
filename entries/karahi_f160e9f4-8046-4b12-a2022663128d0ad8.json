@@ -1,0 +1,28 @@
+{
+  "entry_id": "karahi_f160e9f4-8046-4b12-a2022663128d0ad8",
+  "headword": "karahi",
+  "morph_type": "stem",
+  "pronunciation": "karahi",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "3ea2d121-ab81-4e95-ad36-10d87d0e6acc": {
+      "pos": "n",
+      "gloss": {
+        "pt": "malhadeira"
+      },
+      "def": {
+        "pt": "malhadeira"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'karahi'}"
+}

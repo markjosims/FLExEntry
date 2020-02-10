@@ -1,0 +1,26 @@
+{
+  "entry_id": "mukuroja_cbd1a457-c564-4810-bf4d507fbe4cb22b",
+  "headword": "mukuroja",
+  "morph_type": "stem",
+  "pronunciation": "mukuroja",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "e286d7e8-1450-4be7-a644-dfabf9476142": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "macaco da noite"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'mukuɾojaʔ'}"
+}

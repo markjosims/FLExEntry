@@ -1,0 +1,28 @@
+{
+  "entry_id": "ena_1f0430bf-ab8c-4fb5-9a88f621fba7d9c7",
+  "headword": "ena",
+  "morph_type": "stem",
+  "pronunciation": "ena",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "a77ea7bf-f7f2-4dc0-8588-ce5cafa93507": {
+      "pos": "v",
+      "gloss": {
+        "pt": "vir.vezes"
+      },
+      "def": {
+        "pt": "vir várias vezes"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-28T21:04:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'ena'}"
+}

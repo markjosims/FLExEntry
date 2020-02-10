@@ -3,36 +3,8 @@
   "headword": "atëëd",
   "morph_type": "stem",
   "pronunciation": "ʔatə:d̚",
-  "variant_of": null,
-  "these_vars": {
-    "atëëd1_95b72b78-8ccd-4c61-a213-45127865783a": {
-      "headword": "atëëd",
-      "morph_type": "stem",
-      "pronunciation": "atə:d",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "a43f239c-e7dd-4388-bfe2-b10029dae56e": {
-          "pos": "n",
-          "gloss": {
-            "pt": "caba"
-          },
-          "def": {
-            "pt": "caba"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "ecea21e5-7367-4762-bd5c-6881a835e7d5": {
@@ -51,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'atëëd'}"
 }

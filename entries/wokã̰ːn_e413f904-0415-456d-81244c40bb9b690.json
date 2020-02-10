@@ -1,0 +1,26 @@
+{
+  "entry_id": "wokã̰:n_e413f904-0415-456d-81244c40bb9b690",
+  "headword": "wokã̰:n",
+  "morph_type": "stem",
+  "pronunciation": "wokã̰:n",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "d653afab-c369-479e-a220-575e8babe1e8": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "irmão mais novo (pl wokãːn)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'wokã̰ːn'}"
+}

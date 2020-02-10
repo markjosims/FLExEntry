@@ -1,0 +1,28 @@
+{
+  "entry_id": "tahũ:m_480edbaa-0ba8-4eae-968e71ba5dbe2439",
+  "headword": "tahũ:m",
+  "morph_type": "stem",
+  "pronunciation": "tahũ:m",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "9e8ebf5f-450c-4c4e-a13b-5d071541d0f4": {
+      "pos": "n",
+      "gloss": {
+        "pt": "planta.sp"
+      },
+      "def": {
+        "pt": "esp. de planta"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'tahũũm'}"
+}

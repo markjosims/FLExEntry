@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃi:_33c93f86-60af-4c20-81f8b9e6c82adc19",
+  "headword": "ʃi:",
+  "morph_type": "stem",
+  "pronunciation": "ʃi:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "a94a5328-8617-4879-a786-42ceb1a0493b": {
+      "pos": "posp op",
+      "gloss": {
+        "pt": "com"
+      },
+      "def": {
+        "pt": "com; ao mismo tempo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Martins': 'ʃiːʔ', 'Sil Dict 2011': 'sii'}"
+}

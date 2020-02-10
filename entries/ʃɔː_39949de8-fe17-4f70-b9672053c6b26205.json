@@ -1,0 +1,26 @@
+{
+  "entry_id": "ʃɔ:_39949de8-fe17-4f70-b9672053c6b26205",
+  "headword": "ʃɔ:",
+  "morph_type": "stem",
+  "pronunciation": "ʃɔ:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "2d26b07e-7bbd-4eec-93b1-1599dbf1673a": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tirar sorva"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ʃɔːʔ'}"
+}

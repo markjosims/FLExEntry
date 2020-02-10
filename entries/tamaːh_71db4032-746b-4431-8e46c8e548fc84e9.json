@@ -1,0 +1,26 @@
+{
+  "entry_id": "tama:h_71db4032-746b-4431-8e46c8e548fc84e9",
+  "headword": "tama:h",
+  "morph_type": "stem",
+  "pronunciation": "tama:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "cd0fc3fb-83fc-4473-938c-989573ab1b1c": {
+      "pos": "post?",
+      "gloss": {
+        "en": "sem"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'tamaːh'}"
+}

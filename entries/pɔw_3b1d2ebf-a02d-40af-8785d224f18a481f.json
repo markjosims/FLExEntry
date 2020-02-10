@@ -1,0 +1,26 @@
+{
+  "entry_id": "pɔw_3b1d2ebf-a02d-40af-8785d224f18a481f",
+  "headword": "pɔw",
+  "morph_type": "stem",
+  "pronunciation": "pɔw",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "5d8ff8df-f180-4f41-a5fb-8fb50f018ec0": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de fruta silvestre"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'pɔw'}"
+}

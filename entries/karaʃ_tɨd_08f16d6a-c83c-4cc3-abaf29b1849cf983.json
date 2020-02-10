@@ -1,0 +1,28 @@
+{
+  "entry_id": "karaʃ tɨd_08f16d6a-c83c-4cc3-abaf29b1849cf983",
+  "headword": "karaʃ tɨd",
+  "morph_type": "phrase",
+  "pronunciation": "karaʃ tɨd",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "30859a9b-4532-4025-856e-a30d0505d8e6": {
+      "pos": "n",
+      "gloss": {
+        "pt": "cipó.sp"
+      },
+      "def": {
+        "pt": "esp. de cipó"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'karas tyd'}"
+}

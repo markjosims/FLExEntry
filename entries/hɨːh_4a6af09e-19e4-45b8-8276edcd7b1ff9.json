@@ -1,0 +1,26 @@
+{
+  "entry_id": "hɨ:h_4a6af09e-19e4-45b8-8276edcd7b1ff9",
+  "headword": "hɨ:h",
+  "morph_type": "stem",
+  "pronunciation": "hɨ:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "4aabaf78-573d-46c2-bc70-7997be11e1a0": {
+      "pos": "DEM",
+      "gloss": {
+        "en": "DEM"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'hɨɨh'}"
+}

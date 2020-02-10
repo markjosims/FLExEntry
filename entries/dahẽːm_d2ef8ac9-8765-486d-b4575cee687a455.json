@@ -1,0 +1,28 @@
+{
+  "entry_id": "dahẽ:m_d2ef8ac9-8765-486d-b4575cee687a455",
+  "headword": "dahẽ:m",
+  "morph_type": "stem",
+  "pronunciation": "dahẽ:m",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "bd545db0-c5da-4763-b66c-9ef631f0d514": {
+      "pos": "v",
+      "gloss": {
+        "pt": "frio"
+      },
+      "def": {
+        "pt": "frio (água)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'dahẽẽw_2a438385-429d-4f14-8253-316f74d60d54': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'dahẽẽm'}"
+}

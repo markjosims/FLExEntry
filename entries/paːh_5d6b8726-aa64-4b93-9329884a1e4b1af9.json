@@ -1,0 +1,28 @@
+{
+  "entry_id": "pa:h_5d6b8726-aa64-4b93-9329884a1e4b1af9",
+  "headword": "pa:h",
+  "morph_type": "stem",
+  "pronunciation": "pa:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "18bb2726-1e99-418a-ad5b-537ea67f2ac5": {
+      "pos": "par",
+      "gloss": {
+        "pt": "passado"
+      },
+      "def": {
+        "pt": "passado; terminado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'paa_2087aff1-e889-4f5e-981c-e1f275c4e308': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'paah'}"
+}

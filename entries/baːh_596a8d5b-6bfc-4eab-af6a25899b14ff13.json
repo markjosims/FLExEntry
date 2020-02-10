@@ -1,0 +1,26 @@
+{
+  "entry_id": "ba:h_596a8d5b-6bfc-4eab-af6a25899b14ff13",
+  "headword": "ba:h",
+  "morph_type": "stem",
+  "pronunciation": "ba:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "df04ebfd-dfe5-4375-aa76-0dacf4fe4ace": {
+      "pos": "adv?",
+      "gloss": {
+        "en": "meio das costas"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'baːh'}"
+}

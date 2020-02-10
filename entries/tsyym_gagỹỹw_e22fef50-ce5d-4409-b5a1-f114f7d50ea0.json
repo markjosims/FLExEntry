@@ -3,7 +3,7 @@
   "headword": "tsyym gagỹỹw",
   "morph_type": "phrase",
   "pronunciation": "tʃ’ɨ:bm k’aˈk’ɨ̃:w",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-15T20:21:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

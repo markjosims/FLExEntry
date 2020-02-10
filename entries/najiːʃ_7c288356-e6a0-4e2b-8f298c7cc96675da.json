@@ -1,0 +1,28 @@
+{
+  "entry_id": "naji:ʃ_7c288356-e6a0-4e2b-8f298c7cc96675da",
+  "headword": "naji:ʃ",
+  "morph_type": "stem",
+  "pronunciation": "naji:ʃ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "e288c784-25c6-4c91-990a-7e62b6229a0f": {
+      "pos": "n",
+      "gloss": {
+        "pt": "colega"
+      },
+      "def": {
+        "pt": "colega"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'najiis'}"
+}

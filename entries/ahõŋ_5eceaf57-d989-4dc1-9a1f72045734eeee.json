@@ -1,0 +1,28 @@
+{
+  "entry_id": "ahõŋ_5eceaf57-d989-4dc1-9a1f72045734eeee",
+  "headword": "ahõŋ",
+  "morph_type": "stem",
+  "pronunciation": "ahõŋ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "448e8a67-7498-47a0-9b57-d6950350b087": {
+      "pos": "v",
+      "gloss": {
+        "pt": "maduro"
+      },
+      "def": {
+        "pt": "maduro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T23:19:24Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Martins': 'hɔ̃ŋ', 'Sil Dict 2011': 'ahõng'}"
+}

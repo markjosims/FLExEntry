@@ -1,0 +1,26 @@
+{
+  "entry_id": "aʃɔ̰p_9a0f45b4-47f9-4328-94d5a9404e31e4f0",
+  "headword": "aʃɔ̰p",
+  "morph_type": "stem",
+  "pronunciation": "aʃɔ̰p",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "ab82840e-3c79-4f10-a08b-12ed7855322e": {
+      "pos": "v imp?",
+      "gloss": {
+        "en": "Fique quieto!"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ʔaʃɔ̰p'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "na_0126d0ce-96ed-408a-bd2866f3a4628410",
+  "headword": "na",
+  "morph_type": "stem",
+  "pronunciation": "na",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "6c7274f4-8b5b-442d-9e05-9dfbff1f938a": {
+      "pos": "v imp",
+      "gloss": {
+        "pt": "me.da"
+      },
+      "def": {
+        "pt": "me da"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'na'}"
+}

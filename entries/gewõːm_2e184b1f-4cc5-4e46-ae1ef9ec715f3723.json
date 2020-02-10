@@ -1,0 +1,28 @@
+{
+  "entry_id": "gewõ:m_2e184b1f-4cc5-4e46-ae1ef9ec715f3723",
+  "headword": "gewõ:m",
+  "morph_type": "stem",
+  "pronunciation": "gewõ:m",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "4ef3d7a0-0610-4c6b-86f6-f2faf6d604f2": {
+      "pos": "v",
+      "gloss": {
+        "pt": "enrolar"
+      },
+      "def": {
+        "pt": "curvar; enrolar; torto dentro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-27T02:36:43Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'gewõõm'}"
+}

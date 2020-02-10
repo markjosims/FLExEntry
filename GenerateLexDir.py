@@ -13,8 +13,8 @@ from ast import literal_eval
 from time import time
 from platform import system
 
-master = 'flexicon.csv'
-senses = 'flex_senses.csv'
+master = 'flexiconCLEAN.csv'
+senses_file = 'flex_senses.csv'
 out = 'entries'
 system = system()
 if system == 'Windows':
@@ -34,8 +34,8 @@ def time_exec(f):
     return g
 
 def main():
-    flex_df = pd.read_csv('flexicon.csv', keep_default_na=False)
-    senses =  pd.read_csv('flex_senses.csv', keep_default_na=False)
+    flex_df = pd.read_csv(master, keep_default_na=False)
+    senses =  pd.read_csv(senses_file, keep_default_na=False)
     
     flex_df, senses = literal_eval_dfs(flex_df, senses)
     
@@ -174,6 +174,7 @@ def write_json_dir(headwords):
         filehead = data['entry_id']
         filehead = rep_all(filehead, '/ ', '_')
         filehead = rep_all(filehead, '()[]? ', '')
+        filehead = filehead.replace(':', 'ː')
         filename = out + dir_delim + filehead + '.json'
         temp = json.dumps(data, indent=2)
         temp = temp.encode('utf8')

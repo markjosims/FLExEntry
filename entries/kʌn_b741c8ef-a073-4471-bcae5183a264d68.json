@@ -1,0 +1,28 @@
+{
+  "entry_id": "kʌn_b741c8ef-a073-4471-bcae5183a264d68",
+  "headword": "kʌn",
+  "morph_type": "stem",
+  "pronunciation": "kʌn",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "0756186b-78d9-4f08-8487-28a5761781e9": {
+      "pos": "suf",
+      "gloss": {
+        "pt": "DM"
+      },
+      "def": {
+        "pt": "marcação no discurso"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'kä_12d603c5-ea9b-450b-a27c-e4cbb8b6a5ff': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'kän'}"
+}

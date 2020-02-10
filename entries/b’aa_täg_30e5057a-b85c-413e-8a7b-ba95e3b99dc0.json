@@ -3,7 +3,7 @@
   "headword": "b’aa täg",
   "morph_type": "phrase",
   "pronunciation": "baʔa tʌg˺",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-09-04T00:16:05Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

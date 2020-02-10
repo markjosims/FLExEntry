@@ -1,0 +1,26 @@
+{
+  "entry_id": "hə́ə́j_0c0a2b1e-27af-4512-aacb4c4b8079e5b9",
+  "headword": "hə́ə́j",
+  "morph_type": "stem",
+  "pronunciation": "hə́ə́j",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "32433533-206e-4950-91f0-1aa1ea989767": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "jungle"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'hʉ́ʉ́y'}"
+}

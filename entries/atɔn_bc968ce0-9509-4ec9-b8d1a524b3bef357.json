@@ -1,0 +1,28 @@
+{
+  "entry_id": "atɔn_bc968ce0-9509-4ec9-b8d1a524b3bef357",
+  "headword": "atɔn",
+  "morph_type": "stem",
+  "pronunciation": "atɔn",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "a7ee66be-0850-4c03-875b-74123fd737e3": {
+      "pos": "v",
+      "gloss": {
+        "pt": "carregar"
+      },
+      "def": {
+        "pt": "carregar em mãos; pegar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Weir': 'tón', 'Sil Dict 2011': 'atón'}"
+}

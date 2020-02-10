@@ -1,0 +1,28 @@
+{
+  "entry_id": "e:_3721b800-dbe1-4f4c-a11becaeda9dda0a",
+  "headword": "e:",
+  "morph_type": "stem",
+  "pronunciation": "e:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "cf8a0bc5-548b-4c32-86e6-a7ef047f07f1": {
+      "pos": "n",
+      "gloss": {
+        "pt": "papai"
+      },
+      "def": {
+        "pt": "papai"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Weir': 'éé', 'Sil Dict 2011': 'ee'}"
+}

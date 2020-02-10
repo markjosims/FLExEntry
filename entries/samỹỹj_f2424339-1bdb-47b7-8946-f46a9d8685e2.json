@@ -3,34 +3,8 @@
   "headword": "samỹỹj",
   "morph_type": "stem",
   "pronunciation": "ʃabmɨ̃:j",
-  "variant_of": null,
-  "these_vars": {
-    "ʃamɨːj_20f68242-8fb8-4ac0-8e64-e117d15b6046": {
-      "headword": "ʃamɨːj",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "b616e164-3b19-4c85-a5f5-471cc1bcf48b": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "guariba"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Weir",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Weir"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "f774eb9b-d3b4-4be6-b75c-62eb83c2bd23": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Weir': 'ʃamɨːj'}"
 }

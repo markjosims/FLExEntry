@@ -1,0 +1,28 @@
+{
+  "entry_id": "edah_ac55eff6-e4fa-45d2-a17d90446273b3f1",
+  "headword": "edah",
+  "morph_type": "stem",
+  "pronunciation": "edah",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "1325af38-6628-4e3b-b295-f029ab7dd4f1": {
+      "pos": "v",
+      "gloss": {
+        "pt": "estar.perto"
+      },
+      "def": {
+        "pt": "estar perto (logo)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'edaa_a88660fb-0dda-4512-a162-a5b314f0bd68': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'edaah_c18c1c3c-293f-4cf8-92a4-360e2914fa16': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'edah'}"
+}

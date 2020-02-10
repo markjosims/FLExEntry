@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃḭ̃:ʃ_04a67789-1620-4fc0-84d2208fb49de8d3",
+  "headword": "ʃḭ̃:ʃ",
+  "morph_type": "stem",
+  "pronunciation": "ʃḭ̃:ʃ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "b717cb48-a126-4b12-8c82-feec7dd8c359": {
+      "pos": "n",
+      "gloss": {
+        "pt": "banana.sp"
+      },
+      "def": {
+        "pt": "esp. de banana"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'sʹĩĩs'}"
+}

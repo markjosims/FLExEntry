@@ -1,0 +1,26 @@
+{
+  "entry_id": "wojapəm_90933864-369d-4eee-b3c2cdc2141a85b3",
+  "headword": "wojapəm",
+  "morph_type": "stem",
+  "pronunciation": "wojapəm",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "c238bad4-14b9-4793-bde2-19e5914d8a2b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "morro"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'wojapəm'}"
+}

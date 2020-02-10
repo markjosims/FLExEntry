@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃaro:r_ca5bfa8b-4463-4b3d-a0be200a2bac12ba",
+  "headword": "ʃaro:r",
+  "morph_type": "stem",
+  "pronunciation": "ʃaro:r",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "5dfb34b2-8e58-4111-988e-49e76cc7ee52": {
+      "pos": "n",
+      "gloss": {
+        "pt": "roupa"
+      },
+      "def": {
+        "pt": "roupa"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-23T16:15:56Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'saroor'}"
+}

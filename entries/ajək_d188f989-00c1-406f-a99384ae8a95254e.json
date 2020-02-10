@@ -1,0 +1,28 @@
+{
+  "entry_id": "ajək_d188f989-00c1-406f-a99384ae8a95254e",
+  "headword": "ajək",
+  "morph_type": "stem",
+  "pronunciation": "ajək",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "fd12d6b3-c50b-4663-b9a9-2ee906245573": {
+      "pos": "v p",
+      "gloss": {
+        "pt": "voltar.aldeira"
+      },
+      "def": {
+        "pt": "voltar para aldeira do mato"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ajëk2_16710a4a-9594-4632-8d8d-d7a48a08c7a6': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ajëng_2d333399-d440-450e-8037-d42a414085c1': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'ajëk'}"
+}

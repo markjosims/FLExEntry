@@ -1,0 +1,26 @@
+{
+  "entry_id": "po̰:h_0978090e-f818-4a26-b58cf420dbef4260",
+  "headword": "po̰:h",
+  "morph_type": "stem",
+  "pronunciation": "po̰:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "50255f76-792d-44fc-b78b-e281cea44e2e": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "roça"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'po̰ːh'}"
+}

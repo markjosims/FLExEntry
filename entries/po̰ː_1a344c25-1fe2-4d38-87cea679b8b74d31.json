@@ -1,0 +1,26 @@
+{
+  "entry_id": "po̰:_1a344c25-1fe2-4d38-87cea679b8b74d31",
+  "headword": "po̰:",
+  "morph_type": "stem",
+  "pronunciation": "po̰:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "2013ecbc-5f4a-4cd3-a741-d2c7ae4696b6": {
+      "pos": "?",
+      "gloss": {
+        "en": "estragado"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'po̰ːʔ'}"
+}

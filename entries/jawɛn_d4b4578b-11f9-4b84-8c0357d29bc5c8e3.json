@@ -1,0 +1,28 @@
+{
+  "entry_id": "jawɛn_d4b4578b-11f9-4b84-8c0357d29bc5c8e3",
+  "headword": "jawɛn",
+  "morph_type": "stem",
+  "pronunciation": "jawɛn",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "4ee6293a-38a6-4714-9569-27220f424e5a": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "depois"
+      },
+      "def": {
+        "pt": "depois; atrás de"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'jawén'}"
+}

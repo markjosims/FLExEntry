@@ -1,0 +1,28 @@
+{
+  "entry_id": "aʃɨ̰:h_c75f7d44-6fb0-498b-9a97862dd984bf7c",
+  "headword": "aʃɨ̰:h",
+  "morph_type": "stem",
+  "pronunciation": "aʃɨ̰:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "90acd1dc-2c3b-4e1a-9e64-6d57612c8598": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "estar.sem.comida(?)"
+      },
+      "def": {
+        "pt": "estar sem comida (?)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 3",
+  "other_sources": "{'Cartilhas': 'asʹyyh'}"
+}

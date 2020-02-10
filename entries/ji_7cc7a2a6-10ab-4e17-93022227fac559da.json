@@ -1,0 +1,26 @@
+{
+  "entry_id": "ji_7cc7a2a6-10ab-4e17-93022227fac559da",
+  "headword": "ji",
+  "morph_type": "stem",
+  "pronunciation": "ji",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "e67bf0c3-c8fb-49e2-970d-3dfe971dc4fe": {
+      "pos": "Pronoun",
+      "gloss": {
+        "en": "pronome indeterminado"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'jiʔ'}"
+}

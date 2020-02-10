@@ -1,0 +1,26 @@
+{
+  "entry_id": "ɨm_73d74d6f-08f3-463a-adc337a43c4c0787",
+  "headword": "ɨm",
+  "morph_type": "stem",
+  "pronunciation": "ɨm",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "e4b26a30-d0d0-44c5-82df-23171ee326e7": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "ficar"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ʔɯm'}"
+}

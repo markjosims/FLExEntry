@@ -1,0 +1,28 @@
+{
+  "entry_id": "hata_1dfca26b-d7d7-434e-94d97437aa16e4a1",
+  "headword": "hata",
+  "morph_type": "stem",
+  "pronunciation": "hata",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "11fdfbfa-53aa-48c9-aafc-e5d7e21ee9b4": {
+      "pos": "n",
+      "gloss": {
+        "pt": "companheiro"
+      },
+      "def": {
+        "pt": "companheiro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'hataa_7341f5d4-0dea-4b5d-b519-76b8be9caaca': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'hata'}"
+}

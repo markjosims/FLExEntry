@@ -1,0 +1,28 @@
+{
+  "entry_id": "tu_983b21ad-1243-49cf-850fb9211c029c38",
+  "headword": "tu",
+  "morph_type": "stem",
+  "pronunciation": "tu",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "9594296f-8151-41f3-bad7-157332bf3d01": {
+      "pos": "n op",
+      "gloss": {
+        "pt": "esteio"
+      },
+      "def": {
+        "pt": "esteio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-21T17:55:55Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Martins': 'tuʔ', 'Sil Dict 2011': 'tu'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "jə:h_d594696f-9f99-4a8a-bf42436ae849f0c6",
+  "headword": "jə:h",
+  "morph_type": "stem",
+  "pronunciation": "jə:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "994b24a6-830b-4c17-8ed4-b8c1995b52f9": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "return n.i."
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'yʉʉh'}"
+}

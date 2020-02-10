@@ -3,34 +3,8 @@
   "headword": "tyyw",
   "morph_type": "stem",
   "pronunciation": "tɨ:w",
-  "variant_of": null,
-  "these_vars": {
-    "tɨːw_c9ecfce1-ed8a-4335-8793-9b265a3f6bd5": {
-      "headword": "tɨːw",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "eec7f29b-aec8-4b41-8ec2-056d8b6468c6": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "caminho"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "1dd45883-bae0-4b41-aa55-2236df1eb368": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2018-07-07T18:17:57Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'tɨːw'}"
 }

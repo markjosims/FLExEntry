@@ -1,0 +1,28 @@
+{
+  "entry_id": "makũ:h_b7eaf28f-6761-49ec-ac7fdf774057c02c",
+  "headword": "makũ:h",
+  "morph_type": "stem",
+  "pronunciation": "makũ:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "339a2390-193b-4e46-b7d9-76429e5bf07d": {
+      "pos": "n",
+      "gloss": {
+        "pt": "finado"
+      },
+      "def": {
+        "pt": "finado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'dakä_088d21b3-b72e-422c-baab-2a35b7838500': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'dakë_9477178e-c20a-43b8-b4e9-7a91edfad5f8': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'makũũh'}"
+}

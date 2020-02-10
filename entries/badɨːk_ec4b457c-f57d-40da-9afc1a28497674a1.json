@@ -1,0 +1,26 @@
+{
+  "entry_id": "badɨ:k_ec4b457c-f57d-40da-9afc1a28497674a1",
+  "headword": "badɨ:k",
+  "morph_type": "stem",
+  "pronunciation": "badɨ:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "dbc3000b-d9ac-4f5e-9d81-e67c404f95cc": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "socar terra"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'badɯːk'}"
+}

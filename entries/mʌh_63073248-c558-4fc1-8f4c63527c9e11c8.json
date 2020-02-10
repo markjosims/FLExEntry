@@ -1,0 +1,28 @@
+{
+  "entry_id": "mʌh_63073248-c558-4fc1-8f4c63527c9e11c8",
+  "headword": "mʌh",
+  "morph_type": "stem",
+  "pronunciation": "mʌh",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "f32eca7d-3619-4f93-b6fa-8152c459e7b3": {
+      "pos": "par",
+      "gloss": {
+        "pt": "relatado abreviação?)"
+      },
+      "def": {
+        "pt": "relatado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'mäh'}"
+}

@@ -3,7 +3,7 @@
   "headword": "tarapoo",
   "morph_type": "root",
   "pronunciation": "taɾaˈpo:",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-09-04T00:20:09Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

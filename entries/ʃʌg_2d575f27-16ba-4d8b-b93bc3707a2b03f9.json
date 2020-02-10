@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃʌg_2d575f27-16ba-4d8b-b93bc3707a2b03f9",
+  "headword": "ʃʌg",
+  "morph_type": "stem",
+  "pronunciation": "ʃʌg",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "5f507fde-bd33-4af5-8aa5-e18ecae79515": {
+      "pos": "n",
+      "gloss": {
+        "pt": "mandioca.massa"
+      },
+      "def": {
+        "pt": "massa de mandioca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'säg'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "acõb_f71894c0-8fab-4c50-85f140d22a323e73",
+  "headword": "acõb",
+  "morph_type": "stem",
+  "pronunciation": "acõb",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "c22a5392-61c4-45d1-bfa5-9c4d0a17ba06": {
+      "pos": "n",
+      "gloss": {
+        "pt": "ura/berno"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T22:54:14Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'atsõb'}"
+}

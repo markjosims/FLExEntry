@@ -1,0 +1,26 @@
+{
+  "entry_id": "wacɨb_97883aff-4f45-46d0-ae6eb097ebfabd00",
+  "headword": "wacɨb",
+  "morph_type": "stem",
+  "pronunciation": "wacɨb",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "31053f99-5138-4ad7-a729-0f138214657d": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "maruim"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'waɟɨb'}"
+}

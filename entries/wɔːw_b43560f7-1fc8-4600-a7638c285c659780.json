@@ -1,0 +1,26 @@
+{
+  "entry_id": "wɔ:w_b43560f7-1fc8-4600-a7638c285c659780",
+  "headword": "wɔ:w",
+  "morph_type": "stem",
+  "pronunciation": "wɔ:w",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "5f085cb2-4a45-4bc7-9268-e3b4bf70b614": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de cipó"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'wɔːw'}"
+}

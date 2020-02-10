@@ -3,7 +3,7 @@
   "headword": "ji ma poo oow péh",
   "morph_type": "phrase",
   "pronunciation": "ji ma po: ˈʔo:w ˈpɛh",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-27T19:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

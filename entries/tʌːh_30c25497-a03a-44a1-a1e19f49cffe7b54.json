@@ -1,0 +1,26 @@
+{
+  "entry_id": "tʌ:h_30c25497-a03a-44a1-a1e19f49cffe7b54",
+  "headword": "tʌ:h",
+  "morph_type": "stem",
+  "pronunciation": "tʌ:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "03e6f82a-7611-4839-bd55-ca2a21c0f20b": {
+      "pos": "?",
+      "gloss": {
+        "en": "bem assado"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'tʌːh'}"
+}

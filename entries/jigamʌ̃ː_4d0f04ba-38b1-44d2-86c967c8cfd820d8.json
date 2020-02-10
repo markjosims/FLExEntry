@@ -1,0 +1,26 @@
+{
+  "entry_id": "jigamʌ̃:_4d0f04ba-38b1-44d2-86c967c8cfd820d8",
+  "headword": "jigamʌ̃:",
+  "morph_type": "stem",
+  "pronunciation": "jigamʌ̃:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "bc869fd1-952f-44e1-b921-03cd2cfafcef": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "pomo de adão"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'jigamʌ̃ːʔ'}"
+}

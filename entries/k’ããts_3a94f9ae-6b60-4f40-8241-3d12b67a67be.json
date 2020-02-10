@@ -3,7 +3,7 @@
   "headword": "k’ããts",
   "morph_type": "stem",
   "pronunciation": "kãʔãɉ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": {
     "k’ããts tsyg_8ac18045-bd45-4c72-b53f-1a45c1a34510": {
       "headword": "k’ããts tsyg",
@@ -29,6 +29,7 @@
       },
       "date": "2018-07-06T18:57:18Z",
       "bibliography": "Fieldnotes Epps/Obert; 2018",
+      "other_sources": "",
       "var_type": {
         "type": "_component-lexeme",
         "is-primary": "true",
@@ -54,5 +55,6 @@
     }
   },
   "date": "2018-07-05T13:48:16Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

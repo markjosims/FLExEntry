@@ -1,0 +1,28 @@
+{
+  "entry_id": "ewə:n_cf2ba2cf-1b12-4871-8529c04cfe09aa60",
+  "headword": "ewə:n",
+  "morph_type": "stem",
+  "pronunciation": "ewə:n",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "576d82b4-95b9-46c6-8b26-e78d948cb115": {
+      "pos": "v",
+      "gloss": {
+        "pt": "correr.atrás"
+      },
+      "def": {
+        "pt": "correr atrás"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'ewëën'}"
+}

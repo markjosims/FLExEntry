@@ -1,0 +1,28 @@
+{
+  "entry_id": "jamad_275da60d-aa15-4ba5-9b8a77e7ba77e472",
+  "headword": "jamad",
+  "morph_type": "stem",
+  "pronunciation": "jamad",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "73d6af73-d8d9-4e0f-a1a3-57898a23cf41": {
+      "pos": "n",
+      "gloss": {
+        "pt": "abiu"
+      },
+      "def": {
+        "pt": "esp. de árvore/fruta (abiu)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'jamad'}"
+}

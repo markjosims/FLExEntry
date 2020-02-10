@@ -1,0 +1,28 @@
+{
+  "entry_id": "pacə:_f975debe-d1b6-4a5a-94a8562e89f3b5a7",
+  "headword": "pacə:",
+  "morph_type": "stem",
+  "pronunciation": "pacə:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "960aad04-742e-41a6-a845-681f676d1253": {
+      "pos": "v",
+      "gloss": {
+        "pt": "levar(?)"
+      },
+      "def": {
+        "pt": "ter mais de um objeto na mão p obj)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'patsä_a001213b-da2d-4a32-9275-f46be961428a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'patsëë'}"
+}

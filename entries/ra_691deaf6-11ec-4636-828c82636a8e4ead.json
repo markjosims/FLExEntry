@@ -1,0 +1,30 @@
+{
+  "entry_id": "ra_691deaf6-11ec-4636-828c82636a8e4ead",
+  "headword": "ra",
+  "morph_type": "stem",
+  "pronunciation": "ra",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "6704bbec-ab67-4664-8cc6-dccf621623a7": {
+      "pos": "pre",
+      "gloss": {
+        "en": "3P",
+        "pt": "3P"
+      },
+      "def": {
+        "en": "3P",
+        "pt": "3P"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T17:13:55Z",
+  "bibliography": "Weir 1990 (la)",
+  "other_sources": "{'Weir': 'ra'}"
+}

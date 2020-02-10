@@ -1,0 +1,26 @@
+{
+  "entry_id": "dɛ̃:m_f67b3dd1-32b3-4231-9398a409d5859b94",
+  "headword": "dɛ̃:m",
+  "morph_type": "stem",
+  "pronunciation": "dɛ̃:m",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "454e5e34-990d-41ea-bef0-07cdfcb47e43": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie de árvore"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'dɛ̃ːm'}"
+}

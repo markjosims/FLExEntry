@@ -1,0 +1,26 @@
+{
+  "entry_id": "gɔ:r_cbc735ec-3a11-421f-82fa4ca23abfd0c1",
+  "headword": "gɔ:r",
+  "morph_type": "stem",
+  "pronunciation": "gɔ:r",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "82ba11fe-452a-41e7-8d84-7dcba9c76fcd": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "espécie"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'gɔːɾ'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "ʃari_9bab4546-0543-401f-98701f73db2dbb5e",
+  "headword": "ʃari",
+  "morph_type": "stem",
+  "pronunciation": "ʃari",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "dda3bff6-86b6-43f6-875b-4114ecf486bb": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "mucura (gambá)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ʃaɾiʔ'}"
+}

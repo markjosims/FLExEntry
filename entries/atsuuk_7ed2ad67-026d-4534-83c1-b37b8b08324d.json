@@ -3,34 +3,8 @@
   "headword": "atsuuk",
   "morph_type": "stem",
   "pronunciation": "ʔaˈtʃ’u:k˺",
-  "variant_of": null,
-  "these_vars": {
-    "ɟuːk_4490816c-a10c-4d52-a75d-fe876900d6a0": {
-      "headword": "ɟuːk",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "580f13e7-b59e-4ea4-9832-41b0a5cf8323": {
-          "pos": "Verb",
-          "gloss": {
-            "en": "coçar"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:53Z",
-      "bibliography": "Martins",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Martins"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "03a706b5-ef04-420c-8fb2-379d85310c4d": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2018-07-15T20:43:02Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Martins': 'ɟuːk'}"
 }

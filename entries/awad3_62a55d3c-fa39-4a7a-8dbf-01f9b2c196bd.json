@@ -3,34 +3,8 @@
   "headword": "awad",
   "morph_type": "stem",
   "pronunciation": "ʔawad̚",
-  "variant_of": null,
-  "these_vars": {
-    "awad1_62af62ce-e032-4079-87dd-c24ef0653b3d": {
-      "headword": "awad",
-      "morph_type": "stem",
-      "pronunciation": "ʔawad",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "c450b8da-5ae2-4d74-b02b-6159d9ad6a32": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "jaguar"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": "{'awad2_89445911-1a22-4be0-8351-b396b535c72a': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; onça'}}"
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Weir 1990; Weir 1994; Martins 2005",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Weir"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "b1f945c8-cc42-4ca1-afb2-a904de7bd4f5": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Weir': 'awad'}"
 }

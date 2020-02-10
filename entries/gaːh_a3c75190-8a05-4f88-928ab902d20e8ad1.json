@@ -1,0 +1,28 @@
+{
+  "entry_id": "ga:h_a3c75190-8a05-4f88-928ab902d20e8ad1",
+  "headword": "ga:h",
+  "morph_type": "stem",
+  "pronunciation": "ga:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "17fa4cea-ea5e-4fac-9e4d-925efe463ffb": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T21:00:14Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'gaah'}"
+}

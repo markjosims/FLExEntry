@@ -1,0 +1,28 @@
+{
+  "entry_id": "tḭ̃: hẽɲ_524e8f28-14f9-4dc9-a0907da114fd7c8a",
+  "headword": "tḭ̃: hẽɲ",
+  "morph_type": "phrase",
+  "pronunciation": "tḭ̃: hẽɲ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "55b7cce4-4891-4d38-86f2-55b14b2c805c": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "lá"
+      },
+      "def": {
+        "pt": "lá"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'tʹĩĩ hẽnh'}"
+}

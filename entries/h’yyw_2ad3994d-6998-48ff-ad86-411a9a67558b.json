@@ -3,7 +3,7 @@
   "headword": "h’yyw",
   "morph_type": "root",
   "pronunciation": "hɨʔɨw",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {
     "Note": "problem: hɨʔɨw or hǝʔǝw"
@@ -25,5 +25,6 @@
     }
   },
   "date": "2018-09-03T23:54:43Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

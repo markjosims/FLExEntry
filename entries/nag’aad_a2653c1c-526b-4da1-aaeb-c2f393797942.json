@@ -3,34 +3,8 @@
   "headword": "nag’aad",
   "morph_type": "stem",
   "pronunciation": "nãʔk’aʔad˺",
-  "variant_of": null,
-  "these_vars": {
-    "naga̰ːd_00bdbea3-65ff-4c88-bb09-064fdb77ec72": {
-      "headword": "naga̰ːd",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "062365d9-1fcd-4828-980d-5fbacad0019b": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "língua"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:54Z",
-      "bibliography": "Barbosa",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Barbosa"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "44a8503d-b792-47fe-9d9f-64d99e2033c5": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2018-07-10T23:44:24Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Barbosa': 'naga̰ːd'}"
 }

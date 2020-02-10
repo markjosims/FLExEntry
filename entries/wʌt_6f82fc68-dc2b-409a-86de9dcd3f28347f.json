@@ -1,0 +1,28 @@
+{
+  "entry_id": "wʌt_6f82fc68-dc2b-409a-86de9dcd3f28347f",
+  "headword": "wʌt",
+  "morph_type": "stem",
+  "pronunciation": "wʌt",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "a3abfa60-b011-4cff-9a02-93a83f8e8399": {
+      "pos": "intj",
+      "gloss": {
+        "pt": "lá vai"
+      },
+      "def": {
+        "pt": "lá vai; quero passar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'wät'}"
+}

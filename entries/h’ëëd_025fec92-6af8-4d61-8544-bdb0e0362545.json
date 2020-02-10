@@ -3,63 +3,8 @@
   "headword": "h’ëëd",
   "morph_type": "stem",
   "pronunciation": "hǝʔǝd˺",
-  "variant_of": null,
-  "these_vars": {
-    "hʹëëd2_9e74513c-440f-4e3d-9106-81f0bcd89d90": {
-      "headword": "hʹëëd",
-      "morph_type": "stem",
-      "pronunciation": "hə̰:d",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "060e2378-9efd-496c-86c5-8c940f2d294a": {
-          "pos": "n op",
-          "gloss": {
-            "pt": "pertences"
-          },
-          "def": {
-            "pt": "pertences"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    },
-    "hʹëëd1_a60368d9-bc6d-49b9-aeef-eaa8980142fa": {
-      "headword": "hʹëëd",
-      "morph_type": "stem",
-      "pronunciation": "hə̰:d",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "686f8334-2be2-49a6-98dc-ace6be0253af": {
-          "pos": "adv",
-          "gloss": {
-            "pt": "o.quê?"
-          },
-          "def": {
-            "pt": "o quê?"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "82d7231c-5f51-4860-90b3-f2da90deba51": {
@@ -78,5 +23,6 @@
     }
   },
   "date": "2018-07-11T00:00:38Z",
-  "bibliography": "Fiednotes Epps/Obert; 2018"
+  "bibliography": "Fiednotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'hʹëëd'}"
 }

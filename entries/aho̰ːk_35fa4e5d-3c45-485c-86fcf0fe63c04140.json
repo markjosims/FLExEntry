@@ -1,0 +1,28 @@
+{
+  "entry_id": "aho̰:k_35fa4e5d-3c45-485c-86fcf0fe63c04140",
+  "headword": "aho̰:k",
+  "morph_type": "stem",
+  "pronunciation": "aho̰:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "ea5a29cc-72ea-4e5c-a30e-950944984663": {
+      "pos": "v",
+      "gloss": {
+        "pt": "fazer.dabucurí"
+      },
+      "def": {
+        "pt": "fazer dabucurí"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'hehok_236c790d-119c-4355-a51b-357e4b32db4d': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'ahoog_86909127-d6a9-47da-afae-0e5865240388': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'ahʹook'}"
+}

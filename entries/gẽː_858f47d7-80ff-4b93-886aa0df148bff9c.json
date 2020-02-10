@@ -1,0 +1,28 @@
+{
+  "entry_id": "gẽ:_858f47d7-80ff-4b93-886aa0df148bff9c",
+  "headword": "gẽ:",
+  "morph_type": "stem",
+  "pronunciation": "gẽ:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "23972b04-5d78-4541-b210-71277fe3b508": {
+      "pos": "v",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 16 talvez relacionado com g'ẽẽ?)",
+  "other_sources": "{'Cartilhas': 'gẽẽ'}"
+}

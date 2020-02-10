@@ -1,0 +1,28 @@
+{
+  "entry_id": "bata_2a83b20d-dd53-4b7c-aac9c6d4dab2610a",
+  "headword": "bata",
+  "morph_type": "stem",
+  "pronunciation": "bata",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "ea81e9aa-29dc-424f-8f46-b004cb0d4c84": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 9",
+  "other_sources": "{'Cartilhas': 'bata'}"
+}

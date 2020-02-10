@@ -1,0 +1,26 @@
+{
+  "entry_id": "gə:h_94b140c8-32b8-4618-846e6d093fbdb67e",
+  "headword": "gə:h",
+  "morph_type": "stem",
+  "pronunciation": "gə:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "9e0e8baa-b9ce-4a9d-8ec3-bc72df38d238": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.sweet"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1990",
+  "other_sources": "{'Weir': 'gʉʉh'}"
+}

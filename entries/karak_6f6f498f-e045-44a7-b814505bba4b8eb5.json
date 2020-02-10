@@ -1,0 +1,28 @@
+{
+  "entry_id": "karak_6f6f498f-e045-44a7-b814505bba4b8eb5",
+  "headword": "karak",
+  "morph_type": "stem",
+  "pronunciation": "karak",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "251ceaa1-02fa-4994-9a82-0abbc8418f91": {
+      "pos": "v",
+      "gloss": {
+        "pt": "roçar"
+      },
+      "def": {
+        "pt": "roçar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'karag_62409d92-e1a8-40e3-88f3-053f8d755bcb': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'karak'}"
+}

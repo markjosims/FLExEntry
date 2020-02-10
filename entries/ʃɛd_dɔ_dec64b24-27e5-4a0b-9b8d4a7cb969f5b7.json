@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃɛd dɔ_dec64b24-27e5-4a0b-9b8d4a7cb969f5b7",
+  "headword": "ʃɛd dɔ",
+  "morph_type": "phrase",
+  "pronunciation": "ʃɛd dɔ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "d403fd87-08d6-4339-91d7-48b0e305cb2c": {
+      "pos": "adv",
+      "gloss": {
+        "pt": "muitos"
+      },
+      "def": {
+        "pt": "muitos"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'séd nado_d7873eaf-cf36-464a-a057-08f1f705e07b': {'type': '_component-lexeme', 'variant-type': 'Negativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'séd dó'}"
+}

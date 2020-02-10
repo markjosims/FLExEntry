@@ -1,0 +1,28 @@
+{
+  "entry_id": "makakã_b0ac6299-fc0a-4e7d-a6672d0f766f4d64",
+  "headword": "makakã",
+  "morph_type": "stem",
+  "pronunciation": "makakã",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "6465d925-e64d-448e-9c2c-3fee41eeca93": {
+      "pos": "n",
+      "gloss": {
+        "pt": "calango.venenoso.sp"
+      },
+      "def": {
+        "pt": "esp. de calango venenoso"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'makakã'}"
+}

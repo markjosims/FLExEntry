@@ -1,0 +1,28 @@
+{
+  "entry_id": "majĩ:_09c37bac-751e-427d-be41a58ec663120d",
+  "headword": "majĩ:",
+  "morph_type": "stem",
+  "pronunciation": "majĩ:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "cda22660-faca-483a-8a4f-06875d500273": {
+      "pos": "n",
+      "gloss": {
+        "pt": "inimigo"
+      },
+      "def": {
+        "pt": "inimigo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'majẽ ỹỹ_6c0165cc-4959-42c0-93b9-412aca283abd': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'majĩĩ'}"
+}

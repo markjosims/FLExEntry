@@ -1,0 +1,26 @@
+{
+  "entry_id": "taho:h_bccaeab6-2645-401a-a5e2394defe8de7e",
+  "headword": "taho:h",
+  "morph_type": "stem",
+  "pronunciation": "taho:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "39d5193f-d845-4e12-a3da-9ff401c49221": {
+      "pos": "n op?",
+      "gloss": {
+        "en": "seu fígado"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'tahoːh'}"
+}

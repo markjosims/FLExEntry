@@ -1,0 +1,28 @@
+{
+  "entry_id": "kɨ:h_abaed6a6-acab-4bad-990983f48cf3c885",
+  "headword": "kɨ:h",
+  "morph_type": "stem",
+  "pronunciation": "kɨ:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "c20b16fb-880d-4de4-aa1c-8ecbe9fd00d1": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "fazer.som?"
+      },
+      "def": {
+        "pt": "fazer.som?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lições 5  13",
+  "other_sources": "{'Cartilhas': 'kyyh'}"
+}

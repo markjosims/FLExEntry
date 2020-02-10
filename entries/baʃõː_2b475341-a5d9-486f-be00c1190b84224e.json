@@ -1,0 +1,28 @@
+{
+  "entry_id": "baʃõ:_2b475341-a5d9-486f-be00c1190b84224e",
+  "headword": "baʃõ:",
+  "morph_type": "stem",
+  "pronunciation": "baʃõ:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "dab0ecc1-ad16-432a-a1aa-ab00d62e355a": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; lição 10",
+  "other_sources": "{'Cartilhas': 'basõõ'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "jamaʃi:ʃ_0dd2859c-8997-4564-99df330188ad7d79",
+  "headword": "jamaʃi:ʃ",
+  "morph_type": "stem",
+  "pronunciation": "jamaʃi:ʃ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Barbosa."
+  },
+  "sense": {
+    "b90a6d38-f813-4919-b37a-cc271428068a": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "macaquinho"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Barbosa",
+  "other_sources": "{'Barbosa': 'jamaʃiːʃ'}"
+}

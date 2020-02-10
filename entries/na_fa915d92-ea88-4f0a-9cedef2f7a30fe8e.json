@@ -1,0 +1,26 @@
+{
+  "entry_id": "na_fa915d92-ea88-4f0a-9cedef2f7a30fe8e",
+  "headword": "na",
+  "morph_type": "stem",
+  "pronunciation": "na",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "d0d38716-1ab4-4ba1-9100-61f1fe7c00d2": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "come n.i."
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'na'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "atə:_0d9d214a-224c-47c4-8261fdf54959927f",
+  "headword": "atə:",
+  "morph_type": "stem",
+  "pronunciation": "atə:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "2903a35a-dc21-4dd6-a722-910e841f93f6": {
+      "pos": "v",
+      "gloss": {
+        "pt": "estar.no.fogo"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-27T02:56:56Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'atëë'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "ʃə:_77981701-bff1-498b-a88bf2ff0d46a7a3",
+  "headword": "ʃə:",
+  "morph_type": "stem",
+  "pronunciation": "ʃə:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "c37acd60-014e-4799-b6a8-82516412bb7c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "camarão"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ʃɤːʔ'}"
+}

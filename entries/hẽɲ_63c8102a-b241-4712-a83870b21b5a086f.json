@@ -1,0 +1,26 @@
+{
+  "entry_id": "hẽɲ_63c8102a-b241-4712-a83870b21b5a086f",
+  "headword": "hẽɲ",
+  "morph_type": "stem",
+  "pronunciation": "hẽɲ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "84d82e2b-10a2-4d5b-bf3b-843910321938": {
+      "pos": "posp",
+      "gloss": {
+        "pt": "locativo.contraste"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-22T21:31:03Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'hẽnh'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "ɨɲ_314efd94-d358-473e-b24ce05b4d9e7dd9",
+  "headword": "ɨɲ",
+  "morph_type": "stem",
+  "pronunciation": "ɨɲ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "b0d1e1b0-370b-46d9-9d8f-47e49e80aa7d": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "sister"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'ɨnh'}"
+}

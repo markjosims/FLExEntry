@@ -1,0 +1,26 @@
+{
+  "entry_id": "hã̰:k_349f393a-4584-4d98-8af48b0677f466c0",
+  "headword": "hã̰:k",
+  "morph_type": "stem",
+  "pronunciation": "hã̰:k",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "7b63a098-c903-4a56-8c78-37a2026696a5": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "stop.to.rest"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986",
+  "other_sources": "{'Weir': 'hxãak'}"
+}

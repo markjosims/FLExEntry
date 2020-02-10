@@ -1,0 +1,26 @@
+{
+  "entry_id": "jõŋ_35e20f56-2cd9-4561-a9a450ff279c8974",
+  "headword": "jõŋ",
+  "morph_type": "stem",
+  "pronunciation": "jõŋ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "4d5986eb-80cc-4290-ba32-6a5c0bf242ce": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.many (n.i. yõoh)"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'yõng'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "bo:h_6a7b644a-7672-4290-94f54f812ad24773",
+  "headword": "bo:h",
+  "morph_type": "stem",
+  "pronunciation": "bo:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "38935f92-5666-4fcd-b8b7-49312a5da4a3": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "mistura para coca"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'boːh'}"
+}

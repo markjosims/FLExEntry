@@ -1,0 +1,28 @@
+{
+  "entry_id": "hamʌh_611ef3be-8c5e-49a9-94c9f1121405e644",
+  "headword": "hamʌh",
+  "morph_type": "stem",
+  "pronunciation": "hamʌh",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "82e62d21-d2e9-4892-98c7-333a61d51295": {
+      "pos": "intj",
+      "gloss": {
+        "pt": "vamos"
+      },
+      "def": {
+        "pt": "vamos"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'hamäh'}"
+}

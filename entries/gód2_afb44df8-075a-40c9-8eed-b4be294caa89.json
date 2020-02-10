@@ -3,36 +3,8 @@
   "headword": "gód",
   "morph_type": "stem",
   "pronunciation": "k'ɔd̚",
-  "variant_of": null,
-  "these_vars": {
-    "gód1_c8bf4c45-4267-46ab-b762-3812481e1fef": {
-      "headword": "gód",
-      "morph_type": "stem",
-      "pronunciation": "gɔd",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "ec3519e7-43cf-4d64-88b8-ea997acbafa3": {
-          "pos": "n",
-          "gloss": {
-            "pt": "tio"
-          },
-          "def": {
-            "pt": "tio; irmão de mãe"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "d8de3930-0be6-4e83-86c4-a5e307ff61ca": {
@@ -51,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'gód'}"
 }

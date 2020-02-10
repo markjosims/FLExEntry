@@ -1,0 +1,28 @@
+{
+  "entry_id": "atə:h_7e4715cc-02ed-41de-b7e86d2b30d174ce",
+  "headword": "atə:h",
+  "morph_type": "stem",
+  "pronunciation": "atə:h",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "16134e8b-c30e-4f5d-9ae5-02f30c6f29a6": {
+      "pos": "v",
+      "gloss": {
+        "pt": "estar.caindo"
+      },
+      "def": {
+        "pt": "estar caindo (só árvore e galho)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-27T02:54:27Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'atëëh'}"
+}

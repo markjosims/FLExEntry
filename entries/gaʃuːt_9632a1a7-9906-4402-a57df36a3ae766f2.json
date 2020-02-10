@@ -1,0 +1,28 @@
+{
+  "entry_id": "gaʃu:t_9632a1a7-9906-4402-a57df36a3ae766f2",
+  "headword": "gaʃu:t",
+  "morph_type": "stem",
+  "pronunciation": "gaʃu:t",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "207735da-b17c-4792-b8e1-01e9ac0a6d57": {
+      "pos": "v",
+      "gloss": {
+        "pt": "tossir"
+      },
+      "def": {
+        "pt": "tossir"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'gasʹuut_ce036a88-6b65-4bfd-817b-ba8e1b160321': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'gasud_e4ab1a59-cfa0-4c4e-92be-da6ffff659be': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:52Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'gasuut'}"
+}

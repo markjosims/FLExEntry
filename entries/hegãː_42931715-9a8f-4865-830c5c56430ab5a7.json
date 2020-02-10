@@ -1,0 +1,28 @@
+{
+  "entry_id": "hegã:_42931715-9a8f-4865-830c5c56430ab5a7",
+  "headword": "hegã:",
+  "morph_type": "stem",
+  "pronunciation": "hegã:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Cartilhas."
+  },
+  "sense": {
+    "d921a3d7-8633-41bd-a115-4c3c4eb18724": {
+      "pos": "v?",
+      "gloss": {
+        "pt": "?"
+      },
+      "def": {
+        "pt": "?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "encontrado na cartilha 4; licão 14",
+  "other_sources": "{'Cartilhas': 'hegãã'}"
+}

@@ -1,0 +1,28 @@
+{
+  "entry_id": "ʃarahõd_8fbb70f8-e0fa-479b-b5587fd970830bec",
+  "headword": "ʃarahõd",
+  "morph_type": "stem",
+  "pronunciation": "ʃarahõd",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "3b3a388c-65d7-41e6-9270-16d136336f1e": {
+      "pos": "n",
+      "gloss": {
+        "pt": "arco-íris"
+      },
+      "def": {
+        "pt": "arco-íris"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'sarahõd'}"
+}

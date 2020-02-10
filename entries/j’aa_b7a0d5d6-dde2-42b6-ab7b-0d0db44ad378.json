@@ -3,34 +3,8 @@
   "headword": "j’aa",
   "morph_type": "stem",
   "pronunciation": "jaʔaʔz",
-  "variant_of": null,
-  "these_vars": {
-    "ja̰ːʔ_6b9116ec-f02f-4b64-8159-8be45e5e7321": {
-      "headword": "ja̰ːʔ",
-      "morph_type": "stem",
-      "pronunciation": "",
-      "these_vars": null,
-      "note": null,
-      "sense": {
-        "28c2e621-a605-4803-9a32-95c62eaf1310": {
-          "pos": "Noun",
-          "gloss": {
-            "en": "fezes"
-          },
-          "def": null,
-          "reverse": "",
-          "note": "",
-          "these_vars": ""
-        }
-      },
-      "date": "2018-06-20T05:09:53Z",
-      "bibliography": "Martins",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Martins"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": {},
   "sense": {
     "cf6cb77b-8759-4417-846f-f4615aa01031": {
@@ -49,5 +23,6 @@
     }
   },
   "date": "2018-07-15T20:36:41Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Martins': 'ja̰ːʔ'}"
 }

@@ -1,0 +1,28 @@
+{
+  "entry_id": "ɨ̃:j_5a1c00f9-4ec3-4e16-b5fe91e9b4916736",
+  "headword": "ɨ̃:j",
+  "morph_type": "stem",
+  "pronunciation": "ɨ̃:j",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "d3785227-56a8-4a36-b4f5-5179f1c0cf0c": {
+      "pos": "n p",
+      "gloss": {
+        "pt": "mulheres"
+      },
+      "def": {
+        "pt": "mulheres; fêmeas"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ỹỹnh_ec6a849a-8e80-4b1a-8a4d-aa9eca6aa9b8': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'ỹỹj'}"
+}

@@ -1,0 +1,26 @@
+{
+  "entry_id": "kajah_384cf412-8cb1-41f6-b481a718b693ffdd",
+  "headword": "kajah",
+  "morph_type": "stem",
+  "pronunciation": "kajah",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "d77f95a1-7fb5-4d01-8bb9-fcdac0f24568": {
+      "pos": "adv?",
+      "gloss": {
+        "en": "slowly"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1986",
+  "other_sources": "{'Weir': 'kayah'}"
+}

@@ -3,36 +3,8 @@
   "headword": "wakan",
   "morph_type": "stem",
   "pronunciation": "wakadn",
-  "variant_of": null,
-  "these_vars": {
-    "wakããn_6de60702-4c52-4083-8679-c1460f9d3143": {
-      "headword": "wakããn",
-      "morph_type": "stem",
-      "pronunciation": "wakã:n",
-      "these_vars": null,
-      "note": {},
-      "sense": {
-        "03be15fe-2dfd-48de-945e-f2953ed6ccc0": {
-          "pos": "n op",
-          "gloss": {
-            "pt": "parentes"
-          },
-          "def": {
-            "pt": "parentes"
-          },
-          "reverse": "",
-          "note": "",
-          "these_vars": "{'wakãn ỹỹ_42f76161-a403-4bf8-b52f-0033ae31e7df': {'type': '_component-lexeme', 'variant-type': '1S Possessivo'}}"
-        }
-      },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "SIL Dict 2011"
-      }
-    }
-  },
+  "variant_of": {},
+  "these_vars": {},
   "note": null,
   "sense": {
     "41204cfb-a477-47a8-82a1-844e241bec18": {
@@ -51,5 +23,6 @@
     }
   },
   "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": "{'Sil Dict 2011': 'wakããn'}"
 }

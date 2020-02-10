@@ -1,0 +1,28 @@
+{
+  "entry_id": "kajʌk_7bb241fa-1304-4ef6-bd393fb1346b69a",
+  "headword": "kajʌk",
+  "morph_type": "stem",
+  "pronunciation": "kajʌk",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "51108a9e-cc11-4cfa-a735-744da668a4aa": {
+      "pos": "v p",
+      "gloss": {
+        "pt": "cair"
+      },
+      "def": {
+        "pt": "cair"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'kajäg_123e22bd-d7b9-474e-bdc6-12aa684847c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'adäng_6578aad5-11c4-4780-ab89-5f33251e5c3e': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'kajäk'}"
+}

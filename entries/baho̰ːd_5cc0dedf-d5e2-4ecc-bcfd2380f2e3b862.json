@@ -1,0 +1,28 @@
+{
+  "entry_id": "baho̰:d_5cc0dedf-d5e2-4ecc-bcfd2380f2e3b862",
+  "headword": "baho̰:d",
+  "morph_type": "stem",
+  "pronunciation": "baho̰:d",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "f433bb50-cdaa-4c3f-a78e-2cd98dcdce85": {
+      "pos": "n",
+      "gloss": {
+        "pt": "temporal"
+      },
+      "def": {
+        "pt": "temporal"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'bahʹood'}"
+}

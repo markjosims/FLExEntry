@@ -3,7 +3,7 @@
   "headword": "eëëk",
   "morph_type": "stem",
   "pronunciation": "ʔeʔˈǝ:k",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {
     "Note": "problem: ʔeʔˈǝ:k or ʔeʔˈɨ:k"
@@ -25,5 +25,6 @@
     }
   },
   "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018"
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

@@ -1,0 +1,28 @@
+{
+  "entry_id": "eʃo:ʃ_add3968e-1af1-48bc-8f565f24adf3025f",
+  "headword": "eʃo:ʃ",
+  "morph_type": "stem",
+  "pronunciation": "eʃo:ʃ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "9d55ea25-4021-4c97-af55-30c6c927c056": {
+      "pos": "v",
+      "gloss": {
+        "pt": "procurar"
+      },
+      "def": {
+        "pt": "procurar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'esʹoos_22d7e1de-0605-439f-a2b0-f42c07fdc820': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'esóts_dd8eac93-4aef-4404-9da4-dc21a8389f50': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'esoos'}"
+}

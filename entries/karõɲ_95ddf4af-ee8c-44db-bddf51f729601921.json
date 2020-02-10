@@ -1,0 +1,28 @@
+{
+  "entry_id": "karõɲ_95ddf4af-ee8c-44db-bddf51f729601921",
+  "headword": "karõɲ",
+  "morph_type": "stem",
+  "pronunciation": "karõɲ",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "81276a1e-afb6-45ec-a799-463577b96f9b": {
+      "pos": "v",
+      "gloss": {
+        "pt": "ziguezague"
+      },
+      "def": {
+        "pt": "ziguezague"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'karõnh'}"
+}

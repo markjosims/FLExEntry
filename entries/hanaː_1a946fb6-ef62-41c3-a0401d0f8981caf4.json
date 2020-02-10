@@ -1,0 +1,28 @@
+{
+  "entry_id": "hana:_1a946fb6-ef62-41c3-a0401d0f8981caf4",
+  "headword": "hana:",
+  "morph_type": "stem",
+  "pronunciation": "hana:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "41d7a879-295b-4bd6-ba70-fe96b8648c69": {
+      "pos": "v",
+      "gloss": {
+        "pt": "providenciar"
+      },
+      "def": {
+        "pt": "providenciar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-23T17:23:51Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'hanaa'}"
+}

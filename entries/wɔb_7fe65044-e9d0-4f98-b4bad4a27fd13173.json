@@ -1,0 +1,28 @@
+{
+  "entry_id": "wɔb_7fe65044-e9d0-4f98-b4bad4a27fd13173",
+  "headword": "wɔb",
+  "morph_type": "stem",
+  "pronunciation": "wɔb",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Sil Dict 2011."
+  },
+  "sense": {
+    "c151d1cc-266b-4c08-9a1e-86bf232ecbe0": {
+      "pos": "n p",
+      "gloss": {
+        "pt": "outros"
+      },
+      "def": {
+        "pt": "outros; uns"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-03-08T07:17:53Z",
+  "bibliography": "SIL Dict 2011",
+  "other_sources": "{'Sil Dict 2011': 'wób'}"
+}

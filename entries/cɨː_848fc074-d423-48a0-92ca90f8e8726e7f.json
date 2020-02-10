@@ -1,0 +1,26 @@
+{
+  "entry_id": "cɨ:_848fc074-d423-48a0-92ca90f8e8726e7f",
+  "headword": "cɨ:",
+  "morph_type": "stem",
+  "pronunciation": "cɨ:",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "b9018293-75b3-4b88-bf0d-a671def864b8": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "pupunha"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'ɟɯːʔ'}"
+}

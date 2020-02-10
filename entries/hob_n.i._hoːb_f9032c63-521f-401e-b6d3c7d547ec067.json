@@ -1,0 +1,26 @@
+{
+  "entry_id": "hob (n.i. ho:b)_f9032c63-521f-401e-b6d3c7d547ec067",
+  "headword": "hob (n.i. ho:b)",
+  "morph_type": "phrase",
+  "pronunciation": "hob (n.i. ho:b)",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Weir."
+  },
+  "sense": {
+    "dfd8e95f-2964-4630-90b9-9f3f4fcf0220": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "take.a.bath"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:54Z",
+  "bibliography": "Weir 1994",
+  "other_sources": "{'Weir': 'hob (n.i. hoob)'}"
+}

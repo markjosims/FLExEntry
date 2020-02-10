@@ -3,7 +3,7 @@
   "headword": "kawa",
   "morph_type": "stem",
   "pronunciation": "kaˈwaʔ",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -14,7 +14,7 @@
         "pt": "queimar.fogo.grande"
       },
       "def": {
-        "en": "to burn witha big fire",
+        "en": "to burn with a big fire",
         "pt": "queimar com fogo grande (roça)"
       },
       "reverse": "",
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-09T13:45:32Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

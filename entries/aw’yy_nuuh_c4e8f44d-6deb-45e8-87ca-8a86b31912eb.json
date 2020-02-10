@@ -3,7 +3,7 @@
   "headword": "aw’yy nuuh",
   "morph_type": "phrase",
   "pronunciation": "aˈwɨʔɨʔ nu:h",
-  "variant_of": null,
+  "variant_of": {},
   "these_vars": null,
   "note": {},
   "sense": {
@@ -23,5 +23,6 @@
     }
   },
   "date": "2018-07-15T20:25:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018"
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "other_sources": ""
 }

@@ -1,0 +1,26 @@
+{
+  "entry_id": "tahoh_a4a0b6ab-42e7-4223-95dc11ad8b23e9ef",
+  "headword": "tahoh",
+  "morph_type": "stem",
+  "pronunciation": "tahoh",
+  "variant_of": {},
+  "these_vars": {},
+  "note": {
+    "Note": "Predicted phonemic form from source Martins."
+  },
+  "sense": {
+    "5794f402-cb6e-49d8-80cc-f4e1fd567c8b": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "cortar cabelo"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "date": "2018-06-20T05:09:53Z",
+  "bibliography": "Martins",
+  "other_sources": "{'Martins': 'tahoh'}"
+}
