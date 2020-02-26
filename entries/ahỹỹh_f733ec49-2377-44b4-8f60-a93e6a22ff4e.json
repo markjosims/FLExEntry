@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1502,
+  "entry_id": "ahỹỹh_f733ec49-2377-44b4-8f60-a93e6a22ff4e",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-05T20:13:48Z",
+  "headword": "ahỹỹh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ahɨ̃:h",
+  "sense": {
+    "cfb72c47-6bca-4512-b4e7-1e8694eb96aa": {
+      "pos": "v",
+      "gloss": {
+        "en": "sing.bird",
+        "pt": "cantar.pássaro"
+      },
+      "def": {
+        "en": "sing (bird)",
+        "pt": "cantar (pássaro)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ahɨ̃:h"
+}

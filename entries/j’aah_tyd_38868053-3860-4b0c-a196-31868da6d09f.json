@@ -1,13 +1,17 @@
 {
+  "Unnamed: 0": 1291,
   "entry_id": "j’aah tyd_38868053-3860-4b0c-a196-31868da6d09f",
+  "bibliography": "",
+  "date": "2018-07-06T20:49:57Z",
+  "date_modified": "2019-11-11T00:33:29Z",
   "headword": "j’aah tyd",
   "morph_type": "phrase",
-  "pronunciation": "jaʔah tɨd˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
     "Note": "(ta) j’aah tyd"
   },
+  "other_sources": "{}",
+  "pronunciation": "jaʔah tɨd˺",
   "sense": {
     "0a18fae4-f308-447d-a40d-7f39d3cfecdd": {
       "pos": "",
@@ -24,7 +28,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T20:49:57Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ja̰:h tɨd"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 142,
   "entry_id": "kaat4_2f663e30-e5e2-4436-aa3a-06247ad235b6",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "kaat",
   "morph_type": "stem",
-  "pronunciation": "ka:t̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Weir': 'kaat', 'Sil Dict 2011': 'kaat', 'Barbosa': 'kat'}",
+  "pronunciation": "ka:t̚",
   "sense": {
     "a955cc38-8e49-4f30-b38f-938eed9ecacc": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'kaat', 'Sil Dict 2011': 'kaat', 'Barbosa': 'kat'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ka:t"
 }

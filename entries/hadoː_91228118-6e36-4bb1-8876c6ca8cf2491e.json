@@ -1,28 +1,33 @@
 {
+  "Unnamed: 0": 1045,
   "entry_id": "hado:_91228118-6e36-4bb1-8876c6ca8cf2491e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hado:",
   "morph_type": "stem",
-  "pronunciation": "hado:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'hadoo'}",
+  "pronunciation": "hado:",
   "sense": {
     "5394f9cf-abdc-4e3e-a300-29ef95af4cd3": {
-      "pos": "v",
+      "pos": "?",
       "gloss": {
-        "pt": "ser.igual"
+        "en": "like.this",
+        "pt": "assim"
       },
       "def": {
-        "pt": "ser igual; ser como"
+        "en": "like.this",
+        "pt": "assim"
       },
       "reverse": "",
       "note": "",
       "these_vars": "{'hedoo_50710311-5077-4000-ba6a-e9122b2a1290': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'hado_e38efbe1-2b31-4b13-8f02-ffda0c1b3ff7': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'hadoo'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hado:"
 }

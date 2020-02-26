@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 256,
   "entry_id": "kamasi_557c586d-90af-49ad-b78b-b719e6d0ae25",
+  "bibliography": "Fieldotes Epps/Obert; 2018",
+  "date": "2018-07-27T22:40:18Z",
+  "date_modified": "",
   "headword": "kamasi",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "99fefafb-b358-466c-b869-486859a4fcff": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T22:40:18Z",
-  "bibliography": "Fieldotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kamaʃi"
 }

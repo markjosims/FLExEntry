@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 288,
   "entry_id": "kamepi_6426627c-3e6d-4182-be13-42d60e931451",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "kamepi",
   "morph_type": "stem",
-  "pronunciation": "kameʔpiʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kameʔpiʔ",
   "sense": {
     "03808f65-9607-4b84-8285-b770c68cfa6b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kamepi"
 }

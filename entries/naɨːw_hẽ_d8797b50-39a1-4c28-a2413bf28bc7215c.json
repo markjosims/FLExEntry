@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1188,
   "entry_id": "naɨ:w hẽ_d8797b50-39a1-4c28-a2413bf28bc7215c",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "naɨ:w hẽ",
   "morph_type": "phrase",
-  "pronunciation": "naɨ:w hẽ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'nayyw hẽ'}",
+  "pronunciation": "naɨ:w hẽ",
   "sense": {
     "c0c5edbd-74b4-4633-b165-391c649d9aa5": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": "{'nayyw_48c32115-3de9-4059-b1d6-c262a1704223': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'nayyw hẽ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "naɨ:w hẽ"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 438,
   "entry_id": "mariij t’aah_966cdbff-a337-4753-b971-2813b0c4b292",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "mariij t’aah",
   "morph_type": "phrase",
-  "pronunciation": "mãɾi:j taʔah",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mãɾi:j taʔah",
   "sense": {
     "3d692d05-a5d4-4fbf-97cd-fb8b731c414b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "mari:j ta̰:h"
 }

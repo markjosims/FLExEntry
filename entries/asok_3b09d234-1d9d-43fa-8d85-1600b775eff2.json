@@ -1,0 +1,52 @@
+{
+  "Unnamed: 0": 1294,
+  "entry_id": "asok_3b09d234-1d9d-43fa-8d85-1600b775eff2",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-21T21:21:28Z",
+  "headword": "asok",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes; 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "aʃok",
+  "sense": {
+    "5e258d04-075c-4fb5-96a5-c8798ff6952f": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "collect.manioc",
+        "pt": "arrancar.mandioca"
+      },
+      "def": {
+        "en": "collect manioc",
+        "pt": "arrancar mandioca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'asog_87882610-dbd6-4886-8420-10e5264fbfd6': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'adoo _ffb10994-9087-43c5-a1e5-3f3380e7547a': {'type': '_component-lexeme', 'variant-type': 'Singular'}}"
+    }
+  },
+  "these_vars": {
+    "sok_e4291635-cb02-4a7d-b79d-3a8216aa1e82": {
+      "Unnamed: 0": 1483,
+      "bibliography": "",
+      "date": "2019-11-21T21:18:11Z",
+      "date_modified": "2019-11-21T21:18:11Z",
+      "headword": "sok",
+      "morph_type": "stem",
+      "note": null,
+      "other_sources": "{'Sil Dict 2011': 'pʹeets hẽ'}",
+      "pronunciation": "",
+      "sense": null,
+      "these_vars": {},
+      "ipa": "ʃok",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "aʃok"
+}

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 120,
   "entry_id": "matym_271c9f06-aae1-403d-bc35-a6b34f549f0f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-05T14:02:15Z",
+  "date_modified": "",
   "headword": "matym",
   "morph_type": "stem",
-  "pronunciation": "maˈtɨbm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "maˈtɨbm",
   "sense": {
     "4dfc33d6-18cb-42d0-ac07-83fa43d80266": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-05T14:02:15Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "matɨm"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 489,
   "entry_id": "amaaj_a5a8c5a4-ff77-48be-a14c-a8dd2d196e96",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T22:49:52Z",
+  "date_modified": "",
   "headword": "amaaj",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "084dc0d5-4123-441b-8f4f-fc8204e76ba5": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T22:49:52Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ama:j"
 }

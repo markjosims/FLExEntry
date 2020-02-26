@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 220,
   "entry_id": "gaw’ëëng_475a687b-0e2b-4a1c-bf41-4336e322a2b7",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "gaw’ëëng",
   "morph_type": "stem",
-  "pronunciation": "k'awəʔəgŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Martins': 'gawɤ̰ːŋ', 'Sil Dict 2011': 'gawʹëëng'}",
+  "pronunciation": "k'awəʔəgŋ",
   "sense": {
     "419b47a6-d47d-4c3f-84dd-822528664164": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'gawɤ̰ːŋ', 'Sil Dict 2011': 'gawʹëëng'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gawə̰:ŋ"
 }

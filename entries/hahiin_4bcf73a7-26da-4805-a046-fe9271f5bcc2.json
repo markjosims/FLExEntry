@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 231,
   "entry_id": "hahiin_4bcf73a7-26da-4805-a046-fe9271f5bcc2",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T18:14:41Z",
+  "date_modified": "",
   "headword": "hahiin",
   "morph_type": "stem",
-  "pronunciation": "haˈhi:dn",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "haˈhi:dn",
   "sense": {
     "254f244f-4991-48fb-901b-854eddda65f0": {
       "pos": "adj?",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T18:14:41Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hahi:n"
 }

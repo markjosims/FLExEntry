@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 389,
   "entry_id": "hasus_8597d570-4acf-46a7-b412-a4930d5ecada",
+  "bibliography": "Fieldnotes Epps/Obert 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hasus",
   "morph_type": "stem",
-  "pronunciation": "haʃuʃ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "haʃuʃ",
   "sense": {
     "bfedbe03-504f-4610-ba22-eabf4554d8bb": {
       "pos": "v",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "haʃuʃ"
 }

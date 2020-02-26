@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1404,
+  "entry_id": "pewób_a392153c-4963-4ccf-b29a-b2d0d682bd19",
+  "bibliography": "",
+  "date": "2019-11-05T15:16:36Z",
+  "date_modified": "2019-11-05T15:18:30Z",
+  "headword": "pewób",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "pe'wob",
+  "sense": {
+    "09dcccdc-9924-49f7-aff3-ddd2ad4db889": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "NMRL.2",
+        "pt": "NMRL.2"
+      },
+      "def": {
+        "en": "two",
+        "pt": "dois"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "pewɔb"
+}

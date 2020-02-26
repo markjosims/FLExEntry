@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1230,
   "entry_id": "acõb_f71894c0-8fab-4c50-85f140d22a323e73",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-22T22:54:14Z",
+  "date_modified": "",
   "headword": "acõb",
   "morph_type": "stem",
-  "pronunciation": "acõb",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'atsõb'}",
+  "pronunciation": "acõb",
   "sense": {
     "c22a5392-61c4-45d1-bfa5-9c4d0a17ba06": {
       "pos": "n",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T22:54:14Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'atsõb'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "acõb"
 }

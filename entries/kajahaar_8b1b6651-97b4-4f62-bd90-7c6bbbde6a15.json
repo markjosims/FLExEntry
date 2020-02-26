@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 414,
   "entry_id": "kajahaar_8b1b6651-97b4-4f62-bd90-7c6bbbde6a15",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kajahaar",
   "morph_type": "stem",
-  "pronunciation": "kajaha:ɾᵊ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kajaha:ɾᵊ",
   "sense": {
     "96c8c9f1-de52-4a11-8ea7-db8475467392": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kajaha:r"
 }

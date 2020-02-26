@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1196,
   "entry_id": "dahe:h_e0654f7b-5bac-428c-9f966021ec1257b4",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "dahe:h",
   "morph_type": "stem",
-  "pronunciation": "dahe:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Weir': 'dahééh', 'Sil Dict 2011': 'daheeh'}",
+  "pronunciation": "dahe:h",
   "sense": {
     "6925dae7-a70d-4e96-a4d6-ab97c8466cc4": {
       "pos": "posp",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Weir': 'dahééh', 'Sil Dict 2011': 'daheeh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "dahe:h"
 }

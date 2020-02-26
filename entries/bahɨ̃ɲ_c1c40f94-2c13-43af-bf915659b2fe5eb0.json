@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1147,
   "entry_id": "bahɨ̃ɲ_c1c40f94-2c13-43af-bf915659b2fe5eb0",
+  "bibliography": "Weir 1986",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "bahɨ̃ɲ",
   "morph_type": "stem",
-  "pronunciation": "bahɨ̃ɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'bahɨ̃nh'}",
+  "pronunciation": "bahɨ̃ɲ",
   "sense": {
     "1d1f941d-cb57-4ab4-95b0-083136306f6c": {
       "pos": "post",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1986",
-  "other_sources": "{'Weir': 'bahɨ̃nh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "bahɨ̃ɲ"
 }

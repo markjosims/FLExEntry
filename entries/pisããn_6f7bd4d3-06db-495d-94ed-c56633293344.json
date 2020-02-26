@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 326,
   "entry_id": "pisããn_6f7bd4d3-06db-495d-94ed-c56633293344",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "pisããn",
   "morph_type": "stem",
-  "pronunciation": "piʃã:n",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "piʃã:n",
   "sense": {
     "2e006249-08cd-404a-b532-86499536df54": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "piʃã:n"
 }

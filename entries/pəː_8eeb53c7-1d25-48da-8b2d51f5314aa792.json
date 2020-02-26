@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1038,
   "entry_id": "pə:_8eeb53c7-1d25-48da-8b2d51f5314aa792",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "pə:",
   "morph_type": "stem",
-  "pronunciation": "pə:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'pɤːʔ', 'Sil Dict 2011': 'pëë'}",
+  "pronunciation": "pə:",
   "sense": {
     "7f757cca-4216-4be2-8df1-00f0104a40c8": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'pɤːʔ', 'Sil Dict 2011': 'pëë'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "pə:"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 150,
   "entry_id": "waroor_310a012a-5389-45b6-ac33-6975f863c15f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "waroor",
   "morph_type": "stem",
-  "pronunciation": "waɾo:ɾᵊ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "waɾo:ɾᵊ",
   "sense": {
     "ee444718-1be5-4be0-a9d0-4313d0a7a7c8": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "waro:r"
 }

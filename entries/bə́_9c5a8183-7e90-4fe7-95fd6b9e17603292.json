@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1074,
   "entry_id": "bə́_9c5a8183-7e90-4fe7-95fd6b9e17603292",
+  "bibliography": "Weir 1986; Weir 1990",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "bə́",
   "morph_type": "stem",
-  "pronunciation": "bə́",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'bʉ́'}",
+  "pronunciation": "bə́",
   "sense": {
     "764be976-ed27-495c-921b-c40cb3a6f56b": {
       "pos": "post",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1986; Weir 1990",
-  "other_sources": "{'Weir': 'bʉ́'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "bə́"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 379,
   "entry_id": "dõm_821df784-fbcb-40de-a505-a26f965d09ed",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T18:00:21Z",
+  "date_modified": "",
   "headword": "dõm",
   "morph_type": "stem",
-  "pronunciation": "dɔ̃m",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'dɔ̃m'}",
+  "pronunciation": "dɔ̃m",
   "sense": {
     "febdc428-5f2f-41af-93e6-d42ce69de39d": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T18:00:21Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'dɔ̃m'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "dõm"
 }

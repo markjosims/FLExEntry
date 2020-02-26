@@ -1,0 +1,52 @@
+{
+  "Unnamed: 0": 1338,
+  "entry_id": "ra_691deaf6-11ec-4636-828c-82636a8e4eac",
+  "bibliography": "",
+  "date": "2018-03-22T17:13:55Z",
+  "date_modified": "2020-01-03T02:47:17Z",
+  "headword": "ra",
+  "morph_type": "clitic",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ɾa",
+  "sense": {
+    "6704bbec-ab67-4664-8cc6-dccf621623a7": {
+      "pos": "pre",
+      "gloss": {
+        "en": "3PL",
+        "pt": "3PL"
+      },
+      "def": {
+        "en": "they",
+        "pt": "eles"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "ra-_a8169c45-dd16-463b-aced-d15a623d1830": {
+      "Unnamed: 0": 1411,
+      "bibliography": "",
+      "date": "2019-11-05T15:41:09Z",
+      "date_modified": "2020-01-03T02:47:17Z",
+      "headword": "ra-",
+      "morph_type": "prefix",
+      "note": null,
+      "other_sources": "{}",
+      "pronunciation": "",
+      "sense": null,
+      "these_vars": {},
+      "ipa": "ra ",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "ra"
+}

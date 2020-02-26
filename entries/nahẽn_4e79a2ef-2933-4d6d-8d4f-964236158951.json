@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1311,
+  "entry_id": "nahẽn_4e79a2ef-2933-4d6d-8d4f-964236158951",
+  "bibliography": "",
+  "date": "2019-12-04T23:29:23Z",
+  "date_modified": "2019-12-04T23:30:51Z",
+  "headword": "nahẽn",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "nahɛ̃dn",
+  "sense": {
+    "7a4a2a29-ca83-49e1-88c2-4977e9b6cf03": {
+      "pos": "",
+      "gloss": {
+        "en": "a.lot.admirative",
+        "pt": "muito.admirativo"
+      },
+      "def": {
+        "en": "a. lot",
+        "pt": "muito"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "nahẽn"
+}

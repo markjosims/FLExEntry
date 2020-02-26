@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1140,
   "entry_id": "ʃõc_bda18a4b-25b2-46d9-a02e8c971679f675",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ʃõc",
   "morph_type": "stem",
-  "pronunciation": "ʃõc",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'ʃɔ̃ɟ', 'Sil Dict 2011': 'sõts'}",
+  "pronunciation": "ʃõc",
   "sense": {
     "75c5f829-6e42-43df-8ede-9a45fd543f60": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'ʃɔ̃ɟ', 'Sil Dict 2011': 'sõts'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃõc"
 }

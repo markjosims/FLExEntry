@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 12,
   "entry_id": "naëng_031a7339-0644-4618-af27-88f71d6565db",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "naëng",
   "morph_type": "stem",
-  "pronunciation": "naˈʔǝgŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'naʔəŋ'}",
+  "pronunciation": "naˈʔǝgŋ",
   "sense": {
     "160c0f30-fdd5-45bb-9b4d-12f03592f4ea": {
       "pos": "n",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'naʔəŋ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "naəŋ"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 691,
   "entry_id": "b’aa bód_e56b6ecc-a8f7-4458-8e40-6c4736adab82",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T17:10:54Z",
+  "date_modified": "",
   "headword": "b’aa bód",
   "morph_type": "phrase",
-  "pronunciation": "baʔah bɔd˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "baʔah bɔd˺",
   "sense": {
     "627d8689-d518-4f95-a30f-342caba19d42": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:10:54Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ba̰: bɔd"
 }

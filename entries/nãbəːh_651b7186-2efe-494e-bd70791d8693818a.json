@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 947,
   "entry_id": "nãbə:h_651b7186-2efe-494e-bd70791d8693818a",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "nãbə:h",
   "morph_type": "stem",
-  "pronunciation": "nãbə:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'nãbɤːh'}",
+  "pronunciation": "nãbə:h",
   "sense": {
     "7d3181fb-5f14-4f1f-b186-25785ebecb87": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'nãbɤːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "nãbə:h"
 }

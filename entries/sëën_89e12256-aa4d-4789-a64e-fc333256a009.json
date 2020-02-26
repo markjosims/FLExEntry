@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 403,
   "entry_id": "sëën_89e12256-aa4d-4789-a64e-fc333256a009",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-06T20:30:39Z",
+  "date_modified": "",
   "headword": "sëën",
   "morph_type": "stem",
-  "pronunciation": "ʃǝ:dn",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'ʃəːn'}",
+  "pronunciation": "ʃǝ:dn",
   "sense": {
     "5c784c5b-38e2-421f-add2-dffe0f786aec": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T20:30:39Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'ʃəːn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃə:n"
 }

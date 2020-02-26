@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1282,
+  "entry_id": "bedah_3284c240-33c0-4005-86e4-1121b860752b",
+  "bibliography": "",
+  "date": "2019-12-21T00:41:13Z",
+  "date_modified": "2019-12-21T00:42:16Z",
+  "headword": "bedah",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "be'dah",
+  "sense": {
+    "5859e8be-dfa8-410c-82f4-7bf8eacc66e3": {
+      "pos": "adv",
+      "gloss": {
+        "en": "later",
+        "pt": "mais.tarde"
+      },
+      "def": {
+        "en": "later",
+        "pt": "mais tarde"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "bedah"
+}

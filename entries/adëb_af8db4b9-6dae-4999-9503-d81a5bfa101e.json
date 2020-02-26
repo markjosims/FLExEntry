@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 516,
   "entry_id": "adëb_af8db4b9-6dae-4999-9503-d81a5bfa101e",
+  "bibliography": "Fieldnotes Epps/Obert 2018",
+  "date": "2018-07-05T13:34:42Z",
+  "date_modified": "",
   "headword": "adëb",
   "morph_type": "stem",
-  "pronunciation": "ʔadǝb˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔadǝb˺",
   "sense": {
     "967dd8eb-840d-4ec3-bbf1-79adc3a6e411": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-05T13:34:42Z",
-  "bibliography": "Fieldnotes Epps/Obert 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "adəb"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 924,
   "entry_id": "buŋ_5748fd7b-1d89-45b1-9f10c880f23bf816",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-22T15:49:02Z",
+  "date_modified": "",
   "headword": "buŋ",
   "morph_type": "stem",
-  "pronunciation": "buŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'bung'}",
+  "pronunciation": "buŋ",
   "sense": {
     "9a4d2677-8bd7-44c0-84a4-35572de60159": {
       "pos": "n",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T15:49:02Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'bung'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "buŋ"
 }

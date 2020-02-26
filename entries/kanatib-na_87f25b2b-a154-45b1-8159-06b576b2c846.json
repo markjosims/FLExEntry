@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1375,
+  "entry_id": "kanatib-na_87f25b2b-a154-45b1-8159-06b576b2c846",
+  "bibliography": "",
+  "date": "2019-11-12T22:13:57Z",
+  "date_modified": "2019-11-12T22:15:04Z",
+  "headword": "kanatib-na",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps; Obert Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "kanatib na",
+  "sense": {
+    "9baa95b0-e084-42f1-8a75-b90baef3c2a5": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "fish.poison.esp",
+        "pt": "timbó.sp"
+      },
+      "def": {
+        "en": "Type of fish poison",
+        "pt": "especie de timbó"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kanatib na"
+}

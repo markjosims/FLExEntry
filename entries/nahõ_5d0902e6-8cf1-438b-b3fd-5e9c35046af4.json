@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 269,
   "entry_id": "nahõ_5d0902e6-8cf1-438b-b3fd-5e9c35046af4",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:33:03Z",
+  "date_modified": "",
   "headword": "nahõ",
   "morph_type": "stem",
-  "pronunciation": "naˈhɔ̃ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "naˈhɔ̃ʔ",
   "sense": {
     "36b30c82-d56b-4845-900a-fff166a82478": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:33:03Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "nahõ"
 }

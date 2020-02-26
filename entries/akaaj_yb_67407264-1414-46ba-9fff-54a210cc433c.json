@@ -1,16 +1,41 @@
 {
+  "Unnamed: 0": 296,
   "entry_id": "akaaj yb_67407264-1414-46ba-9fff-54a210cc433c",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:07:58Z",
+  "date_modified": "",
   "headword": "akaaj yb",
   "morph_type": "phrase",
+  "note": null,
+  "other_sources": "{'Martins': 'ʔɯb'}",
   "pronunciation": "ʔaˈka:j  ʔɨb˺",
-  "variant_of": {},
+  "sense": {
+    "07fcc797-e4a0-4b58-9270-c96b85558f1c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "wild.cashew",
+        "pt": "cajueiro.do.mato"
+      },
+      "def": {
+        "en": "wild.cashew",
+        "pt": "cajueiro do mat"
+      },
+      "reverse": "{'pt': 'cajueiro do mato', 'en': 'wild.cashew'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
   "these_vars": {
     "akaaj_4356d4e1-bb4c-4d50-9e1f-0fd644063bfd": {
+      "Unnamed: 0": 208,
+      "bibliography": "Fielndotes Epps/Obert; 2018",
+      "date": "2018-09-04T00:05:48Z",
+      "date_modified": "",
       "headword": "akaaj",
       "morph_type": "stem",
-      "pronunciation": "ʔaˈka:j",
-      "these_vars": null,
       "note": {},
+      "other_sources": "",
+      "pronunciation": "ʔaˈka:j",
       "sense": {
         "7b2f74a2-1187-430f-883d-bc7461515afc": {
           "pos": "Noun",
@@ -27,9 +52,8 @@
           "these_vars": ""
         }
       },
-      "date": "2018-09-04T00:05:48Z",
-      "bibliography": "Fielndotes Epps/Obert; 2018",
-      "other_sources": "",
+      "these_vars": null,
+      "ipa": "aka:j",
       "var_type": {
         "type": "_component-lexeme",
         "is-primary": "true",
@@ -37,11 +61,15 @@
       }
     },
     "yb1_be173977-3ad8-4fa1-8f07-e08f165fa2a3": {
+      "Unnamed: 0": 565,
+      "bibliography": "SIL Dict 2011",
+      "date": "2018-03-08T07:17:53Z",
+      "date_modified": "",
       "headword": "yb",
       "morph_type": "stem",
-      "pronunciation": "ʔɨb˺",
-      "these_vars": {},
       "note": {},
+      "other_sources": "",
+      "pronunciation": "ʔɨb˺",
       "sense": {
         "6a0d97cc-a657-454f-854f-61f46e7fb7c7": {
           "pos": "n op",
@@ -58,9 +86,8 @@
           "these_vars": ""
         }
       },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "SIL Dict 2011",
-      "other_sources": "",
+      "these_vars": {},
+      "ipa": "ɨb",
       "var_type": {
         "type": "_component-lexeme",
         "is-primary": "true",
@@ -68,24 +95,6 @@
       }
     }
   },
-  "note": null,
-  "sense": {
-    "07fcc797-e4a0-4b58-9270-c96b85558f1c": {
-      "pos": "Noun",
-      "gloss": {
-        "en": "wild.cashew",
-        "pt": "cajueiro.do.mato"
-      },
-      "def": {
-        "en": "wild.cashew",
-        "pt": "cajueiro do mato"
-      },
-      "reverse": "{'pt': 'cajueiro do mato', 'en': 'wild.cashew'}",
-      "note": "",
-      "these_vars": ""
-    }
-  },
-  "date": "2018-09-04T00:07:58Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ʔɯb'}"
+  "variant_of": {},
+  "ipa": "aka:j ɨb"
 }

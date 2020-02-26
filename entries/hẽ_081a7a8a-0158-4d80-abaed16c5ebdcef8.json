@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 778,
   "entry_id": "hẽ_081a7a8a-0158-4d80-abaed16c5ebdcef8",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hẽ",
   "morph_type": "stem",
-  "pronunciation": "hẽ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'hẽ'}",
+  "pronunciation": "hẽ",
   "sense": {
     "ce786d73-57e0-470c-866a-4d542a027653": {
       "pos": "onom",
@@ -15,14 +18,14 @@
         "pt": "levantar.coisa"
       },
       "def": {
-        "pt": "exclamação (grito) quando evanta alguma coisa pesada"
+        "pt": "exclamação (grito) quando levanta alguma coisa pesada"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'hẽ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hẽ"
 }

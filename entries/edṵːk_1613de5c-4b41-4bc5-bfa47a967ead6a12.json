@@ -1,28 +1,31 @@
 {
+  "Unnamed: 0": 799,
   "entry_id": "edṵ:k_1613de5c-4b41-4bc5-bfa47a967ead6a12",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "edṵ:k",
   "morph_type": "stem",
-  "pronunciation": "edṵ:k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'edʹuuk'}",
+  "pronunciation": "edṵ:k",
   "sense": {
     "b986d563-6ca9-49bc-8bcc-867155a5b0e9": {
       "pos": "v",
       "gloss": {
-        "pt": "pescar"
+        "pt": "pescar.zagaia"
       },
       "def": {
-        "pt": "pescar com arpão"
+        "pt": "pescar com zagaia"
       },
       "reverse": "",
       "note": "",
       "these_vars": "{'eduug_a29d5713-9f30-4d79-81a8-adc977ac1a6f': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'heduk_d6de556b-cde9-46ca-b990-7e56b4c53cf0': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'edʹuuk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "edṵ:k"
 }

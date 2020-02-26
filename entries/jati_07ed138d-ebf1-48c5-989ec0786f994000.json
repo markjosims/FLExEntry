@@ -1,20 +1,25 @@
 {
+  "Unnamed: 0": 774,
   "entry_id": "jati_07ed138d-ebf1-48c5-989ec0786f994000",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "jati",
   "morph_type": "stem",
-  "pronunciation": "jati",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Barbosa': 'jatiʔ', 'Sil Dict 2011': 'jati'}",
+  "pronunciation": "jati",
   "sense": {
     "5d24971c-7fce-49dc-9988-bb1f09205e3c": {
       "pos": "adv",
       "gloss": {
+        "en": "tomorrow",
         "pt": "amanhã"
       },
       "def": {
+        "en": "tomorrow",
         "pt": "amanhã"
       },
       "reverse": "",
@@ -22,7 +27,7 @@
       "these_vars": "{'jat_a953c0b2-bd7e-45ad-8a54-821e3aa417b3': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Barbosa': 'jatiʔ', 'Sil Dict 2011': 'jati'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jati"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 385,
   "entry_id": "ëk tyd_84595ae0-72c2-42e8-81cd-c8fa5cba2e10",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:48:04Z",
+  "date_modified": "",
   "headword": "ëk tyd",
   "morph_type": "phrase",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "3966a69b-7909-473a-8ee1-680e9c21c87b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:48:04Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ək tɨd"
 }

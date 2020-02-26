@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1447,
+  "entry_id": "w&apos;ëëg_c400d98e-2358-4534-a990-abfc26dbbc1f",
+  "bibliography": "",
+  "date": "2019-12-21T20:44:51Z",
+  "date_modified": "2019-12-21T20:45:33Z",
+  "headword": "w'ëëg",
+  "morph_type": "root",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "wəʔək",
+  "sense": {
+    "f29dd27c-54c6-4bbe-a923-6474e95b10bb": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "caatinga",
+        "pt": "caatinga"
+      },
+      "def": {
+        "en": "caatinga",
+        "pt": "caatinga"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wə̰:g"
+}

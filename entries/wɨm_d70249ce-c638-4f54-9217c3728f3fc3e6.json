@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1180,
   "entry_id": "wɨm_d70249ce-c638-4f54-9217c3728f3fc3e6",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "wɨm",
   "morph_type": "stem",
-  "pronunciation": "wɨm",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'wɨm'}",
+  "pronunciation": "wɨm",
   "sense": {
     "da30a093-9487-4ef9-aab6-088a4e01187e": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'wɨm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wɨm"
 }

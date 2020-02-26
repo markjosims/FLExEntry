@@ -1,0 +1,104 @@
+{
+  "Unnamed: 0": 1324,
+  "entry_id": "ji_5c846915-d6fc-437b-8c7d-67cffc4f1362",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-15T22:58:18Z",
+  "headword": "ji",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ji",
+  "sense": {
+    "3bf27487-edce-4483-aa54-0f2a1ae679ed": {
+      "pos": "pro",
+      "gloss": {
+        "en": "one",
+        "pt": "a.gente"
+      },
+      "def": {
+        "en": "one",
+        "pt": "a gente"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "ji wii_a32a18a4-6f7b-485f-970d-b32459229373": {
+      "Unnamed: 0": 482,
+      "bibliography": "Fieldnotes Epps/Obert; 2018",
+      "date": "2018-07-06T20:27:47Z",
+      "date_modified": "",
+      "headword": "ji wii",
+      "morph_type": "phrase",
+      "note": {},
+      "other_sources": "",
+      "pronunciation": "jiʔˈwi:ʔ",
+      "sense": {
+        "05113311-c10a-487a-9113-cc9a011fe458": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "body.hair",
+            "pt": "pelo.corpo"
+          },
+          "def": {
+            "en": "body hair",
+            "pt": "pelo do corpo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": null,
+      "ipa": "ji wi:",
+      "var_type": {
+        "type": "_component-lexeme",
+        "is-primary": "true",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    },
+    "ji etsen dooh_a752ee65-1d41-4313-b34f-bf4fb2d8760e": {
+      "Unnamed: 0": 1410,
+      "bibliography": "",
+      "date": "2019-11-15T22:41:59Z",
+      "date_modified": "2019-11-21T22:04:30Z",
+      "headword": "ji etsen dooh",
+      "morph_type": "phrase",
+      "note": {
+        "bibliography": "Epps/Obert; Fieldnotes 2019"
+      },
+      "other_sources": "{}",
+      "pronunciation": "ji etʃen do:h",
+      "sense": {
+        "90023328-908c-4fef-9ff9-74583dd39b2b": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "book",
+            "pt": "livro"
+          },
+          "def": {
+            "en": "book",
+            "pt": "livro"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "ji ecen do:h",
+      "var_type": {
+        "type": "_component-lexeme",
+        "is-primary": "true",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "ji"
+}

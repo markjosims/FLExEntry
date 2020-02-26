@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 977,
   "entry_id": "ho:g_723e50e1-90fb-40f4-bc9c896a5af946c4",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ho:g",
   "morph_type": "stem",
-  "pronunciation": "ho:g",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'hoːg'}",
+  "pronunciation": "ho:g",
   "sense": {
     "576f94eb-c354-46e8-8cc8-8c8a8302af39": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'hoːg'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ho:g"
 }

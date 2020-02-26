@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 807,
   "entry_id": "hə̰:w_1925e868-c252-4c83-b71133d6d98f1f6a",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hə̰:w",
   "morph_type": "stem",
-  "pronunciation": "hə̰:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'hʹëëw'}",
+  "pronunciation": "hə̰:w",
   "sense": {
     "5e3bf1cc-888a-4210-b875-93ad75d7001d": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'hʹëëw'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hə̰:w"
 }

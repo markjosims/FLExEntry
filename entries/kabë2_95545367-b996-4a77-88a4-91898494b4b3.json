@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 433,
   "entry_id": "kabë2_95545367-b996-4a77-88a4-91898494b4b3",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kabë",
   "morph_type": "stem",
-  "pronunciation": "kabəʔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'kabë', 'Barbosa': 'kabəʔ'}",
+  "pronunciation": "kabəʔ",
   "sense": {
     "1967519c-1401-4d14-95ff-2fec582f47d3": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'kabë', 'Barbosa': 'kabəʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kabə"
 }

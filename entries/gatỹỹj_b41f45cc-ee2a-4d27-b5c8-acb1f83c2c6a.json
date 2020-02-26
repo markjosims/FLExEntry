@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 528,
   "entry_id": "gatỹỹj_b41f45cc-ee2a-4d27-b5c8-acb1f83c2c6a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T23:06:57Z",
+  "date_modified": "",
   "headword": "gatỹỹj",
   "morph_type": "stem",
-  "pronunciation": "k’aˈtɨ̃:j",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "k’aˈtɨ̃:j",
   "sense": {
     "bf9894a8-4dfa-47e2-b97c-2b2528d5ee96": {
       "pos": "Noun",
@@ -19,7 +22,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T23:06:57Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "gatɨ̃:j"
 }

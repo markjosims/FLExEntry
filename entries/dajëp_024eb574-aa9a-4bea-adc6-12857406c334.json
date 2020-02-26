@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 5,
   "entry_id": "dajëp_024eb574-aa9a-4bea-adc6-12857406c334",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T00:09:23Z",
+  "date_modified": "",
   "headword": "dajëp",
   "morph_type": "stem",
-  "pronunciation": "daˈjǝp˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "daˈjǝp˺",
   "sense": {
     "a8675526-039d-459c-b4c8-c3434645200d": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T00:09:23Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "dajəp"
 }

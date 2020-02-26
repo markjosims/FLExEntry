@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1511,
+  "entry_id": "jajé     _ff33ec40-692f-454d-915f-ee99245cc6f7",
+  "bibliography": "",
+  "date": "2018-03-27T03:09:54Z",
+  "date_modified": "2019-12-31T13:57:30Z",
+  "headword": "jajé",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "jajɛ",
+  "sense": {
+    "68581f10-629c-47c8-b21e-dc12a51f30a7": {
+      "pos": "adv",
+      "gloss": {
+        "en": "there.invisible",
+        "pt": "lá.invisible"
+      },
+      "def": {
+        "en": "there (invisible)",
+        "pt": "lá (invisivel)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "jajɛ"
+}

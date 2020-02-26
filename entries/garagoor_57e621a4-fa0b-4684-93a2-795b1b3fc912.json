@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 263,
   "entry_id": "garagoor_57e621a4-fa0b-4684-93a2-795b1b3fc912",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T18:22:52Z",
+  "date_modified": "",
   "headword": "garagoor",
   "morph_type": "stem",
-  "pronunciation": "k’aɾaʔˈk’o:rǝ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "k’aɾaʔˈk’o:rǝ",
   "sense": {
     "5dc99bde-963c-4cb5-bda3-85b9cb40187b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T18:22:52Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "garago:r"
 }

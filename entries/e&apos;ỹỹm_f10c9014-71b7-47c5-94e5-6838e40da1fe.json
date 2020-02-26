@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1499,
+  "entry_id": "e&apos;ỹỹm_f10c9014-71b7-47c5-94e5-6838e40da1fe",
+  "bibliography": "",
+  "date": "2019-11-11T00:37:02Z",
+  "date_modified": "2019-11-11T00:39:45Z",
+  "headword": "e'ỹỹm",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{'Weir': 'bʉʉh', 'Sil Dict 2011': 'bëëh'}",
+  "pronunciation": "eɨ̃ʔɨ̃m",
+  "sense": {
+    "d2cd4bc5-f981-405c-ae4f-9f04be878033": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "scare",
+        "pt": "causar.medo"
+      },
+      "def": {
+        "en": "scare somebody",
+        "pt": "causar medo em alguem"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "eɨ̰̃:m"
+}

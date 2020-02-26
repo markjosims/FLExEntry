@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1274,
+  "entry_id": "as&apos;ood_2429c661-7285-4980-b42a-6dab55481b61",
+  "bibliography": "",
+  "date": "2019-12-15T23:30:27Z",
+  "date_modified": "2019-12-15T23:31:41Z",
+  "headword": "as'ood",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "aʃoʔod",
+  "sense": {
+    "88f321a5-ebf6-4605-82d3-2f6b711b18ab": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "tape.worm",
+        "pt": "lumbriga"
+      },
+      "def": {
+        "en": "tape worm",
+        "pt": "lumbriga"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "aʃo̰:d"
+}

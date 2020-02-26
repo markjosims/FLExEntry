@@ -1,0 +1,28 @@
+{
+  "Unnamed: 0": 1312,
+  "entry_id": "mapara_4f272ff8-0042-4bb4-a55d-213fe743b055",
+  "bibliography": "",
+  "date": "2020-01-08T16:22:00Z",
+  "date_modified": "2020-01-08T16:22:25Z",
+  "headword": "mapara",
+  "morph_type": "root",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "mapaɾa",
+  "sense": {
+    "cba1c880-159a-4221-9dae-988e71a37824": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "snail",
+        "pt": "lesma"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "mapara"
+}

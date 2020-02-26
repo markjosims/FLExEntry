@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1364,
+  "entry_id": "kanabeed_7f4ff862-1d6a-42ab-ad90-57b6d0e3d52b",
+  "bibliography": "",
+  "date": "2019-11-12T22:16:24Z",
+  "date_modified": "2019-11-12T22:17:30Z",
+  "headword": "kanabeed",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps; Obert Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ka'na`be:d",
+  "sense": {
+    "d80d7148-8da2-4370-8aa7-86b004861c91": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "fish.poison.esp",
+        "pt": "timbó.esp"
+      },
+      "def": {
+        "en": "type of fish poison",
+        "pt": "especie de timbó"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kanabe:d"
+}

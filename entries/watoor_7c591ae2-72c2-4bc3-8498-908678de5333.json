@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1361,
+  "entry_id": "watoor_7c591ae2-72c2-4bc3-8498-908678de5333",
+  "bibliography": "",
+  "date": "2020-01-08T15:49:25Z",
+  "date_modified": "2020-01-08T15:49:59Z",
+  "headword": "watoor",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Sil Dict 2011': 'tʹëëng', 'Martins': 'tɯ̰ːŋ', 'Barbosa': 'tə̰ːŋ'}",
+  "pronunciation": "watoːɾ",
+  "sense": {
+    "3902c7fc-696c-4ef6-8b19-4e7514151736": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "?",
+        "pt": "macaco.bicó"
+      },
+      "def": {
+        "en": "?",
+        "pt": "macaco bicó"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wato:r"
+}

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 490,
   "entry_id": "awas_a6203a13-3843-4ad1-87a4-8df273641d0a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "awas",
   "morph_type": "stem",
-  "pronunciation": "ʔawaʃ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "ʔawaʃ",
   "sense": {
     "56b8a4f3-9b5e-4bd6-be92-4fd601ead5cc": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "awaʃ"
 }

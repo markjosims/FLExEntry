@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 524,
   "entry_id": "riw_b2627ce9-6b29-4b7f-9e0a-a1e5246074b6",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "riw",
   "morph_type": "stem",
-  "pronunciation": "ɾiw",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "ɾiw",
   "sense": {
     "c50cf63e-585e-4081-9ac5-717e89ee7779": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "riw"
 }

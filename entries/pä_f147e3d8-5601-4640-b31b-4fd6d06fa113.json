@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 716,
   "entry_id": "pä_f147e3d8-5601-4640-b31b-4fd6d06fa113",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T17:50:53Z",
+  "date_modified": "",
   "headword": "pä",
   "morph_type": "stem",
-  "pronunciation": "pʌʔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'pʌʔ'}",
+  "pronunciation": "pʌʔ",
   "sense": {
     "93f18a2c-6f34-4158-bdb4-2cf41a496210": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:50:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'pʌʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "pʌ"
 }

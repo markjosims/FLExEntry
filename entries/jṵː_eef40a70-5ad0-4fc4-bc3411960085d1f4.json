@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1218,
   "entry_id": "jṵ:_eef40a70-5ad0-4fc4-bc3411960085d1f4",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "jṵ:",
   "morph_type": "stem",
-  "pronunciation": "jṵ:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source undef."
   },
+  "other_sources": "{'undef': 'jṵːʔ'}",
+  "pronunciation": "jṵ:",
   "sense": {
     "b1702053-ad0b-4fc4-b0ce-659ed536e666": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "",
-  "other_sources": "{'undef': 'jṵːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jṵ:"
 }

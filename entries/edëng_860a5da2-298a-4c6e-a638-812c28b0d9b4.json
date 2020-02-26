@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1373,
+  "entry_id": "edëng_860a5da2-298a-4c6e-a638-812c28b0d9b4",
+  "bibliography": "",
+  "date": "2019-12-15T23:11:48Z",
+  "date_modified": "2019-12-15T23:13:13Z",
+  "headword": "edëng",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "edǝŋ",
+  "sense": {
+    "f27b913b-a63b-42c6-a01c-84a178bac997": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "greet",
+        "pt": "comprimentar"
+      },
+      "def": {
+        "en": "greet",
+        "pt": "comprimentar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "edəŋ"
+}

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 28,
   "entry_id": "kakoos yb_07832269-7792-4503-a931-31d64643cc9a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kakoos yb",
   "morph_type": "phrase",
-  "pronunciation": "kako:ʃ ʔɨb̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kako:ʃ ʔɨb̚",
   "sense": {
     "4b406dde-abeb-45c4-be61-d326a330ea83": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kako:ʃ ɨb"
 }

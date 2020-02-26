@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 405,
   "entry_id": "wii_8a4348e9-3bfb-46f0-8cd1-c70242ed07b9",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-05T14:22:46Z",
+  "date_modified": "",
   "headword": "wii",
   "morph_type": "stem",
-  "pronunciation": "wiː",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'wiːʔ'}",
+  "pronunciation": "wiː",
   "sense": {
     "c5eddb7f-85c5-4b2b-ba6d-8bcee5483b5e": {
       "pos": "Noun",
@@ -19,7 +22,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-05T14:22:46Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'wiːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wi:"
 }

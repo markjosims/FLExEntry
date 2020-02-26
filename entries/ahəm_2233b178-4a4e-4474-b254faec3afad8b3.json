@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 828,
   "entry_id": "ahəm_2233b178-4a4e-4474-b254faec3afad8b3",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-26T15:16:18Z",
+  "date_modified": "",
   "headword": "ahəm",
   "morph_type": "stem",
-  "pronunciation": "ahəm",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'ahëm'}",
+  "pronunciation": "ahəm",
   "sense": {
     "a4aea16f-64e1-4bdc-8411-ad2ed5a6900c": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-26T15:16:18Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'ahëm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ahəm"
 }

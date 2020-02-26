@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 872,
   "entry_id": "jatḭ:p_39d4e09c-96f8-475d-b1dbcca095f620eb",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "jatḭ:p",
   "morph_type": "stem",
-  "pronunciation": "jatḭ:p",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'jatʹiip'}",
+  "pronunciation": "jatḭ:p",
   "sense": {
     "5ccb98dd-f3e9-4c12-80a4-d28e01af9fbe": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'jatʹiip'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jatḭ:p"
 }

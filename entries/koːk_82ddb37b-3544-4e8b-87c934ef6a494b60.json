@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1012,
   "entry_id": "ko:k_82ddb37b-3544-4e8b-87c934ef6a494b60",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ko:k",
   "morph_type": "stem",
-  "pronunciation": "ko:k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'koːk'}",
+  "pronunciation": "ko:k",
   "sense": {
     "5b16c8f0-22e1-4e05-9006-d239ef9293bb": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'koːk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ko:k"
 }

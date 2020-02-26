@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1171,
   "entry_id": "no: gaʃa̰:ʃ_d401b78b-b150-4992-8cd264c1842603c",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "no: gaʃa̰:ʃ",
   "morph_type": "phrase",
-  "pronunciation": "no: gaʃa̰:ʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'noo gasʹaas'}",
+  "pronunciation": "no: gaʃa̰:ʃ",
   "sense": {
     "1ec2db2b-7969-4b48-aa67-c849aa347849": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'noo gasaats_68f7c0da-4f7f-453c-825f-9cc7657e0e94': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'noo gesas_84eda790-0a62-4669-99fe-ecf1595dc479': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'noo gasʹaas'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "no: gaʃa̰:ʃ"
 }

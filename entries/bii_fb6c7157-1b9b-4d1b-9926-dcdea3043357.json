@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1508,
+  "entry_id": "bii_fb6c7157-1b9b-4d1b-9926-dcdea3043357",
+  "bibliography": "",
+  "date": "2020-01-08T16:31:55Z",
+  "date_modified": "2020-01-08T16:32:27Z",
+  "headword": "bii",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "bi:",
+  "sense": {
+    "c3289519-a345-4131-b8bb-1980eccfe4ef": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "breast",
+        "pt": "seios"
+      },
+      "def": {
+        "en": "breast",
+        "pt": "seios"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "bi:"
+}

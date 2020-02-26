@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1100,
   "entry_id": "dawug_ac591af6-0795-4611-a12bd1011e5600b2",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "dawug",
   "morph_type": "stem",
-  "pronunciation": "dawug",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'dawug'}",
+  "pronunciation": "dawug",
   "sense": {
     "a7bd6b88-c9ce-4b22-a227-8ad7e1b0ea09": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": "{'dawug2_55cf9274-5e64-45ec-938b-4b57786cd164': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; zogue-zogue'}}"
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'dawug'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "dawug"
 }

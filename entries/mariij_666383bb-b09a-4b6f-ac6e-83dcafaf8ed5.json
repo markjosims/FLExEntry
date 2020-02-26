@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 294,
   "entry_id": "mariij_666383bb-b09a-4b6f-ac6e-83dcafaf8ed5",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "mariij",
   "morph_type": "stem",
-  "pronunciation": "mãɾi:j",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Weir': 'maliiy'}",
+  "pronunciation": "mãɾi:j",
   "sense": {
     "dfe4676b-1442-415a-aadf-140ecbac6b83": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'maliiy'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mari:j"
 }

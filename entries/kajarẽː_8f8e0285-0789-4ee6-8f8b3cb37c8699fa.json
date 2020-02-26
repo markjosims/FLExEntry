@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1040,
   "entry_id": "kajarẽ:_8f8e0285-0789-4ee6-8f8b3cb37c8699fa",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "kajarẽ:",
   "morph_type": "stem",
-  "pronunciation": "kajarẽ:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'kajarẽẽ'}",
+  "pronunciation": "kajarẽ:",
   "sense": {
     "9eb27a7f-abaf-49a4-9779-e2d05d98a8f9": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'kajarẽẽ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kajarẽ:"
 }

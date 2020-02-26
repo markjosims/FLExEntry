@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1109,
   "entry_id": "jʌh_b0d8a76b-9203-4a28-8c7fec22668b2dc1",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "jʌh",
   "morph_type": "stem",
-  "pronunciation": "jʌh",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'jʌh'}",
+  "pronunciation": "jʌh",
   "sense": {
     "f2eacd62-e947-4696-9222-45f3eafd0b81": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'jʌh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jʌh"
 }

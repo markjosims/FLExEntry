@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 813,
   "entry_id": "hḭ̃:w_1b5889d9-62f6-4a22-b429fbaee69d90ce",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "hḭ̃:w",
   "morph_type": "stem",
-  "pronunciation": "hḭ̃:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source undef."
   },
+  "other_sources": "{'undef': 'hḭ̃ːw'}",
+  "pronunciation": "hḭ̃:w",
   "sense": {
     "6c2fa845-b2f0-4fc9-bedb-58c69c91a817": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "",
-  "other_sources": "{'undef': 'hḭ̃ːw'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hḭ̃:w"
 }

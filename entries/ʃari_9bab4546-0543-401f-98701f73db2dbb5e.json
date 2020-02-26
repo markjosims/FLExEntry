@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1071,
   "entry_id": "ʃari_9bab4546-0543-401f-98701f73db2dbb5e",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ʃari",
   "morph_type": "stem",
-  "pronunciation": "ʃari",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ʃaɾiʔ'}",
+  "pronunciation": "ʃari",
   "sense": {
     "dda3bff6-86b6-43f6-875b-4114ecf486bb": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ʃaɾiʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃari"
 }

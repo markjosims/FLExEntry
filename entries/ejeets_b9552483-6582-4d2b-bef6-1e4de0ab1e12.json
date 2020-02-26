@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1433,
+  "entry_id": "ejeets_b9552483-6582-4d2b-bef6-1e4de0ab1e12",
+  "bibliography": "",
+  "date": "2019-12-15T23:00:46Z",
+  "date_modified": "2019-12-31T13:58:23Z",
+  "headword": "ejeets",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "eje:ɟ",
+  "sense": {
+    "6567ddd4-85ad-44f1-8404-3f48f1c49518": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "treat.someone.badly",
+        "pt": "maltratar"
+      },
+      "def": {
+        "en": "treat.someone.badly",
+        "pt": "maltratar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "eje:c"
+}

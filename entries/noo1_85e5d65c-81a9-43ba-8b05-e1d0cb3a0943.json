@@ -1,0 +1,105 @@
+{
+  "Unnamed: 0": 1371,
+  "entry_id": "noo1_85e5d65c-81a9-43ba-8b05-e1d0cb3a0943",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "2019-11-21T21:58:00Z",
+  "headword": "noo",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Weir 1990; Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{}",
+  "pronunciation": "no:",
+  "sense": {
+    "82af27d8-5082-4a74-af50-27f58e9f36af": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "mouth",
+        "pt": "boca"
+      },
+      "def": {
+        "en": "mouth",
+        "pt": "boca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'nɔ̃ːh_e5a9b44a-535d-4fbc-a143-4da67996e110': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Martins 2005; boca'}}"
+    }
+  },
+  "these_vars": {
+    "noo hẽnh_02548d67-7403-4ae6-be8f-4064def13b13": {
+      "Unnamed: 0": 1244,
+      "bibliography": "",
+      "date": "2018-03-21T21:43:54Z",
+      "date_modified": "2019-12-21T21:16:56Z",
+      "headword": "noo hẽnh",
+      "morph_type": "phrase",
+      "note": {
+        "bibliography": "Epps/Obert; Fieldnotes 2019"
+      },
+      "other_sources": "{}",
+      "pronunciation": "no: hɛ̃ɲ",
+      "sense": {
+        "ae56a69b-7017-4a32-a8ea-5f87e4558b57": {
+          "pos": "adv",
+          "gloss": {
+            "en": "downriver",
+            "pt": "rio.abaixo"
+          },
+          "def": {
+            "en": "downriver",
+            "pt": "rio.abaixo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "no: hẽɲ",
+      "var_type": {
+        "type": "_component-lexeme",
+        "is-primary": "true",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    },
+    "tób noo_48022e98-375b-4199-87d2-fa409cc25ba0": {
+      "Unnamed: 0": 1304,
+      "bibliography": "",
+      "date": "2019-11-21T21:55:42Z",
+      "date_modified": "2019-11-21T21:57:03Z",
+      "headword": "tób noo",
+      "morph_type": "phrase",
+      "note": {
+        "bibliography": "Epps/Obert; Fieldnotes 2019"
+      },
+      "other_sources": "{}",
+      "pronunciation": "tɔb no:",
+      "sense": {
+        "4ae0948e-3864-422f-a588-e7c61ea4edb6": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "door",
+            "pt": "porta"
+          },
+          "def": {
+            "en": "door",
+            "pt": "porta"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "tɔb no:",
+      "var_type": {
+        "type": "_component-lexeme",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "no:"
+}

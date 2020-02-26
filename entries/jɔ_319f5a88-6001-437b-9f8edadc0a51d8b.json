@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 851,
   "entry_id": "jɔ_319f5a88-6001-437b-9f8edadc0a51d8b",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "jɔ",
   "morph_type": "stem",
-  "pronunciation": "jɔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Weir': 'yó', 'Martins': 'jɔʔ', 'Sil Dict 2011': 'jó'}",
+  "pronunciation": "jɔ",
   "sense": {
     "daf97cf6-d8a0-4504-93d9-e9e5ba4c5843": {
       "pos": "adv",
@@ -38,7 +41,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Weir': 'yó', 'Martins': 'jɔʔ', 'Sil Dict 2011': 'jó'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jɔ"
 }

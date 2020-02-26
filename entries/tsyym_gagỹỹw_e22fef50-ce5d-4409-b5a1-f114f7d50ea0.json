@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 676,
   "entry_id": "tsyym gagỹỹw_e22fef50-ce5d-4409-b5a1-f114f7d50ea0",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:21:53Z",
+  "date_modified": "",
   "headword": "tsyym gagỹỹw",
   "morph_type": "phrase",
-  "pronunciation": "tʃ’ɨ:bm k’aˈk’ɨ̃:w",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "tʃ’ɨ:bm k’aˈk’ɨ̃:w",
   "sense": {
     "e65aa258-c9d8-4ddc-aab0-06c359092ae7": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:21:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "cɨ:m gagɨ̃:w"
 }

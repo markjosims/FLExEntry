@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1164,
   "entry_id": "hũ:t_ccfd21a0-acc5-4821-95f9e6b5b9d5570e",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "hũ:t",
   "morph_type": "stem",
-  "pronunciation": "hũ:t",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'hũːt'}",
+  "pronunciation": "hũ:t",
   "sense": {
     "9b090e17-00c9-4005-9551-b2e7093785bf": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'hũːt'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hũ:t"
 }

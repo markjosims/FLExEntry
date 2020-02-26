@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 708,
   "entry_id": "ji etook doo hood_eef3a85c-3621-4ed5-961a-49585ddaa9a1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ji etook doo hood",
   "morph_type": "phrase",
-  "pronunciation": "jiʔ ʔeto:k̚ do:ʔ ho:d̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jiʔ ʔeto:k̚ do:ʔ ho:d̚",
   "sense": {
     "848e9ef3-9586-479e-a8f1-aae802cdfba4": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji eto:k do: ho:d"
 }

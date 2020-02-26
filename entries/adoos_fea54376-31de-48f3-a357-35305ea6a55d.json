@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 751,
   "entry_id": "adoos_fea54376-31de-48f3-a357-35305ea6a55d",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "adoos",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈdo:ʃ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔaˈdo:ʃ",
   "sense": {
     "ae968bc9-bdd0-4a90-82eb-5d6a50140766": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ado:ʃ"
 }

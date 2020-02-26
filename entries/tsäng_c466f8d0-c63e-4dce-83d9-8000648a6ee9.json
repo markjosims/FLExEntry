@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 591,
   "entry_id": "tsäng_c466f8d0-c63e-4dce-83d9-8000648a6ee9",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tsäng",
   "morph_type": "stem",
-  "pronunciation": "tʃ’ǝgŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'ɟʌŋ'}",
+  "pronunciation": "tʃ’ǝgŋ",
   "sense": {
     "cc9f34a8-de79-4840-9302-2b6a98a2c2e8": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'ɟʌŋ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "cʌŋ"
 }

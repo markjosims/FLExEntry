@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 627,
   "entry_id": "dejëp doo sapanang_ce7f36f4-c947-4f55-a671-bca112964da8",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "dejëp doo sapanang",
   "morph_type": "phrase",
-  "pronunciation": "dejəp̚ do:ʔ ʃapadnãŋ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "dejəp̚ do:ʔ ʃapadnãŋ",
   "sense": {
     "c00a85c6-ec83-40fc-bce5-fb19c87c2477": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "dejəp do: ʃapanaŋ"
 }

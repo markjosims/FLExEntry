@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 357,
   "entry_id": "awaar_7941eab2-6521-4894-ab06-a769c7e59eba",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "awaar",
   "morph_type": "stem",
-  "pronunciation": "ʔawa:ɾǝ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'ʔawaɾ', 'Weir': 'awaal'}",
+  "pronunciation": "ʔawa:ɾǝ",
   "sense": {
     "f29f17fb-2c81-400d-8bb4-f183d2ff5369": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'ʔawaɾ', 'Weir': 'awaal'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "awa:r"
 }

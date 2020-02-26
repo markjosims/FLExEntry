@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 370,
   "entry_id": "tahóh_7d735435-5f43-4a8a-94db-87f4e51b960a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-04T14:22:00Z",
+  "date_modified": "",
   "headword": "tahóh",
   "morph_type": "stem",
-  "pronunciation": "taˈhɔ:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "(ji) tahóh"
   },
+  "other_sources": "",
+  "pronunciation": "taˈhɔ:h",
   "sense": {
     "0ecba83b-2c7c-4379-8471-565bceda5869": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-04T14:22:00Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "tahɔh"
 }

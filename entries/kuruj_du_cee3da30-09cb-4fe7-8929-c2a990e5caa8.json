@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1461,
+  "entry_id": "kuruj du_cee3da30-09cb-4fe7-8929-c2a990e5caa8",
+  "bibliography": "",
+  "date": "2018-07-27T20:41:26Z",
+  "date_modified": "2020-01-03T02:46:02Z",
+  "headword": "kuruj du",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{'Sil Dict 2011': 'hagʹããs'}",
+  "pronunciation": "",
+  "sense": {
+    "f075ca89-d15f-4718-8aed-dca11b0b6dc3": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "vulture",
+        "pt": "urubu"
+      },
+      "def": {
+        "en": "vulture",
+        "pt": "urubu"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kuruj du"
+}

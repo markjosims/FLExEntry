@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1384,
+  "entry_id": "kanh_8f4d6564-12a4-4e4b-a3f9-4643b6e06816",
+  "bibliography": "",
+  "date": "2019-12-15T23:14:48Z",
+  "date_modified": "2019-12-15T23:17:19Z",
+  "headword": "kanh",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "kaɲ",
+  "sense": {
+    "a23a26e9-92a0-4b78-b78b-f331733371e8": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "daughter.in.law",
+        "pt": "nora"
+      },
+      "def": {
+        "en": "daughter in law",
+        "pt": "nora"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kaɲ"
+}

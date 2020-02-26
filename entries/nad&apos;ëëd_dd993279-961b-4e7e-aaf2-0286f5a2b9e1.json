@@ -1,0 +1,34 @@
+{
+  "Unnamed: 0": 1475,
+  "entry_id": "nad&apos;ëëd_dd993279-961b-4e7e-aaf2-0286f5a2b9e1",
+  "bibliography": "",
+  "date": "2018-07-08T16:56:37Z",
+  "date_modified": "2020-01-08T19:29:29Z",
+  "headword": "nad'ëëd",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018",
+    "Note": "problem: naˈdǝʔǝd˺ or naˈdɨʔɨd˺"
+  },
+  "other_sources": "{'Sil Dict 2011': 'makũũh'}",
+  "pronunciation": "naˈdǝʔǝd˺",
+  "sense": {
+    "44dbdb0a-cfc6-4ae0-8ca4-c3d1963b5d78": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "small",
+        "pt": "pequeno"
+      },
+      "def": {
+        "en": "small",
+        "pt": "pequeno"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "nadə̰:d"
+}

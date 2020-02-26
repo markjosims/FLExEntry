@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1509,
+  "entry_id": "tabanyyw_fe5be21b-6bc5-4dff-a57e-358534d3660f",
+  "bibliography": "",
+  "date": "2019-11-05T20:07:49Z",
+  "date_modified": "2019-11-05T20:10:13Z",
+  "headword": "tabanyyw",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ta'ba'nɨ:w",
+  "sense": {
+    "1caed30e-f54e-4829-a3a5-2bbbddcb9285": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "summer",
+        "pt": "verão"
+      },
+      "def": {
+        "en": "summer",
+        "pt": "verão"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tabanɨ:w"
+}

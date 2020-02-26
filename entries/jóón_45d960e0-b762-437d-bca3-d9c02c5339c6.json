@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 214,
   "entry_id": "jóón_45d960e0-b762-437d-bca3-d9c02c5339c6",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T22:37:48Z",
+  "date_modified": "",
   "headword": "jóón",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "5e17ffe9-a052-4a24-9f2a-47eedd59e6e8": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T22:37:48Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jɔ:n"
 }

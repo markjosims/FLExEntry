@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1300,
+  "entry_id": "hewad_432b1491-1cae-4e99-a704-958647dd14fb",
+  "bibliography": "",
+  "date": "2019-12-15T23:10:08Z",
+  "date_modified": "2020-01-22T21:18:48Z",
+  "headword": "hewad",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "he'wad",
+  "sense": {
+    "b16f9292-0e22-4dcc-80d8-fd72cf567952": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "annoy",
+        "pt": "atrapalhar"
+      },
+      "def": {
+        "en": "annoy",
+        "pt": "atrapalhar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "hewad"
+}

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 447,
   "entry_id": "nuuh_98b2fa13-5514-4958-bbe6-86001f73c6a4",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-06T20:35:56Z",
+  "date_modified": "",
   "headword": "nuuh",
   "morph_type": "stem",
-  "pronunciation": "nũ:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'nũːh'}",
+  "pronunciation": "nũ:h",
   "sense": {
     "24d94776-3f11-4a63-8f57-f8537609dd72": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T20:35:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'nũːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "nu:h"
 }

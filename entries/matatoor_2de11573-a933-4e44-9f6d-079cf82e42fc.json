@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 135,
   "entry_id": "matatoor_2de11573-a933-4e44-9f6d-079cf82e42fc",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "matatoor",
   "morph_type": "stem",
-  "pronunciation": "mãtato:ɾᵊ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mãtato:ɾᵊ",
   "sense": {
     "702b39fe-8ebe-419f-81d3-9e0a5616edbf": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "matato:r"
 }

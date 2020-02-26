@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1209,
   "entry_id": "ega̰:k_e8a55d4c-33f7-4c02-9f26544a6ffd5244",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ega̰:k",
   "morph_type": "stem",
-  "pronunciation": "ega̰:k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'egʹaak'}",
+  "pronunciation": "ega̰:k",
   "sense": {
     "800c7fc9-2b48-4677-a088-e7c1e7cbc3a2": {
       "pos": "v",
@@ -15,14 +18,14 @@
         "pt": "partir.madiera"
       },
       "def": {
-        "pt": "partir madiera (para casa; cerca tc.)."
+        "pt": "partir madiera (para casa; cerca etc.)."
       },
       "reverse": "",
       "note": "",
       "these_vars": "{'egaag_ef05545d-dce0-494b-9a22-3d3474a9c500': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'egʹaak'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ega̰:k"
 }

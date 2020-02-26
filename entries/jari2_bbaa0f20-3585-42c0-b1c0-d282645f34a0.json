@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 553,
   "entry_id": "jari2_bbaa0f20-3585-42c0-b1c0-d282645f34a0",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jari",
   "morph_type": "stem",
-  "pronunciation": "jaɾiʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jaɾiʔ",
   "sense": {
     "b1964713-cd79-41cd-a8ff-7fc4230c8e11": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jari"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1495,
+  "entry_id": "kahũũm_edb14c07-f4e4-49ef-8e80-ffbedcf5072a",
+  "bibliography": "",
+  "date": "2019-11-21T21:23:50Z",
+  "date_modified": "2019-11-21T21:25:13Z",
+  "headword": "kahũũm",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "kahũ:m",
+  "sense": {
+    "2bf40744-8bf9-4877-aca0-1598ed9e2e84": {
+      "pos": "?",
+      "gloss": {
+        "en": "stretch",
+        "pt": "esticar"
+      },
+      "def": {
+        "en": "stretch",
+        "pt": "esticar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kahũ:m"
+}

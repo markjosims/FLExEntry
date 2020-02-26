@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 763,
   "entry_id": "agɔp_04058245-c971-4e27-85acb9a2c17f90d5",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "agɔp",
   "morph_type": "stem",
-  "pronunciation": "agɔp",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ʔagɔp'}",
+  "pronunciation": "agɔp",
   "sense": {
     "5cce2064-600f-4164-823b-b65c8545b57f": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ʔagɔp'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "agɔp"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1290,
+  "entry_id": "waa1_36bdcbb1-66cb-47fc-a7ce-1204359c2a61",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-21T20:46:20Z",
+  "headword": "waa",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "wa:",
+  "sense": {
+    "96b1cb14-6139-46cc-9f56-c79855618866": {
+      "pos": "n op",
+      "gloss": {
+        "en": "food",
+        "pt": "comida"
+      },
+      "def": {
+        "en": "food (no meat)",
+        "pt": "comida (sendo não carne nem peixe)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wa:"
+}

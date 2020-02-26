@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 889,
   "entry_id": "ʃe_44710235-cb36-41d3-88f87a88edc7df2c",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ʃe",
   "morph_type": "stem",
-  "pronunciation": "ʃe",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'ʃeʔ', 'Sil Dict 2011': 'se'}",
+  "pronunciation": "ʃe",
   "sense": {
     "3c8fd640-4ed2-4cb7-ab5b-7ecf87503e1e": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'ʃeʔ', 'Sil Dict 2011': 'se'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃe"
 }

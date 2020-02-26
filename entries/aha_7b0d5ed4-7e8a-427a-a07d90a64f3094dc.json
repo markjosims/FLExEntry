@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 990,
   "entry_id": "aha_7b0d5ed4-7e8a-427a-a07d90a64f3094dc",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "aha",
   "morph_type": "stem",
-  "pronunciation": "aha",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'aha'}",
+  "pronunciation": "aha",
   "sense": {
     "75f04d15-d086-4211-9772-1a28fe91ff37": {
       "pos": "v",
@@ -15,14 +18,14 @@
         "pt": "tirar.comida"
       },
       "def": {
-        "pt": "tirar comida; não liquida da anela (com cuia; concha; olher; etc.)"
+        "pt": "tirar comida; não liquida da panela (com cuia; concha; colher; etc.)"
       },
       "reverse": "",
       "note": "",
       "these_vars": "{'ahaa_686c862e-f8bb-4b61-8c2d-d07f36bd5a6a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'aha'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "aha"
 }

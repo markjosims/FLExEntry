@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 814,
   "entry_id": "du:h_1c1e2650-1809-4f40-a14833b3a9902630",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "du:h",
   "morph_type": "stem",
-  "pronunciation": "du:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'duːh', 'Sil Dict 2011': 'duuh'}",
+  "pronunciation": "du:h",
   "sense": {
     "034a0409-242f-4bb1-a927-c33794ddb359": {
       "pos": "n op",
@@ -15,14 +18,14 @@
         "pt": "nádegas"
       },
       "def": {
-        "pt": "nádegas; assento; começo; nício"
+        "pt": "nádegas; assento; começo; início"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'duːh', 'Sil Dict 2011': 'duuh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "du:h"
 }

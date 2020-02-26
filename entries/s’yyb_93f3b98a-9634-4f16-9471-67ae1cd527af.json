@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 426,
   "entry_id": "s’yyb_93f3b98a-9634-4f16-9471-67ae1cd527af",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:02:15Z",
+  "date_modified": "",
   "headword": "s’yyb",
   "morph_type": "root",
-  "pronunciation": "ʃɨʔɨb˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʃɨʔɨb˺",
   "sense": {
     "573b632d-62f5-4dce-9acf-898e32afec13": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:02:15Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃɨ̰:b"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 948,
   "entry_id": "hajẽm_651f8cf6-18b6-4b11-9e4cef83d23e51d9",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hajẽm",
   "morph_type": "stem",
-  "pronunciation": "hajẽm",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'hajẽm'}",
+  "pronunciation": "hajẽm",
   "sense": {
     "390ec086-40fc-48fd-a775-fa235d5583eb": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'hajẽẽw_8b0edc48-833c-490b-b363-8e9f882ac0c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'hajʹẽẽm_a7baa953-5476-4b76-817d-c30cd4ab3735': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'hajẽm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hajẽm"
 }

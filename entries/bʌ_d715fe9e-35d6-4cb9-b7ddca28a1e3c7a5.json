@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1182,
   "entry_id": "bʌ_d715fe9e-35d6-4cb9-b7ddca28a1e3c7a5",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-04-03T21:26:14Z",
+  "date_modified": "",
   "headword": "bʌ",
   "morph_type": "stem",
-  "pronunciation": "bʌ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'bä'}",
+  "pronunciation": "bʌ",
   "sense": {
     "fd202b45-8ee4-4aec-a77d-4e432ca61bb1": {
       "pos": "posp",
@@ -21,7 +24,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-04-03T21:26:14Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'bä'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "bʌ"
 }

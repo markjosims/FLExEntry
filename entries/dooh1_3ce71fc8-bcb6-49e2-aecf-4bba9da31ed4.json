@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 179,
   "entry_id": "dooh1_3ce71fc8-bcb6-49e2-aecf-4bba9da31ed4",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "dooh",
   "morph_type": "stem",
-  "pronunciation": "do:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Weir': 'dooh', 'Martins': 'doːh'}",
+  "pronunciation": "do:h",
   "sense": {
     "d5260a10-522d-4ebb-bad3-a7b77381e7c5": {
       "pos": "par",
@@ -15,14 +18,14 @@
       },
       "def": {
         "en": "no",
-        "pt": "não; algo inexistente; egativo"
+        "pt": "não; algo inexistente; negativo"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'dooh', 'Martins': 'doːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "do:h"
 }

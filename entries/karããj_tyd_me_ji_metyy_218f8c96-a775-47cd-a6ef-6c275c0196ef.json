@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 106,
   "entry_id": "karããj tyd me ji metyy_218f8c96-a775-47cd-a6ef-6c275c0196ef",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "karããj tyd me ji metyy",
   "morph_type": "phrase",
-  "pronunciation": "kaɾã:j tɨd̚ mẽʔ jiʔ mẽtɨ:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "cf. karããj tyd [linha de pesca]"
   },
+  "other_sources": "",
+  "pronunciation": "kaɾã:j tɨd̚ mẽʔ jiʔ mẽtɨ:ʔ",
   "sense": {
     "1f46caf8-3abc-4a6b-beb5-5554c6fd7c05": {
       "pos": "Verb",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "karã:j tɨd me ji metɨ:"
 }

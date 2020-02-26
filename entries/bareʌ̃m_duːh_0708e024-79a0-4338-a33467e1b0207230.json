@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 772,
   "entry_id": "bareʌ̃m du:h_0708e024-79a0-4338-a33467e1b0207230",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "bareʌ̃m du:h",
   "morph_type": "phrase",
-  "pronunciation": "bareʌ̃m du:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'bareä̃m duuh'}",
+  "pronunciation": "bareʌ̃m du:h",
   "sense": {
     "5ed87031-8faa-4805-9bd7-492143782ee2": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'bareä̃m duuh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "bareʌ̃m du:h"
 }

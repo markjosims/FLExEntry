@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1054,
   "entry_id": "tatuc_95665b00-9d5a-441d-9b43a1c6000ebd63",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "tatuc",
   "morph_type": "stem",
-  "pronunciation": "tatuc",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'tatuɟ'}",
+  "pronunciation": "tatuc",
   "sense": {
     "466da06d-5775-4881-b966-e11273a46f0e": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'tatuɟ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tatuc"
 }

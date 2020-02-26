@@ -1,28 +1,31 @@
 {
+  "Unnamed: 0": 366,
   "entry_id": "sëëw_7c511834-586a-456c-884a-02fda6ccd6aa",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "sëëw",
   "morph_type": "stem",
-  "pronunciation": "ʃə:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Martins': 'ʃɤːw'}",
+  "pronunciation": "ʃə:w",
   "sense": {
     "5ccc7fd8-e6aa-432b-b538-67270ef1447d": {
       "pos": "Noun",
       "gloss": {
         "en": "shaman",
-        "pt": "xaman"
+        "pt": "pajé"
       },
       "def": {
         "en": "shaman",
-        "pt": "xaman; pajé; feiticeiro"
+        "pt": "pajé; feiticeiro"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ʃɤːw'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃə:w"
 }

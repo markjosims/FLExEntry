@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 458,
   "entry_id": "ee t’aah paah_9d0d4be9-51f3-4cda-8783-9f2d038d68c1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ee t’aah paah",
   "morph_type": "phrase",
-  "pronunciation": "ʔe:ʔ taʔah pa:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "[pai-filho-PASS; 2 irmões gemeos]"
   },
+  "other_sources": "",
+  "pronunciation": "ʔe:ʔ taʔah pa:h",
   "sense": {
     "1c9fe5f0-3be0-4d20-8342-30828a0d37c7": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "e: ta̰:h pa:h"
 }

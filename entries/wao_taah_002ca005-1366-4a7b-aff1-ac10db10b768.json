@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 0,
   "entry_id": "wao taah_002ca005-1366-4a7b-aff1-ac10db10b768",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "wao taah",
   "morph_type": "phrase",
-  "pronunciation": "waʔoʔ ta:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "waʔoʔ ta:h",
   "sense": {
     "802366cc-fff6-4c35-bff4-a403f4b4130d": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "wao ta:h"
 }

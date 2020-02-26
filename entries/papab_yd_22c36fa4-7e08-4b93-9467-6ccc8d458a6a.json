@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 109,
   "entry_id": "papab yd_22c36fa4-7e08-4b93-9467-6ccc8d458a6a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:34:17Z",
+  "date_modified": "",
   "headword": "papab yd",
   "morph_type": "phrase",
-  "pronunciation": "papab˺ ˈʔɨd˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "papab˺ ˈʔɨd˺",
   "sense": {
     "ee28e349-2c82-4d8c-964e-f023c132303d": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:34:17Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "papab ɨd"
 }

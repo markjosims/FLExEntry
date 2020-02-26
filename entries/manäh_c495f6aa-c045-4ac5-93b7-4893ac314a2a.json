@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1448,
+  "entry_id": "manäh_c495f6aa-c045-4ac5-93b7-4893ac314a2a",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-25T03:25:02Z",
+  "headword": "manäh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "manʌh",
+  "sense": {
+    "ba01ed64-5100-4894-b46f-287c2da93272": {
+      "pos": "par?",
+      "gloss": {
+        "en": "NEG.IMP",
+        "pt": "IMP.NEG"
+      },
+      "def": {
+        "en": "negative imperative",
+        "pt": "imperativo negativo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "manʌh"
+}

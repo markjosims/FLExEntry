@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 160,
   "entry_id": "hub_330a07e9-0341-422e-93a0-3e745dff7949",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T18:16:04Z",
+  "date_modified": "",
   "headword": "hub",
   "morph_type": "stem",
-  "pronunciation": "hub˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "hub˺",
   "sense": {
     "d2c9ce0b-546e-43b9-a0e7-7e44fd4015d9": {
       "pos": "adj?",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T18:16:04Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hub"
 }

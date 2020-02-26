@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 30,
   "entry_id": "pewóp hẽ_083be29b-071a-45ec-bd6b-c4935e1ae87b",
+  "bibliography": "Fieldnotes Epps/ Obert; 2018",
+  "date": "2018-07-08T18:25:37Z",
+  "date_modified": "",
   "headword": "pewóp hẽ",
   "morph_type": "phrase",
-  "pronunciation": "peʔˈwɔp˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "peʔˈwɔp˺",
   "sense": {
     "7fbd2f47-c78c-4fd7-9aa5-89ad13550e63": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T18:25:37Z",
-  "bibliography": "Fieldnotes Epps/ Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "pewɔp hẽ"
 }

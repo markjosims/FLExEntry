@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1019,
   "entry_id": "tata̰:h_8655a1bc-a95f-4192-a90175f8cb59008e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tata̰:h",
   "morph_type": "stem",
-  "pronunciation": "tata̰:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tatʹaah'}",
+  "pronunciation": "tata̰:h",
   "sense": {
     "37d35f87-6a25-4537-9dd5-ce21c1e67f8b": {
       "pos": "n op",
@@ -22,7 +25,7 @@
       "these_vars": "{'tataah_3a4ece63-7d15-430f-a569-fd308bf3fa91': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tatʹaah'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tata̰:h"
 }

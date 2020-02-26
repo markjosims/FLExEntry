@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1310,
+  "entry_id": "madohoro_4c036b11-ae24-404b-bbac-0687c029e6a1",
+  "bibliography": "",
+  "date": "2019-12-04T23:31:56Z",
+  "date_modified": "2019-12-04T23:33:58Z",
+  "headword": "madohoro",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "madoʔhoɾoʔ",
+  "sense": {
+    "6d988335-4072-4e9c-b2be-e506df6c7789": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "?",
+        "pt": "tapouru"
+      },
+      "def": {
+        "en": "?",
+        "pt": "taporou"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "madohoro"
+}

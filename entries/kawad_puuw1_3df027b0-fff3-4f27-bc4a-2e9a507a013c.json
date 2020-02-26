@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 184,
   "entry_id": "kawad puuw1_3df027b0-fff3-4f27-bc4a-2e9a507a013c",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-03T23:31:48Z",
+  "date_modified": "",
   "headword": "kawad puuw",
   "morph_type": "phrase",
-  "pronunciation": "kaˈwad pu:w",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kaˈwad pu:w",
   "sense": {
     "7d751aa3-1b35-4a2a-9c4b-60a29dcba06a": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:31:48Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kawad pu:w"
 }

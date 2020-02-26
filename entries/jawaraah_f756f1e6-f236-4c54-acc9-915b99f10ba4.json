@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 734,
   "entry_id": "jawaraah_f756f1e6-f236-4c54-acc9-915b99f10ba4",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:24:09Z",
+  "date_modified": "",
   "headword": "jawaraah",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "331de161-2cdb-4dde-96ea-28db0a6d28ee": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:24:09Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jawara:h"
 }

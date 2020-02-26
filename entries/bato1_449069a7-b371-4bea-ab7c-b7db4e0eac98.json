@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 211,
   "entry_id": "bato1_449069a7-b371-4bea-ab7c-b7db4e0eac98",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-08-23T23:45:59Z",
+  "date_modified": "",
   "headword": "bato",
   "morph_type": "root",
-  "pronunciation": "baˈtoʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "baˈtoʔ",
   "sense": {
     "2b876c4a-2d5a-471a-a400-fc7b2675aba1": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-08-23T23:45:59Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "bato"
 }

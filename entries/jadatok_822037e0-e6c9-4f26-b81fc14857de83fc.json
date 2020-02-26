@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1010,
   "entry_id": "jadatok_822037e0-e6c9-4f26-b81fc14857de83fc",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "jadatok",
   "morph_type": "stem",
-  "pronunciation": "jadatok",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'jadatok'}",
+  "pronunciation": "jadatok",
   "sense": {
     "b1175a2d-aa4a-4330-b39f-fa0a408497a5": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'jadatog_3fe4e340-414b-45a8-9f44-8fa4206a37c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'nu jadatoog_e201b7a5-265d-4e84-8d16-27c0ea05ac4b': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'jadatok'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jadatok"
 }

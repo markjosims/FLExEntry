@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1150,
   "entry_id": "mʌʃ_c3900618-266d-43a6-960fe941a433d707",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "mʌʃ",
   "morph_type": "stem",
-  "pronunciation": "mʌʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'mäs'}",
+  "pronunciation": "mʌʃ",
   "sense": {
     "b661ed42-f117-47e9-948a-fd6bdcd840f9": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'mäs'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mʌʃ"
 }

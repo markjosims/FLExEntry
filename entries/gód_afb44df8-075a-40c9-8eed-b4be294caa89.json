@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1422,
+  "entry_id": "gód_afb44df8-075a-40c9-8eed-b4be294caa89",
+  "bibliography": "",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "2019-12-13T14:20:08Z",
+  "headword": "gód",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "k'ɔd̚",
+  "sense": {
+    "d8de3930-0be6-4e83-86c4-a5e307ff61ca": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "mat.uncle",
+        "pt": "tio materno"
+      },
+      "def": {
+        "en": "maternal uncle",
+        "pt": "tio materno"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "gɔd"
+}

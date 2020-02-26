@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 158,
   "entry_id": "gó_32db9835-81bc-4809-83fb-6b662dc0682a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "gó",
   "morph_type": "stem",
-  "pronunciation": "k’ɔʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "k’ɔʔ",
   "sense": {
     "aff1e536-598d-40b6-bdd7-9a0374155414": {
       "pos": "posp",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "gɔ"
 }

@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1328,
+  "entry_id": "tatyyt_604bf54a-6c29-4304-81e9-851c15bcec8e",
+  "bibliography": "",
+  "date": "2019-11-15T22:24:04Z",
+  "date_modified": "2019-11-15T22:24:57Z",
+  "headword": "tatyyt",
+  "morph_type": "root",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "tatɨ:t",
+  "sense": {
+    "d18dc2f6-dbaa-461b-bb61-d873ce0236b4": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "rope",
+        "pt": "corda"
+      },
+      "def": {
+        "en": "rope",
+        "pt": "corda"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tatɨ:t"
+}

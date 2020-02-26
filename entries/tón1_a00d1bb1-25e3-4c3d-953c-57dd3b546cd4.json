@@ -1,0 +1,29 @@
+{
+  "Unnamed: 0": 1402,
+  "entry_id": "tón1_a00d1bb1-25e3-4c3d-953c-57dd3b546cd4",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "2020-01-25T04:49:48Z",
+  "headword": "tón",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Weir 1994"
+  },
+  "other_sources": "{'Sil Dict 2011': 'sʹoow', 'Weir': 'sxóów'}",
+  "pronunciation": "tɔn",
+  "sense": {
+    "44cf4c32-09a4-4dc3-a108-a8b468a272df": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "hold.in.hand"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tɔn"
+}

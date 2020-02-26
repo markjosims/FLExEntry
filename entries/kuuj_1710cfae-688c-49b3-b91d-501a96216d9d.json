@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 76,
   "entry_id": "kuuj_1710cfae-688c-49b3-b91d-501a96216d9d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kuuj",
   "morph_type": "stem",
-  "pronunciation": "ku:j",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "ku:j",
   "sense": {
     "3334af6d-577c-4a6e-8ecb-f2deabfb87d8": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ku:j"
 }

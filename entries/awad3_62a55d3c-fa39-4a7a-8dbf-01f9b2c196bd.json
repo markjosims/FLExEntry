@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 285,
   "entry_id": "awad3_62a55d3c-fa39-4a7a-8dbf-01f9b2c196bd",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "awad",
   "morph_type": "stem",
-  "pronunciation": "ʔawad̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Weir': 'awad'}",
+  "pronunciation": "ʔawad̚",
   "sense": {
     "b1f945c8-cc42-4ca1-afb2-a904de7bd4f5": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'awad'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "awad"
 }

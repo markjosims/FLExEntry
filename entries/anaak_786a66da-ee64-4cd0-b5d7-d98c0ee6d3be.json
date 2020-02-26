@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 353,
   "entry_id": "anaak_786a66da-ee64-4cd0-b5d7-d98c0ee6d3be",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-06T19:32:40Z",
+  "date_modified": "",
   "headword": "anaak",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "07fb59c9-0be7-494f-aad7-75903f506c21": {
       "pos": "?",
@@ -19,7 +22,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T19:32:40Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ana:k"
 }

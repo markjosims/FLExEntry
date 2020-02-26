@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 16,
   "entry_id": "noo keham_0456f9ea-7465-48e4-9c8e-0237e472be1c",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:43:22Z",
+  "date_modified": "",
   "headword": "noo keham",
   "morph_type": "phrase",
-  "pronunciation": "nɔ̃:keʔˈhabm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "nɔ̃:keʔˈhabm",
   "sense": {
     "67813880-b0ef-4e72-8cc0-55dda9bf5e6f": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:43:22Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "no: keham"
 }

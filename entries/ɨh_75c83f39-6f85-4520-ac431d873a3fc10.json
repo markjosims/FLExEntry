@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 982,
   "entry_id": "ɨh_75c83f39-6f85-4520-ac431d873a3fc10",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ɨh",
   "morph_type": "stem",
-  "pronunciation": "ɨh",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'ɨh'}",
+  "pronunciation": "ɨh",
   "sense": {
     "ace27870-012b-4cda-8296-e3c2ff341b60": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'ɨh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ɨh"
 }

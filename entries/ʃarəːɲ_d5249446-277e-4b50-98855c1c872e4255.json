@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1178,
   "entry_id": "ʃarə:ɲ_d5249446-277e-4b50-98855c1c872e4255",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ʃarə:ɲ",
   "morph_type": "stem",
-  "pronunciation": "ʃarə:ɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'ʃaɾəːɲ'}",
+  "pronunciation": "ʃarə:ɲ",
   "sense": {
     "bafe05e4-8e22-48b3-8003-2f796b93d9e5": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'ʃaɾəːɲ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃarə:ɲ"
 }

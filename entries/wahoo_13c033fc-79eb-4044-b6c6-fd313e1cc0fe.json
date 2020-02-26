@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1256,
+  "entry_id": "wahoo_13c033fc-79eb-4044-b6c6-fd313e1cc0fe",
+  "bibliography": "",
+  "date": "2019-12-31T13:30:00Z",
+  "date_modified": "2019-12-31T13:31:03Z",
+  "headword": "wahoo",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "wa'ho:ʔ",
+  "sense": {
+    "5f4d52e2-28d5-42f8-9939-5680baefea11": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "?",
+        "pt": "terrero"
+      },
+      "def": {
+        "en": "?",
+        "pt": "terrero"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "waho:"
+}

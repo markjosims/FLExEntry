@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1345,
+  "entry_id": "wapad_6d1f39e4-a447-4cba-b3ff-b4b8f1eed9ae",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "2019-12-04T23:37:44Z",
+  "headword": "wapad",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "wa'pad",
+  "sense": {
+    "00044171-b90b-4bf3-a830-42baef578fee": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "piaba.fish",
+        "pt": "piaba"
+      },
+      "def": {
+        "en": "piaba fish",
+        "pt": "piaba"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wapad"
+}

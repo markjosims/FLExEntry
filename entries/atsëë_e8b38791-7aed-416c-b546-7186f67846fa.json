@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1488,
+  "entry_id": "atsëë_e8b38791-7aed-416c-b546-7186f67846fa",
+  "bibliography": "",
+  "date": "2019-12-13T13:55:39Z",
+  "date_modified": "2019-12-13T13:56:39Z",
+  "headword": "atsëë",
+  "morph_type": "root",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "ʔaˈtʃ’ǝ:",
+  "sense": {
+    "06d120ab-2347-4342-8825-84f7f0790cfc": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "ant.spec",
+        "pt": "formiga.taxi"
+      },
+      "def": {
+        "en": "ant species",
+        "pt": "formiga taxi"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "acə:"
+}

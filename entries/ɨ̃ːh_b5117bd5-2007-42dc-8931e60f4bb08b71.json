@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1121,
   "entry_id": "ɨ̃:h_b5117bd5-2007-42dc-8931e60f4bb08b71",
+  "bibliography": "SIL 2011; Weir 1984; Barbosa 2005",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ɨ̃:h",
   "morph_type": "stem",
-  "pronunciation": "ɨ̃:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'ỹỹh'}",
+  "pronunciation": "ɨ̃:h",
   "sense": {
     "100f0c7d-1293-4388-92a5-114850f3136e": {
       "pos": "pro",
@@ -20,10 +23,10 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'ỹỹ3_1fab850f-da95-4fff-8e60-596d84365d2f': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'ỹ_acdb0c0b-2c0f-454f-91d1-eea4498bebf7': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
+      "these_vars": "{'ỹỹ3_1fab850f-da95-4fff-8e60-596d84365d2f': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'ỹ1_acdb0c0b-2c0f-454f-91d1-eea4498bebf7': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Weir 1984; Barbosa 2005",
-  "other_sources": "{'Weir': 'ỹỹh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ɨ̃:h"
 }

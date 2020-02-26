@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1368,
+  "entry_id": "maɾakaaw_81a4f1d6-0f63-4473-8154-e6377deca3a7",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "2020-01-08T16:24:41Z",
+  "headword": "maɾakaaw",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "maɾakaːw",
+  "sense": {
+    "fce96a6e-3ec1-4f43-a264-fb5ba3ab39ad": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "?",
+        "pt": "cabeçudo"
+      },
+      "def": {
+        "en": "?",
+        "pt": "cabeçudo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "maraka:w"
+}

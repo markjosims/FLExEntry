@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1159,
   "entry_id": "wə̃:c_c98bdbf6-4334-4e41-84b371df627fad4",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "wə̃:c",
   "morph_type": "stem",
-  "pronunciation": "wə̃:c",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'wə̃ːɟ'}",
+  "pronunciation": "wə̃:c",
   "sense": {
     "82d8c536-712b-4ab7-8e8c-c055c32282d0": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'wə̃ːɟ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wə̃:c"
 }

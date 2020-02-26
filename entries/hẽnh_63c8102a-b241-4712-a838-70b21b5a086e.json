@@ -1,0 +1,69 @@
+{
+  "Unnamed: 0": 1333,
+  "entry_id": "hẽnh_63c8102a-b241-4712-a838-70b21b5a086e",
+  "bibliography": "",
+  "date": "2018-03-22T21:31:03Z",
+  "date_modified": "2019-11-25T02:14:33Z",
+  "headword": "hẽnh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "hɛ̃ɲ",
+  "sense": {
+    "84d82e2b-10a2-4d5b-bf3b-843910321938": {
+      "pos": "posp",
+      "gloss": {
+        "en": "to.dir",
+        "pt": "para.dir"
+      },
+      "def": {
+        "en": "to",
+        "pt": "para"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "noo hẽnh_02548d67-7403-4ae6-be8f-4064def13b13": {
+      "Unnamed: 0": 1244,
+      "bibliography": "",
+      "date": "2018-03-21T21:43:54Z",
+      "date_modified": "2019-12-21T21:16:56Z",
+      "headword": "noo hẽnh",
+      "morph_type": "phrase",
+      "note": {
+        "bibliography": "Epps/Obert; Fieldnotes 2019"
+      },
+      "other_sources": "{}",
+      "pronunciation": "no: hɛ̃ɲ",
+      "sense": {
+        "ae56a69b-7017-4a32-a8ea-5f87e4558b57": {
+          "pos": "adv",
+          "gloss": {
+            "en": "downriver",
+            "pt": "rio.abaixo"
+          },
+          "def": {
+            "en": "downriver",
+            "pt": "rio.abaixo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "no: hẽɲ",
+      "var_type": {
+        "type": "_component-lexeme",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "hẽɲ"
+}

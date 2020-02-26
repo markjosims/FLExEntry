@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 968,
   "entry_id": "daruŋ_6eef50fb-81f8-4589-9a04d859e7d005ba",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "daruŋ",
   "morph_type": "stem",
-  "pronunciation": "daruŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'darung'}",
+  "pronunciation": "daruŋ",
   "sense": {
     "dd1f1e57-ea99-4a11-ab8f-2866b4292180": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'darung'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "daruŋ"
 }

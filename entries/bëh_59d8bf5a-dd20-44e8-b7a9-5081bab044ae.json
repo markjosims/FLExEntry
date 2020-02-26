@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1322,
+  "entry_id": "bëh_59d8bf5a-dd20-44e8-b7a9-5081bab044ae",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-20T19:40:39Z",
+  "headword": "bëh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{}",
+  "pronunciation": "bǝ:h",
+  "sense": {
+    "3244d12a-db56-4f1b-835e-3ca76ca002b0": {
+      "pos": "pro",
+      "gloss": {
+        "en": "2PL",
+        "pt": "2PL"
+      },
+      "def": {
+        "en": "you",
+        "pt": "vocês"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "bəh"
+}

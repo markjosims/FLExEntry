@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1242,
+  "entry_id": "wahawam_015a8cbe-5616-4915-bdc0-60fee2731a63",
+  "bibliography": "",
+  "date": "2019-11-16T19:23:13Z",
+  "date_modified": "2019-12-21T21:05:49Z",
+  "headword": "wahawam",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "wa'haw'a:bm",
+  "sense": {
+    "16f0da8b-7967-4d15-a3fd-ef3a8ede9db0": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "laugh",
+        "pt": "rir"
+      },
+      "def": {
+        "en": "laugh",
+        "pt": "rir"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wahawam"
+}

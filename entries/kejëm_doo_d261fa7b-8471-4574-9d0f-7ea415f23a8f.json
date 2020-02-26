@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 633,
   "entry_id": "kejëm doo_d261fa7b-8471-4574-9d0f-7ea415f23a8f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kejëm doo",
   "morph_type": "phrase",
-  "pronunciation": "kejəbm do:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kejəbm do:ʔ",
   "sense": {
     "f6c7d831-0212-4649-80db-46c90a146a3f": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kejəm do:"
 }

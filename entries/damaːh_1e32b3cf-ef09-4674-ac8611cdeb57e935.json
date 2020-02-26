@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 820,
   "entry_id": "dama:h_1e32b3cf-ef09-4674-ac8611cdeb57e935",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "dama:h",
   "morph_type": "stem",
-  "pronunciation": "dama:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'damaːh'}",
+  "pronunciation": "dama:h",
   "sense": {
     "f2d07da7-9c0b-4bd0-831d-65b21f468c5e": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'damaːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "dama:h"
 }

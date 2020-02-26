@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1030,
   "entry_id": "gʌ_8c3e9683-efa0-43fd-b2c67fb130828ae9",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "gʌ",
   "morph_type": "stem",
-  "pronunciation": "gʌ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'gä'}",
+  "pronunciation": "gʌ",
   "sense": {
     "e8fdaa09-effb-413a-b981-cc07f2c1760a": {
       "pos": "v",
@@ -21,7 +24,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'gä'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gʌ"
 }

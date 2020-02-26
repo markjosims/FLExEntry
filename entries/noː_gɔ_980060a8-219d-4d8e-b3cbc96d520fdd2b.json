@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1063,
   "entry_id": "no: gɔ_980060a8-219d-4d8e-b3cbc96d520fdd2b",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "no: gɔ",
   "morph_type": "phrase",
-  "pronunciation": "no: gɔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'noo gó'}",
+  "pronunciation": "no: gɔ",
   "sense": {
     "733c6833-5277-4aeb-99d8-803cb3116d2f": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'noo gó'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "no: gɔ"
 }

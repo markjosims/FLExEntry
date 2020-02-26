@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1131,
   "entry_id": "akã:_b98e7e00-49af-471c-bb4a1cbc7265657e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "akã:",
   "morph_type": "stem",
-  "pronunciation": "akã:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'akãã'}",
+  "pronunciation": "akã:",
   "sense": {
     "99df7779-2ec1-4827-a925-dadc899e8c89": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'akãã'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "akã:"
 }

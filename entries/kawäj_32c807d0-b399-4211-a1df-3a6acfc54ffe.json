@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1283,
+  "entry_id": "kawäj_32c807d0-b399-4211-a1df-3a6acfc54ffe",
+  "bibliography": "",
+  "date": "2019-12-21T20:57:43Z",
+  "date_modified": "2019-12-21T20:58:41Z",
+  "headword": "kawäj",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ka'wʌj",
+  "sense": {
+    "1e3aae98-e214-40f2-b17f-14676b13e1e2": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "trousers",
+        "pt": "calça"
+      },
+      "def": {
+        "en": "trousers",
+        "pt": "calça"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kawʌj"
+}

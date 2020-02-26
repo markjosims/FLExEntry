@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1104,
   "entry_id": "wɨk_ae9733f8-5392-4f65-9a45e0b93ea9affe",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "wɨk",
   "morph_type": "stem",
-  "pronunciation": "wɨk",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'wɨk'}",
+  "pronunciation": "wɨk",
   "sense": {
     "300346bc-99e6-48dc-a4e9-aa192268039c": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'wɨk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wɨk"
 }

@@ -1,0 +1,64 @@
+{
+  "Unnamed: 0": 1485,
+  "entry_id": "h&apos;yy gonäng_e5d6550b-2233-464c-9ef8-cac58dd801bd",
+  "bibliography": "",
+  "date": "2019-12-31T13:41:23Z",
+  "date_modified": "2019-12-31T13:55:11Z",
+  "headword": "h'yy gonäng",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "hɨʔɨ k'onʌŋ",
+  "sense": {
+    "cb2c5845-d64f-4c36-bfb9-75b2e181b3ab": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "be.intelligent",
+        "pt": "ser.intelligente"
+      },
+      "def": {
+        "en": "be intelligent",
+        "pt": "ser intelligente"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "h&apos;yy genäh_123f5792-a2fc-4a40-845b-50bf3e9390d8": {
+      "Unnamed: 0": 1253,
+      "bibliography": "",
+      "date": "2019-12-31T13:49:02Z",
+      "date_modified": "2019-12-31T13:51:24Z",
+      "headword": "h'yy genäh",
+      "morph_type": "root",
+      "note": null,
+      "other_sources": "{}",
+      "pronunciation": "",
+      "sense": {
+        "615f4b68-91a5-4724-b9af-2c5589068e18": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "be.intelligent.PL",
+            "pt": "ser.intelligente.PL"
+          },
+          "def": null,
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "hɨ̰: genʌh",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Plural"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "hɨ̰: gonʌŋ"
+}

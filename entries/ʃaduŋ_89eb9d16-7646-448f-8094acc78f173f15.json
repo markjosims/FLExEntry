@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1024,
   "entry_id": "ʃaduŋ_89eb9d16-7646-448f-8094acc78f173f15",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ʃaduŋ",
   "morph_type": "stem",
-  "pronunciation": "ʃaduŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ʃaduŋ'}",
+  "pronunciation": "ʃaduŋ",
   "sense": {
     "2c112a51-912d-4c95-9374-f0fad9a4e65a": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ʃaduŋ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃaduŋ"
 }

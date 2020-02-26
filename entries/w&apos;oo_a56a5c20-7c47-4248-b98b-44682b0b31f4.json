@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1406,
+  "entry_id": "w&apos;oo_a56a5c20-7c47-4248-b98b-44682b0b31f4",
+  "bibliography": "",
+  "date": "2019-11-06T14:37:51Z",
+  "date_modified": "2019-11-21T21:43:18Z",
+  "headword": "w'oo",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{'Sil Dict 2011': 'esok'}",
+  "pronunciation": "woʔo",
+  "sense": {
+    "80e960b4-4587-4c91-ada1-48613e177a4a": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "back",
+        "pt": "costas"
+      },
+      "def": {
+        "en": "back",
+        "pt": "costas"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "d2ba375b-6bc8-4f62-ab1e-d11a3e213a7f": {
+      "pos": "posp",
+      "gloss": {
+        "en": "behind",
+        "pt": "atrás"
+      },
+      "def": {
+        "en": "behind",
+        "pt": "atrás"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wo̰:"
+}

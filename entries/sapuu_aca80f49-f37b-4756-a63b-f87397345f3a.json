@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1417,
+  "entry_id": "sapuu_aca80f49-f37b-4756-a63b-f87397345f3a",
+  "bibliography": "",
+  "date": "2019-11-28T21:52:38Z",
+  "date_modified": "2019-12-13T14:06:37Z",
+  "headword": "sapuu",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ʃa'pu:",
+  "sense": {
+    "9e8136fd-7f32-4376-abb4-ae9a7c818ace": {
+      "pos": "",
+      "gloss": {
+        "en": "soft",
+        "pt": "fofo"
+      },
+      "def": {
+        "en": "soft",
+        "pt": "fofo"
+      },
+      "reverse": "",
+      "note": "{'semantics': 'especially for fur'}",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃapu:"
+}

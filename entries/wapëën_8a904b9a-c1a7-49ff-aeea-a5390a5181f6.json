@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 407,
   "entry_id": "wapëën_8a904b9a-c1a7-49ff-aeea-a5390a5181f6",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:36:15Z",
+  "date_modified": "",
   "headword": "wapëën",
   "morph_type": "stem",
-  "pronunciation": "waˈpǝ:dn",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "waˈpǝ:dn",
   "sense": {
     "00b261d7-dcc3-4ead-a393-e6216cc86b5a": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:36:15Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "wapə:n"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1492,
+  "entry_id": " =g&apos;aad_ea75dfe4-c1ed-4061-9274-9d1552506703",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-22T21:25:03Z",
+  "headword": " =g'aad",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{}",
+  "pronunciation": "taʔˈkaʔad˺",
+  "sense": {
+    "113018d1-8a45-4e64-8548-ea228a767a93": {
+      "pos": "n",
+      "gloss": {
+        "en": "leaf",
+        "pt": "folha"
+      },
+      "def": {
+        "en": "leaf",
+        "pt": "folha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "  ga̰:d"
+}

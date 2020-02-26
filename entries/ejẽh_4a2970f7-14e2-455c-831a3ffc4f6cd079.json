@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 897,
   "entry_id": "ejẽh_4a2970f7-14e2-455c-831a3ffc4f6cd079",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ejẽh",
   "morph_type": "stem",
-  "pronunciation": "ejẽh",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'ejẽh'}",
+  "pronunciation": "ejẽh",
   "sense": {
     "c09b6f87-1617-4190-ac03-1c5c32b1e87f": {
       "pos": "v",
@@ -15,14 +18,14 @@
         "pt": "choque"
       },
       "def": {
-        "pt": "choque elétrico (escorpião; oraquê)"
+        "pt": "choque elétrico (escorpião; poraquê)"
       },
       "reverse": "",
       "note": "",
       "these_vars": "{'ejẽng_b646a9ff-5753-4793-9bd3-f980e9de5400': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'ejẽh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ejẽh"
 }

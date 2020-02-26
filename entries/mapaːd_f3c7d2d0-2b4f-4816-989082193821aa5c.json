@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1225,
   "entry_id": "mapa:d_f3c7d2d0-2b4f-4816-989082193821aa5c",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "mapa:d",
   "morph_type": "stem",
-  "pronunciation": "mapa:d",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'mapaːd'}",
+  "pronunciation": "mapa:d",
   "sense": {
     "65269da4-8a6e-41eb-81dc-a858dac26313": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'mapaːd'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mapa:d"
 }

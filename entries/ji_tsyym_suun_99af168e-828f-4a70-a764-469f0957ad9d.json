@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 453,
   "entry_id": "ji tsyym suun_99af168e-828f-4a70-a764-469f0957ad9d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ji tsyym suun",
   "morph_type": "phrase",
-  "pronunciation": "jiʔ tʃ'ɨ:bm ʃu:dn",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jiʔ tʃ'ɨ:bm ʃu:dn",
   "sense": {
     "92afd846-b8a6-46a9-9bb3-2bdc197010c9": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji cɨ:m ʃu:n"
 }

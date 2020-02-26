@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 11,
   "entry_id": "keroo_0309e768-1308-4e05-955c-92fa27bdc0b1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:28:41Z",
+  "date_modified": "",
   "headword": "keroo",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "1813965a-b95a-4afb-8608-7bea9a3fbed4": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:28:41Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kero:"
 }

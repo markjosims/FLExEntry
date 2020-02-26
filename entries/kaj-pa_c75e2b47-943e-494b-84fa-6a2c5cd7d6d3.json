@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 602,
   "entry_id": "kaj-pa_c75e2b47-943e-494b-84fa-6a2c5cd7d6d3",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T22:48:34Z",
+  "date_modified": "",
   "headword": "kaj-pa",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "2e82c00e-bd6a-47be-8c9b-1adfdfe824b6": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T22:48:34Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kaj pa"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 965,
   "entry_id": "jɔ̃:w_6ebd14c0-8179-41f0-ab5e4b513be56744",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "jɔ̃:w",
   "morph_type": "stem",
-  "pronunciation": "jɔ̃:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'jɔ̃ːw'}",
+  "pronunciation": "jɔ̃:w",
   "sense": {
     "49b83cb5-7388-4f68-a3f6-6b7542eb1184": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": "{'jɔ̃ːw2_34037334-1723-44fc-b45c-32076978dff3': {'type': '_component-lexeme', 'variant-type': 'Spelling Variant', 'summary': 'Barbosa 2005; matapi'}}"
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'jɔ̃ːw'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jɔ̃:w"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 786,
   "entry_id": "cahə:m_09e660e5-6ad4-4eb4-a641e96e69c773e5",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "cahə:m",
   "morph_type": "stem",
-  "pronunciation": "cahə:m",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ɟahɤːm'}",
+  "pronunciation": "cahə:m",
   "sense": {
     "b2c3a9ef-7a11-46e7-9bd5-408e9b6abbb7": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ɟahɤːm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "cahə:m"
 }

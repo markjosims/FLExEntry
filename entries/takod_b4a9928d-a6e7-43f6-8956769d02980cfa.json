@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1119,
   "entry_id": "takod_b4a9928d-a6e7-43f6-8956769d02980cfa",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "takod",
   "morph_type": "stem",
-  "pronunciation": "takod",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'takod'}",
+  "pronunciation": "takod",
   "sense": {
     "5e501741-a16c-4994-bfe5-96c8fae4e0a0": {
       "pos": "n",
@@ -15,14 +18,14 @@
         "pt": "ambaiba.sp"
       },
       "def": {
-        "pt": "esp. de ambaiba; instrumento ue da ritmo à dança"
+        "pt": "esp. de ambaiba; instrumento que da ritmo à dança"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'takod'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "takod"
 }

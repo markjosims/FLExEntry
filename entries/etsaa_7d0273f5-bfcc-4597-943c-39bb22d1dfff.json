@@ -1,0 +1,70 @@
+{
+  "Unnamed: 0": 1362,
+  "entry_id": "etsaa_7d0273f5-bfcc-4597-943c-39bb22d1dfff",
+  "bibliography": "",
+  "date": "2019-11-21T21:47:27Z",
+  "date_modified": "2019-11-21T21:48:48Z",
+  "headword": "etsaa",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps;Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "etɟa:",
+  "sense": {
+    "e001a365-37bd-4697-a3e2-a579566b2134": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "glue",
+        "pt": "colar"
+      },
+      "def": {
+        "en": "glue",
+        "pt": "colar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "taheen n&apos;aa getsa doo_e91e270e-f253-4f7d-97e7-501f7659b3a0": {
+      "Unnamed: 0": 1489,
+      "bibliography": "",
+      "date": "2019-11-21T21:49:50Z",
+      "date_modified": "2020-01-08T17:07:06Z",
+      "headword": "taheen n'aa getsa doo",
+      "morph_type": "phrase",
+      "note": {
+        "restrictions": "Epps/Obert; Fieldnotes 2019"
+      },
+      "other_sources": "{}",
+      "pronunciation": "tahe:dn naʔa k'eɟa do:",
+      "sense": {
+        "1946b36d-50da-4858-a28c-6768740e6a91": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "stamp",
+            "pt": "selo"
+          },
+          "def": {
+            "en": "stamp",
+            "pt": "selo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "tahe:n na̰: geca do:",
+      "var_type": {
+        "type": "_component-lexeme",
+        "is-primary": "true",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "eca:"
+}

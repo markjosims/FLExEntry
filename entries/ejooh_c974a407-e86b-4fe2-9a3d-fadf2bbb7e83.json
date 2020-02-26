@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 610,
   "entry_id": "ejooh_c974a407-e86b-4fe2-9a3d-fadf2bbb7e83",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "ejooh",
   "morph_type": "stem",
-  "pronunciation": "ʔeˈjo:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Sil Dict 2011': 'ajooh', 'Weir': 'yóóh'}",
+  "pronunciation": "ʔeˈjo:h",
   "sense": {
     "bbf9ec9e-d88d-4144-b402-b8c622e69cac": {
       "pos": "v",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'ajooh', 'Weir': 'yóóh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ejo:h"
 }

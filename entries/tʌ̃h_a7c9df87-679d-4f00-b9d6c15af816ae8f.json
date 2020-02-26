@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1091,
   "entry_id": "tʌ̃h_a7c9df87-679d-4f00-b9d6c15af816ae8f",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tʌ̃h",
   "morph_type": "stem",
-  "pronunciation": "tʌ̃h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tä̃h'}",
+  "pronunciation": "tʌ̃h",
   "sense": {
     "c033aa4e-eaab-4635-9849-8a06e230ad2b": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tä̃h'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tʌ̃h"
 }

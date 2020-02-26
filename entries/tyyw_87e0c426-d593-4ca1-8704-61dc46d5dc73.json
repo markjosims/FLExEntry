@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 397,
   "entry_id": "tyyw_87e0c426-d593-4ca1-8704-61dc46d5dc73",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T18:17:57Z",
+  "date_modified": "",
   "headword": "tyyw",
   "morph_type": "stem",
-  "pronunciation": "tɨ:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'tɨːw'}",
+  "pronunciation": "tɨ:w",
   "sense": {
     "1dd45883-bae0-4b41-aa55-2236df1eb368": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T18:17:57Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'tɨːw'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tɨ:w"
 }

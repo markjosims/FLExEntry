@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 901,
   "entry_id": "rṵ:ɲ_4ae8608d-42ec-4b15-b5f662cf14285129",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "rṵ:ɲ",
   "morph_type": "stem",
-  "pronunciation": "rṵ:ɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source undef."
   },
+  "other_sources": "{'undef': 'ɾṵːɲ'}",
+  "pronunciation": "rṵ:ɲ",
   "sense": {
     "b56117d3-b70f-4111-924b-64eac6efdaed": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "",
-  "other_sources": "{'undef': 'ɾṵːɲ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "rṵ:ɲ"
 }

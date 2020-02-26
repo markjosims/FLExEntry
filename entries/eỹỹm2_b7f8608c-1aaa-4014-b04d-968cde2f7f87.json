@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1431,
+  "entry_id": "eỹỹm2_b7f8608c-1aaa-4014-b04d-968cde2f7f87",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-11T00:32:55Z",
+  "headword": "eỹỹm",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "eɨ̃:m",
+  "sense": {
+    "b3209c8e-3460-48bd-8ce6-2ecd3acfb90d": {
+      "pos": "n",
+      "gloss": {
+        "en": "fear",
+        "pt": "ter.medo"
+      },
+      "def": {
+        "en": "fear",
+        "pt": "ter.medo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "eɨ̃:m"
+}

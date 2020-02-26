@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 232,
   "entry_id": "esĩĩn_4c031899-2d3d-4fe6-819a-76005cb92d76",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "esĩĩn",
   "morph_type": "stem",
-  "pronunciation": "ʔeˈʃĩ:n",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeˈʃĩ:n",
   "sense": {
     "2c141c62-5936-4788-9b52-0fe3f3a42093": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "eʃĩ:n"
 }

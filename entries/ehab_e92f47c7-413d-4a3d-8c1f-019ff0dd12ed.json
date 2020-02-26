@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1490,
+  "entry_id": "ehab_e92f47c7-413d-4a3d-8c1f-019ff0dd12ed",
+  "bibliography": "",
+  "date": "2019-12-21T00:57:24Z",
+  "date_modified": "2019-12-21T00:58:42Z",
+  "headword": "ehab",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "e'hab",
+  "sense": {
+    "a3773761-2f82-4d58-812a-d077513d12d4": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "scrape.manioc",
+        "pt": "raspar.mandioca"
+      },
+      "def": {
+        "en": "scrape.manioc",
+        "pt": "raspar mandioca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "1f4f4169-904b-4a7f-ac50-b7a6b83b5a44": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "?",
+        "pt": "capinar"
+      },
+      "def": {
+        "en": "?",
+        "pt": "capinar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ehab"
+}

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 613,
   "entry_id": "gyyj1_ca272553-839d-43eb-b187-20be948754f3",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "gyyj",
   "morph_type": "stem",
-  "pronunciation": "k’ɨ:j",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'gɯːj', 'Weir': 'kɨːj'}",
+  "pronunciation": "k’ɨ:j",
   "sense": {
     "9c645386-7abf-4605-9da2-a61424ff0549": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'gɯːj', 'Weir': 'kɨːj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gɨ:j"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 664,
   "entry_id": "epóh_dca109c5-da4e-472e-84e8-927a1bcab4fb",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "epóh",
   "morph_type": "stem",
-  "pronunciation": "ʔeˈpɔh",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeˈpɔh",
   "sense": {
     "dc17573e-4b44-4ed8-827a-975638a69a0e": {
       "pos": "v",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "epɔh"
 }

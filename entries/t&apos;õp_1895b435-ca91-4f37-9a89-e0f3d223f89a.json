@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1262,
+  "entry_id": "t&apos;õp_1895b435-ca91-4f37-9a89-e0f3d223f89a",
+  "bibliography": "",
+  "date": "2019-12-04T23:26:30Z",
+  "date_modified": "2019-12-04T23:28:37Z",
+  "headword": "t'õp",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Cartilhas': 'panʹaa', 'Sil Dict 2011': 'panʹaa'}",
+  "pronunciation": "tʔɔ̃p",
+  "sense": {
+    "eacb683c-23cd-4617-b02c-de892129d7bf": {
+      "pos": "adv?",
+      "gloss": {
+        "pt": "no.fundo"
+      },
+      "def": {
+        "pt": "no fundo"
+      },
+      "reverse": "",
+      "note": "{'phonology': 'por exemplo; no fundo do rio ou no fundo do cesto'}",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tõ̰p"
+}

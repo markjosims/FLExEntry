@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 981,
   "entry_id": "pa:c_7569e0f9-e595-4b3e-8f10829c81231902",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "pa:c",
   "morph_type": "stem",
-  "pronunciation": "pa:c",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'paːɟ'}",
+  "pronunciation": "pa:c",
   "sense": {
     "4a32a52e-b9e4-4201-92f7-a38ecfcfe964": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'paːɟ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "pa:c"
 }

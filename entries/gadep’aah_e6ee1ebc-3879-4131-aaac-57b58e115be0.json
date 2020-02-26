@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 696,
   "entry_id": "gadep’aah_e6ee1ebc-3879-4131-aaac-57b58e115be0",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:08:56Z",
+  "date_modified": "",
   "headword": "gadep’aah",
   "morph_type": "stem",
-  "pronunciation": "k’adeˈpaʔah",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "k’adeˈpaʔah",
   "sense": {
     "87619968-796b-456c-bb8a-d6c609145a1e": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:08:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "gadepa̰:h"
 }

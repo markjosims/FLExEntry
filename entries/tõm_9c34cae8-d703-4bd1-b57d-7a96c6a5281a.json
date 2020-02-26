@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1397,
+  "entry_id": "tõm_9c34cae8-d703-4bd1-b57d-7a96c6a5281a",
+  "bibliography": "",
+  "date": "2020-01-08T18:58:25Z",
+  "date_modified": "2020-01-08T18:59:04Z",
+  "headword": "tõm",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "tõm",
+  "sense": {
+    "e91c5060-d66e-432a-9b50-14c5c5d34e19": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "drop",
+        "pt": "gota"
+      },
+      "def": {
+        "en": "drop",
+        "pt": "gota"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tõm"
+}

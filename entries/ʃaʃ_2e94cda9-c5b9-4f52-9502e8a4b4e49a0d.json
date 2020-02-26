@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 847,
   "entry_id": "ʃaʃ_2e94cda9-c5b9-4f52-9502e8a4b4e49a0d",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ʃaʃ",
   "morph_type": "stem",
-  "pronunciation": "ʃaʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'ʃaʃ'}",
+  "pronunciation": "ʃaʃ",
   "sense": {
     "e241dfab-fdcc-4326-8b88-69c726ec776b": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'ʃaʃ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃaʃ"
 }

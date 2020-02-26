@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1467,
+  "entry_id": "mahũũr_d5012807-382c-4ce2-ae64-fe70e83272d7",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-06T15:56:57Z",
+  "headword": "mahũũr",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{'Sil Dict 2011': 'hyb nʹaa'}",
+  "pronunciation": "mahũ:ɾǝ",
+  "sense": {
+    "594992bc-bdc8-4b9e-bf51-b3b08118b6bb": {
+      "pos": "n",
+      "gloss": {
+        "en": "sweet.manioc",
+        "pt": "macaxeira"
+      },
+      "def": {
+        "en": "sweet manioc",
+        "pt": "macaxeira"
+      },
+      "reverse": "{'en': 'sweet manioc', 'pt': 'macaxeira'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "mahũ:r"
+}

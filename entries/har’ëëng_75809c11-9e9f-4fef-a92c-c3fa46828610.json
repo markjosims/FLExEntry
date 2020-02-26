@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 346,
   "entry_id": "har’ëëng_75809c11-9e9f-4fef-a92c-c3fa46828610",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "har’ëëng",
   "morph_type": "stem",
-  "pronunciation": "haɾəʔəgŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'harʹëëng'}",
+  "pronunciation": "haɾəʔəgŋ",
   "sense": {
     "9443f9d5-d1bb-42b8-86ac-1fe40199862a": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'harʹëëng'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "harə̰:ŋ"
 }

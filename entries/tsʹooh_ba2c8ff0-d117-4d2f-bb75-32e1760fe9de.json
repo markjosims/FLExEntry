@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 548,
   "entry_id": "tsʹooh_ba2c8ff0-d117-4d2f-bb75-32e1760fe9de",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tsʹooh",
   "morph_type": "stem",
-  "pronunciation": "tʃ’oʔoh",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "tʃ’oʔoh",
   "sense": {
     "905f7d66-d1f4-4b4f-9af8-6046f1929d46": {
       "pos": "n op",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "co̰:h"
 }

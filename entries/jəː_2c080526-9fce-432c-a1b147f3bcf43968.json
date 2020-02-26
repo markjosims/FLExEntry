@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 841,
   "entry_id": "jə:_2c080526-9fce-432c-a1b147f3bcf43968",
+  "bibliography": "Weir 1990",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "jə:",
   "morph_type": "stem",
-  "pronunciation": "jə:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'jʉʉ'}",
+  "pronunciation": "jə:",
   "sense": {
     "bfe4c95c-f8a5-4db7-a93a-f1a616a2a773": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1990",
-  "other_sources": "{'Weir': 'jʉʉ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jə:"
 }

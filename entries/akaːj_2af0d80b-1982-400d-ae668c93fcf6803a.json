@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 839,
   "entry_id": "aka:j_2af0d80b-1982-400d-ae668c93fcf6803a",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "aka:j",
   "morph_type": "stem",
-  "pronunciation": "aka:j",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'ʔakaːj'}",
+  "pronunciation": "aka:j",
   "sense": {
     "8ae5181b-cda7-4e3c-baa8-8ae86830291c": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'ʔakaːj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "aka:j"
 }

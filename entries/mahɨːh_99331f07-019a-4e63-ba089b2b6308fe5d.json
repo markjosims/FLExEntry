@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1067,
   "entry_id": "mahɨ:h_99331f07-019a-4e63-ba089b2b6308fe5d",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "mahɨ:h",
   "morph_type": "stem",
-  "pronunciation": "mahɨ:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Weir': 'hɨɨh', 'Sil Dict 2011': 'mahyyh'}",
+  "pronunciation": "mahɨ:h",
   "sense": {
     "2fdaaa67-fb7c-47a8-a5ae-860572f96d7c": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'mahyh_7bc16434-7bac-4022-be8d-1787b33858fe': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Weir': 'hɨɨh', 'Sil Dict 2011': 'mahyyh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mahɨ:h"
 }

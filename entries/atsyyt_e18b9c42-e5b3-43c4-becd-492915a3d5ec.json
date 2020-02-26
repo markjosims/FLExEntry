@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1480,
+  "entry_id": "atsyyt_e18b9c42-e5b3-43c4-becd-492915a3d5ec",
+  "bibliography": "",
+  "date": "2019-12-15T23:20:25Z",
+  "date_modified": "2019-12-15T23:21:35Z",
+  "headword": "atsyyt",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "atʃɨ:t",
+  "sense": {
+    "9479b433-c5d6-4db9-9f87-fa629fae7ea4": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "invite",
+        "pt": "convidar"
+      },
+      "def": {
+        "en": "invite",
+        "pt": "convidar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "acɨ:t"
+}

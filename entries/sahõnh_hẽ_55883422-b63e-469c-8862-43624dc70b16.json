@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 257,
   "entry_id": "sahõnh (hẽ)_55883422-b63e-469c-8862-43624dc70b16",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "sahõnh (hẽ)",
   "morph_type": "phrase",
-  "pronunciation": "ʃahɔ̃ɲ hẽʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʃahɔ̃ɲ hẽʔ",
   "sense": {
     "01bb7545-2aa2-4bfe-a07b-5827aa5b8f34": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃahõɲ (hẽ)"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 342,
   "entry_id": "ji ma poo oow péh_7461304a-4ba5-4aec-bdc6-221a73962407",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T19:46:56Z",
+  "date_modified": "",
   "headword": "ji ma poo oow péh",
   "morph_type": "phrase",
-  "pronunciation": "ji ma po: ˈʔo:w ˈpɛh",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ji ma po: ˈʔo:w ˈpɛh",
   "sense": {
     "2a168e51-005e-4508-91cf-1ae4015b6b8f": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T19:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji ma po: o:w pɛh"
 }

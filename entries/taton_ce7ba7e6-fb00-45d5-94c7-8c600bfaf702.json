@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1459,
+  "entry_id": "taton_ce7ba7e6-fb00-45d5-94c7-8c600bfaf702",
+  "bibliography": "",
+  "date": "2019-11-21T22:01:00Z",
+  "date_modified": "2019-11-21T22:01:38Z",
+  "headword": "taton",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "taton",
+  "sense": {
+    "2df9c185-ed91-4be9-b1f7-e2d2217df9fb": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "butterfly",
+        "pt": "burboleta"
+      },
+      "def": {
+        "en": "butterlfy",
+        "pt": "burboleta"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "taton"
+}

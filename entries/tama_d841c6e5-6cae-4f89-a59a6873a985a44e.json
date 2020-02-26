@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1186,
   "entry_id": "tama_d841c6e5-6cae-4f89-a59a6873a985a44e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tama",
   "morph_type": "stem",
-  "pronunciation": "tama",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tama'}",
+  "pronunciation": "tama",
   "sense": {
     "fab79933-5699-4b6b-a062-a9cb5fc17138": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'tamaa_8f24b528-f97d-4d68-8bb1-3f78a7be44c1': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tama'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tama"
 }

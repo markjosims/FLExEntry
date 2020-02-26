@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 744,
   "entry_id": "her’oot_fcd85a56-cfb3-4e88-b636-3a81739ffd26",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-09T23:51:42Z",
+  "date_modified": "",
   "headword": "her’oot",
   "morph_type": "stem",
-  "pronunciation": "heˈɾoʔot˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "heˈɾoʔot˺",
   "sense": {
     "6fa82561-043e-4219-ac78-208d19594928": {
       "pos": "Verb",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T23:51:42Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hero̰:t"
 }

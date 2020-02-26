@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 10,
   "entry_id": "jeer2_02adeefa-c0e5-4849-95e7-63f3e5494313",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jeer",
   "morph_type": "stem",
-  "pronunciation": "je:ɾᵊ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "je:ɾᵊ",
   "sense": {
     "fd9458ea-4516-48d8-9157-9c632b036e29": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "je:r"
 }

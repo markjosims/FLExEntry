@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1469,
+  "entry_id": "kuj&apos;uuj_d674eeda-bfa4-47b0-86d8-ce128cfc5d92",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "2020-01-11T16:26:53Z",
+  "headword": "kuj'uuj",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "kuj'uʔuj",
+  "sense": {
+    "46d41f20-3c20-4b60-a2f3-31a6fa41c39a": {
+      "pos": "Noun",
+      "gloss": {
+        "pt": "cujubim"
+      },
+      "def": {
+        "pt": "cujubim"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kujṵ:j"
+}

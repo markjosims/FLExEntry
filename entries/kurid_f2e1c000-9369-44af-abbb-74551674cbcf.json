@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 721,
   "entry_id": "kurid_f2e1c000-9369-44af-abbb-74551674cbcf",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T22:53:48Z",
+  "date_modified": "",
   "headword": "kurid",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "b6a35499-1a28-4e89-98ad-3a850f8b828a": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T22:53:48Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kurid"
 }

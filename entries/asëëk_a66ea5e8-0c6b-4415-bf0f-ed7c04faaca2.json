@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 493,
   "entry_id": "asëëk_a66ea5e8-0c6b-4415-bf0f-ed7c04faaca2",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "asëëk",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈʃǝ:k˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔaˈʃǝ:k˺",
   "sense": {
     "1681b58c-d028-4b6c-af21-833f4abef2ce": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'asʹëëg_071fd2b5-c8ec-405b-a840-71a0419d0870': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "aʃə:k"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1265,
+  "entry_id": "makuur_1c99d1e7-ef79-49f2-96cd-c197186797c0",
+  "bibliography": "",
+  "date": "2020-01-08T15:36:57Z",
+  "date_modified": "2020-01-08T15:37:53Z",
+  "headword": "makuur",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ma'ku:ɾᵊ",
+  "sense": {
+    "ca73efc1-aa22-46e6-acd6-30be305d8a08": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "?",
+        "pt": "macucu"
+      },
+      "def": {
+        "en": "?",
+        "pt": "macucu"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "maku:r"
+}

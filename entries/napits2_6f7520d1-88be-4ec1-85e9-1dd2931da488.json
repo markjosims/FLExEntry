@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 325,
   "entry_id": "napits2_6f7520d1-88be-4ec1-85e9-1dd2931da488",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "napits",
   "morph_type": "stem",
-  "pronunciation": "nãpiɟ̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "nãpiɟ̚",
   "sense": {
     "9b3a4c49-e4e0-4a2f-9781-591e14a58f4b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "napic"
 }

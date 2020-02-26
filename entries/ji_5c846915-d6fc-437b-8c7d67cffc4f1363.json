@@ -1,28 +1,33 @@
 {
+  "Unnamed: 0": 934,
   "entry_id": "ji_5c846915-d6fc-437b-8c7d67cffc4f1363",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ji",
   "morph_type": "stem",
-  "pronunciation": "ji",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'jiʔ', 'Sil Dict 2011': 'ji'}",
+  "pronunciation": "ji",
   "sense": {
     "3bf27487-edce-4483-aa54-0f2a1ae679ed": {
       "pos": "pro",
       "gloss": {
-        "pt": "gente"
+        "en": "one",
+        "pt": "a.gente"
       },
       "def": {
-        "pt": "gente"
+        "en": "one",
+        "pt": "a gente"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'jiʔ', 'Sil Dict 2011': 'ji'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ji"
 }

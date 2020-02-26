@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 636,
   "entry_id": "tii2_d3db1b0f-4558-4e63-94dc-a2d6b0d31def",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-04-04T19:21:41Z",
+  "date_modified": "",
   "headword": "tii",
   "morph_type": "stem",
-  "pronunciation": "ti:ʔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "(ta) tii"
   },
+  "other_sources": "{'Barbosa': 'tatiʔ', 'Cartilhas': 'ti', 'Weir': 'tatɨʔ'}",
+  "pronunciation": "ti:ʔ",
   "sense": {
     "bcf4b8f9-29c4-469e-8b4e-e719da0062ae": {
       "pos": "?",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-04-04T19:21:41Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'tatiʔ', 'Cartilhas': 'ti', 'Weir': 'tatɨʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ti:"
 }

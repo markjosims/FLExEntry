@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1261,
+  "entry_id": "mab_16e3e64e-d991-4ea2-80ce-8e5bd4936d8a",
+  "bibliography": "",
+  "date": "2019-11-05T19:58:28Z",
+  "date_modified": "2019-12-05T23:50:09Z",
+  "headword": "mab",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "mab",
+  "sense": {
+    "e22a927a-971f-4a71-a01e-0bd737c7ab03": {
+      "pos": "?",
+      "gloss": {
+        "en": "on.someones.own",
+        "pt": "sozinho"
+      },
+      "def": {
+        "en": "on someone one",
+        "pt": "sozinho"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "mab"
+}

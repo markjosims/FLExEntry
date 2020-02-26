@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1347,
+  "entry_id": "ti1_6e529536-55b7-49da-b65f-093cf90a0686",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-26T04:38:27Z",
+  "headword": "ti",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019, encontrado em cartilha 4; varias lições"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ti",
+  "sense": {
+    "c3e01ab7-5336-425c-a22a-b2c899a7bf44": {
+      "pos": "conj",
+      "gloss": {
+        "en": "and.then",
+        "pt": "então"
+      },
+      "def": {
+        "en": "and then",
+        "pt": "então"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ti"
+}

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1506,
+  "entry_id": "nyyd_facdf3f0-1a1e-403e-912b-c4f27a0d057e",
+  "bibliography": "",
+  "date": "2019-11-06T14:48:13Z",
+  "date_modified": "2019-11-06T14:49:27Z",
+  "headword": "nyyd",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "nɨ:d",
+  "sense": {
+    "d5fbba1d-875b-41e0-b7bb-e5464bac4b6d": {
+      "pos": "Question particle",
+      "gloss": {
+        "en": "WH",
+        "pt": "WH"
+      },
+      "def": {
+        "en": "What?",
+        "pt": "O que?"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "nɨ:d"
+}

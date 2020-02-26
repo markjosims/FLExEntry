@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 336,
   "entry_id": "karaba_7354ca9f-c488-41c2-aec5-27ce9f1a2a6c",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "karaba",
   "morph_type": "stem",
-  "pronunciation": "kaɾabaʔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Martins': 'kaɾabaʔ'}",
+  "pronunciation": "kaɾabaʔ",
   "sense": {
     "7ab1f647-029f-4dd9-b0fe-ed369c38af75": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'kaɾabaʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "karaba"
 }

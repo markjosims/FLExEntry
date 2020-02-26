@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 42,
   "entry_id": "jag tyd_0b168580-4c78-470b-b8cc-9e258c254748",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jag tyd",
   "morph_type": "phrase",
-  "pronunciation": "jag̚ tɨd̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jag̚ tɨd̚",
   "sense": {
     "6d7a0e30-f14e-4502-be6f-a87ec5630571": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jag tɨd"
 }

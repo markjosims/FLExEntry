@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 581,
   "entry_id": "patug2_c1f04c5c-89ef-403c-988f-4236d1de4a15",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "patug",
   "morph_type": "stem",
-  "pronunciation": "patug̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Barbosa': 'patuk', 'Sil Dict 2011': 'patug'}",
+  "pronunciation": "patug̚",
   "sense": {
     "26c894d3-bb0d-41f6-9e29-5a2ee36f6773": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'patuk', 'Sil Dict 2011': 'patug'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "patug"
 }

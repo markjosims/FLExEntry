@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 457,
   "entry_id": "masoo_9ce33e0d-aa4c-444b-921e-bcdca4f98778",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T13:14:20Z",
+  "date_modified": "",
   "headword": "masoo",
   "morph_type": "stem",
-  "pronunciation": "maˈʃo:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "maˈʃo:ʔ",
   "sense": {
     "24056053-8f89-4c76-a5ae-c457f3c22db0": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T13:14:20Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "maʃo:"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 460,
   "entry_id": "ä̃nh_9d9c4409-ab43-42d2-9381-3d54485636ca",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "ä̃nh",
   "morph_type": "stem",
-  "pronunciation": "ʔʌ̃ɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Martins': 'ʔʌ̃ɲ'}",
+  "pronunciation": "ʔʌ̃ɲ",
   "sense": {
     "6a6e4936-71ba-4ebc-8204-0a68661a9b3b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ʔʌ̃ɲ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʌ̃ɲ"
 }

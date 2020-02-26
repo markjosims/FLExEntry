@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1306,
+  "entry_id": "kaoom_4938a4e2-9691-4b61-b3a2-0233be15194f",
+  "bibliography": "",
+  "date": "2020-01-08T17:38:57Z",
+  "date_modified": "2020-01-08T17:39:30Z",
+  "headword": "kaoom",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ka'o:m",
+  "sense": {
+    "c66988a8-7cf2-40d1-b09a-457b1e20e579": {
+      "pos": "v?",
+      "gloss": {
+        "en": "be.pierced",
+        "pt": "estar.espetado"
+      },
+      "def": {
+        "en": "be pierced",
+        "pt": "estar espetado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kao:m"
+}

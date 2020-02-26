@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1398,
+  "entry_id": "ahajẽẽ_9ce5dcd1-ded8-4107-bf32-c30a03613752",
+  "bibliography": "",
+  "date": "2019-12-15T22:36:16Z",
+  "date_modified": "2019-12-15T22:38:07Z",
+  "headword": "ahajẽẽ",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "a'ha'jɛ̃:",
+  "sense": {
+    "f7fb3e10-1ac1-4d24-b85c-cf7bf3993cb0": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "?",
+        "pt": "ralhar"
+      },
+      "def": {
+        "en": "?",
+        "pt": "ralhar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ahajẽ:"
+}

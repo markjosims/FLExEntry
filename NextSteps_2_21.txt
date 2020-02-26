@@ -1,0 +1,16 @@
+* All matches in the FLEx data have been removed or have notes indicating any issues w/ them in merge_matches.csv OR in new_matches.csv
+* Still need to "condense" variants
+	- morphological variants (e.g. "taah pl. of t'aah") should all be in one str in Bibliographic Field
+	- first step to do this is to print out a set of all unique variant types so I can know what I'm dealing w/
+* Also question of linking roots to entries that are clearly PFX + root
+	- use list of prefixes and match algorithm, tweak distance parameter to only accept e.g. >=0.95 (no sense overloading
+	ourselves w/ false positives)
+* Remove variant fields that reference records that have been deleted.
+* Enforce consistent formatting in bibliography column
+	- also, remove bibliography key from notes column wherever present
+* Enforce consistent formatting in PoS field
+* Enforce consistent usage of apostrophes
+* Prepend asterisk to hypothetical records
+* Re-match these_vars and other_sources to right guid's cuz they somehow got shuffled #FIXED#
+* Resolve all instances of %OR% in FlexiconMERGE.csv
+* Remove number before guid when not needed

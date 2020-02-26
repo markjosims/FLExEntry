@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1022,
   "entry_id": "gaʃɨ:p_892b7b19-8365-483e-82379c74d12d8d10",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "gaʃɨ:p",
   "morph_type": "stem",
-  "pronunciation": "gaʃɨ:p",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'gasyyp'}",
+  "pronunciation": "gaʃɨ:p",
   "sense": {
     "24bcbe78-ccca-4006-98be-eada51fff66e": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'gasʹyyb_264b5412-5901-455b-bb3f-bed8595fe801': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'gasyyp'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gaʃɨ:p"
 }

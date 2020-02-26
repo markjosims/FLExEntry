@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1237,
   "entry_id": "wəh (n.i. wə:h)_fd3e48ba-64e1-44b1-994cc83710ef13a5",
+  "bibliography": "Weir 1990; Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "wəh (n.i. wə:h)",
   "morph_type": "phrase",
-  "pronunciation": "wəh (n.i. wə:h)",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'wʉh (n.i. wʉʉh)'}",
+  "pronunciation": "wəh (n.i. wə:h)",
   "sense": {
     "6d063f8b-7562-436f-9259-acbe34c333c9": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1990; Weir 1994",
-  "other_sources": "{'Weir': 'wʉh (n.i. wʉʉh)'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wəh (n.i. wə:h)"
 }

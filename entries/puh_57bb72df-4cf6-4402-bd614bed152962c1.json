@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 927,
   "entry_id": "puh_57bb72df-4cf6-4402-bd614bed152962c1",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "puh",
   "morph_type": "stem",
-  "pronunciation": "puh",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'puh', 'Sil Dict 2011': 'puh'}",
+  "pronunciation": "puh",
   "sense": {
     "e5c980c3-0c6d-4eda-a360-d37a5e7c831d": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'puh', 'Sil Dict 2011': 'puh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "puh"
 }

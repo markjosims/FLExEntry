@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 228,
   "entry_id": "mukejar_49cc4b48-66d2-491d-a6a9-633a44661353",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "mukejar",
   "morph_type": "stem",
-  "pronunciation": "mũkejaɾᵊ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mũkejaɾᵊ",
   "sense": {
     "c4b9371a-0a90-4cae-ae40-f8f0339df952": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "mukejar"
 }

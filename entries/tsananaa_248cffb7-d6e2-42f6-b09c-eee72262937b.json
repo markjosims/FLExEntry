@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1275,
+  "entry_id": "tsananaa_248cffb7-d6e2-42f6-b09c-eee72262937b",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-08T15:57:35Z",
+  "headword": "tsananaa",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ɟanana:",
+  "sense": {
+    "b71f8e84-f4a4-49b2-8f8b-e4e22f4e5fc6": {
+      "pos": "n",
+      "gloss": {
+        "en": "?",
+        "pt": "lambe.olho"
+      },
+      "def": {
+        "en": "?",
+        "pt": "esp. de inseto (lambe-olho)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "canana:"
+}

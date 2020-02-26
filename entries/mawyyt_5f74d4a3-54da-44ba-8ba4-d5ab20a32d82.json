@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 277,
   "entry_id": "mawyyt_5f74d4a3-54da-44ba-8ba4-d5ab20a32d82",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:25:45Z",
+  "date_modified": "",
   "headword": "mawyyt",
   "morph_type": "stem",
-  "pronunciation": "maˈwɨ:t˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "maˈwɨ:t˺",
   "sense": {
     "fe520e06-4fa1-4776-bac3-15ad10a04fbe": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:25:45Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "mawɨ:t"
 }

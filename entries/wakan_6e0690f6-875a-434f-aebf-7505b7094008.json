@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 322,
   "entry_id": "wakan_6e0690f6-875a-434f-aebf-7505b7094008",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "wakan",
   "morph_type": "stem",
-  "pronunciation": "wakadn",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'wakããn'}",
+  "pronunciation": "wakadn",
   "sense": {
     "41204cfb-a477-47a8-82a1-844e241bec18": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'wakããn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wakan"
 }

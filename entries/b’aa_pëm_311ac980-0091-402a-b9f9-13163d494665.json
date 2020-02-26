@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 151,
   "entry_id": "b’aa pëm_311ac980-0091-402a-b9f9-13163d494665",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T23:10:40Z",
+  "date_modified": "",
   "headword": "b’aa pëm",
   "morph_type": "phrase",
-  "pronunciation": "baʔaʔ pǝbm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "baʔaʔ pǝbm",
   "sense": {
     "79d2e301-7bfd-4988-a779-174c6bb00c67": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T23:10:40Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ba̰: pəm"
 }

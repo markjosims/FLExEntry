@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1201,
   "entry_id": "tɨ:_e4e003b3-b87d-4e64-853a137ee8f53b30",
+  "bibliography": "Weir 1990",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "tɨ:",
   "morph_type": "stem",
-  "pronunciation": "tɨ:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'tɨɨ'}",
+  "pronunciation": "tɨ:",
   "sense": {
     "5c2fa871-16cb-4ba1-8762-f6e0ba5e37f4": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1990",
-  "other_sources": "{'Weir': 'tɨɨ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tɨ:"
 }

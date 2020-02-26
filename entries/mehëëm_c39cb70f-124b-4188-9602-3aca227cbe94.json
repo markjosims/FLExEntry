@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 588,
   "entry_id": "mehëëm_c39cb70f-124b-4188-9602-3aca227cbe94",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "mehëëm",
   "morph_type": "stem",
-  "pronunciation": "mẽhə:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mẽhə:bm",
   "sense": {
     "a85bd45a-5917-4840-a179-16e45ab17f1e": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "mehə:m"
 }

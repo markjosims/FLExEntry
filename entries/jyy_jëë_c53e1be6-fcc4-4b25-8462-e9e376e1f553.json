@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 597,
   "entry_id": "jyy/jëë_c53e1be6-fcc4-4b25-8462-e9e376e1f553",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jÿÿ",
   "morph_type": "stem",
-  "pronunciation": "jɨ:ʔ jə:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jɨ:ʔ jə:ʔ",
   "sense": {
     "013f4eff-1cf3-473c-bf7a-a02d9b379b32": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "j?:"
 }

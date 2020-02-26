@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 562,
   "entry_id": "kanapiih2_bd918020-46ec-4386-951e-fac4fbba4784",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kanapiih",
   "morph_type": "stem",
-  "pronunciation": "kadnãpi:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'kanapiih', 'Barbosa': 'kanapĩh'}",
+  "pronunciation": "kadnãpi:h",
   "sense": {
     "3644aa64-8536-418d-a9ed-1b550216ac0e": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'kanapiih', 'Barbosa': 'kanapĩh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kanapi:h"
 }

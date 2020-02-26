@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 49,
   "entry_id": "gurii-i_0db187a9-b6e9-4c88-939c-48697a72aa4b",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:32:18Z",
+  "date_modified": "",
   "headword": "gurii-i",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "3c1dd3c6-40e8-45b7-94ad-9bcad18ab8e8": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:32:18Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "guri: i"
 }

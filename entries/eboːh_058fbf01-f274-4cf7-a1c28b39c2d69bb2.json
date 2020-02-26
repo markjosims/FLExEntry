@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 766,
   "entry_id": "ebo:h_058fbf01-f274-4cf7-a1c28b39c2d69bb2",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ebo:h",
   "morph_type": "stem",
-  "pronunciation": "ebo:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'ebooh'}",
+  "pronunciation": "ebo:h",
   "sense": {
     "98417052-1b46-4bec-8fe4-035586275105": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'eboh_479d7d4d-db5a-43de-ab6b-6ec74ab9881e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ebʹooh_9993bde4-2888-40e6-b27e-800fa235ee59': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'ebooh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ebo:h"
 }

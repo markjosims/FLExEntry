@@ -1,0 +1,52 @@
+{
+  "Unnamed: 0": 1296,
+  "entry_id": "ajeet_3d73abe6-662f-4c45-aaa2-b369c35d7215",
+  "bibliography": "",
+  "date": "2019-12-15T23:27:01Z",
+  "date_modified": "2019-12-15T23:27:45Z",
+  "headword": "ajeet",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes; 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "aje:t",
+  "sense": {
+    "cd44d40d-2650-453a-b993-291f1a061025": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "?",
+        "pt": "fazer.mojeca"
+      },
+      "def": {
+        "en": "?",
+        "pt": "fazer mojeca"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "jeet_220ffd2f-601c-4037-99e5-b77addc9d924": {
+      "Unnamed: 0": 1269,
+      "bibliography": "",
+      "date": "2020-01-06T19:49:21Z",
+      "date_modified": "2020-01-06T19:49:21Z",
+      "headword": "jeet",
+      "morph_type": "root",
+      "note": null,
+      "other_sources": "{}",
+      "pronunciation": "",
+      "sense": null,
+      "these_vars": {},
+      "ipa": "je:t",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "aje:t"
+}

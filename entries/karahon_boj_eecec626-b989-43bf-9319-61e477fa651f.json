@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 707,
   "entry_id": "karahon boj_eecec626-b989-43bf-9319-61e477fa651f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "karahon boj",
   "morph_type": "phrase",
-  "pronunciation": "kaɾahodn boj",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kaɾahodn boj",
   "sense": {
     "623433c4-1d6c-4fce-a333-4ffb212c76ea": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "karahon boj"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 966,
   "entry_id": "jahu:n_6ec5b2d9-53a2-4e8b-8527bb67d204eb19",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "jahu:n",
   "morph_type": "stem",
-  "pronunciation": "jahu:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'yahuun'}",
+  "pronunciation": "jahu:n",
   "sense": {
     "e98061b8-8baf-4bfd-83f1-a3677d634d17": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'yahuun'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jahu:n"
 }

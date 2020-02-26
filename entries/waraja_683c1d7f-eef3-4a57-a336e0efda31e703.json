@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 953,
   "entry_id": "waraja_683c1d7f-eef3-4a57-a336e0efda31e703",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "waraja",
   "morph_type": "stem",
-  "pronunciation": "waraja",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'waraja'}",
+  "pronunciation": "waraja",
   "sense": {
     "a9f29c8b-73ea-49d4-9031-1586721fd962": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'waraja'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "waraja"
 }

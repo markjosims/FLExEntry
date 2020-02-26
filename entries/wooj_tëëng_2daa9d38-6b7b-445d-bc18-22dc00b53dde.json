@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 134,
   "entry_id": "wooj tëëng_2daa9d38-6b7b-445d-bc18-22dc00b53dde",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "wooj tëëng",
   "morph_type": "phrase",
-  "pronunciation": "wo:j tə:gŋ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "wo:j tə:gŋ",
   "sense": {
     "4d198acd-edc7-4a2d-9898-32c571d63b3b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "wo:j tə:ŋ"
 }

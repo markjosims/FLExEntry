@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1471,
+  "entry_id": "ha1_d8ff5f99-7c38-4ed3-ae5a-ceba827841bf",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-26T04:26:08Z",
+  "headword": "ha",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Weir 1990"
+  },
+  "other_sources": "{'Sil Dict 2011': 'ỹỹm'}",
+  "pronunciation": "ha",
+  "sense": {
+    "af435492-58fc-45d9-a68b-759b9b5d08ce": {
+      "pos": "pre",
+      "gloss": {
+        "en": "REL",
+        "pt": "REL"
+      },
+      "def": {
+        "en": "Relativized subject",
+        "pt": "Sujeito relativizado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ha"
+}

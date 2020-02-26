@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1356,
+  "entry_id": "nad&apos;oots_7a84e9dc-08bc-4adf-bab3-c38926be59ef",
+  "bibliography": "",
+  "date": "2019-11-06T14:17:24Z",
+  "date_modified": "2019-11-06T14:19:20Z",
+  "headword": "nad'oots",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldwork 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "na'doʔoɟ",
+  "sense": {
+    "bd56fced-6752-4417-9976-5824d4361795": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "not.be",
+        "pt": "não.ser"
+      },
+      "def": {
+        "en": "not.be",
+        "pt": "não ser"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "nado̰:c"
+}

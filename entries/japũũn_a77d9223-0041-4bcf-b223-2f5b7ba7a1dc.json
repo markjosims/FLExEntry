@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 496,
   "entry_id": "japũũn_a77d9223-0041-4bcf-b223-2f5b7ba7a1dc",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "japũũn",
   "morph_type": "stem",
-  "pronunciation": "japũ:n",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "japũ:n",
   "sense": {
     "61eb6c89-62e9-4d43-9631-a60b3b75416f": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "japũ:n"
 }

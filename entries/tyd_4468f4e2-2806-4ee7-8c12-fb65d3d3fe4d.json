@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 210,
   "entry_id": "tyd_4468f4e2-2806-4ee7-8c12-fb65d3d3fe4d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tyd",
   "morph_type": "stem",
-  "pronunciation": "tɨd˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "tɨd˺",
   "sense": {
     "a65360c9-d8b4-4ffa-af97-987dd1ddbe3e": {
       "pos": "n",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "tɨd"
 }

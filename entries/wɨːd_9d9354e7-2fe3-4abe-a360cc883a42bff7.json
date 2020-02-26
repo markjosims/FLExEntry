@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1080,
   "entry_id": "wɨ:d_9d9354e7-2fe3-4abe-a360cc883a42bff7",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "wɨ:d",
   "morph_type": "stem",
-  "pronunciation": "wɨ:d",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'wɨɨd'}",
+  "pronunciation": "wɨ:d",
   "sense": {
     "abef926e-30eb-474e-acdb-321061749115": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'wɨɨd'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wɨ:d"
 }

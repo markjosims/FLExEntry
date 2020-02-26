@@ -15,6 +15,17 @@ Don't run it if you expect results in less than an hour.
 
 import pandas as pd
 from LevenshteinSandbox import SmartLevenshtein
+from time import time
+
+# decorator
+def time_exec(f):
+    def g(*args, **kwargs):
+        start = time()
+        out = f(*args, **kwargs)
+        end = time()
+        print(str(f), end-start)
+        return out
+    return g
 
 # configure string comparison object
 lev = SmartLevenshtein()
@@ -34,6 +45,7 @@ def main():
     matches = match_dfs(df, df)
     matches.to_csv(out_file, encoding='utf8', index=False)
 
+@time_exec
 def match_dfs(df1, df2):
     matches = pd.DataFrame(index=df1.index, columns=['matches'])
     

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 393,
   "entry_id": "TEST-Oct23_8717e7d0-d24d-47d5-b374-7cb36a00fc67",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-10-23T21:30:56Z",
+  "date_modified": "",
   "headword": "TEST-Oct23",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "b2c34180-2aa9-428a-a1c7-5dab00da3065": {
       "pos": "",
@@ -16,7 +19,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-10-23T21:30:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "TEST Oct23"
 }

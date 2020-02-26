@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1046,
   "entry_id": "cɨ̃m gapɛd_923b7333-4f71-4df4-969ca7edf22922aa",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "cɨ̃m gapɛd",
   "morph_type": "phrase",
-  "pronunciation": "cɨ̃m gapɛd",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'ɟɨ̃m gapɛd'}",
+  "pronunciation": "cɨ̃m gapɛd",
   "sense": {
     "95ef8b75-bfb5-4e1b-ab43-66fcb3443d61": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'ɟɨ̃m gapɛd'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "cɨ̃m gapɛd"
 }

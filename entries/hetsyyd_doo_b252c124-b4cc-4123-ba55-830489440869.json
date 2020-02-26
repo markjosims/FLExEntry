@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 523,
   "entry_id": "hetsyyd doo_b252c124-b4cc-4123-ba55-830489440869",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "hetsyyd doo",
   "morph_type": "phrase",
-  "pronunciation": "heʔtʃɨ:d̚ do:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "heʔtʃɨ:d̚ do:ʔ",
   "sense": {
     "fddffcd4-f85d-4c97-b3c1-281d165b93db": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hecɨ:d do:"
 }

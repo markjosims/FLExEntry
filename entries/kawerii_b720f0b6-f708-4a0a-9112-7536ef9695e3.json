@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 533,
   "entry_id": "kawerii_b720f0b6-f708-4a0a-9112-7536ef9695e3",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:31:32Z",
+  "date_modified": "",
   "headword": "kawerii",
   "morph_type": "stem",
-  "pronunciation": "kaweʔˈri:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kaweʔˈri:ʔ",
   "sense": {
     "a992b1f6-69ca-4e05-9c81-8247409eebf5": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:31:32Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kaweri:"
 }

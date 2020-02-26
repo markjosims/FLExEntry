@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 133,
   "entry_id": "sanajoo_2d51eef7-3530-450e-9048-2652a3aef93c",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "sanajoo",
   "morph_type": "stem",
-  "pronunciation": "ʃadnãjo:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "ʃadnãjo:ʔ",
   "sense": {
     "4c2e3938-3cc0-4a5f-a6d3-903040bb7e28": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃanajo:"
 }

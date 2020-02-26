@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1011,
   "entry_id": "mo: na̰: kawa̰:t_82d0dccc-bff7-4bfb-802a812407c55173",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-20T22:57:47Z",
+  "date_modified": "",
   "headword": "mo: na̰: kawa̰:t",
   "morph_type": "root",
-  "pronunciation": "mo: na̰: kawa̰:t",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'moo nʹaa kawʹaat'}",
+  "pronunciation": "mo: na̰: kawa̰:t",
   "sense": {
     "61bb1e24-6231-443a-ba04-ad4062d25ca9": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-20T22:57:47Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'moo nʹaa kawʹaat'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mo: na̰: kawa̰:t"
 }

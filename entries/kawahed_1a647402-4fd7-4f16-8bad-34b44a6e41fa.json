@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 82,
   "entry_id": "kawahed_1a647402-4fd7-4f16-8bad-34b44a6e41fa",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "kawahed",
   "morph_type": "stem",
-  "pronunciation": "kawahed",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kawahed",
   "sense": {
     "e54b181c-9272-4054-96a3-d187d22e3133": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kawahed"
 }

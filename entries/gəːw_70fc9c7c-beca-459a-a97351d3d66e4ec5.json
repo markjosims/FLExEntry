@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 974,
   "entry_id": "gə:w_70fc9c7c-beca-459a-a97351d3d66e4ec5",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "gə:w",
   "morph_type": "stem",
-  "pronunciation": "gə:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'gɤːw', 'Weir': 'gʉ́ʉ́w', 'Sil Dict 2011': 'gëëw'}",
+  "pronunciation": "gə:w",
   "sense": {
     "0564e6eb-e843-4847-8845-9a7bbca7197e": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'gɤːw', 'Weir': 'gʉ́ʉ́w', 'Sil Dict 2011': 'gëëw'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gə:w"
 }

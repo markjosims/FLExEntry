@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 465,
   "entry_id": "jëë_a0520e71-1c6b-440a-bfb4-073d8767e810",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "jëë",
   "morph_type": "stem",
-  "pronunciation": "jə:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'jɤːʔ'}",
+  "pronunciation": "jə:",
   "sense": {
     "b487a001-f2e9-4175-8ca9-4720edda4966": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'jɤːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jə:"
 }

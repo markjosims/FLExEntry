@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1321,
+  "entry_id": "nuu me_5921bae6-4777-4444-be41-a1db8d4ba21d",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-05T23:48:02Z",
+  "headword": "nuu me",
+  "morph_type": "phrase",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "nu: me",
+  "sense": {
+    "cd09681e-9844-4f3d-8ca5-67a43f1a3b79": {
+      "pos": "adv",
+      "gloss": {
+        "en": "times",
+        "pt": "vezes"
+      },
+      "def": {
+        "en": "times",
+        "pt": "vezes"
+      },
+      "reverse": "",
+      "note": "{'grammar': 'event quantifier'}",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "nu: me"
+}

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 842,
   "entry_id": "da:p_2c5b7407-1bb9-4ee2-b7438ad9b0f2f317",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "da:p",
   "morph_type": "stem",
-  "pronunciation": "da:p",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'daap'}",
+  "pronunciation": "da:p",
   "sense": {
     "c073101f-a142-417f-b40a-81133c260729": {
       "pos": "Adverb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'daap'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "da:p"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 608,
   "entry_id": " =kóm2_c8ff3ede-cd52-435e-aa16-b8e6ad9ac937",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-06T21:08:19Z",
+  "date_modified": "",
   "headword": " =kóm",
   "morph_type": "stem",
-  "pronunciation": "kɔbm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kɔbm",
   "sense": {
     "afac9822-bc45-4171-bcc1-148111de1839": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T21:08:19Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "  kɔm"
 }

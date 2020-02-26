@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1149,
   "entry_id": "boj_c23a0ba2-7d0a-4ada-838e7864cf0a7b9d",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "boj",
   "morph_type": "stem",
-  "pronunciation": "boj",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'boj'}",
+  "pronunciation": "boj",
   "sense": {
     "5cd3bb62-df4f-45b7-9144-810db28487ab": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'boj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "boj"
 }

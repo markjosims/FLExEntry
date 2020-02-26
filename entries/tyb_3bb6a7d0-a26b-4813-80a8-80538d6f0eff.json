@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 176,
   "entry_id": "tyb_3bb6a7d0-a26b-4813-80a8-80538d6f0eff",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-06T19:07:01Z",
+  "date_modified": "",
   "headword": "tyb",
   "morph_type": "stem",
-  "pronunciation": "tɨb˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "ta tyb"
   },
+  "other_sources": "",
+  "pronunciation": "tɨb˺",
   "sense": {
     "0cccebb5-8648-4f42-8d47-a3bb51e8a5d5": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T19:07:01Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "tɨb"
 }

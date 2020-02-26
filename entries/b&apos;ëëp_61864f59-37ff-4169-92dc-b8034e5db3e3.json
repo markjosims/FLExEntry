@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1330,
+  "entry_id": "b&apos;ëëp_61864f59-37ff-4169-92dc-b8034e5db3e3",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-29T02:52:51Z",
+  "headword": "b'ëëp",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Martins': 'ʔajɯːʔ'}",
+  "pronunciation": "bəʔəp",
+  "sense": {
+    "f1c818c6-44a5-4e92-ae12-4bebeb71ac8c": {
+      "pos": "adv",
+      "gloss": {
+        "en": "Come.here!",
+        "pt": "Vem!"
+      },
+      "def": {
+        "en": "Come here!",
+        "pt": "Vem!"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "bə̰:p"
+}

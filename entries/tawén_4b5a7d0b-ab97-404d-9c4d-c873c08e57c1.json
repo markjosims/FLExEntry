@@ -1,0 +1,28 @@
+{
+  "Unnamed: 0": 1308,
+  "entry_id": "tawén_4b5a7d0b-ab97-404d-9c4d-c873c08e57c1",
+  "bibliography": "",
+  "date": "2019-12-29T02:24:57Z",
+  "date_modified": "2019-12-29T02:24:57Z",
+  "headword": "tawén",
+  "morph_type": "stem",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "",
+  "sense": {
+    "0f2fd825-3665-4d94-840c-1b07545d0a7d": {
+      "pos": "Subordinating connective",
+      "gloss": {
+        "en": "because.of",
+        "pt": "por.causa"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tawɛn"
+}

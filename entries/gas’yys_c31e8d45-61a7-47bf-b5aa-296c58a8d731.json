@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 584,
   "entry_id": "gas’yys_c31e8d45-61a7-47bf-b5aa-296c58a8d731",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T15:47:27Z",
+  "date_modified": "",
   "headword": "gas’yys",
   "morph_type": "stem",
-  "pronunciation": "k’aˈʃǝʔǝʃ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "problem: k’aˈʃǝʔǝʃ or k’aˈʃ ɨ̃ʔ ɨ̃ʃ"
   },
+  "other_sources": "",
+  "pronunciation": "k’aˈʃǝʔǝʃ",
   "sense": {
     "dffbda04-3a7b-4ada-b977-704815a62858": {
       "pos": "Verb",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T15:47:27Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "gaʃɨ̰:ʃ"
 }

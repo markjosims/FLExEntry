@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 442,
   "entry_id": "mỹỹm_97557290-0196-462e-8057-e1ef84dc9ee7",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "mỹỹm",
   "morph_type": "stem",
-  "pronunciation": "mɨ̃:m",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'myym', 'Weir': 'mɨɨm'}",
+  "pronunciation": "mɨ̃:m",
   "sense": {
     "05914b5d-e8d3-4f1a-8928-e15b2060dffe": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'myym', 'Weir': 'mɨɨm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mɨ̃:m"
 }

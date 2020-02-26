@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1353,
+  "entry_id": "ub_73c90a3f-cfeb-471d-ae53-3c6573e4e5ec",
+  "bibliography": "",
+  "date": "2019-12-02T13:39:17Z",
+  "date_modified": "2019-12-02T13:40:33Z",
+  "headword": "ub",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ub",
+  "sense": {
+    "a1f09468-b050-4f00-922b-bf4596b293ae": {
+      "pos": "",
+      "gloss": {
+        "en": "INTS",
+        "pt": "INTS"
+      },
+      "def": {
+        "en": "INTS",
+        "pt": "INTS"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ub"
+}

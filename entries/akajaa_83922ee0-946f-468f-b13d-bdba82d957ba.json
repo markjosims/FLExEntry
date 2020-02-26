@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1370,
+  "entry_id": "akajaa_83922ee0-946f-468f-b13d-bdba82d957ba",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "2019-12-15T23:05:58Z",
+  "headword": "akajaa",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011"
+  },
+  "other_sources": "{'Sil Dict 2011': 'ahỹỹh'}",
+  "pronunciation": "kaja:",
+  "sense": {
+    "51df100f-fdcb-460f-8f6d-932797cc5b68": {
+      "pos": "v",
+      "gloss": {
+        "pt": "chegar"
+      },
+      "def": {
+        "pt": "chegar; terminar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'akaja_661cf15c-fe73-4d92-997c-a7572c531f9b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "akaja:"
+}

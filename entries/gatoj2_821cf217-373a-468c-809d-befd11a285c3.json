@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 378,
   "entry_id": "gatoj2_821cf217-373a-468c-809d-befd11a285c3",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "gatoj",
   "morph_type": "stem",
-  "pronunciation": "k'atoj",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'gatoj'}",
+  "pronunciation": "k'atoj",
   "sense": {
     "04136b99-da36-48b3-afdb-7c8a47d55bf9": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'gatoj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gatoj"
 }

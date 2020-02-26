@@ -1,0 +1,68 @@
+{
+  "Unnamed: 0": 1331,
+  "entry_id": "boog_62ca10cf-1f6b-4649-90fa-b022c5c34283",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-06T15:54:44Z",
+  "headword": "boog",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{'Weir': 'ba'}",
+  "pronunciation": "bo:g",
+  "sense": {
+    "a549cbf1-2e6e-4204-a158-d3a52b25819e": {
+      "pos": "n",
+      "gloss": {
+        "en": "bitter.manioc",
+        "pt": "maniva"
+      },
+      "def": {
+        "en": "bitter.manioc",
+        "pt": "maniva"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "boog säg_1ebdcd1c-797a-4f7e-acb2-80d18823ae02": {
+      "Unnamed: 0": 1268,
+      "bibliography": "",
+      "date": "2019-12-18T21:37:55Z",
+      "date_modified": "2019-12-18T21:39:46Z",
+      "headword": "boog säg",
+      "morph_type": "stem",
+      "note": null,
+      "other_sources": "{}",
+      "pronunciation": "bo:g ʃʌg",
+      "sense": {
+        "d84fdbad-7506-4423-99f8-9eb7696ea304": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "soaked.manioc.flour",
+            "pt": "sibé"
+          },
+          "def": {
+            "en": "soaked manioc flour",
+            "pt": "sibé"
+          },
+          "reverse": "",
+          "note": "{'anthropology': 'essential part of Nadëb daily alimenation'}",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "bo:g ʃʌg",
+      "var_type": {
+        "type": "_component-lexeme",
+        "is-primary": "true",
+        "complex-form-type": "Compound"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "bo:g"
+}

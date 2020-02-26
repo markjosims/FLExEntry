@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1154,
   "entry_id": "cakod_c6a20b3f-d2ad-402a-bcf7ced8a9d7672a",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "cakod",
   "morph_type": "stem",
-  "pronunciation": "cakod",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ɟakod'}",
+  "pronunciation": "cakod",
   "sense": {
     "ef25923a-eb7e-4133-80e4-70925142054b": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ɟakod'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "cakod"
 }

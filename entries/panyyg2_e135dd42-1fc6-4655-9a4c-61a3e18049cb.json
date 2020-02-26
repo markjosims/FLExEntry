@@ -1,0 +1,28 @@
+{
+  "Unnamed: 0": 1479,
+  "entry_id": "panyyg2_e135dd42-1fc6-4655-9a4c-61a3e18049cb",
+  "bibliography": "",
+  "date": "2020-01-29T21:09:30Z",
+  "date_modified": "2020-01-29T21:09:30Z",
+  "headword": "panyyg",
+  "morph_type": "stem",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "",
+  "sense": {
+    "fd3e2fa0-5c33-4c71-9b4b-f006a6b7c367": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "story",
+        "pt": "conto"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "panɨ:g"
+}

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1009,
   "entry_id": "ɨd_81932843-b81d-48e9-988fc34c461ec696",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ɨd",
   "morph_type": "stem",
-  "pronunciation": "ɨd",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Cartilhas': 'yd', 'Sil Dict 2011': 'yd'}",
+  "pronunciation": "ɨd",
   "sense": {
     "4f1ffcc8-89dd-465c-afaa-dd5aaf49639d": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Cartilhas': 'yd', 'Sil Dict 2011': 'yd'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ɨd"
 }

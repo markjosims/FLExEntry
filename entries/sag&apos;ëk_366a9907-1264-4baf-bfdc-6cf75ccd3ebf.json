@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1289,
+  "entry_id": "sag&apos;ëk_366a9907-1264-4baf-bfdc-6cf75ccd3ebf",
+  "bibliography": "",
+  "date": "2019-12-18T16:00:01Z",
+  "date_modified": "2019-12-19T16:25:26Z",
+  "headword": "sag'ëk",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "sa'kʔək",
+  "sense": {
+    "eb55a780-07d2-4e4e-b4ef-ae62ebfa0098": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "burp",
+        "pt": "soluçar"
+      },
+      "def": {
+        "en": "burp",
+        "pt": "soluçar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃagə̰k"
+}

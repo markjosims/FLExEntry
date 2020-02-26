@@ -1,26 +1,33 @@
 {
+  "Unnamed: 0": 961,
   "entry_id": "mahaŋ_6da7140a-20bc-4055-a9dd9fe336967a75",
+  "bibliography": "Weir 1990",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "mahaŋ",
   "morph_type": "stem",
-  "pronunciation": "mahaŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'mahang'}",
+  "pronunciation": "mahaŋ",
   "sense": {
     "280d9220-4451-4b31-81f9-a767b1ad7ea8": {
       "pos": "post",
       "gloss": {
-        "en": "among"
+        "en": "among",
+        "pt": "no.meio"
       },
-      "def": null,
+      "def": {
+        "en": "among",
+        "pt": "no meio"
+      },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Weir 1990",
-  "other_sources": "{'Weir': 'mahang'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mahaŋ"
 }

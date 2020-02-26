@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 867,
   "entry_id": "aʃã:m_38063eab-2670-4f78-a5432dcdf1d18be5",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "aʃã:m",
   "morph_type": "stem",
-  "pronunciation": "aʃã:m",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'asããm'}",
+  "pronunciation": "aʃã:m",
   "sense": {
     "2d320eec-efb1-4489-8abf-fbe5892aae3f": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'asʹããm_99362fa3-10cc-4f03-a0ce-6e14fa37d7c0': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'asããm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "aʃã:m"
 }

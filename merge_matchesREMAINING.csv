@@ -1,0 +1,5 @@
+entry_id,def,status,matches,merge_error
+takod2_a630902b-b26a-4906-870e-2c4c62b001b1,bamboo;taboca,homophones?,"{'takod_b4a9928d-a6e7-43f6-8956769d02980cfa': ('takod', 'ambaiba.sp')}",
+ =kóm1_b4ef6f78-08bb-4d23-9cba-f68a176930c7,root;raiz,merge???,"{' =kóm2_c8ff3ede-cd52-435e-aa16-b8e6ad9ac937': (' =kóm', 'thigh;coxa')}",
+nyy2_2a616b2b-369a-4c2f-96a4-fed147510a78,INTERG,merge??? (is one a typo or are these two different words?),"{'nyyd_facdf3f0-1a1e-403e-912b-c4f27a0d057e': ('nyyd', 'WH;WH')}",
+eỹỹm2_b7f8608c-1aaa-4014-b04d-968cde2f7f87,fear;ter.medo,merge? are eyym & e’yym inflectional or derivational variants?,"{'eỹỹm1_db33bb76-0902-4cd5-a8db-eb1f7bdaefba': ('eỹỹm', 'fear;ter.medo'), 'e&apos;ỹỹm_f10c9014-71b7-47c5-94e5-6838e40da1fe': (""e'ỹỹm"", 'scare;causar.medo')}",Note field has conflicting data.

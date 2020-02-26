@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 241,
   "entry_id": "jawyk_4e1f40a1-8c39-45c3-86b9-92a152d8e952",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-06T20:37:24Z",
+  "date_modified": "",
   "headword": "jawyk",
   "morph_type": "stem",
-  "pronunciation": "jaˈwɨk˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "jaˈwɨk˺",
   "sense": {
     "09cf758e-2dba-455a-9678-dcae682566d1": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T20:37:24Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jawɨk"
 }

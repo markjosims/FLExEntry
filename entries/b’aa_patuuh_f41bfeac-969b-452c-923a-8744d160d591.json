@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 725,
   "entry_id": "b’aa patuuh_f41bfeac-969b-452c-923a-8744d160d591",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T17:13:07Z",
+  "date_modified": "",
   "headword": "b’aa patuuh",
   "morph_type": "phrase",
-  "pronunciation": "baʔah paˈtu:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "baʔah paˈtu:h",
   "sense": {
     "e94f2a4a-2b0c-479b-85cf-033f7b6c91d1": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:13:07Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ba̰: patu:h"
 }

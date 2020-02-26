@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1157,
   "entry_id": "ruɲ_c78e3c36-0f7b-4e27-ae425391ecaa33b1",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ruɲ",
   "morph_type": "stem",
-  "pronunciation": "ruɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ɾuɲ'}",
+  "pronunciation": "ruɲ",
   "sense": {
     "76bec828-52c3-4783-99cf-02cb49016397": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ɾuɲ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ruɲ"
 }

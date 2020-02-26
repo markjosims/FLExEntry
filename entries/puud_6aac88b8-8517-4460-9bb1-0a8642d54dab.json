@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1340,
+  "entry_id": "puud_6aac88b8-8517-4460-9bb1-0a8642d54dab",
+  "bibliography": "",
+  "date": "2019-12-13T13:59:10Z",
+  "date_modified": "2019-12-13T14:01:11Z",
+  "headword": "puud",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Sil Dict 2011': 'myyj'}",
+  "pronunciation": "pu:d",
+  "sense": {
+    "0256543c-ef19-476c-ab04-435c68b72ca5": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "song.dabucuri",
+        "pt": "canto.dabucuri"
+      },
+      "def": {
+        "en": "song of the dabucuri",
+        "pt": "canto do dabucuri"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "pu:d"
+}

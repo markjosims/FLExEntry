@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1114,
   "entry_id": "kanũ:d_b2baabe1-7db5-4e9b-bbdc12589f894f00",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "kanũ:d",
   "morph_type": "stem",
-  "pronunciation": "kanũ:d",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'kanũːd'}",
+  "pronunciation": "kanũ:d",
   "sense": {
     "4026826f-c9c1-4fcd-b728-763101143927": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'kanũːd'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kanũ:d"
 }

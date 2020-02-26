@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 789,
   "entry_id": "juŋ_0d01b43a-977f-4bee-acd817cc25699b52",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "juŋ",
   "morph_type": "stem",
-  "pronunciation": "juŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'yung'}",
+  "pronunciation": "juŋ",
   "sense": {
     "cd383986-03c5-4ff6-946a-35e2df176d23": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'yung'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "juŋ"
 }

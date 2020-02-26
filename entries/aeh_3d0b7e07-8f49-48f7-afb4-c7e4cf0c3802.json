@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 180,
   "entry_id": "aeh_3d0b7e07-8f49-48f7-afb4-c7e4cf0c3802",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "aeh",
   "morph_type": "stem",
-  "pronunciation": "ʔeh",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeh",
   "sense": {
     "e24b937d-f986-4e73-a3bd-5b6b59a0a01a": {
       "pos": "adj",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "aeh"
 }

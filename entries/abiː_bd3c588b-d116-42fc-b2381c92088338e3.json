@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1139,
   "entry_id": "abi:_bd3c588b-d116-42fc-b2381c92088338e3",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "abi:",
   "morph_type": "stem",
-  "pronunciation": "abi:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'abii'}",
+  "pronunciation": "abi:",
   "sense": {
     "a5fa8680-0856-417b-b767-0627f3da7a37": {
       "pos": "v",
@@ -19,10 +22,10 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'abi_c8927501-771f-4db0-afa6-9ca9ca67d32b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'abʹii_f51c2d5a-deec-4c2c-9958-e47868ad495d': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
+      "these_vars": "{'abi_c8927501-771f-4db0-afa6-9ca9ca67d32b': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ab&apos;ii_f51c2d5a-deec-4c2c-9958-e47868ad495d': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'abii'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "abi:"
 }

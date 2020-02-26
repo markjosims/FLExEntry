@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 928,
   "entry_id": "bo̰:w_58f3af21-562e-4ed9-a323803b746fa4b7",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "bo̰:w",
   "morph_type": "stem",
-  "pronunciation": "bo̰:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'bʹoow'}",
+  "pronunciation": "bo̰:w",
   "sense": {
     "98b46c4c-76e6-465d-9645-6c4d2ad40186": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'bʹoow'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "bo̰:w"
 }

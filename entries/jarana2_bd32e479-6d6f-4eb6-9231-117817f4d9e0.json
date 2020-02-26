@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 559,
   "entry_id": "jarana2_bd32e479-6d6f-4eb6-9231-117817f4d9e0",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jarana",
   "morph_type": "stem",
-  "pronunciation": "jaɾadnãʔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'jarana'}",
+  "pronunciation": "jaɾadnãʔ",
   "sense": {
     "90264752-e438-4aea-80d1-8a33152fd555": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'jarana'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jarana"
 }

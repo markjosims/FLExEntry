@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1307,
+  "entry_id": "sẽẽ_4a265a7c-06dc-406e-acbf-361618b09a42",
+  "bibliography": "",
+  "date": "2019-12-21T21:02:02Z",
+  "date_modified": "2019-12-21T21:02:56Z",
+  "headword": "sẽẽ",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ʃẽ:",
+  "sense": {
+    "d00ff7a6-c7d2-4aef-baba-9579ac6ba770": {
+      "pos": "Noun",
+      "gloss": {
+        "pt": "caracaraí"
+      },
+      "def": {
+        "pt": "caracaraí (especie de urubu)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃẽ:"
+}

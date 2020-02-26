@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 188,
   "entry_id": "tëg_3e9706fe-48bd-40b2-95c5-b58ca6cc9388",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tëg",
   "morph_type": "stem",
-  "pronunciation": "tǝg˺",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'təg', 'Weir': 'tʉg'}",
+  "pronunciation": "tǝg˺",
   "sense": {
     "9bc0787b-776f-4b24-a29b-4627de52eabe": {
       "pos": "n",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'təg', 'Weir': 'tʉg'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "təg"
 }

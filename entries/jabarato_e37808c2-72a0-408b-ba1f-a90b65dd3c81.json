@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 682,
   "entry_id": "jabarato_e37808c2-72a0-408b-ba1f-a90b65dd3c81",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T23:04:37Z",
+  "date_modified": "",
   "headword": "jabarato",
   "morph_type": "stem",
-  "pronunciation": "jabaɾaˈtoʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "jabaɾaˈtoʔ",
   "sense": {
     "d0714ff3-13cd-4553-a3c4-6ab362b7f866": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T23:04:37Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jabarato"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1252,
+  "entry_id": "jawäk_11b99d8c-9b68-4e6b-869d-e3530425e72b",
+  "bibliography": "",
+  "date": "2018-09-04T00:12:46Z",
+  "date_modified": "2020-01-08T15:52:38Z",
+  "headword": "jawäk",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{'Martins': 'haɾum', 'Barbosa': 'haɾũm'}",
+  "pronunciation": "jaˈwʌk˺",
+  "sense": {
+    "3c8e5517-d5a2-45e6-8a6c-a4a5b6a3086a": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "japurá",
+        "pt": "japurá"
+      },
+      "def": {
+        "en": "japurá",
+        "pt": "japurá"
+      },
+      "reverse": "{'pt': 'japurá', 'en': 'japurá'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "jawʌk"
+}

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1366,
+  "entry_id": "sog_80913b3d-28ba-4da4-8c82-93874db73850",
+  "bibliography": "",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "2019-12-15T23:29:00Z",
+  "headword": "sog",
+  "morph_type": "phrase",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ʃog̚",
+  "sense": {
+    "80811e83-be04-40fd-95f2-a220bf016501": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "niece",
+        "pt": "sobrinha"
+      },
+      "def": {
+        "en": "niece",
+        "pt": "sobrinha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃog"
+}

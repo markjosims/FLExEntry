@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 254,
   "entry_id": "wyyw_53e36f05-f876-4b30-9d3d-4be4ec11a4ec",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:28:29Z",
+  "date_modified": "",
   "headword": "wyyw",
   "morph_type": "stem",
-  "pronunciation": "wɨ:w",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "wɨ:w",
   "sense": {
     "0297f37c-c882-4c9e-8ca6-25198c230887": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:28:29Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "wɨ:w"
 }

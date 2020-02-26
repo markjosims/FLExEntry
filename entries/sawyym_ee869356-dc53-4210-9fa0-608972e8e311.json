@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 706,
   "entry_id": "sawyym_ee869356-dc53-4210-9fa0-608972e8e311",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T23:12:12Z",
+  "date_modified": "",
   "headword": "sawyym",
   "morph_type": "stem",
-  "pronunciation": "ʃaˈwɨ:bm",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'ʃawiːm'}",
+  "pronunciation": "ʃaˈwɨ:bm",
   "sense": {
     "de1b80ce-c0a1-4ca7-b1cd-85f08ce75416": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T23:12:12Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'ʃawiːm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃawɨ:m"
 }

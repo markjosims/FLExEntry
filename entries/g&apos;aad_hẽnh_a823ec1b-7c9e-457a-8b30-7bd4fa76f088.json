@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1412,
+  "entry_id": "g&apos;aad hẽnh_a823ec1b-7c9e-457a-8b30-7bd4fa76f088",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-21T21:15:52Z",
+  "headword": "g'aad hẽnh",
+  "morph_type": "phrase",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Weir': 'ʉʉn'}",
+  "pronunciation": "k'aʔad hɛ̃ɲ",
+  "sense": {
+    "55b8d752-142d-42f1-b9f2-d9f7dcc3c2ef": {
+      "pos": "adv",
+      "gloss": {
+        "en": "upriver",
+        "pt": "rio.acima"
+      },
+      "def": {
+        "en": "upriver",
+        "pt": "rio.acima"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ga̰:d hẽɲ"
+}

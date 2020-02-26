@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 630,
   "entry_id": "oow2_d04af342-ffb6-4ca8-806b-a630870f74ee",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "oow",
   "morph_type": "stem",
-  "pronunciation": "ʔo:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'oow', 'Martins': 'ʔoːw'}",
+  "pronunciation": "ʔo:w",
   "sense": {
     "ab533c93-f223-4216-9aa0-6f4ffc09a7bf": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'oow', 'Martins': 'ʔoːw'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "o:w"
 }

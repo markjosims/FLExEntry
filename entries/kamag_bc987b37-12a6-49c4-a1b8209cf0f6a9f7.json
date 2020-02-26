@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1138,
   "entry_id": "kamag_bc987b37-12a6-49c4-a1b8209cf0f6a9f7",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "kamag",
   "morph_type": "stem",
-  "pronunciation": "kamag",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'kamag'}",
+  "pronunciation": "kamag",
   "sense": {
     "5c356c25-ce12-4ca2-ac95-f94fb53e4500": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'kamag'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kamag"
 }

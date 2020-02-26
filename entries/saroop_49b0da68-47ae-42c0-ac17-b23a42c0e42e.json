@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 226,
   "entry_id": "saroop_49b0da68-47ae-42c0-ac17-b23a42c0e42e",
+  "bibliography": "Fielnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:50:53Z",
+  "date_modified": "",
   "headword": "saroop",
   "morph_type": "root",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'ʃaɾoːp'}",
+  "pronunciation": "",
   "sense": {
     "f31aaa4d-7201-4477-a98f-08f73eb6131e": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:50:53Z",
-  "bibliography": "Fielnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ʃaɾoːp'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃaro:p"
 }

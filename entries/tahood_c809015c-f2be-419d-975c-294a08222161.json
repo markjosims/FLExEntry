@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1453,
+  "entry_id": "tahood_c809015c-f2be-419d-975c-294a08222161",
+  "bibliography": "",
+  "date": "2019-11-15T22:21:27Z",
+  "date_modified": "2019-11-15T22:22:11Z",
+  "headword": "tahood",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "taho:d",
+  "sense": {
+    "1a401aea-7e16-46ac-bedf-ab342d5d6be6": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "pot",
+        "pt": "vasilha"
+      },
+      "def": {
+        "en": "pot",
+        "pt": "vasilha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "taho:d"
+}

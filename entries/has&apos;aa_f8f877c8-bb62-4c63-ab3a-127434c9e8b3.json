@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1504,
+  "entry_id": "has&apos;aa_f8f877c8-bb62-4c63-ab3a-127434c9e8b3",
+  "bibliography": "",
+  "date": "2019-12-15T22:49:21Z",
+  "date_modified": "2019-12-15T22:50:38Z",
+  "headword": "has'aa",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "haʃaʔa",
+  "sense": {
+    "26d2d402-c410-4c76-977c-23437075c7ee": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "dislike",
+        "pt": "desgostar"
+      },
+      "def": {
+        "en": "dislike",
+        "pt": "desgostar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "haʃa̰:"
+}

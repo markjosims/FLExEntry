@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 552,
   "entry_id": "ji metyy doo_bb981eb0-8686-4579-88a8-2fd9c910caa5",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ji metyy doo",
   "morph_type": "phrase",
-  "pronunciation": "jiʔ mẽtɨ:ʔ do:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jiʔ mẽtɨ:ʔ do:ʔ",
   "sense": {
     "d561a8e1-eb42-4813-8765-62894a516bc3": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji metɨ: do:"
 }

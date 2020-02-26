@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1292,
+  "entry_id": "hewooj_397db076-cf3b-4301-9885-681cbbd2ec19",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-21T01:18:29Z",
+  "headword": "hewooj",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Sil Dict 2011': 'gëët'}",
+  "pronunciation": "he'wo:j",
+  "sense": {
+    "a4987c29-e90e-401a-8e77-c45e82ec9b5c": {
+      "pos": "v",
+      "gloss": {
+        "en": "dry",
+        "pt": "secar"
+      },
+      "def": {
+        "en": "dry",
+        "pt": "secar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "hewo:j"
+}

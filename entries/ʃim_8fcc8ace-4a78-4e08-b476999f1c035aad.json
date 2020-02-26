@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1043,
   "entry_id": "ʃim_8fcc8ace-4a78-4e08-b476999f1c035aad",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ʃim",
   "morph_type": "stem",
-  "pronunciation": "ʃim",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ʃim'}",
+  "pronunciation": "ʃim",
   "sense": {
     "3d035500-87f7-4b30-b7eb-17c74c6e0f6b": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ʃim'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃim"
 }

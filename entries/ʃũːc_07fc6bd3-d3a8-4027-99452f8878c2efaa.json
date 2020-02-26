@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 776,
   "entry_id": "ʃũ:c_07fc6bd3-d3a8-4027-99452f8878c2efaa",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ʃũ:c",
   "morph_type": "stem",
-  "pronunciation": "ʃũ:c",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'ʃũːɟ', 'Sil Dict 2011': 'sũũts'}",
+  "pronunciation": "ʃũ:c",
   "sense": {
     "345923ca-f0b1-4f5e-8a2f-7180506bb109": {
       "pos": "n op",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'ʃũːɟ', 'Sil Dict 2011': 'sũũts'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃũ:c"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 81,
   "entry_id": "[ji] wahëë_1a55a25e-11fb-4fd6-acf0-565fecd058a8",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ji wahëë",
   "morph_type": "phrase",
-  "pronunciation": "jiʔ  wahə:ʔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Martins': 'wahɤ̰ːh'}",
+  "pronunciation": "jiʔ  wahə:ʔ",
   "sense": {
     "dd96ef39-6955-46ff-9a0c-cd2e3915751e": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'wahɤ̰ːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ji wahə:"
 }

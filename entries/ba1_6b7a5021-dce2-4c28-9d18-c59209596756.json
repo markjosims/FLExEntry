@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1343,
+  "entry_id": "ba1_6b7a5021-dce2-4c28-9d18-c59209596756",
+  "bibliography": "",
+  "date": "2018-03-22T17:14:42Z",
+  "date_modified": "2020-01-24T01:56:14Z",
+  "headword": "ba",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Weir 1990"
+  },
+  "other_sources": "{'Sil Dict 2011': 'kajaa'}",
+  "pronunciation": "ba-",
+  "sense": {
+    "983b85d7-167b-437f-b2ef-44bef7d31e70": {
+      "pos": "pre",
+      "gloss": {
+        "en": "ABL",
+        "pt": "ABL"
+      },
+      "def": {
+        "en": "ABL",
+        "pt": "ABL"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ba"
+}

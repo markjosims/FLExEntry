@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1094,
   "entry_id": "ho:h_a8ed36ac-b900-49b9-962369d3aa0f1559",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ho:h",
   "morph_type": "stem",
-  "pronunciation": "ho:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'hoːh'}",
+  "pronunciation": "ho:h",
   "sense": {
     "4cc1321a-94fe-4c5c-a43b-52e94385b3c1": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'hoːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ho:h"
 }

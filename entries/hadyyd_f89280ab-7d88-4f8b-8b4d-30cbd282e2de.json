@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1503,
+  "entry_id": "hadyyd_f89280ab-7d88-4f8b-8b4d-30cbd282e2de",
+  "bibliography": "",
+  "date": "2019-11-05T15:32:47Z",
+  "date_modified": "2019-11-05T15:34:21Z",
+  "headword": "hadyyd",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ha'dɨ:d",
+  "sense": {
+    "2996b378-9f4e-4837-a3f2-8cc902e59120": {
+      "pos": "DEM",
+      "gloss": {
+        "en": "QUANT.UNIV",
+        "pt": "QUANT.UNIV"
+      },
+      "def": {
+        "en": "all",
+        "pt": "todo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "hadɨ:d"
+}

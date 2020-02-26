@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1189,
   "entry_id": "ma_d9520bd1-d3cc-41e0-a4b4ca44534c821a",
+  "bibliography": "Weir 1990",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ma",
   "morph_type": "stem",
-  "pronunciation": "ma",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'ma'}",
+  "pronunciation": "ma",
   "sense": {
     "5ebcdcf4-6b76-4a57-ad2e-cac34b685616": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1990",
-  "other_sources": "{'Weir': 'ma'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ma"
 }

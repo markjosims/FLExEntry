@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 445,
   "entry_id": "kamarab_9834bf06-b6ae-4946-9bdc-ee67fec8e3be",
+  "bibliography": "Fieldnotes  Epps/Obert; 2018",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "kamarab",
   "morph_type": "stem",
-  "pronunciation": "kamãˈɾab˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kamãˈɾab˺",
   "sense": {
     "714da4b2-e9d1-4e5a-bb4e-81c73526b361": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Fieldnotes  Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kamarab"
 }

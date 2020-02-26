@@ -1,0 +1,28 @@
+{
+  "Unnamed: 0": 1396,
+  "entry_id": "waoo_9a9f4eb3-a9cc-48b9-863c-f0127e90e24f",
+  "bibliography": "",
+  "date": "2019-11-18T20:27:52Z",
+  "date_modified": "2019-11-18T20:28:04Z",
+  "headword": "waoo",
+  "morph_type": "root",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "wao",
+  "sense": {
+    "318b035c-8762-4fb6-b727-27625eb32aba": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "weave.panacu",
+        "pt": "tecer.panacu"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wao:"
+}

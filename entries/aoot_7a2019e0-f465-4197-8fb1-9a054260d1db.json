@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 358,
   "entry_id": "aoot_7a2019e0-f465-4197-8fb1-9a054260d1db",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-09T23:53:19Z",
+  "date_modified": "",
   "headword": "aoot",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈʔɔ:t˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔaˈʔɔ:t˺",
   "sense": {
     "d59ed63e-455d-4631-afc4-79845c4db181": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T23:53:19Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ao:t"
 }

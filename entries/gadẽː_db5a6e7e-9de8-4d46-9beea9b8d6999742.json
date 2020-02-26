@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1191,
   "entry_id": "gadẽ:_db5a6e7e-9de8-4d46-9beea9b8d6999742",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "gadẽ:",
   "morph_type": "stem",
-  "pronunciation": "gadẽ:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'gadẽẽ'}",
+  "pronunciation": "gadẽ:",
   "sense": {
     "ace4a8e2-a5e5-4723-bf0e-83cee47e98ba": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'gadʹẽẽ_31ec894a-0475-48de-9d61-b2a12b3a0778': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'gadẽẽ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gadẽ:"
 }

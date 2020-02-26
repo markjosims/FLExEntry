@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 290,
   "entry_id": "nadëb1_64797e4a-07d3-4f0b-a899-0a27e395ea25",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "nadëb",
   "morph_type": "stem",
-  "pronunciation": "nadəb",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "nadəb",
   "sense": {
     "da5147b8-3e44-4243-9577-21e04d7b8a2a": {
       "pos": "n",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "nadəb"
 }

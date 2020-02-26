@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 955,
   "entry_id": "me_69935547-234c-452b-a3976c630519530",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "me",
   "morph_type": "stem",
-  "pronunciation": "me",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Weir': 'me', 'Sil Dict 2011': 'me'}",
+  "pronunciation": "me",
   "sense": {
     "8924887b-cdf7-4ff1-8f77-11972f9c2cfa": {
       "pos": "posp",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Weir': 'me', 'Sil Dict 2011': 'me'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "me"
 }

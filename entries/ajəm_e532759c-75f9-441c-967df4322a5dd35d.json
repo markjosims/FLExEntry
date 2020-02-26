@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1202,
   "entry_id": "ajəm_e532759c-75f9-441c-967df4322a5dd35d",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ajəm",
   "morph_type": "stem",
-  "pronunciation": "ajəm",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'ajʉm'}",
+  "pronunciation": "ajəm",
   "sense": {
     "5bcced76-5457-4249-9dbe-b8dd15796b4f": {
       "pos": "Adverb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'ajʉm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ajəm"
 }

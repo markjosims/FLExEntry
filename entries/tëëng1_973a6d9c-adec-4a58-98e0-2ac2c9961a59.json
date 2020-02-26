@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1390,
+  "entry_id": "tëëng1_973a6d9c-adec-4a58-98e0-2ac2c9961a59",
+  "bibliography": "",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "2020-01-26T04:23:17Z",
+  "headword": "tëëng",
+  "morph_type": "stem",
+  "note": null,
+  "other_sources": "{'Sil Dict 2011': 'pʹyym'}",
+  "pronunciation": "tə:gŋ",
+  "sense": {
+    "46edc95f-9dce-4cc7-ae3a-29d74804cdf3": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "firewood",
+        "pt": "lenha"
+      },
+      "def": {
+        "en": "firewood",
+        "pt": "lenha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tə:ŋ"
+}

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 576,
   "entry_id": "wawii_c1914a3d-013e-48cb-a439-131acd70b45e",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:36:04Z",
+  "date_modified": "",
   "headword": "wawii",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "1bb9a9d1-2914-4dc6-9b3b-893787ea37d7": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:36:04Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "wawi:"
 }

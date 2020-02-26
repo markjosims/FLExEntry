@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 594,
   "entry_id": "manayyn_c4a009b5-b17a-4f90-8a6d-7a9563252e24",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "manayyn",
   "morph_type": "stem",
-  "pronunciation": "manaʔɨ:dn",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Weir': 'manaɨɨn'}",
+  "pronunciation": "manaʔɨ:dn",
   "sense": {
     "451fd2cd-70b4-4785-a743-cd90333bd2fb": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'manaɨɨn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "manaɨ:n"
 }

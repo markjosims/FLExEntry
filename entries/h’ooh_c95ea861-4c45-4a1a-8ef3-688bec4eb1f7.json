@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 609,
   "entry_id": "h’ooh_c95ea861-4c45-4a1a-8ef3-688bec4eb1f7",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "h’ooh",
   "morph_type": "stem",
-  "pronunciation": "hoʔoh",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Martins': 'ho̰ːh', 'Weir': 'hxóóh', 'Sil Dict 2011': 'hʹooh'}",
+  "pronunciation": "hoʔoh",
   "sense": {
     "bfdc9110-4da5-460e-a610-c90b3f4e6aa0": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ho̰ːh', 'Weir': 'hxóóh', 'Sil Dict 2011': 'hʹooh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ho̰:h"
 }

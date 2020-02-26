@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1391,
+  "entry_id": "tah&apos;ỹỹb_979a8c31-a85b-459d-b598-414010f8b465",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-08T02:42:19Z",
+  "headword": "tah'ỹỹb",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{'Cartilhas': 'panʹaa', 'Sil Dict 2011': 'panʹaa'}",
+  "pronunciation": "taˈhɨ̃ʔɨ̃b˺",
+  "sense": {
+    "8c07f586-be16-4f07-9a9c-023ca9c8f2e9": {
+      "pos": "n",
+      "gloss": {
+        "en": "fish",
+        "pt": "peixe"
+      },
+      "def": {
+        "en": "fish (generic)",
+        "pt": "peixe (generico)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tahɨ̰̃:b"
+}

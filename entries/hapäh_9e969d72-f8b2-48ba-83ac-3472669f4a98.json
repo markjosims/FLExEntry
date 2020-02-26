@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 462,
   "entry_id": "hapäh_9e969d72-f8b2-48ba-83ac-3472669f4a98",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hapäh",
   "morph_type": "stem",
-  "pronunciation": "haˈpʌh",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "haˈpʌh",
   "sense": {
     "87c6f66a-3872-4977-bada-eb6b026a7266": {
       "pos": "v",
@@ -50,7 +53,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hapʌh"
 }

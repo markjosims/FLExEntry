@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1456,
+  "entry_id": "baranaad_ca58ea95-7b7b-470f-8564-ab7a99c04b5c",
+  "bibliography": "",
+  "date": "2020-01-08T15:42:57Z",
+  "date_modified": "2020-01-08T15:43:56Z",
+  "headword": "baranaad",
+  "morph_type": "root",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "ba'ɾana:d",
+  "sense": {
+    "572d74dc-be2f-4304-ad8e-b808c3a77d96": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "dard.bag",
+        "pt": "bolsa.de.flecha"
+      },
+      "def": {
+        "en": "dard bag",
+        "pt": "bolsa para flecha de zarabatana"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "barana:d"
+}

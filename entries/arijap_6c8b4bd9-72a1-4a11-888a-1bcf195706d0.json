@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 317,
   "entry_id": "arijap_6c8b4bd9-72a1-4a11-888a-1bcf195706d0",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "arijap",
   "morph_type": "stem",
-  "pronunciation": "ʔaɾijap̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "ʔaɾijap̚",
   "sense": {
     "07901d30-bd9e-4ab4-9b44-7b89187e0225": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "arijap"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 736,
   "entry_id": "dõn_f8aa9537-e5b1-447e-b490-141ff2218678",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "dõn",
   "morph_type": "stem",
-  "pronunciation": "dõn",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "dõn",
   "sense": {
     "eecdf965-0dfa-439b-9d66-bc36ac5865bb": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "dõn"
 }

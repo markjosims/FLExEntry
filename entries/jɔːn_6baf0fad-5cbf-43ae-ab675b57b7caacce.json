@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 958,
   "entry_id": "jɔ(:)n_6baf0fad-5cbf-43ae-ab675b57b7caacce",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "jɔ(:)n",
   "morph_type": "stem",
-  "pronunciation": "jɔ(:)n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'jɔ(ː)n'}",
+  "pronunciation": "jɔ(:)n",
   "sense": {
     "18b3c387-e206-412f-b0dc-5b0776ecbe6c": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'jɔ(ː)n'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jɔ(:)n"
 }

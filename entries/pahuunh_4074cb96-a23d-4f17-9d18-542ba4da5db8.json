@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 195,
   "entry_id": "pahuunh_4074cb96-a23d-4f17-9d18-542ba4da5db8",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T18:47:26Z",
+  "date_modified": "",
   "headword": "pahuunh",
   "morph_type": "stem",
-  "pronunciation": "paˈhu:ɲ]",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "paˈhu:ɲ]",
   "sense": {
     "f198f67b-d5b1-4247-a10c-d182cdfe0ded": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T18:47:26Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "pahu:ɲ"
 }

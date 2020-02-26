@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 753,
   "entry_id": "heju_fedba8b8-eb2a-485b-921b-5cf055f61895",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-09T13:43:36Z",
+  "date_modified": "",
   "headword": "heju",
   "morph_type": "stem",
-  "pronunciation": "heˈjuʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "heˈjuʔ",
   "sense": {
     "d0a41f29-94de-4c97-a1ad-81b049e1ede3": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T13:43:36Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "heju"
 }

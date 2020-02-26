@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 428,
   "entry_id": "nyy bä_944e0023-3f41-48d4-be6a-36e2e59a4ead",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-11T00:03:59Z",
+  "date_modified": "",
   "headword": "nyy bä",
   "morph_type": "phrase",
-  "pronunciation": "nɨ: bʌʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "nɨ: bʌʔ",
   "sense": {
     "3d019497-809d-447b-8550-2aff441a5af9": {
       "pos": "Question particle",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-11T00:03:59Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "nɨ: bʌ"
 }

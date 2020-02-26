@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1101,
   "entry_id": "tadĩ:m_adc251b9-6b3a-4d1d-adbcd83d8fa8fcdc",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tadĩ:m",
   "morph_type": "stem",
-  "pronunciation": "tadĩ:m",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tadĩĩm'}",
+  "pronunciation": "tadĩ:m",
   "sense": {
     "e95687d3-d51a-4218-aed8-28ea4e3cf780": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tadĩĩm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tadĩ:m"
 }

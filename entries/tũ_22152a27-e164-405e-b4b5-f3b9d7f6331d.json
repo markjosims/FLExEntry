@@ -1,0 +1,70 @@
+{
+  "Unnamed: 0": 1270,
+  "entry_id": "tũ_22152a27-e164-405e-b4b5-f3b9d7f6331d",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "2019-11-15T21:48:40Z",
+  "headword": "tũ",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Sil Dict 2011': 'seeh'}",
+  "pronunciation": "tũːʔ",
+  "sense": {
+    "35a53b96-a2d0-4e99-b500-b16d8f174a1b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "floor",
+        "pt": "ground"
+      },
+      "def": {
+        "en": "floor",
+        "pt": "ground"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "dajëp tũ_bb4fa396-a6ce-4e64-b8fa-c8afcda2af2e": {
+      "Unnamed: 0": 1437,
+      "bibliography": "",
+      "date": "2020-01-08T19:07:25Z",
+      "date_modified": "2020-01-08T19:10:14Z",
+      "headword": "dajëp tũ",
+      "morph_type": "phrase",
+      "note": {
+        "bibliography": "Epps/Obert; Fieldnotes 2019"
+      },
+      "other_sources": "{}",
+      "pronunciation": "da'jəp tũ",
+      "sense": {
+        "908364ac-a9e0-44b7-8640-87f59422ab67": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "cemitary",
+            "pt": "cemeterio"
+          },
+          "def": {
+            "en": "cemitary",
+            "pt": "cemeterio"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "dajəp tũ",
+      "var_type": {
+        "type": "_component-lexeme",
+        "is-primary": "true",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "tũ"
+}

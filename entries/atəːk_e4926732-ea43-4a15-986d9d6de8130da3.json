@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1200,
   "entry_id": "atə:k_e4926732-ea43-4a15-986d9d6de8130da3",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "atə:k",
   "morph_type": "stem",
-  "pronunciation": "atə:k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'atëëk'}",
+  "pronunciation": "atə:k",
   "sense": {
     "1d032139-a1cb-4d8f-ae92-69319e340357": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'atʹëëg_134f1576-46ff-42aa-b2a7-0331f238570a': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'atëëk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "atə:k"
 }

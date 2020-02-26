@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1440,
+  "entry_id": "s&apos;oow_bd149bf3-7f4c-42b9-901c-045655c034c8",
+  "bibliography": "",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "2020-01-08T15:42:25Z",
+  "headword": "s'oow",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ʃoʔow",
+  "sense": {
+    "1a62206f-ef31-4421-8f1e-caa7efc8f76c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "blowgun",
+        "pt": "zarabatana"
+      },
+      "def": {
+        "en": "blowgun",
+        "pt": "zarabatana"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃo̰:w"
+}

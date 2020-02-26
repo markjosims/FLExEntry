@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1088,
   "entry_id": "kado:_a513c054-bea8-4c2d-89082cad00d509c9",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-22T21:21:11Z",
+  "date_modified": "",
   "headword": "kado:",
   "morph_type": "stem",
-  "pronunciation": "kado:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'kadoo'}",
+  "pronunciation": "kado:",
   "sense": {
     "6b9308c9-92c1-4405-bc5e-78d7ea232d3d": {
       "pos": "v",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T21:21:11Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'kadoo'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kado:"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 311,
   "entry_id": "kajero2_6b30fdcb-86a6-436d-af31-21759a33458b",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kajero",
   "morph_type": "stem",
-  "pronunciation": "kajeɾoʔ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'kajero'}",
+  "pronunciation": "kajeɾoʔ",
   "sense": {
     "457f0811-4d36-411e-8de6-d4b4223e1026": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'kajero'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kajero"
 }

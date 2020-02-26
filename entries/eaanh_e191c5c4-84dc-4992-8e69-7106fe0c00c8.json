@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1481,
+  "entry_id": "eaanh_e191c5c4-84dc-4992-8e69-7106fe0c00c8",
+  "bibliography": "",
+  "date": "2019-12-21T00:52:43Z",
+  "date_modified": "2019-12-21T00:54:29Z",
+  "headword": "eaanh",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "e'a:ɲ",
+  "sense": {
+    "df9ffee0-83e0-48d6-a5ef-a8b3e058cd4c": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "ask",
+        "pt": "perguntar"
+      },
+      "def": {
+        "en": "ask",
+        "pt": "perguntar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ea:ɲ"
+}

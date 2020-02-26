@@ -1,28 +1,33 @@
 {
+  "Unnamed: 0": 1093,
   "entry_id": "adɨ:k_a8313ccc-413c-4657-b4ef14f1259891a4",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "adɨ:k",
   "morph_type": "stem",
-  "pronunciation": "adɨ:k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Cartilhas': 'dyyk', 'Sil Dict 2011': 'adyyk'}",
+  "pronunciation": "adɨ:k",
   "sense": {
     "fc0c1443-58ce-424e-b411-917a8b0275d0": {
       "pos": "v",
       "gloss": {
+        "en": "beat.with.stick",
         "pt": "bater.com.pau"
       },
       "def": {
-        "pt": "bater (roupa; ou veneno para eixe) com pau; molhar (a huva)"
+        "en": "beat (clothes or fish poison)",
+        "pt": "bater (roupa; ou veneno para peixe) com pau; molhar (a chuva)"
       },
       "reverse": "",
       "note": "",
       "these_vars": "{'adʹyyk_1d10f37c-f112-4be6-bd67-9d50e4e71caa': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'adyg_2e052b4b-7f72-4fa2-a40e-142713b2261c': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Cartilhas': 'dyyk', 'Sil Dict 2011': 'adyyk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "adɨ:k"
 }

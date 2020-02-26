@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 577,
   "entry_id": "mabëng_c197d537-44e1-4a6f-abe7-fa15aead02e7",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "mabëng",
   "morph_type": "stem",
-  "pronunciation": "mãbəgŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Barbosa': 'mabəŋ'}",
+  "pronunciation": "mãbəgŋ",
   "sense": {
     "d2037ec6-96f8-4116-acb4-69375e82081a": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'mabəŋ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mabəŋ"
 }

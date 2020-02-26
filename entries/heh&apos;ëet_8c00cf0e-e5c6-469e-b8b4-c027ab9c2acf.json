@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1379,
+  "entry_id": "heh&apos;ëet_8c00cf0e-e5c6-469e-b8b4-c027ab9c2acf",
+  "bibliography": "",
+  "date": "2019-12-20T15:18:38Z",
+  "date_modified": "2019-12-20T15:20:08Z",
+  "headword": "heh'ëet",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "he'hǝʔǝt",
+  "sense": {
+    "9d32f9b0-d83b-4c15-8969-88614eba5dcf": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "real",
+        "pt": "real"
+      },
+      "def": {
+        "en": "real",
+        "pt": "real"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "hehə̰et"
+}

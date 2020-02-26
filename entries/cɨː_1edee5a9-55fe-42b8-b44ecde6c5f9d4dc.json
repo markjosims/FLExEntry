@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 822,
   "entry_id": "cɨ:_1edee5a9-55fe-42b8-b44ecde6c5f9d4dc",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "cɨ:",
   "morph_type": "stem",
-  "pronunciation": "cɨ:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ɟɯːʔ'}",
+  "pronunciation": "cɨ:",
   "sense": {
     "90df5cd2-6fb0-422e-9809-9feb6df2f090": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ɟɯːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "cɨ:"
 }

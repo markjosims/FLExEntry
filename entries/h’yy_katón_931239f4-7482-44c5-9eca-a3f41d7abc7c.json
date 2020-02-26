@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 425,
   "entry_id": "h’yy katón_931239f4-7482-44c5-9eca-a3f41d7abc7c",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:23:04Z",
+  "date_modified": "",
   "headword": "h’yy katón",
   "morph_type": "phrase",
-  "pronunciation": "hɨʔɨʔ kaˈtɔn",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "hɨʔɨʔ kaˈtɔn",
   "sense": {
     "2cdf9ac6-8951-440c-97c6-815df5effb42": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:23:04Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hɨ̰: katɔn"
 }

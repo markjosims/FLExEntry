@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 811,
   "entry_id": "tũ:h_1b11b954-a8f9-47e3-8041e7ad344c4fb7",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tũ:h",
   "morph_type": "stem",
-  "pronunciation": "tũ:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tũũh'}",
+  "pronunciation": "tũ:h",
   "sense": {
     "d69496ab-5a91-4287-91a7-69f70883fabb": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tũũh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tũ:h"
 }

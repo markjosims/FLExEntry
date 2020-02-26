@@ -1,0 +1,32 @@
+{
+  "Unnamed: 0": 1497,
+  "entry_id": "péh_ee911202-c9b9-436e-8f4e-23aff9b0cbb6",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-04T17:33:35Z",
+  "headword": "péh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011",
+    "Note": "'non-referential' relative head marker (Weir 1994)"
+  },
+  "other_sources": "{}",
+  "pronunciation": "pɛh",
+  "sense": {
+    "f6b724d1-17b3-4b82-9c25-dbe8ab015da1": {
+      "pos": "n",
+      "gloss": {
+        "pt": "tipo.de"
+      },
+      "def": {
+        "pt": "tipo de; membro da classe de"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "pɛh"
+}

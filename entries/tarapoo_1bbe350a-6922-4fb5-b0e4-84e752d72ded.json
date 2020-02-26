@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 86,
   "entry_id": "tarapoo_1bbe350a-6922-4fb5-b0e4-84e752d72ded",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:20:09Z",
+  "date_modified": "",
   "headword": "tarapoo",
   "morph_type": "root",
-  "pronunciation": "taɾaˈpo:",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "taɾaˈpo:",
   "sense": {
     "62b8ed0f-48aa-4a8a-a1c8-3f7ac323e420": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:20:09Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "tarapo:"
 }

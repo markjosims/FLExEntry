@@ -1,28 +1,33 @@
 {
+  "Unnamed: 0": 865,
   "entry_id": "wa:_36bdcbb1-66cb-47fc-a7ce1204359c2a62",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "wa:",
   "morph_type": "stem",
-  "pronunciation": "wa:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'waːʔ', 'Weir': 'waa', 'Sil Dict 2011': 'waa'}",
+  "pronunciation": "wa:",
   "sense": {
     "96b1cb14-6139-46cc-9f56-c79855618866": {
       "pos": "n op",
       "gloss": {
+        "en": "food",
         "pt": "comida"
       },
       "def": {
-        "pt": "comida (sendo não carne nem eixe)"
+        "en": "food (no meat)",
+        "pt": "comida (sendo não carne nem peixe)"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'waːʔ', 'Weir': 'waa', 'Sil Dict 2011': 'waa'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wa:"
 }

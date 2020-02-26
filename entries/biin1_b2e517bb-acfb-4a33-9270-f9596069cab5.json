@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1424,
+  "entry_id": "biin1_b2e517bb-acfb-4a33-9270-f9596069cab5",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-18T21:40:49Z",
+  "headword": "biin",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "bi:dn",
+  "sense": {
+    "f1490919-44a1-4678-9ecc-0bbb37f55c01": {
+      "pos": "n",
+      "gloss": {
+        "en": "medicine",
+        "pt": "remédio"
+      },
+      "def": {
+        "en": "medicine",
+        "pt": "remédio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "bi:n"
+}

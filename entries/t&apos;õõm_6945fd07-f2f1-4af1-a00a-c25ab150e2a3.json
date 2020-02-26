@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1339,
+  "entry_id": "t&apos;õõm_6945fd07-f2f1-4af1-a00a-c25ab150e2a3",
+  "bibliography": "",
+  "date": "2019-11-15T21:12:56Z",
+  "date_modified": "2019-11-15T21:14:37Z",
+  "headword": "t'õõm",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "tɔ̃ʔɔ̃m",
+  "sense": {
+    "0c9151e6-67ef-4aa8-8e85-5af7ee07ee77": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "woven.traditional.backpack",
+        "pt": "panacu"
+      },
+      "def": {
+        "en": "woven traditional backpack",
+        "pt": "panacu"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tõ̰:m"
+}

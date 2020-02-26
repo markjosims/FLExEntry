@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 75,
   "entry_id": "awän_16edbafa-9f23-4587-bd92-330bd1726f90",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:07:05Z",
+  "date_modified": "",
   "headword": "awän",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈwʌdn",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'awʌn'}",
+  "pronunciation": "ʔaˈwʌdn",
   "sense": {
     "b9e2ce71-7e64-4bc5-a0f2-5a4e97d81265": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:07:05Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'awʌn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "awʌn"
 }

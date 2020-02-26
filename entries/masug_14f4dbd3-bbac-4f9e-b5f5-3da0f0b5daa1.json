@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 66,
   "entry_id": "masug_14f4dbd3-bbac-4f9e-b5f5-3da0f0b5daa1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T17:09:18Z",
+  "date_modified": "",
   "headword": "masug",
   "morph_type": "stem",
-  "pronunciation": "maˈʃug˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "maˈʃug˺",
   "sense": {
     "869ac389-45ec-4ea1-bd54-bac70424c73b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:09:18Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "maʃug"
 }

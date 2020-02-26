@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 605,
   "entry_id": "bahõd2_c7fb0386-4f9c-4e01-b63e-98d57aeff3a4",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "bahõd",
   "morph_type": "stem",
-  "pronunciation": "bahõd̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "bahõd̚",
   "sense": {
     "c8174336-67f8-4b35-9ae7-d3326e70f811": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "bahõd"
 }

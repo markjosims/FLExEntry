@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 51,
   "entry_id": "toog2_0f2dbd4f-1cba-4a76-b278-c720efdc0c0f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "toog",
   "morph_type": "stem",
-  "pronunciation": "to:g̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'toog'}",
+  "pronunciation": "to:g̚",
   "sense": {
     "09da2923-e6d9-40fd-be0d-ddc17b8f36fe": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'toog'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "to:g"
 }

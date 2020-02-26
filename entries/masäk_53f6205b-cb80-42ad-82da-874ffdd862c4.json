@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 255,
   "entry_id": "masäk_53f6205b-cb80-42ad-82da-874ffdd862c4",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:21:21Z",
+  "date_modified": "",
   "headword": "masäk",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "c9b2de3b-c6d7-4412-b17a-281857187ec9": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:21:21Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "maʃʌk"
 }

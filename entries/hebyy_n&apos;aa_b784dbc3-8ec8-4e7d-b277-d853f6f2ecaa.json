@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 534,
   "entry_id": "hebyy n&apos;aa_b784dbc3-8ec8-4e7d-b277-d853f6f2ecaa",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "hebyy n'aa",
   "morph_type": "phrase",
-  "pronunciation": "hebɨ:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "hebɨ:ʔ",
   "sense": {
     "024c6853-a275-49fd-906c-b4885db73a46": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hebɨ: na̰:"
 }

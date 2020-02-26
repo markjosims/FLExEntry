@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1231,
   "entry_id": "dagõn_f7d8ca73-7f0c-4b90-914bea59c8e057e2",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "dagõn",
   "morph_type": "stem",
-  "pronunciation": "dagõn",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'dagõn'}",
+  "pronunciation": "dagõn",
   "sense": {
     "6d128d41-81a3-471c-9d02-f855e642415a": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'dahegʹõõn_0062786c-16c2-4325-b3e4-fac26c159e80': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'dagõn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "dagõn"
 }

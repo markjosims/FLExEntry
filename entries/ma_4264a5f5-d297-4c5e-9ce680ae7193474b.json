@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 885,
   "entry_id": "ma_4264a5f5-d297-4c5e-9ce680ae7193474b",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ma",
   "morph_type": "stem",
-  "pronunciation": "ma",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'ma'}",
+  "pronunciation": "ma",
   "sense": {
     "b7614e1b-cfd8-4a2c-b48a-afa30dce887e": {
       "pos": "n op",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'ma'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ma"
 }

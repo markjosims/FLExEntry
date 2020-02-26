@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 83,
   "entry_id": "jood_1a844f70-b0d5-4165-b568-d695b8a70f0a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T23:03:29Z",
+  "date_modified": "",
   "headword": "jood",
   "morph_type": "stem",
-  "pronunciation": "jo:d˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "jo:d˺",
   "sense": {
     "e7ebf375-f74f-4014-8dda-2500f242b2c4": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T23:03:29Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jo:d"
 }

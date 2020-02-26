@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 237,
   "entry_id": "tóop_4d9f2b8c-b30c-494b-be1b-4cff8c168086",
+  "bibliography": "(Epps/Obert; fieldnotes 2018)",
+  "date": "2018-07-02T21:45:00Z",
+  "date_modified": "",
   "headword": "tóop",
   "morph_type": "root",
-  "pronunciation": "toːp",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "toːp",
   "sense": {
     "38a5d911-11d9-4c13-b9da-37ac3e5829ec": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-02T21:45:00Z",
-  "bibliography": "(Epps/Obert; fieldnotes 2018)",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "tɔop"
 }

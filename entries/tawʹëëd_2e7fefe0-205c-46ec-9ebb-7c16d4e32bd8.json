@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 138,
   "entry_id": "tawʹëëd_2e7fefe0-205c-46ec-9ebb-7c16d4e32bd8",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tawʹëëd",
   "morph_type": "stem",
-  "pronunciation": "taˈwǝʔǝd",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "taˈwǝʔǝd",
   "sense": {
     "b11f25bd-8202-4020-8c2c-23ab8d5e5bc8": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "tawə̰:d"
 }

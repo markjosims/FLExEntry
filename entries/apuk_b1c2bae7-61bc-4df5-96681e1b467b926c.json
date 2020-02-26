@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1110,
   "entry_id": "apuk_b1c2bae7-61bc-4df5-96681e1b467b926c",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "apuk",
   "morph_type": "stem",
-  "pronunciation": "apuk",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'apuk'}",
+  "pronunciation": "apuk",
   "sense": {
     "51060597-fcf4-464c-ac0f-33d8484d82f2": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'apug_fcdd071b-d492-4898-9a12-0b068c0c3557': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'apuk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "apuk"
 }

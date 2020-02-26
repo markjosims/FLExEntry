@@ -1,26 +1,33 @@
 {
+  "Unnamed: 0": 1066,
   "entry_id": "wəm/wɨ:m_990d5cb5-98be-420d-9662a39d1662fc25",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "wəm/wɨ:m",
   "morph_type": "stem",
-  "pronunciation": "wəm/wɨ:m",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'wəm/wɨːm'}",
+  "pronunciation": "wəm/wɨ:m",
   "sense": {
     "832045c5-8729-4d05-abcf-7b9fd60d538b": {
       "pos": "Noun",
       "gloss": {
-        "en": "morcego"
+        "en": "bat",
+        "pt": "morcego"
       },
-      "def": null,
+      "def": {
+        "en": "bat",
+        "pt": "morcego"
+      },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'wəm/wɨːm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wəm/wɨ:m"
 }

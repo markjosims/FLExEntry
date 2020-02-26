@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 391,
   "entry_id": "hooj1_8685f141-0aa5-4267-b4cb-681284bbe011",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:24:04Z",
+  "date_modified": "",
   "headword": "hooj",
   "morph_type": "root",
-  "pronunciation": "ho:j",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ho:j",
   "sense": {
     "81e020cf-ef14-4ff3-a5a9-b97ba22c0054": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:24:04Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ho:j"
 }

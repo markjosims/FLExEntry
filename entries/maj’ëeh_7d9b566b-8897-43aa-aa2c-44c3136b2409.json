@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1363,
+  "entry_id": "maj’ëeh_7d9b566b-8897-43aa-aa2c-44c3136b2409",
+  "bibliography": "",
+  "date": "2018-07-27T22:55:14Z",
+  "date_modified": "2019-11-11T00:28:04Z",
+  "headword": "maj’ëeh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldotes Epps/Obert; 2018"
+  },
+  "other_sources": "{}",
+  "pronunciation": "majəʔəh",
+  "sense": {
+    "f69a73c7-5733-40ea-9196-3004f374dfc5": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "toad",
+        "pt": "sapo"
+      },
+      "def": {
+        "en": "toad",
+        "pt": "sapo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "majə̰eh"
+}

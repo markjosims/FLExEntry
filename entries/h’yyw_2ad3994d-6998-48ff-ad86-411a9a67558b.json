@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 128,
   "entry_id": "h’yyw_2ad3994d-6998-48ff-ad86-411a9a67558b",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-03T23:54:43Z",
+  "date_modified": "",
   "headword": "h’yyw",
   "morph_type": "root",
-  "pronunciation": "hɨʔɨw",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "problem: hɨʔɨw or hǝʔǝw"
   },
+  "other_sources": "",
+  "pronunciation": "hɨʔɨw",
   "sense": {
     "13d917cc-9f14-4a79-962c-832df62443ac": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:54:43Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hɨ̰:w"
 }

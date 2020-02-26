@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 88,
   "entry_id": "gasoom2_1c16d365-be77-4968-953b-7db5ca036d79",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "gasoom",
   "morph_type": "stem",
-  "pronunciation": "k'aʃo:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "k'aʃo:bm",
   "sense": {
     "f6dfd01c-5879-4c4c-9632-14981c14bdb8": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "gaʃo:m"
 }

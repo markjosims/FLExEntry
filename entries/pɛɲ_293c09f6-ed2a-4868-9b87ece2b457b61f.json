@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 838,
   "entry_id": "pɛɲ_293c09f6-ed2a-4868-9b87ece2b457b61f",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "pɛɲ",
   "morph_type": "stem",
-  "pronunciation": "pɛɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'pɛɲ'}",
+  "pronunciation": "pɛɲ",
   "sense": {
     "67c332e6-9e7c-4da6-a3cd-36feba618322": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'pɛɲ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "pɛɲ"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 816,
   "entry_id": "kabə:_1cd66356-7a6f-4152-b323ad2a5c5aabaf",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "kabə:",
   "morph_type": "stem",
-  "pronunciation": "kabə:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'kabëë'}",
+  "pronunciation": "kabə:",
   "sense": {
     "36fbdbda-1ed2-467b-bd58-07e8fc91c667": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'kabʹëë_9688ec88-f529-4209-8733-51b35e8edfce': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'kabëë'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kabə:"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 244,
   "entry_id": "aj’oog_4eda5c75-4a85-49e4-b922-0ae5fbf34b5f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "aj’oog",
   "morph_type": "stem",
-  "pronunciation": "ʔajoʔog̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'ajʹoog'}",
+  "pronunciation": "ʔajoʔog̚",
   "sense": {
     "782aa7e4-2f8a-444f-a532-bbad6310f3c0": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'ajʹoog'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ajo̰:g"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1423,
+  "entry_id": "ro_b1abc990-c1ea-43d4-8b21-fa76059b858d",
+  "bibliography": "",
+  "date": "2019-12-31T14:04:44Z",
+  "date_modified": "2019-12-31T14:05:44Z",
+  "headword": "ro",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ɾoʔ",
+  "sense": {
+    "60f742ea-cc3c-4b75-88a4-0b7e877cd979": {
+      "pos": "?",
+      "gloss": {
+        "en": "?",
+        "pt": "guloso"
+      },
+      "def": {
+        "en": "?",
+        "pt": "guloso"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ro"
+}

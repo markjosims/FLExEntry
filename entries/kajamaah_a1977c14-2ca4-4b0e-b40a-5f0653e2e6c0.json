@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 470,
   "entry_id": "kajamaah_a1977c14-2ca4-4b0e-b40a-5f0653e2e6c0",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kajamaah",
   "morph_type": "stem",
-  "pronunciation": "kajabmã:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kajabmã:h",
   "sense": {
     "89db112b-23a7-480c-bd7d-4e4666902cac": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kajama:h"
 }

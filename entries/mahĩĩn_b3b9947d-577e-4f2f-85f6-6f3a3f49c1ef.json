@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1426,
+  "entry_id": "mahĩĩn_b3b9947d-577e-4f2f-85f6-6f3a3f49c1ef",
+  "bibliography": "",
+  "date": "2019-12-21T20:51:49Z",
+  "date_modified": "2019-12-21T20:55:11Z",
+  "headword": "mahĩĩn",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ma'hĩ:n",
+  "sense": {
+    "1ae08eb3-1569-4746-8416-e59ffd15b672": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "hot",
+        "pt": "apimentado"
+      },
+      "def": {
+        "en": "hot",
+        "pt": "apimentado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "mahĩ:n"
+}

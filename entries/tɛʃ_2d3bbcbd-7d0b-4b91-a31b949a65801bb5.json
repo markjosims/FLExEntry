@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 843,
   "entry_id": "tɛʃ_2d3bbcbd-7d0b-4b91-a31b949a65801bb5",
+  "bibliography": "Weir 1990",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "tɛʃ",
   "morph_type": "stem",
-  "pronunciation": "tɛʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'tés'}",
+  "pronunciation": "tɛʃ",
   "sense": {
     "95862617-887e-477c-98ca-9b7502d2a00b": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1990",
-  "other_sources": "{'Weir': 'tés'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tɛʃ"
 }

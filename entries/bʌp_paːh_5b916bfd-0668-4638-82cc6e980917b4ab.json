@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 933,
   "entry_id": "bʌp pa:h_5b916bfd-0668-4638-82cc6e980917b4ab",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "bʌp pa:h",
   "morph_type": "phrase",
-  "pronunciation": "bʌp pa:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'bäp paah'}",
+  "pronunciation": "bʌp pa:h",
   "sense": {
     "b0ff496e-2353-4333-9178-eb4c29cd3f1e": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'bäp paah'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "bʌp pa:h"
 }

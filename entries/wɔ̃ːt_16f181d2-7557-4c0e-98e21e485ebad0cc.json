@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 801,
   "entry_id": "wɔ̃:t_16f181d2-7557-4c0e-98e21e485ebad0cc",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "wɔ̃:t",
   "morph_type": "stem",
-  "pronunciation": "wɔ̃:t",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'wɔ̃ːt'}",
+  "pronunciation": "wɔ̃:t",
   "sense": {
     "3d19d54b-cde9-433d-bdfc-e0b527952a93": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'wɔ̃ːt'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wɔ̃:t"
 }

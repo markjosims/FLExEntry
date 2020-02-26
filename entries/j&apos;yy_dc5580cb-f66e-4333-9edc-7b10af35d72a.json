@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1473,
+  "entry_id": "j&apos;yy_dc5580cb-f66e-4333-9edc-7b10af35d72a",
+  "bibliography": "",
+  "date": "2019-12-15T23:22:43Z",
+  "date_modified": "2020-01-08T15:30:10Z",
+  "headword": "j'yy",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "jɨʔɨ",
+  "sense": {
+    "ba953fa4-9113-4f96-9cf5-8d2564282527": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "son.Voc",
+        "pt": "filho.Voc"
+      },
+      "def": {
+        "en": "son vocative",
+        "pt": "filinho"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "jɨ̰:"
+}

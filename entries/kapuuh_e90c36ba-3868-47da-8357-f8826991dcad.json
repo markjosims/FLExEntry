@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 701,
   "entry_id": "kapuuh_e90c36ba-3868-47da-8357-f8826991dcad",
+  "bibliography": "Fielnotes Epps/Obert; 2018",
+  "date": "2018-07-10T11:39:11Z",
+  "date_modified": "",
   "headword": "kapuuh",
   "morph_type": "stem",
-  "pronunciation": "kaˈpu:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kaˈpu:h",
   "sense": {
     "1e96cb4e-b745-4527-bb7c-e7f3780dcf62": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T11:39:11Z",
-  "bibliography": "Fielnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kapu:h"
 }

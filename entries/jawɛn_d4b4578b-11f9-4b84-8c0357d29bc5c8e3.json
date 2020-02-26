@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1173,
   "entry_id": "jawɛn_d4b4578b-11f9-4b84-8c0357d29bc5c8e3",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "jawɛn",
   "morph_type": "stem",
-  "pronunciation": "jawɛn",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'jawén'}",
+  "pronunciation": "jawɛn",
   "sense": {
     "4ee6293a-38a6-4714-9569-27220f424e5a": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'jawén'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jawɛn"
 }

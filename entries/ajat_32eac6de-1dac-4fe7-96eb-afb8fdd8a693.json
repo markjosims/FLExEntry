@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 159,
   "entry_id": "ajat_32eac6de-1dac-4fe7-96eb-afb8fdd8a693",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T15:39:39Z",
+  "date_modified": "",
   "headword": "ajat",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈjat",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'ʔajat'}",
+  "pronunciation": "ʔaˈjat",
   "sense": {
     "d86d7892-a9dd-4711-bde6-a91c478f0b29": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T15:39:39Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'ʔajat'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ajat"
 }

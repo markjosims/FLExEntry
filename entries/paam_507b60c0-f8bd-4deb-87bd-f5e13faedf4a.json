@@ -1,0 +1,30 @@
+{
+  "Unnamed: 0": 1313,
+  "entry_id": "paam_507b60c0-f8bd-4deb-87bd-f5e13faedf4a",
+  "bibliography": "",
+  "date": "2019-11-05T15:14:15Z",
+  "date_modified": "2019-11-05T15:15:17Z",
+  "headword": "paam",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "[pa:m]",
+  "sense": {
+    "f7ddf7ca-e1ee-4b2d-a1d1-a6144365bc77": {
+      "pos": "part?",
+      "gloss": {
+        "en": "REMOT.PAST",
+        "pt": "PASS.REMOT"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "pa:m"
+}

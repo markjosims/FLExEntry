@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1174,
   "entry_id": "mabo:h_d4cd0f8d-7eb6-444d-988a892e659baad7",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "mabo:h",
   "morph_type": "stem",
-  "pronunciation": "mabo:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'mabooh'}",
+  "pronunciation": "mabo:h",
   "sense": {
     "5880c48b-d253-4be0-a14f-a560270d41b1": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'mabooh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mabo:h"
 }

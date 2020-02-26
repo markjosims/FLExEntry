@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 495,
   "entry_id": "mabaah2_a7203acf-034b-4299-9e1a-f9382783d0ae",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "mabaah",
   "morph_type": "stem",
-  "pronunciation": "mãba:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mãba:h",
   "sense": {
     "3061e908-7a43-4898-81e5-474186975516": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "maba:h"
 }

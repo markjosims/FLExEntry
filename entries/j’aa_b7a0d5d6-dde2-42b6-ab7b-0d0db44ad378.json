@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 535,
   "entry_id": "j’aa_b7a0d5d6-dde2-42b6-ab7b-0d0db44ad378",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:36:41Z",
+  "date_modified": "",
   "headword": "j’aa",
   "morph_type": "stem",
-  "pronunciation": "jaʔaʔz",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'ja̰ːʔ'}",
+  "pronunciation": "jaʔaʔz",
   "sense": {
     "cf6cb77b-8759-4417-846f-f4615aa01031": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:36:41Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ja̰ːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ja̰:"
 }

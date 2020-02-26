@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 832,
   "entry_id": "ʃã̰:n_256f7d52-7743-4413-9b3bc73ca66b9c96",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ʃã̰:n",
   "morph_type": "stem",
-  "pronunciation": "ʃã̰:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'sʹããn'}",
+  "pronunciation": "ʃã̰:n",
   "sense": {
     "3fa066c6-2cc5-4ef0-821a-7b7cebd84252": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'sʹããn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃã̰:n"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 278,
   "entry_id": "tooh_6043f2b6-842d-49d1-9764-2fd9ab21b3ba",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "tooh",
   "morph_type": "stem",
-  "pronunciation": "to:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Weir': 'tóóh', 'Barbosa': 'toːh'}",
+  "pronunciation": "to:h",
   "sense": {
     "c9c714c3-9bc2-43f6-9308-3e57bf3ab2ca": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'tóóh', 'Barbosa': 'toːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "to:h"
 }

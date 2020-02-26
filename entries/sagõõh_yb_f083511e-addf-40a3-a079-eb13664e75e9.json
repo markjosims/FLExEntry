@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 711,
   "entry_id": "sagõõh yb_f083511e-addf-40a3-a079-eb13664e75e9",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "sagõõh yb",
   "morph_type": "phrase",
-  "pronunciation": "ʃaʔkõ:h ʔɨb̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "lit. estrela-pai"
   },
+  "other_sources": "",
+  "pronunciation": "ʃaʔkõ:h ʔɨb̚",
   "sense": {
     "7dcfdba2-85a0-4d7b-8c78-61ae089477d7": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃagõ:h ɨb"
 }

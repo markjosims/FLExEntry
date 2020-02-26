@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 989,
   "entry_id": "ra:t_7a8a7378-0ed1-4ee0-a3ca81703d09c2b0",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ra:t",
   "morph_type": "stem",
-  "pronunciation": "ra:t",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ɾaːt'}",
+  "pronunciation": "ra:t",
   "sense": {
     "89205f79-7120-40fc-8923-1214ed383cd4": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ɾaːt'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ra:t"
 }

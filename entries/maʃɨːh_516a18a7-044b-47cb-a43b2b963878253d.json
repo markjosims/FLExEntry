@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 911,
   "entry_id": "maʃɨ:h_516a18a7-044b-47cb-a43b2b963878253d",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "maʃɨ:h",
   "morph_type": "stem",
-  "pronunciation": "maʃɨ:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'maʃɨːh'}",
+  "pronunciation": "maʃɨ:h",
   "sense": {
     "95555eab-9e7e-4918-b483-452cb9189c4d": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'maʃɨːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "maʃɨ:h"
 }

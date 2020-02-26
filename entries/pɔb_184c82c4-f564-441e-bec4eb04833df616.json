@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 804,
   "entry_id": "pɔb_184c82c4-f564-441e-bec4eb04833df616",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "pɔb",
   "morph_type": "stem",
-  "pronunciation": "pɔb",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'pɔb'}",
+  "pronunciation": "pɔb",
   "sense": {
     "786e1413-3779-4672-813a-23b202c1ac3c": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'pɔb'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "pɔb"
 }

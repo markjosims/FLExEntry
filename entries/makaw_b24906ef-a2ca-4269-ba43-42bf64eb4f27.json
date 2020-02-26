@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 522,
   "entry_id": "makaw_b24906ef-a2ca-4269-ba43-42bf64eb4f27",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "makaw",
   "morph_type": "stem",
-  "pronunciation": "mãkaw",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mãkaw",
   "sense": {
     "dbfa060e-6355-4b31-bfc6-7fcc4b3756ef": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "makaw"
 }

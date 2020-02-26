@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 161,
   "entry_id": "k’ëë_33265ec6-c2f0-40d5-a1eb-edc43610b9ea",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-04T14:25:35Z",
+  "date_modified": "",
   "headword": "k’ëë",
   "morph_type": "root",
-  "pronunciation": "kǝʔǝh",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "check spelling h?, (ji) k’ëë(h)"
   },
+  "other_sources": "",
+  "pronunciation": "kǝʔǝh",
   "sense": {
     "d73132b7-a04f-4f16-9bfd-c1fb641a572b": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-04T14:25:35Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kə̰:"
 }

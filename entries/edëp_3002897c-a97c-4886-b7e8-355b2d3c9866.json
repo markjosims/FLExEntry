@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 145,
   "entry_id": "edëp_3002897c-a97c-4886-b7e8-355b2d3c9866",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T15:43:38Z",
+  "date_modified": "",
   "headword": "edëp",
   "morph_type": "stem",
-  "pronunciation": "ʔeˈdǝp˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeˈdǝp˺",
   "sense": {
     "477e6ffe-d8c1-4195-ae84-7a5d6279e634": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T15:43:38Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "edəp"
 }

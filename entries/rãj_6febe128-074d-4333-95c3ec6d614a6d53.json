@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 971,
   "entry_id": "rãj_6febe128-074d-4333-95c3ec6d614a6d53",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "rãj",
   "morph_type": "stem",
-  "pronunciation": "rãj",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ɾãj'}",
+  "pronunciation": "rãj",
   "sense": {
     "7ed883d8-43d4-4308-89ca-f3b9d42e6ad4": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ɾãj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "rãj"
 }

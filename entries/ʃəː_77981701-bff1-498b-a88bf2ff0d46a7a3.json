@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 985,
   "entry_id": "ʃə:_77981701-bff1-498b-a88bf2ff0d46a7a3",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ʃə:",
   "morph_type": "stem",
-  "pronunciation": "ʃə:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ʃɤːʔ'}",
+  "pronunciation": "ʃə:",
   "sense": {
     "c37acd60-014e-4799-b6a8-82516412bb7c": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ʃɤːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃə:"
 }

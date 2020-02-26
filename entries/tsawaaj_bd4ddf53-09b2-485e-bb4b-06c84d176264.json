@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 560,
   "entry_id": "tsawaaj_bd4ddf53-09b2-485e-bb4b-06c84d176264",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "tsawaaj",
   "morph_type": "stem",
-  "pronunciation": "tʃ'awa:j",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Barbosa': 'ɟawaːj'}",
+  "pronunciation": "tʃ'awa:j",
   "sense": {
     "1e5d684b-9692-43d8-bd75-2dc0d213702d": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'ɟawaːj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "cawa:j"
 }

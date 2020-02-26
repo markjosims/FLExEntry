@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 678,
   "entry_id": "nehãw_e28b3457-b326-4d75-8e50-d800e365a895",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-05T13:46:40Z",
+  "date_modified": "",
   "headword": "nehãw",
   "morph_type": "stem",
-  "pronunciation": "neʔhãw",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "neʔhãw",
   "sense": {
     "b25a8442-d86c-468d-a6e1-f8c40de75dde": {
       "pos": "",
@@ -19,7 +22,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-05T13:46:40Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "nehãw"
 }

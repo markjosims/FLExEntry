@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 881,
   "entry_id": "abok_3f0ad664-b876-46e5-a2739d4bf73b7850",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "abok",
   "morph_type": "stem",
-  "pronunciation": "abok",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'abok'}",
+  "pronunciation": "abok",
   "sense": {
     "55535f72-0df3-46a6-afb5-b7548ad7a287": {
       "pos": "v p",
@@ -15,14 +18,14 @@
         "pt": "andar"
       },
       "def": {
-        "pt": "andar; viver; estar em movi- ento"
+        "pt": "andar; viver; estar em movi- mento"
       },
       "reverse": "",
       "note": "",
       "these_vars": "{'aboo_35be7096-61b9-46e8-a14b-3a6eedcc31c8': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'wät1_5d09351b-974c-44f1-80d1-83bd54c0c5c3': {'type': '_component-lexeme', 'variant-type': 'Singular'}, 'abooh_75980a60-b041-4e09-8baa-7c31b0755126': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'abong_b38517f0-46a2-413f-8d38-3a185a63b3c6': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'abok'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "abok"
 }

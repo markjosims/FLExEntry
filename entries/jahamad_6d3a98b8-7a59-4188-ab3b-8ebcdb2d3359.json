@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 319,
   "entry_id": "jahamad_6d3a98b8-7a59-4188-ab3b-8ebcdb2d3359",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:19:18Z",
+  "date_modified": "",
   "headword": "jahamad",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'jahamaːd'}",
+  "pronunciation": "",
   "sense": {
     "206b2b80-0ea4-4a5a-a706-5b2ae1822ab9": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:19:18Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'jahamaːd'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jahamad"
 }

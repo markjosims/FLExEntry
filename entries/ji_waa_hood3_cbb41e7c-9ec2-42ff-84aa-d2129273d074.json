@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 619,
   "entry_id": "ji waa hood3_cbb41e7c-9ec2-42ff-84aa-d2129273d074",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ji waa hood",
   "morph_type": "phrase",
-  "pronunciation": "jiʔ wa:ʔ ho:d̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jiʔ wa:ʔ ho:d̚",
   "sense": {
     "ddb34287-1f5d-45b0-9e17-9827fbd4087a": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji wa: ho:d"
 }

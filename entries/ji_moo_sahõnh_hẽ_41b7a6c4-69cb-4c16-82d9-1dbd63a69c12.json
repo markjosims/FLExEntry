@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 201,
   "entry_id": "ji moo sahõnh hẽ_41b7a6c4-69cb-4c16-82d9-1dbd63a69c12",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T19:48:37Z",
+  "date_modified": "",
   "headword": "ji moo sahõnh hẽ",
   "morph_type": "phrase",
-  "pronunciation": "ji mɔ̃: ʃaˈhɔ̃ɲ ˈhẽʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ji mɔ̃: ʃaˈhɔ̃ɲ ˈhẽʔ",
   "sense": {
     "3b6f5fe3-dce5-49c1-a7b0-7fdc5314b007": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T19:48:37Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji mo: ʃahõɲ hẽ"
 }

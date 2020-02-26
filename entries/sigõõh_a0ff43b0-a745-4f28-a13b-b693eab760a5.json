@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 468,
   "entry_id": "sigõõh_a0ff43b0-a745-4f28-a13b-b693eab760a5",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T17:08:13Z",
+  "date_modified": "",
   "headword": "sigõõh",
   "morph_type": "stem",
-  "pronunciation": "ʃiˈk’ɔ̃:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʃiˈk’ɔ̃:h",
   "sense": {
     "7322fb76-b62e-4454-8e73-57a5c701cce0": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T17:08:13Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃigõ:h"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1247,
+  "entry_id": "as&apos;aats_0824071b-53d6-41b3-bab0-0acf2fd799c9",
+  "bibliography": "",
+  "date": "2019-12-04T23:20:22Z",
+  "date_modified": "2019-12-04T23:24:02Z",
+  "headword": "as'aats",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "aʃaʔaɟ",
+  "sense": {
+    "226559e8-a537-42fb-b6fb-91c5c5cb10b8": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "rotten",
+        "pt": "podre"
+      },
+      "def": {
+        "en": "rotten",
+        "pt": "podre"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "aʃa̰:c"
+}

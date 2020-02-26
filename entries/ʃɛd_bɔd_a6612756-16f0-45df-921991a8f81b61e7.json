@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1090,
   "entry_id": "ʃɛd bɔd_a6612756-16f0-45df-921991a8f81b61e7",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ʃɛd bɔd",
   "morph_type": "phrase",
-  "pronunciation": "ʃɛd bɔd",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'séd bód'}",
+  "pronunciation": "ʃɛd bɔd",
   "sense": {
     "3d9604c2-3c62-4db1-ac74-97bda54287aa": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'séd bód'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃɛd bɔd"
 }

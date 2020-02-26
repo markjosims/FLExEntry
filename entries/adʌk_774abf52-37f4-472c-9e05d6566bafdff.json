@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 984,
   "entry_id": "adʌk_774abf52-37f4-472c-9e05d6566bafdff",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "adʌk",
   "morph_type": "stem",
-  "pronunciation": "adʌk",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'adäk'}",
+  "pronunciation": "adʌk",
   "sense": {
     "e3697b1e-4f93-4ceb-ad0c-61c4a1dfff2d": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'padäg1_82f3367d-8f49-4938-b2ad-fda2f8534143': {'type': '_component-lexeme', 'variant-type': 'Não indicativo plural'}, 'padëëk1_c3d960d6-c8b1-4659-b1e3-8e2b632633bb': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'adäg_d289f0e6-47b0-44cd-86fb-ad0272176d13': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'adäk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "adʌk"
 }

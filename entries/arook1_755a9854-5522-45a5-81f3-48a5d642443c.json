@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 345,
   "entry_id": "arook1_755a9854-5522-45a5-81f3-48a5d642443c",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-22T17:09:23Z",
+  "date_modified": "",
   "headword": "arook",
   "morph_type": "stem",
-  "pronunciation": "aɾo:k",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "aɾo:k",
   "sense": {
     "3788e05c-3f9f-4d44-bdbe-902018a84899": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T17:09:23Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "aro:k"
 }

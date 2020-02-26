@@ -13,8 +13,8 @@ from ast import literal_eval
 from time import time
 from platform import system
 
-master = 'flexiconCLEAN.csv'
-senses_file = 'flex_senses.csv'
+master = 'FlexiconMERGE.csv'
+senses_file = 'SensesMERGE.csv'
 out = 'entries'
 system = system()
 if system == 'Windows':
@@ -138,7 +138,10 @@ def get_vars_from_id(entry_id, these_vars, parent_df, variants):
         
         var_data = dict(row)
         # get datum for type of variant
-        var_data['var_type'] = var_data['variant_of'][entry_id]
+        try:
+        	var_data['var_type'] = var_data['variant_of'][entry_id]
+        except KeyError:
+        	continue
         
         # call recursively if variant might itself have variants
         if var_data['these_vars'] and all(type(x) is str for x in var_data['these_vars'].values()):

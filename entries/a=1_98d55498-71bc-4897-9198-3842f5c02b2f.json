@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1392,
+  "entry_id": "a=1_98d55498-71bc-4897-9198-3842f5c02b2f",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-22T21:20:00Z",
+  "headword": "a=",
+  "morph_type": "proclitic",
+  "note": {
+    "bibliography": "SIL 2011; Weir 1984"
+  },
+  "other_sources": "{'Weir': 'a='}",
+  "pronunciation": "ʔa",
+  "sense": {
+    "c918bbb6-bb97-4ac6-8b02-0e1553b1f487": {
+      "pos": "pro",
+      "gloss": {
+        "pt": "2sg.POSS"
+      },
+      "def": {
+        "pt": "2sg possessivo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "a "
+}

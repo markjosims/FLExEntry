@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 815,
   "entry_id": "paʃu:_1cbf64eb-ab01-4630-bed885c997349823",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "paʃu:",
   "morph_type": "stem",
-  "pronunciation": "paʃu:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'pasuu'}",
+  "pronunciation": "paʃu:",
   "sense": {
     "c3226410-55bc-4a39-b5d5-665bccb6854d": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'pasu_8af74d2a-1563-4ce6-8093-50ac023117f5': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'pasuu'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "paʃu:"
 }

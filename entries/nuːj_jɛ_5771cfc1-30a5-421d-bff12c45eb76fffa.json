@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 925,
   "entry_id": "nu:j jɛ_5771cfc1-30a5-421d-bff12c45eb76fffa",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "nu:j jɛ",
   "morph_type": "phrase",
-  "pronunciation": "nu:j jɛ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'nuuj jé'}",
+  "pronunciation": "nu:j jɛ",
   "sense": {
     "6ca11793-9b86-4f94-885f-bd6293980612": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": "{'nuujé_cb9e8dad-2386-4f1b-a020-011a13313b11': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'nuuj jé'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "nu:j jɛ"
 }

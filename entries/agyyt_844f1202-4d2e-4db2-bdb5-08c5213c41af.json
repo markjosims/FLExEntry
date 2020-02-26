@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 384,
   "entry_id": "agyyt_844f1202-4d2e-4db2-bdb5-08c5213c41af",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:14:38Z",
+  "date_modified": "",
   "headword": "agyyt",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈk’ɨ:t˺",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "problem:ʔaˈk’ɨ:t˺ or ʔaˈk’ǝ:t˺"
   },
+  "other_sources": "{'Weir': 'gʉʉt'}",
+  "pronunciation": "ʔaˈk’ɨ:t˺",
   "sense": {
     "9b1c0686-0243-47e2-a490-9ac118639250": {
       "pos": "Verb",
@@ -21,7 +24,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:14:38Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'gʉʉt'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "agɨ:t"
 }

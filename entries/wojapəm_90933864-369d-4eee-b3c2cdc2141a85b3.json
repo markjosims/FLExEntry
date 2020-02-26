@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1044,
   "entry_id": "wojapəm_90933864-369d-4eee-b3c2cdc2141a85b3",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "wojapəm",
   "morph_type": "stem",
-  "pronunciation": "wojapəm",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'wojapəm'}",
+  "pronunciation": "wojapəm",
   "sense": {
     "c238bad4-14b9-4793-bde2-19e5914d8a2b": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'wojapəm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wojapəm"
 }

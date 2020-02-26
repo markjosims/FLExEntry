@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 991,
   "entry_id": "ɔ:w_7b46d0e4-14b6-4aba-9b6d703bd75a6886",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ɔ:w",
   "morph_type": "stem",
-  "pronunciation": "ɔ:w",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'óów'}",
+  "pronunciation": "ɔ:w",
   "sense": {
     "d23385de-69ff-4c10-8d02-426abf0f1d4c": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'óów'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ɔ:w"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1280,
+  "entry_id": "jóp_3058b354-3497-4b57-9fa9-605aaa741d02",
+  "bibliography": "",
+  "date": "2019-12-04T23:24:56Z",
+  "date_modified": "2019-12-04T23:25:50Z",
+  "headword": "jóp",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Sil Dict 2011': 'heen nʹaa'}",
+  "pronunciation": "jɔp",
+  "sense": {
+    "4d3ced9c-7a95-4963-8dd9-b3bce674ce79": {
+      "pos": "posp",
+      "gloss": {
+        "en": "over",
+        "pt": "por.cima"
+      },
+      "def": {
+        "en": "over",
+        "pt": "por cima"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "jɔp"
+}

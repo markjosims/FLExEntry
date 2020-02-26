@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1048,
   "entry_id": "heho̰:ʃ_926b4665-f0d5-44ff-a36cdeda9950778b",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "heho̰:ʃ",
   "morph_type": "stem",
-  "pronunciation": "heho̰:ʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'hehʹoos'}",
+  "pronunciation": "heho̰:ʃ",
   "sense": {
     "b63b5337-2f97-4c38-a4cc-335c7d99ee77": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'hehos_4f8b69c2-57d9-4904-91aa-2a5470eea28e': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'hehoots_9d94fe0a-9859-4994-a991-bc666f320016': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'hehʹoos'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "heho̰:ʃ"
 }

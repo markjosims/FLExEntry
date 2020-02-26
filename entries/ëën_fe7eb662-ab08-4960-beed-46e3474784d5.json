@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1510,
+  "entry_id": "ëën_fe7eb662-ab08-4960-beed-46e3474784d5",
+  "bibliography": "",
+  "date": "2020-01-08T19:25:42Z",
+  "date_modified": "2020-01-08T19:26:50Z",
+  "headword": "ëën",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Weir': 'biin'}",
+  "pronunciation": "ǝ:n",
+  "sense": {
+    "591fb13a-38b0-4cce-b5cf-4b74aa321d3b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "mother.Voc",
+        "pt": "mãe.Voc"
+      },
+      "def": {
+        "en": "mother vocativo",
+        "pt": "mãe vocativo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ə:n"
+}

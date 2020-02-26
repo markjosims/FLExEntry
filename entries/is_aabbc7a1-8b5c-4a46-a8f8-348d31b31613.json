@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1415,
+  "entry_id": "is_aabbc7a1-8b5c-4a46-a8f8-348d31b31613",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-05T16:00:18Z",
+  "headword": "is",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldwork 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "iʃ",
+  "sense": {
+    "0333597e-bcd2-4496-a061-30b0c534634b": {
+      "pos": "?",
+      "gloss": {
+        "en": "alone",
+        "pt": "sozinho"
+      },
+      "def": {
+        "en": "sozinho",
+        "pt": "sozinho"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "fe46e5c1-feb7-4b39-8ac4-316fb20f54f0": {
+      "pos": "?",
+      "gloss": {
+        "en": "left",
+        "pt": "o.que.restou"
+      },
+      "def": {
+        "en": "what was left",
+        "pt": "o que restou"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "iʃ"
+}

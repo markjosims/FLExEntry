@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 67,
   "entry_id": "tamaboh_15731cab-2b16-4be8-829d-ec886877724d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "tamaboh",
   "morph_type": "stem",
-  "pronunciation": "tabmãboh",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "tabmãboh",
   "sense": {
     "505d0581-c996-409b-99cd-59a5fbf20d3d": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "tamaboh"
 }

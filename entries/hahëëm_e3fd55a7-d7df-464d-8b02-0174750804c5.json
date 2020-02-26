@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 686,
   "entry_id": "hahëëm_e3fd55a7-d7df-464d-8b02-0174750804c5",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hahëëm",
   "morph_type": "stem",
-  "pronunciation": "haˈhǝ:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "haˈhǝ:bm",
   "sense": {
     "cf16c452-b4b1-40f1-87b8-b62a8dcdda71": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'hahëëw_fd77a6ed-fbcc-4d9a-9f75-6c822da7adec': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hahə:m"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 895,
   "entry_id": "nu gaʃõ:m_48dbda2f-b218-4d64-8db6bd9b505c63cf",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "nu gaʃõ:m",
   "morph_type": "phrase",
-  "pronunciation": "nu gaʃõ:m",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'nu gasõõm'}",
+  "pronunciation": "nu gaʃõ:m",
   "sense": {
     "6766b1ba-9d1c-4cda-b8d5-639662560974": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'nu gesʹõõm_d6c8f2ab-2832-4af0-8120-e601cb6bbe5e': {'type': '_component-lexeme', 'variant-type': 'Causativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'nu gasõõm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "nu gaʃõ:m"
 }

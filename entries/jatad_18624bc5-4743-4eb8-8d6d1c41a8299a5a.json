@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 805,
   "entry_id": "jatad_18624bc5-4743-4eb8-8d6d1c41a8299a5a",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "jatad",
   "morph_type": "stem",
-  "pronunciation": "jatad",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'jatad'}",
+  "pronunciation": "jatad",
   "sense": {
     "c2e3e355-dadb-4b30-a3a1-0f2249aeb1b0": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'jatad'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jatad"
 }

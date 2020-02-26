@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 404,
   "entry_id": "baras’ĩĩnh_8a137ae8-04bc-445f-a244-e594703fa289",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "baras’ĩĩnh",
   "morph_type": "stem",
-  "pronunciation": "baɾaʃĩʔĩɲ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "baɾaʃĩʔĩɲ",
   "sense": {
     "1c81b13b-ad17-4d36-8f42-8fcf339c823e": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "baraʃḭ̃:ɲ"
 }

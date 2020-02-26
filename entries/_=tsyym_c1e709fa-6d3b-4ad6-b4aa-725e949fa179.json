@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 580,
   "entry_id": " =tsyym_c1e709fa-6d3b-4ad6-b4aa-725e949fa179",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": " =tsyym",
   "morph_type": "stem",
-  "pronunciation": "tʃ’ɨ:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "tʃ’ɨ:bm",
   "sense": {
     "5959e1f7-66f6-4b2e-a04b-005053e9df1a": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "  cɨ:m"
 }

@@ -1,0 +1,61 @@
+{
+  "Unnamed: 0": 1266,
+  "entry_id": "tatyng n&apos;aa_1ca2ceb7-661e-409f-8ba9-0beae1fb5929",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-08T17:21:22Z",
+  "headword": "tatyng n'aa",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ta'tɨŋ naʔa",
+  "sense": {
+    "c9a3c10b-6b24-4630-9530-07df88a2fd2b": {
+      "pos": "n",
+      "gloss": {
+        "en": "bench",
+        "pt": "banco"
+      },
+      "def": {
+        "en": "bench",
+        "pt": "banco"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "e80caa9a-c463-4c75-a18d-b8b720097305": {
+      "pos": "n",
+      "gloss": {
+        "en": "table",
+        "pt": "mesa"
+      },
+      "def": {
+        "en": "table",
+        "pt": "mesa"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "669d177a-b23c-4613-ac1f-16a5e4716d10": {
+      "pos": "n",
+      "gloss": {
+        "en": "horizontal.support",
+        "pt": "suporte.horizontal"
+      },
+      "def": {
+        "en": "horizontal support",
+        "pt": "suporte horizontal"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tatɨŋ na̰:"
+}

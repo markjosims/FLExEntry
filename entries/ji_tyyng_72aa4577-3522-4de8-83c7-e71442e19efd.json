@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 334,
   "entry_id": "ji tyyng_72aa4577-3522-4de8-83c7-e71442e19efd",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ji tyyng",
   "morph_type": "phrase",
-  "pronunciation": "jiʔ tɨ:gŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'tyng', 'Weir': 'tɨng'}",
+  "pronunciation": "jiʔ tɨ:gŋ",
   "sense": {
     "dc924d53-b4ed-4cad-9854-aee76fc00c3e": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'tyng', 'Weir': 'tɨng'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ji tɨ:ŋ"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1185,
   "entry_id": "tʌ nɨ:_d81ab449-4825-4c3d-868eda12f084ab36",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "tʌ nɨ:",
   "morph_type": "phrase",
-  "pronunciation": "tʌ nɨ:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tä nyy'}",
+  "pronunciation": "tʌ nɨ:",
   "sense": {
     "28b93402-207f-4897-bcc9-bc03eac8c7f2": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": "{'ta nyy_0c041358-e3a3-4af9-bd2e-8f9a831c1cfd': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tä nyy'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tʌ nɨ:"
 }

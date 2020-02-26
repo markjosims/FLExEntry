@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 349,
   "entry_id": "kaan_7614d499-7ba2-4fe8-8764-704e13c61d5f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kaan",
   "morph_type": "stem",
-  "pronunciation": "ka:dn",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "ka:dn",
   "sense": {
     "7bcb7095-c9cd-43ac-a3fd-151040becd4b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ka:n"
 }

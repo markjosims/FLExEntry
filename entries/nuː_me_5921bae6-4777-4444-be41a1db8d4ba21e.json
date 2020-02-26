@@ -1,28 +1,33 @@
 {
+  "Unnamed: 0": 929,
   "entry_id": "nu: me_5921bae6-4777-4444-be41a1db8d4ba21e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "nu: me",
   "morph_type": "phrase",
-  "pronunciation": "nu: me",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'nuu me'}",
+  "pronunciation": "nu: me",
   "sense": {
     "cd09681e-9844-4f3d-8ca5-67a43f1a3b79": {
       "pos": "adv",
       "gloss": {
+        "en": "times",
         "pt": "vezes"
       },
       "def": {
+        "en": "times",
         "pt": "vezes"
       },
       "reverse": "",
-      "note": "",
+      "note": "{'grammar': 'event quantifier'}",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'nuu me'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "nu: me"
 }

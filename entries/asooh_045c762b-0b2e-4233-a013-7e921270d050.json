@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 17,
   "entry_id": "asooh_045c762b-0b2e-4233-a013-7e921270d050",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "asooh",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈʃo:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Weir': 'sooh'}",
+  "pronunciation": "ʔaˈʃo:h",
   "sense": {
     "49d89e7e-ca3b-4eaf-970c-5112be5fc622": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'sooh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "aʃo:h"
 }

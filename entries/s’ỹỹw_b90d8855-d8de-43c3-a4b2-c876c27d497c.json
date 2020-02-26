@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 540,
   "entry_id": "s’ỹỹw_b90d8855-d8de-43c3-a4b2-c876c27d497c",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:32:40Z",
+  "date_modified": "",
   "headword": "s’ỹỹw",
   "morph_type": "stem",
-  "pronunciation": "ʃɨ̃ʔɨ̃w",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʃɨ̃ʔɨ̃w",
   "sense": {
     "5a40707f-ff6a-4c4b-9e2e-d72bcb4c9a68": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:32:40Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃɨ̰̃:w"
 }

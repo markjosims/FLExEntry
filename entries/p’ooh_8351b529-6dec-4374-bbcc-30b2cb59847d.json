@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1369,
+  "entry_id": "p’ooh_8351b529-6dec-4374-bbcc-30b2cb59847d",
+  "bibliography": "",
+  "date": "2018-09-03T23:33:33Z",
+  "date_modified": "2019-12-15T22:47:34Z",
+  "headword": "p’ooh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{'Martins': 'maɾahud'}",
+  "pronunciation": "poʔoh",
+  "sense": {
+    "86d16bb4-a2a6-4698-85d5-5452423b4cfc": {
+      "pos": "",
+      "gloss": {
+        "en": "hot.pepper",
+        "pt": "pimenta"
+      },
+      "def": {
+        "en": "hot pepper",
+        "pt": "pimenta"
+      },
+      "reverse": "{'pt': 'pimenta', 'en': 'hot pepper'}",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "po̰:h"
+}

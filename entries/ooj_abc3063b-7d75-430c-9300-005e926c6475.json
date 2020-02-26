@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 507,
   "entry_id": "ooj_abc3063b-7d75-430c-9300-005e926c6475",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-06T18:21:37Z",
+  "date_modified": "",
   "headword": "ooj",
   "morph_type": "stem",
-  "pronunciation": "[ʔo:j]",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "[ʔo:j]",
   "sense": {
     "14811108-3b59-4c9c-8e11-d81a6507a241": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T18:21:37Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "o:j"
 }

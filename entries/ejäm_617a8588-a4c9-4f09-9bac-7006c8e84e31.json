@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 281,
   "entry_id": "ejäm_617a8588-a4c9-4f09-9bac-7006c8e84e31",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T21:37:01Z",
+  "date_modified": "",
   "headword": "ejäm",
   "morph_type": "stem",
-  "pronunciation": "ʔeʔjʌbm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeʔjʌbm",
   "sense": {
     "cb90b4c0-0aba-4155-b52c-b12c07a05d29": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T21:37:01Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ejʌm"
 }

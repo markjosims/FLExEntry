@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 148,
   "entry_id": "kaój ag_30ca2df2-a560-4776-8df7-ff863320dc5d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kaój ag",
   "morph_type": "phrase",
-  "pronunciation": "kaʔɔj ʔag̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kaʔɔj ʔag̚",
   "sense": {
     "f354e744-876b-4083-b01e-60028d0f77dc": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kaɔj ag"
 }

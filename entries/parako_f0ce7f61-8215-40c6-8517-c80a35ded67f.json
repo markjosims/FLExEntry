@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 713,
   "entry_id": "parako_f0ce7f61-8215-40c6-8517-c80a35ded67f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "parako",
   "morph_type": "stem",
-  "pronunciation": "paɾakoʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "paɾakoʔ",
   "sense": {
     "23876bc5-cb02-4860-8ce7-3957dbf9c715": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "parako"
 }

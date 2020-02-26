@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 557,
   "entry_id": "karahyyr_bc5a171a-c00c-4782-93b5-020b90692266",
+  "bibliography": "Fielnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:29:22Z",
+  "date_modified": "",
   "headword": "karahyyr",
   "morph_type": "root",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "cfac1d7b-3671-4f93-bf2f-3027cd011a8c": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:29:22Z",
-  "bibliography": "Fielnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "karahɨ:r"
 }

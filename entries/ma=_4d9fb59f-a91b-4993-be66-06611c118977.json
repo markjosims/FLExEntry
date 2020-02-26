@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 238,
   "entry_id": "ma=_4d9fb59f-a91b-4993-be66-06611c118977",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-02T14:46:30Z",
+  "date_modified": "",
   "headword": "ma=",
   "morph_type": "proclitic",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "7b7659de-3abd-4cfd-90fb-c4ac343b28cf": {
       "pos": "pro",
@@ -21,7 +24,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-02T14:46:30Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ma "
 }

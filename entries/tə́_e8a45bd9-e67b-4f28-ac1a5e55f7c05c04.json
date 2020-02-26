@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1208,
   "entry_id": "tə́_e8a45bd9-e67b-4f28-ac1a5e55f7c05c04",
+  "bibliography": "Weir 1990",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "tə́",
   "morph_type": "stem",
-  "pronunciation": "tə́",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'tʉ́'}",
+  "pronunciation": "tə́",
   "sense": {
     "0563e647-67c7-46a0-87d5-27bb4087d6df": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1990",
-  "other_sources": "{'Weir': 'tʉ́'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tə́"
 }

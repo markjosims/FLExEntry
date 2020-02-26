@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 213,
   "entry_id": "sóh tyym_45cd1a5f-be5c-44f8-8f33-fcb130ed8dbd",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "sóh tyym",
   "morph_type": "phrase",
-  "pronunciation": "ʃɔh tɨ:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "ʃɔh tɨ:bm",
   "sense": {
     "5b0a831f-77d1-4244-8abf-5711d66bd97c": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃɔh tɨ:m"
 }

@@ -1,0 +1,88 @@
+{
+  "Unnamed: 0": 1452,
+  "entry_id": "asyng_c623ba7c-cc1f-4512-8633-6f2b396b2291",
+  "bibliography": "",
+  "date": "2019-11-05T16:12:51Z",
+  "date_modified": "2019-11-05T16:15:01Z",
+  "headword": "asyng",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "aʃɨŋ",
+  "sense": {
+    "a9fda427-7afb-4ae7-88c6-ab4f28244c09": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "plant.bitter.manioc",
+        "pt": "plantar.maniva"
+      },
+      "def": {
+        "en": "plant bitter manioc",
+        "pt": "plantar maniva"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "syy_b38cc436-4e22-47f3-b125-5e562663c1f6": {
+      "Unnamed: 0": 1425,
+      "bibliography": "",
+      "date": "2019-11-05T16:15:15Z",
+      "date_modified": "2019-11-05T16:15:15Z",
+      "headword": "syy",
+      "morph_type": "root",
+      "note": null,
+      "other_sources": "{'Weir': 'pxóóyub', 'Sil Dict 2011': 'pʹooj ub'}",
+      "pronunciation": "",
+      "sense": null,
+      "these_vars": {},
+      "ipa": "ʃɨ:",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
+    },
+    "syng_b5be77fa-beec-4537-9487-b41368760940": {
+      "Unnamed: 0": 1428,
+      "bibliography": "",
+      "date": "2019-11-05T19:52:41Z",
+      "date_modified": "2019-11-05T19:52:41Z",
+      "headword": "syng",
+      "morph_type": "root",
+      "note": null,
+      "other_sources": "{}",
+      "pronunciation": "",
+      "sense": null,
+      "these_vars": {},
+      "ipa": "ʃɨŋ",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
+    },
+    "syyh_cf60c370-545f-49d8-9d75-c43de0dcbcbc": {
+      "Unnamed: 0": 1462,
+      "bibliography": "",
+      "date": "2019-11-05T19:41:41Z",
+      "date_modified": "2019-11-05T19:41:41Z",
+      "headword": "syyh",
+      "morph_type": "root",
+      "note": null,
+      "other_sources": "{'Martins': 'pɔ̰p', 'Sil Dict 2011': 'pʹop'}",
+      "pronunciation": "",
+      "sense": null,
+      "these_vars": {},
+      "ipa": "ʃɨ:h",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "aʃɨŋ"
+}

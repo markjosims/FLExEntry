@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 435,
   "entry_id": "ts’ëëg_95dec863-c133-43ea-b839-25af3fbb4312",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T23:14:36Z",
+  "date_modified": "",
   "headword": "ts’ëëg",
   "morph_type": "stem",
-  "pronunciation": "tʃ’ǝʔǝg˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "tʃ’ǝʔǝg˺",
   "sense": {
     "6da2ae83-6c6f-4e5e-bfc2-f6fac626cd69": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T23:14:36Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "cə̰:g"
 }

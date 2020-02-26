@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 643,
   "entry_id": "datés_d4d8658e-0692-4022-8f66-d7ff445c29c8",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T17:58:14Z",
+  "date_modified": "",
   "headword": "datés",
   "morph_type": "stem",
-  "pronunciation": "daˈtɛʃ]",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "daˈtɛʃ]",
   "sense": {
     "d0178027-9a04-4739-8553-10b961b353eb": {
       "pos": "adj?",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T17:58:14Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "datɛʃ"
 }

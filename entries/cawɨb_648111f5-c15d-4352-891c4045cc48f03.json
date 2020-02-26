@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 946,
   "entry_id": "cawɨb_648111f5-c15d-4352-891c4045cc48f03",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "cawɨb",
   "morph_type": "stem",
-  "pronunciation": "cawɨb",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'ɟawɨb'}",
+  "pronunciation": "cawɨb",
   "sense": {
     "4d2eeda7-e400-4897-9e72-7fefc0de3b04": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'ɟawɨb'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "cawɨb"
 }

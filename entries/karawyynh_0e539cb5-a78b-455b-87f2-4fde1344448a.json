@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 50,
   "entry_id": "karawyynh_0e539cb5-a78b-455b-87f2-4fde1344448a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:11:17Z",
+  "date_modified": "",
   "headword": "karawyynh",
   "morph_type": "root",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "c8087b0a-6d12-4c1a-8fa8-ad6bc18e9a88": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:11:17Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "karawɨ:ɲ"
 }

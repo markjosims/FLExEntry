@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 432,
   "entry_id": "awät_94af7d8a-ba5e-4b2b-9ef7-cfa69923b978",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "awät",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈwǝt˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔaˈwǝt˺",
   "sense": {
     "2c08905d-ed34-4bce-a5d7-9819044844bd": {
       "pos": "v",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "awʌt"
 }

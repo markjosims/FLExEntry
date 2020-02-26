@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1113,
   "entry_id": "hahũ:ɲ_b2946afb-4e39-47bc-8fb71d8057a69dae",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "hahũ:ɲ",
   "morph_type": "stem",
-  "pronunciation": "hahũ:ɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'hahũːɲ'}",
+  "pronunciation": "hahũ:ɲ",
   "sense": {
     "80564ff1-b890-4683-8543-2f7d3ea725a3": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'hahũːɲ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hahũ:ɲ"
 }

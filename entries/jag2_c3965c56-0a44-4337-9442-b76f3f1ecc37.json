@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 587,
   "entry_id": "jag2_c3965c56-0a44-4337-9442-b76f3f1ecc37",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jag",
   "morph_type": "stem",
-  "pronunciation": "jag̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'jag'}",
+  "pronunciation": "jag̚",
   "sense": {
     "c81f7c4e-93f1-41f5-8a57-a48a3d93d9a3": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'jag'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jag"
 }

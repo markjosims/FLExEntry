@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 541,
   "entry_id": "moo wät_b93d35b5-362a-4a1e-9cc9-ebca8539a59b",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "moo wät",
   "morph_type": "phrase",
-  "pronunciation": "mɔ̃:ˈwǝt˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "mɔ̃:ˈwǝt˺",
   "sense": {
     "43443a2c-b52c-4b96-ae12-93d8f95fd8bb": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "mo: wʌt"
 }

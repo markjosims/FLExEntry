@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 356,
   "entry_id": "papuuj_7915d923-4f4c-4561-b7d2-ae701a0032ec",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T17:43:45Z",
+  "date_modified": "",
   "headword": "papuuj",
   "morph_type": "stem",
-  "pronunciation": "paˈpu:j",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "paˈpu:j",
   "sense": {
     "81d6c196-eabe-45cf-9c25-3f10765bbb5b": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T17:43:45Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "papu:j"
 }

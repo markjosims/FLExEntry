@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 115,
   "entry_id": "jarakë2_2374aefe-208a-41a4-82e8-0828d5d0a65f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jarakë",
   "morph_type": "stem",
-  "pronunciation": "jaɾakəʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jaɾakəʔ",
   "sense": {
     "ba35b885-67b8-42fc-9792-c3e8ff5f2f1e": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jarakə"
 }

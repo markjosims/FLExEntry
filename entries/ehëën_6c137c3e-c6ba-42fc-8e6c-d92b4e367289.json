@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 314,
   "entry_id": "ehëën_6c137c3e-c6ba-42fc-8e6c-d92b4e367289",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:37:54Z",
+  "date_modified": "",
   "headword": "ehëën",
   "morph_type": "stem",
-  "pronunciation": "ʔeˈhǝ:dn",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeˈhǝ:dn",
   "sense": {
     "aa41c4ae-2f91-4f5f-8ac5-8e5a43ad4bcc": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:37:54Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ehə:n"
 }

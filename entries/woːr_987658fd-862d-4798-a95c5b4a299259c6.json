@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1065,
   "entry_id": "wo:r_987658fd-862d-4798-a95c5b4a299259c6",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "wo:r",
   "morph_type": "stem",
-  "pronunciation": "wo:r",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'woːɾ'}",
+  "pronunciation": "wo:r",
   "sense": {
     "cc82523d-d4b8-4e87-8188-54798c02eb6b": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'woːɾ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wo:r"
 }

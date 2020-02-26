@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1181,
   "entry_id": "edo:n_d7029ea0-1d77-423d-ab5dd19e1296fa61",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "edo:n",
   "morph_type": "stem",
-  "pronunciation": "edo:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'edoon'}",
+  "pronunciation": "edo:n",
   "sense": {
     "5fdb3b75-6a14-4dcc-a9ec-2ce227b9a1bf": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'edón_0a6e9703-c45e-4f5e-a9ca-9cce168f7c6e': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'edoon'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "edo:n"
 }

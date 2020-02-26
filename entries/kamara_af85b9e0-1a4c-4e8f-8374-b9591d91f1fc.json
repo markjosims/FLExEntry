@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 515,
   "entry_id": "kamara_af85b9e0-1a4c-4e8f-8374-b9591d91f1fc",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kamara",
   "morph_type": "stem",
-  "pronunciation": "kabmãɾaʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kabmãɾaʔ",
   "sense": {
     "78f7de6c-c116-4da4-8294-89b1ce719807": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kamara"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 147,
   "entry_id": "roor_3015a52d-88c5-432a-befd-e2eab5325dc6",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:43:14Z",
+  "date_modified": "",
   "headword": "roor",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Barbosa': 'ʔaɾoːɾ', 'Martins': 'ɾoːɾ'}",
+  "pronunciation": "",
   "sense": {
     "8477b726-76d0-4630-9a39-a67f1840cdb1": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:43:14Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'ʔaɾoːɾ', 'Martins': 'ɾoːɾ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ro:r"
 }

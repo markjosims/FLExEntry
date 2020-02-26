@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1434,
+  "entry_id": "its_ba5295b1-91ab-47fa-aa47-63e8444af756",
+  "bibliography": "",
+  "date": "2019-11-05T16:01:07Z",
+  "date_modified": "2019-11-05T16:02:17Z",
+  "headword": "its",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; fieldwork 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "iɟ",
+  "sense": {
+    "cc1fd3f1-8d3b-420d-82ad-6e614ec15e18": {
+      "pos": "?",
+      "gloss": {
+        "en": "DIM",
+        "pt": "DIM"
+      },
+      "def": {
+        "en": "diminutive",
+        "pt": "diminutivo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ic"
+}

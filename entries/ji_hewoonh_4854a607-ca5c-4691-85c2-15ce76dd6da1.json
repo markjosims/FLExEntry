@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 223,
   "entry_id": "ji hewoonh_4854a607-ca5c-4691-85c2-15ce76dd6da1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ji hewoonh",
   "morph_type": "phrase",
-  "pronunciation": "jiʔ hewo:ɟɲ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jiʔ hewo:ɟɲ",
   "sense": {
     "cfa05186-d96a-4e0d-9a1b-455de773ffa4": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji hewo:ɲ"
 }

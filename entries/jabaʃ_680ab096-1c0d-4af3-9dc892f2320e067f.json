@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 952,
   "entry_id": "jabaʃ_680ab096-1c0d-4af3-9dc892f2320e067f",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "jabaʃ",
   "morph_type": "stem",
-  "pronunciation": "jabaʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'jabas'}",
+  "pronunciation": "jabaʃ",
   "sense": {
     "a7fbf75e-4592-4194-8d79-3474f17d08f4": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'jabas'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jabaʃ"
 }

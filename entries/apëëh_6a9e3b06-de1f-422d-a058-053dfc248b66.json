@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 310,
   "entry_id": "apëëh_6a9e3b06-de1f-422d-a058-053dfc248b66",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T20:10:59Z",
+  "date_modified": "",
   "headword": "apëëh",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈpǝ:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔaˈpǝ:h",
   "sense": {
     "9e115803-4f5c-4b6a-8e46-1329d406801f": {
       "pos": "adj?",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T20:10:59Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "apə:h"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1494,
+  "entry_id": "aj&apos;yy_ece00d00-4ed6-47ba-9536-ac3be8cafafe",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-05T15:20:16Z",
+  "headword": "aj'yy",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011; Fieldnotes Epps/Obert 2018"
+  },
+  "other_sources": "{'Sil Dict 2011': 'hahỹỹh'}",
+  "pronunciation": "ʔaˈjɨʔɨʔ",
+  "sense": {
+    "a6102523-aca3-4fbb-8d7a-08cf7a87e9fa": {
+      "pos": "n",
+      "gloss": {
+        "en": "man",
+        "pt": "homem"
+      },
+      "def": {
+        "en": "man; male",
+        "pt": "homem; macho"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'ajyy_df084789-d41c-4e8a-9b94-bded23eaa2d8': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ajɨ̰:"
+}

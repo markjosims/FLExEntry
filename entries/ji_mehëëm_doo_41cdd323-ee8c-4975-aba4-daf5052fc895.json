@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 202,
   "entry_id": "ji mehëëm doo_41cdd323-ee8c-4975-aba4-daf5052fc895",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ji mehëëm doo",
   "morph_type": "phrase",
-  "pronunciation": "jiʔ mẽhə:bm do:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jiʔ mẽhə:bm do:ʔ",
   "sense": {
     "045768b1-0ece-4ba6-be9e-5d5d48363dea": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji mehə:m do:"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1198,
   "entry_id": "wokã̰:n_e413f904-0415-456d-81244c40bb9b690",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "wokã̰:n",
   "morph_type": "stem",
-  "pronunciation": "wokã̰:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'wokã̰ːn'}",
+  "pronunciation": "wokã̰:n",
   "sense": {
     "d653afab-c369-479e-a220-575e8babe1e8": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'wokã̰ːn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wokã̰:n"
 }

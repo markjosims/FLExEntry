@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 880,
   "entry_id": "wət_3d9e8a40-28bc-4880-9dc1525d808cd0db",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "wət",
   "morph_type": "stem",
-  "pronunciation": "wət",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Weir': 'wʉ́t', 'Barbosa': 'wət'}",
+  "pronunciation": "wət",
   "sense": {
     "1d385f81-22c4-462b-a592-0f33f08e6469": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Weir': 'wʉ́t', 'Barbosa': 'wət'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wət"
 }

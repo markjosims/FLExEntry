@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 123,
   "entry_id": "juum_288ff678-6dc5-4fc1-961d-0886a4bc84a4",
+  "bibliography": "Fielnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:49:23Z",
+  "date_modified": "",
   "headword": "juum",
   "morph_type": "root",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "",
   "sense": {
     "7dcc9d37-24d1-443d-baa0-f0e869a73880": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:49:23Z",
-  "bibliography": "Fielnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ju:m"
 }

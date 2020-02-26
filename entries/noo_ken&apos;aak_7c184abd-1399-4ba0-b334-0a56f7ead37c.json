@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1359,
+  "entry_id": "noo ken&apos;aak_7c184abd-1399-4ba0-b334-0a56f7ead37c",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-08T19:20:22Z",
+  "headword": "noo ken'aak",
+  "morph_type": "phrase",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'undef': 'manṵ̃ɟ'}",
+  "pronunciation": "no: kena̰:k",
+  "sense": {
+    "7eba24e2-94bc-4963-b826-bd027b2e7085": {
+      "pos": "v",
+      "gloss": {
+        "en": "like.food",
+        "pt": "gostar.de.comida"
+      },
+      "def": {
+        "en": "like food",
+        "pt": "gostar de comida"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "no: kena̰:k"
+}

@@ -1,20 +1,25 @@
 {
+  "Unnamed: 0": 1047,
   "entry_id": "ʃa_9258a56c-b681-4637-922dc15c3cc4d778",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ʃa",
   "morph_type": "stem",
-  "pronunciation": "ʃa",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'sa'}",
+  "pronunciation": "ʃa",
   "sense": {
     "4f7f47b8-b326-4da4-92a7-42a2292270f8": {
       "pos": "pro",
       "gloss": {
-        "pt": "3P"
+        "en": "3PL.POSS",
+        "pt": "3PL.POSS"
       },
       "def": {
+        "en": "their",
         "pt": "(d)eles"
       },
       "reverse": "",
@@ -22,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'sa'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃa"
 }

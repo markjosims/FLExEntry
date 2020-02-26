@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1076,
   "entry_id": "etḛ̃:k_9ce91b9e-1b17-4b89-bea48a10eba076c2",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-27T01:30:42Z",
+  "date_modified": "",
   "headword": "etḛ̃:k",
   "morph_type": "stem",
-  "pronunciation": "etḛ̃:k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'etʹẽẽk'}",
+  "pronunciation": "etḛ̃:k",
   "sense": {
     "b0ede0fe-0800-45cb-9fe1-00e5d67183a5": {
       "pos": "v onom",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-27T01:30:42Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'etʹẽẽk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "etḛ̃:k"
 }

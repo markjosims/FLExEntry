@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1387,
+  "entry_id": "panang_9176ec12-a397-43ce-a22f-7d9f993e05b8",
+  "bibliography": "",
+  "date": "2019-11-15T21:19:36Z",
+  "date_modified": "2019-11-15T21:20:41Z",
+  "headword": "panang",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "pa'naŋ",
+  "sense": {
+    "93165f45-a5cf-42a7-a60a-12cbdfd069ef": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "place",
+        "pt": "lugar"
+      },
+      "def": {
+        "en": "place",
+        "pt": "lugar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "05fd7361-8ef3-4ded-ba3f-b00542d3ec3c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "community",
+        "pt": "comunidade"
+      },
+      "def": {
+        "en": "community",
+        "pt": "comunidade"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "panaŋ"
+}

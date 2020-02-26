@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 40,
   "entry_id": "majyyw_0acd6e09-f726-4b4d-986e-4b28969150e2",
+  "bibliography": "Fieldnotes Epps/Obert. 2018",
+  "date": "2018-07-04T13:22:00Z",
+  "date_modified": "",
   "headword": "majyyw",
   "morph_type": "stem",
-  "pronunciation": "maˈjɨ:w",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "maˈjɨ:w",
   "sense": {
     "36e6dd1e-e554-49e0-9e40-7164c8216f21": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-04T13:22:00Z",
-  "bibliography": "Fieldnotes Epps/Obert. 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "majɨ:w"
 }

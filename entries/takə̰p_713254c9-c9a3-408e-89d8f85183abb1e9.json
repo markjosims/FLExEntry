@@ -1,28 +1,33 @@
 {
+  "Unnamed: 0": 975,
   "entry_id": "takə̰p_713254c9-c9a3-408e-89d8f85183abb1e9",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "takə̰p",
   "morph_type": "stem",
-  "pronunciation": "takə̰p",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'takɤ̰p', 'Sil Dict 2011': 'takʹëp'}",
+  "pronunciation": "takə̰p",
   "sense": {
     "e51b5395-a1b4-44d8-84cd-019a3371d037": {
       "pos": "adv",
       "gloss": {
-        "pt": "INTS"
+        "en": "a.lot",
+        "pt": "muito"
       },
       "def": {
-        "pt": "intensificador"
+        "en": "a.lot",
+        "pt": "muito"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'takɤ̰p', 'Sil Dict 2011': 'takʹëp'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "takə̰p"
 }

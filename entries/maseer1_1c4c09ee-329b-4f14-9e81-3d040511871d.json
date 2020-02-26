@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 90,
   "entry_id": "maseer1_1c4c09ee-329b-4f14-9e81-3d040511871d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "maseer",
   "morph_type": "stem",
-  "pronunciation": "maˈʃe:ɾǝ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "maˈʃe:ɾǝ",
   "sense": {
     "fb5814dc-f021-4a7b-9d1d-f915783599a7": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "maʃe:r"
 }

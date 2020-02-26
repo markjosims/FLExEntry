@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 48,
   "entry_id": "jook2_0d9688b1-2ebf-46c8-b27e-708483cdaf63",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "jook",
   "morph_type": "stem",
-  "pronunciation": "jo:k̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jo:k̚",
   "sense": {
     "1f5e557a-ed3c-4d43-adca-28b5e5468ab9": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jo:k"
 }

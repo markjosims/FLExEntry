@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 320,
   "entry_id": "betoo_6daa649e-681d-471b-a907-1a64264040fb",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "betoo",
   "morph_type": "stem",
-  "pronunciation": "beto:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "beto:ʔ",
   "sense": {
     "83d2e5e9-7315-41fc-9ca5-43c624f50d4f": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "beto:"
 }

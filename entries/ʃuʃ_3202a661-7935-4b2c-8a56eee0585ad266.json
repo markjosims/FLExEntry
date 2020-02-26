@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 852,
   "entry_id": "ʃuʃ_3202a661-7935-4b2c-8a56eee0585ad266",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ʃuʃ",
   "morph_type": "stem",
-  "pronunciation": "ʃuʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'sus'}",
+  "pronunciation": "ʃuʃ",
   "sense": {
     "3a2bf46f-772c-4af4-8cf4-9c12bf26ef00": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'sus'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃuʃ"
 }

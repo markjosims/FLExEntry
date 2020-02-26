@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1217,
   "entry_id": "ʃagõh_eeca1ffc-f132-4006-8f316c7c3afed52c",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ʃagõh",
   "morph_type": "stem",
-  "pronunciation": "ʃagõh",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'ʃagõh'}",
+  "pronunciation": "ʃagõh",
   "sense": {
     "1910bcf8-0c26-4cfd-a0ac-3b617787df95": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'ʃagõh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃagõh"
 }

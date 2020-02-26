@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 996,
   "entry_id": "mɨ̰j_7cd38671-1bfe-4dd7-99cc7339b1622ddd",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "mɨ̰j",
   "morph_type": "stem",
-  "pronunciation": "mɨ̰j",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'mɨ̰j'}",
+  "pronunciation": "mɨ̰j",
   "sense": {
     "9c14ccac-e14c-4308-8362-3cc93bac34bc": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'mɨ̰j'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mɨ̰j"
 }

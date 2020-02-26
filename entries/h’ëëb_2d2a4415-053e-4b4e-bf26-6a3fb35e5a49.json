@@ -1,18 +1,44 @@
 {
+  "Unnamed: 0": 131,
   "entry_id": "h’ëëb_2d2a4415-053e-4b4e-bf26-6a3fb35e5a49",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "h’ëëb",
   "morph_type": "stem",
+  "note": {
+    "Note": "(ji) h’ëëb"
+  },
+  "other_sources": "{'Martins': 'hɯ̰ːb'}",
   "pronunciation": "hǝʔǝb",
-  "variant_of": {},
+  "sense": {
+    "7a84a616-3137-4875-b24d-2750ed412c13": {
+      "pos": "n op",
+      "gloss": {
+        "en": "chest",
+        "pt": "peito"
+      },
+      "def": {
+        "pt": "peito; pensamento; ter vontade"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
   "these_vars": {
     "h’ëëb tym_e85dddba-34fd-4ea5-af27-e708019a241b": {
+      "Unnamed: 0": 697,
+      "bibliography": "Fieldnotes Epps/Obert; 2018",
+      "date": "2018-07-27T19:58:36Z",
+      "date_modified": "",
       "headword": "h’ëëb tym",
       "morph_type": "phrase",
-      "pronunciation": "hǝʔǝb tɨbm",
-      "these_vars": null,
       "note": {
         "Note": "problem: hǝʔǝb tɨbm or hɨʔɨb  tɨbm"
       },
+      "other_sources": "",
+      "pronunciation": "hǝʔǝb tɨbm",
       "sense": {
         "0ae94279-77ea-4c59-9569-2bf818736740": {
           "pos": "Noun",
@@ -29,34 +55,14 @@
           "these_vars": ""
         }
       },
-      "date": "2018-07-27T19:58:36Z",
-      "bibliography": "Fieldnotes Epps/Obert; 2018",
-      "other_sources": "",
+      "these_vars": null,
+      "ipa": "hə̰:b tɨm",
       "var_type": {
         "type": "_component-lexeme",
         "complex-form-type": "Unspecified Complex Form"
       }
     }
   },
-  "note": {
-    "Note": "(ji) h’ëëb"
-  },
-  "sense": {
-    "7a84a616-3137-4875-b24d-2750ed412c13": {
-      "pos": "n op",
-      "gloss": {
-        "en": "chest",
-        "pt": "peito"
-      },
-      "def": {
-        "pt": "peito; pensamento; ter vontade"
-      },
-      "reverse": "",
-      "note": "",
-      "these_vars": ""
-    }
-  },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'hɯ̰ːb'}"
+  "variant_of": {},
+  "ipa": "hə̰:b"
 }

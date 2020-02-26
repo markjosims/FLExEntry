@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1134,
   "entry_id": "gaco:h_ba2fdaf6-2fb2-4698-b70076773ab5976b",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "gaco:h",
   "morph_type": "stem",
-  "pronunciation": "gaco:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'gatsooh'}",
+  "pronunciation": "gaco:h",
   "sense": {
     "9d4b2d21-64aa-429e-98c0-f0ebd109f1b1": {
       "pos": "n op",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'gatsooh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gaco:h"
 }

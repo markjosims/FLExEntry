@@ -1,0 +1,28 @@
+{
+  "Unnamed: 0": 1493,
+  "entry_id": "g&apos;aad_ea94d6c7-c31e-417e-a17f-4f560dc6bffa",
+  "bibliography": "",
+  "date": "2019-12-21T21:11:40Z",
+  "date_modified": "2019-12-21T21:12:54Z",
+  "headword": "g'aad",
+  "morph_type": "root",
+  "note": null,
+  "other_sources": "{}",
+  "pronunciation": "k'aʔad",
+  "sense": {
+    "b7c06545-a881-463e-a67f-258e72ae3763": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "headwater",
+        "pt": "cabeçeira"
+      },
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ga̰:d"
+}

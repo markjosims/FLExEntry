@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 817,
   "entry_id": "maʃã̰:h_1cea3332-ac1d-44f0-ad978d82420abd3d",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "maʃã̰:h",
   "morph_type": "stem",
-  "pronunciation": "maʃã̰:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Weir': 'masxãah', 'Sil Dict 2011': 'masʹããh'}",
+  "pronunciation": "maʃã̰:h",
   "sense": {
     "7d518733-f39a-48c8-aaca-fa05792a8534": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": "{'masããh_d3e5e124-59db-47e3-b010-06d79c06c710': {'type': '_component-lexeme', 'variant-type': 'Plural'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Weir': 'masxãah', 'Sil Dict 2011': 'masʹããh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "maʃã̰:h"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 661,
   "entry_id": "puuw_dba9c1c2-cc38-4314-b9f5-c5df5138a06a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "puuw",
   "morph_type": "stem",
-  "pronunciation": "pu:w",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "pu:w",
   "sense": {
     "b2f0ca08-28b8-4881-9382-37a98905fe32": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "pu:w"
 }

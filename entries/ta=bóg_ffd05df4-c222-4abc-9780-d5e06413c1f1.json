@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 756,
   "entry_id": "ta=bóg_ffd05df4-c222-4abc-9780-d5e06413c1f1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ta=bóg",
   "morph_type": "stem",
-  "pronunciation": "bɔg˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "bɔg˺",
   "sense": {
     "3469ae1b-cc4e-4316-8f5b-f6ad6e92225f": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ta bɔg"
 }

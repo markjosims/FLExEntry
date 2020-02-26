@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 417,
   "entry_id": "jamog_8e957d4c-e10d-4870-87b6-9dfd6ee44b85",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jamog",
   "morph_type": "stem",
-  "pronunciation": "jabmõg̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Barbosa': 'jamɔg'}",
+  "pronunciation": "jabmõg̚",
   "sense": {
     "86d77eb4-debf-4e16-8a1c-7b0fb869dc12": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Barbosa': 'jamɔg'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jamog"
 }

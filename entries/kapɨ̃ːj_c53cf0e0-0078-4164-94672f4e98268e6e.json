@@ -1,20 +1,25 @@
 {
+  "Unnamed: 0": 1152,
   "entry_id": "kapɨ̃:j_c53cf0e0-0078-4164-94672f4e98268e6e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "kapɨ̃:j",
   "morph_type": "stem",
-  "pronunciation": "kapɨ̃:j",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'kapỹỹj'}",
+  "pronunciation": "kapɨ̃:j",
   "sense": {
     "53b25d44-42ea-4911-a93d-5e5d7ce8b07a": {
       "pos": "n",
       "gloss": {
+        "en": "creek",
         "pt": "igarapé"
       },
       "def": {
+        "en": "creek",
         "pt": "igarapé"
       },
       "reverse": "",
@@ -22,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'kapỹỹj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kapɨ̃:j"
 }

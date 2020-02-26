@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 941,
   "entry_id": "ahõŋ_5eceaf57-d989-4dc1-9a1f72045734eeee",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-22T23:19:24Z",
+  "date_modified": "",
   "headword": "ahõŋ",
   "morph_type": "stem",
-  "pronunciation": "ahõŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'hɔ̃ŋ', 'Sil Dict 2011': 'ahõng'}",
+  "pronunciation": "ahõŋ",
   "sense": {
     "448e8a67-7498-47a0-9b57-d6950350b087": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T23:19:24Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'hɔ̃ŋ', 'Sil Dict 2011': 'ahõng'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ahõŋ"
 }

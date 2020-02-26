@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1374,
+  "entry_id": "p&apos;ëëts hẽ_861f321d-8e0a-420b-ade0-944ee4181915",
+  "bibliography": "",
+  "date": "2018-07-07T17:37:39Z",
+  "date_modified": "2020-01-08T02:14:53Z",
+  "headword": "p'ëëts hẽ",
+  "morph_type": "phrase",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Barbosa': 'maɾahuːd'}",
+  "pronunciation": "peʔeɉ hẽʔ]",
+  "sense": {
+    "91dcc3b9-cc81-41c9-b099-8363fbeba894": {
+      "pos": "",
+      "gloss": {
+        "en": "close",
+        "pt": "perto"
+      },
+      "def": {
+        "en": "close",
+        "pt": "perto"
+      },
+      "reverse": "",
+      "note": "{'bibliography': 'Fieldnotes Epps/Obert; 2018'}",
+      "these_vars": ""
+    },
+    "b4de4d74-e91d-4833-b897-de1c99703bd9": {
+      "pos": "",
+      "gloss": {
+        "en": "almost",
+        "pt": "quase"
+      },
+      "def": {
+        "en": "almost",
+        "pt": "quase"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "pə̰:c hẽ"
+}

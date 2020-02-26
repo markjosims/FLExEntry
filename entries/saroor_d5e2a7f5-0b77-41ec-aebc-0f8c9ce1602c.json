@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1468,
+  "entry_id": "saroor_d5e2a7f5-0b77-41ec-aebc-0f8c9ce1602c",
+  "bibliography": "",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "2019-11-05T20:16:36Z",
+  "headword": "saroor",
+  "morph_type": "stem",
+  "note": null,
+  "other_sources": "{'Sil Dict 2011': 'noo kenʹaak'}",
+  "pronunciation": "ʃaɾo:ɾᵊ",
+  "sense": {
+    "45a5bf86-2c33-4ee8-b2fd-c9caf0d9b712": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "clothes",
+        "pt": "roupa"
+      },
+      "def": {
+        "en": "clothes",
+        "pt": "roupa"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃaro:r"
+}

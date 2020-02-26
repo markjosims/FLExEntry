@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 337,
   "entry_id": "jaah_73c5535f-972b-4711-b80a-904d9c468a08",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-11T00:07:32Z",
+  "date_modified": "",
   "headword": "jaah",
   "morph_type": "stem",
-  "pronunciation": "ja:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ja:h",
   "sense": {
     "c9f767f7-b1b3-4859-b9bf-21721018cdf4": {
       "pos": "Question particle",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-11T00:07:32Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ja:h"
 }

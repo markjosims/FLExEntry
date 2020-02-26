@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1281,
+  "entry_id": "nadëp_327fc9f7-ee23-4503-bfa4-af3406fd1684",
+  "bibliography": "",
+  "date": "2019-11-16T19:19:21Z",
+  "date_modified": "2019-11-16T19:21:23Z",
+  "headword": "nadëp",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "nadəp",
+  "sense": {
+    "b54cdfef-2d5a-46ad-9958-281504cc2e43": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "non.nadëb.person",
+        "pt": "pessoa.não.nadëb"
+      },
+      "def": {
+        "en": "indigenous person from distinct ethnic group",
+        "pt": "pessoa indigena de outra etnia"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "nadəp"
+}

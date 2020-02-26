@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 650,
   "entry_id": "gakyyt_d7ffc2f2-96d2-4489-8dba-332f78a9d1f0",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-09T23:54:57Z",
+  "date_modified": "",
   "headword": "gakyyt",
   "morph_type": "stem",
-  "pronunciation": "k’aˈkɨʔɨt˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "k’aˈkɨʔɨt˺",
   "sense": {
     "c618c974-47d2-492e-9887-26444a16f0dd": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T23:54:57Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "gakɨ:t"
 }

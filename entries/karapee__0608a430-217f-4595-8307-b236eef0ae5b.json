@@ -1,16 +1,41 @@
 {
+  "Unnamed: 0": 23,
   "entry_id": "karapee _0608a430-217f-4595-8307-b236eef0ae5b",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "karapee",
   "morph_type": "stem",
+  "note": {},
+  "other_sources": "",
   "pronunciation": "kaɾaˈpe:ʔ",
-  "variant_of": {},
+  "sense": {
+    "ec6b2a91-b8ab-44f3-8200-648010fa9137": {
+      "pos": "n",
+      "gloss": {
+        "en": "child.sg",
+        "pt": "criança.sg"
+      },
+      "def": {
+        "en": "child (sg)",
+        "pt": "criança (sg) acompanham ou trabalham para uma pessoa"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
   "these_vars": {
     "karepé_7c800678-ce5e-401e-abba-a2b95fbbf65c": {
+      "Unnamed: 0": 367,
+      "bibliography": "Fieldnotes Epps/Obert; 2018",
+      "date": "2018-03-08T07:17:53Z",
+      "date_modified": "",
       "headword": "karepé",
       "morph_type": "stem",
-      "pronunciation": "kaɾeʔˈpɛʔ",
-      "these_vars": null,
       "note": {},
+      "other_sources": "",
+      "pronunciation": "kaɾeʔˈpɛʔ",
       "sense": {
         "f86c939e-6f98-4cb1-8f10-7a106cd916da": {
           "pos": "n",
@@ -27,33 +52,14 @@
           "these_vars": ""
         }
       },
-      "date": "2018-03-08T07:17:53Z",
-      "bibliography": "Fieldnotes Epps/Obert; 2018",
-      "other_sources": "",
+      "these_vars": null,
+      "ipa": "karepɛ",
       "var_type": {
         "type": "_component-lexeme",
         "variant-type": "Plural"
       }
     }
   },
-  "note": {},
-  "sense": {
-    "ec6b2a91-b8ab-44f3-8200-648010fa9137": {
-      "pos": "n",
-      "gloss": {
-        "en": "child.sg",
-        "pt": "criança.sg"
-      },
-      "def": {
-        "en": "child (sg)",
-        "pt": "criança (sg) companham ou trabalham ara uma pessoa"
-      },
-      "reverse": "",
-      "note": "",
-      "these_vars": ""
-    }
-  },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "variant_of": {},
+  "ipa": "karape:"
 }

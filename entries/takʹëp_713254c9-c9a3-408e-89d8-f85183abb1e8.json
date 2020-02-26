@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1350,
+  "entry_id": "takʹëp_713254c9-c9a3-408e-89d8-f85183abb1e8",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-02T13:43:44Z",
+  "headword": "takʹëp",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "takə̰p",
+  "sense": {
+    "e51b5395-a1b4-44d8-84cd-019a3371d037": {
+      "pos": "adv",
+      "gloss": {
+        "en": "a.lot",
+        "pt": "muito"
+      },
+      "def": {
+        "en": "a.lot",
+        "pt": "muito"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "takə̰p"
+}

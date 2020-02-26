@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 143,
   "entry_id": "mä_2fbb0d64-ddd8-486d-a94a-5e6d3a1db9fc",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "mä",
   "morph_type": "stem",
-  "pronunciation": "mʌʔz",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "mʌʔz",
   "sense": {
     "6d44c7c4-3bcc-4f96-843a-22907d1b941d": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "mʌ"
 }

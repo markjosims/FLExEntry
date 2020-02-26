@@ -1,0 +1,45 @@
+{
+  "Unnamed: 0": 1496,
+  "entry_id": "jesog_ee6cca7d-2d4b-4da3-b3dc-5ea6ab4d2e10",
+  "bibliography": "",
+  "date": "2019-11-21T21:40:19Z",
+  "date_modified": "2019-11-21T21:41:46Z",
+  "headword": "jesog",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "jeʃok",
+  "sense": {
+    "be284cb4-c651-43ec-8303-485752405c6c": {
+      "pos": "Noun",
+      "gloss": {
+        "pt": "adorno.cabeça"
+      },
+      "def": {
+        "pt": "adorno de cabeça"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "c5155c72-8e80-449a-a472-8b4099fd8292": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "hat",
+        "pt": "chapeu"
+      },
+      "def": {
+        "en": "hat",
+        "pt": "chapeu"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "jeʃog"
+}

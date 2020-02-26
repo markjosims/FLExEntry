@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 983,
   "entry_id": "ʌ̃h_76c0c9b7-a018-4dfc-914d28f21d9c1e81",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ʌ̃h",
   "morph_type": "stem",
-  "pronunciation": "ʌ̃h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'ä̃h'}",
+  "pronunciation": "ʌ̃h",
   "sense": {
     "3d7a245a-3c01-482f-a9ae-7315b08028dd": {
       "pos": "n p",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'ä̃h'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʌ̃h"
 }

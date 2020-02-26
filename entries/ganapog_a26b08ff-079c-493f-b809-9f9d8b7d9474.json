@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 477,
   "entry_id": "ganapog_a26b08ff-079c-493f-b809-9f9d8b7d9474",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T20:55:06Z",
+  "date_modified": "",
   "headword": "ganapog",
   "morph_type": "stem",
-  "pronunciation": "k’anaˈpog˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "k’anaˈpog˺",
   "sense": {
     "5988c52b-c4a7-40a0-878d-df06c0a3a6f1": {
       "pos": "adj?",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T20:55:06Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ganapog"
 }

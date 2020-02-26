@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 339,
   "entry_id": "tat&apos;aah_73df0f03-b64d-4afc-a11b-8558da89c891",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "tat'aah",
   "morph_type": "stem",
-  "pronunciation": "tataʔah",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "great-grandson= tatat'aah"
   },
+  "other_sources": "",
+  "pronunciation": "tataʔah",
   "sense": {
     "28c9eda7-a205-4e1f-8803-3608776f3a4c": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "tata̰:h"
 }

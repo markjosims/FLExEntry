@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1505,
+  "entry_id": "ganä_fa655317-0893-47e1-90dc-679be954cc94",
+  "bibliography": "",
+  "date": "2019-11-06T14:33:46Z",
+  "date_modified": "2019-11-06T14:35:38Z",
+  "headword": "ganä",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "k'anʌ",
+  "sense": {
+    "d35e874c-0adb-4dc9-b01b-ece094821e1e": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "appear",
+        "pt": "aparecer"
+      },
+      "def": {
+        "en": "appear",
+        "pt": "aparecer"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ganʌ"
+}

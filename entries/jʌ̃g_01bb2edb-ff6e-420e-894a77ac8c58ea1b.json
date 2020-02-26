@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 760,
   "entry_id": "jʌ̃g_01bb2edb-ff6e-420e-894a77ac8c58ea1b",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "jʌ̃g",
   "morph_type": "stem",
-  "pronunciation": "jʌ̃g",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'jʌ̃g'}",
+  "pronunciation": "jʌ̃g",
   "sense": {
     "2930842e-2987-43fb-a6cf-824b62faa804": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'jʌ̃g'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jʌ̃g"
 }

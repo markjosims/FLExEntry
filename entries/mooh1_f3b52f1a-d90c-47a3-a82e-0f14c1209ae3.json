@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 723,
   "entry_id": "mooh1_f3b52f1a-d90c-47a3-a82e-0f14c1209ae3",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "mooh",
   "morph_type": "stem",
-  "pronunciation": "mɔ̃:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Weir': 'mooh'}",
+  "pronunciation": "mɔ̃:h",
   "sense": {
     "221e6436-7db1-4f75-9fca-2ed8b869232e": {
       "pos": "Noun",
@@ -36,7 +39,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'mooh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mo:h"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1441,
+  "entry_id": "tsʹaah_be6ef049-4a0b-4431-ade9-063237e7fde5",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-15T21:47:15Z",
+  "headword": "tsʹaah",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{'Sil Dict 2011': 'saroor'}",
+  "pronunciation": "tʃaʔah",
+  "sense": {
+    "0c15c446-085e-4f2f-b3e4-07009775e872": {
+      "pos": "n",
+      "gloss": {
+        "en": "stingray",
+        "pt": "arraia"
+      },
+      "def": {
+        "en": "stingray",
+        "pt": "arraia"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ca̰:h"
+}

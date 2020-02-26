@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 855,
   "entry_id": "dapa:_3333ac40-bc29-4707-9d93273c2ce18e41",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "dapa:",
   "morph_type": "stem",
-  "pronunciation": "dapa:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'dapaːʔ'}",
+  "pronunciation": "dapa:",
   "sense": {
     "e8d5b466-564e-48b0-8fb0-8f1694a5bac2": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'dapaːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "dapa:"
 }

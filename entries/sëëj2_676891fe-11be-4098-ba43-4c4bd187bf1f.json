@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 298,
   "entry_id": "sëëj2_676891fe-11be-4098-ba43-4c4bd187bf1f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "sëëj",
   "morph_type": "stem",
-  "pronunciation": "ʃə:j",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'sëëj'}",
+  "pronunciation": "ʃə:j",
   "sense": {
     "d2f9d1c1-34d6-4b45-8010-ca69db72e9c4": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'sëëj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃə:j"
 }

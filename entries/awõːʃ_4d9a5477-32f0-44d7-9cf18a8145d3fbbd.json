@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 906,
   "entry_id": "awõ:ʃ_4d9a5477-32f0-44d7-9cf18a8145d3fbbd",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "awõ:ʃ",
   "morph_type": "stem",
-  "pronunciation": "awõ:ʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'awõõs'}",
+  "pronunciation": "awõ:ʃ",
   "sense": {
     "4f76dc7a-9fac-42a8-9cd2-fb8537beadf1": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'hewõs_6a72a230-5be6-4f74-bedc-23bea92fa0be': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'awʹõõj_787ee2a4-05a5-4f61-8dd9-caf10e842f21': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'awõõs'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "awõ:ʃ"
 }

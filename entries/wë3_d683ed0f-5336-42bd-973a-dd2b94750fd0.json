@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 644,
   "entry_id": "wë3_d683ed0f-5336-42bd-973a-dd2b94750fd0",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-08T16:55:04Z",
+  "date_modified": "",
   "headword": "wë",
   "morph_type": "stem",
-  "pronunciation": "wǝʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "wǝʔ",
   "sense": {
     "adf27902-6efd-4e69-a91a-66586dcfce7f": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-08T16:55:04Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "wə"
 }

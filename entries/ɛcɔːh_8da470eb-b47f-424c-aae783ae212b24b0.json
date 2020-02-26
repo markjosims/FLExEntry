@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1033,
   "entry_id": "ɛcɔ:h_8da470eb-b47f-424c-aae783ae212b24b0",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ɛcɔ:h",
   "morph_type": "stem",
-  "pronunciation": "ɛcɔ:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ʔɛɟɔːh'}",
+  "pronunciation": "ɛcɔ:h",
   "sense": {
     "5ab05320-805f-46fd-9d4a-a663932bd7da": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ʔɛɟɔːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ɛcɔ:h"
 }

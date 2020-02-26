@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 606,
   "entry_id": "gamatsih_c81030cf-af27-4010-b3eb-e745b2f13d26",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "gamatsih",
   "morph_type": "stem",
-  "pronunciation": "k'abmãɟih",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "k'abmãɟih",
   "sense": {
     "b3a9c3ed-6375-4eac-ac14-eba997b909cf": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "gamacih"
 }

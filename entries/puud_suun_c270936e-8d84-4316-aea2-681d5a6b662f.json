@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1443,
+  "entry_id": "puud suun_c270936e-8d84-4316-aea2-681d5a6b662f",
+  "bibliography": "",
+  "date": "2019-12-13T14:05:18Z",
+  "date_modified": "2019-12-13T14:08:52Z",
+  "headword": "puud suun",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "pu:d ʃu:dn",
+  "sense": {
+    "f2812f3a-1ee2-4436-b09f-a54d3e974756": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "singer.dabucuri",
+        "pt": "cantor.do.dabucuri"
+      },
+      "def": {
+        "en": "singer of a dabucuri",
+        "pt": "cantor no dabucuri"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "pu:d ʃu:n"
+}

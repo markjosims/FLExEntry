@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 239,
   "entry_id": "kewëëm_4dcaecdc-f430-42e3-8fe0-3845200ac299",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kewëëm",
   "morph_type": "stem",
-  "pronunciation": "kewə:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kewə:bm",
   "sense": {
     "e52b5899-cc5a-49fd-8c0a-2157199edfcb": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kewə:m"
 }

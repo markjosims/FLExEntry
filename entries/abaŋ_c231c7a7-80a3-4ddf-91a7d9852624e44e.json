@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1148,
   "entry_id": "abaŋ_c231c7a7-80a3-4ddf-91a7d9852624e44e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "abaŋ",
   "morph_type": "stem",
-  "pronunciation": "abaŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'abang'}",
+  "pronunciation": "abaŋ",
   "sense": {
     "fd034ead-ae35-414c-aad2-4b9e0f677a10": {
       "pos": "adj",
@@ -19,10 +22,10 @@
       },
       "reverse": "",
       "note": "",
-      "these_vars": "{'abaah_3bf47a35-c68f-4f2b-ae4a-3d5fbfc00be2': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'eba(h)_7865f86a-bc3f-4cbc-94a2-1b2a25389631': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'abaa_a63cbbfd-f8a0-4c22-91de-25701e663018': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+      "these_vars": "{'abaah_3bf47a35-c68f-4f2b-ae4a-3d5fbfc00be2': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'eba&#xA;\\vp&#xA;ebah_7865f86a-bc3f-4cbc-94a2-1b2a25389631': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'abaa_a63cbbfd-f8a0-4c22-91de-25701e663018': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'abang'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "abaŋ"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 791,
   "entry_id": "jamaʃi:ʃ_0dd2859c-8997-4564-99df330188ad7d79",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "jamaʃi:ʃ",
   "morph_type": "stem",
-  "pronunciation": "jamaʃi:ʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'jamaʃiːʃ'}",
+  "pronunciation": "jamaʃi:ʃ",
   "sense": {
     "b90a6d38-f813-4919-b37a-cc271428068a": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'jamaʃiːʃ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jamaʃi:ʃ"
 }

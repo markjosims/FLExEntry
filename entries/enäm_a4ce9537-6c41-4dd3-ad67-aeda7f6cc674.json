@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1405,
+  "entry_id": "enäm_a4ce9537-6c41-4dd3-ad67-aeda7f6cc674",
+  "bibliography": "",
+  "date": "2019-12-31T13:37:23Z",
+  "date_modified": "2019-12-31T13:39:06Z",
+  "headword": "enäm",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "e'nʌm",
+  "sense": {
+    "81f0afbd-9467-4619-97e2-fa948b853d99": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "store",
+        "pt": "guardar"
+      },
+      "def": {
+        "en": "store",
+        "pt": "guardar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "63f5973d-c6cc-43fe-87f4-86380d9a5fa9": {
+      "pos": "Verb",
+      "gloss": {
+        "en": "take.care",
+        "pt": "cuidar"
+      },
+      "def": {
+        "en": "take.care",
+        "pt": "cuidar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "enʌm"
+}

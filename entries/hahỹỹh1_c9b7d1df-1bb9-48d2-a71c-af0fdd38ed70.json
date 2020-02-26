@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1454,
+  "entry_id": "hahỹỹh1_c9b7d1df-1bb9-48d2-a71c-af0fdd38ed70",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-25T05:00:11Z",
+  "headword": "hahỹỹh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011"
+  },
+  "other_sources": "{'Weir': 'ɨɨm', 'Sil Dict 2011': 'ỹỹm', 'Martins': 'ʔɯ̃ːm'}",
+  "pronunciation": "hahɨ̃:h",
+  "sense": {
+    "d0241a76-b53b-466b-adbc-ed0b68da452a": {
+      "pos": "pro",
+      "gloss": {
+        "pt": "este"
+      },
+      "def": {
+        "pt": "este"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "hahɨ̃:h"
+}

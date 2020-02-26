@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 518,
   "entry_id": "tsapap_b158b9b9-46e9-4298-9779-2b01c1e2d72a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-05T13:51:44Z",
+  "date_modified": "",
   "headword": "tsapap",
   "morph_type": "stem",
-  "pronunciation": "tsapap",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "tsapap",
   "sense": {
     "a057e6a2-cb4c-4fae-9b17-509164eb73b8": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-05T13:51:44Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "capap"
 }

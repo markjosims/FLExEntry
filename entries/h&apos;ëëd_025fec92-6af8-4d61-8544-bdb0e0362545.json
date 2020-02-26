@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1245,
+  "entry_id": "h&apos;ëëd_025fec92-6af8-4d61-8544-bdb0e0362545",
+  "bibliography": "",
+  "date": "2018-07-11T00:00:38Z",
+  "date_modified": "2020-01-08T19:24:50Z",
+  "headword": "h'ëëd",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fiednotes Epps/Obert; 2018"
+  },
+  "other_sources": "{}",
+  "pronunciation": "hǝʔǝd˺",
+  "sense": {
+    "82d7231c-5f51-4860-90b3-f2da90deba51": {
+      "pos": "Question particle",
+      "gloss": {
+        "en": "what",
+        "pt": "o que"
+      },
+      "def": {
+        "en": "what",
+        "pt": "o que"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "hə̰:d"
+}

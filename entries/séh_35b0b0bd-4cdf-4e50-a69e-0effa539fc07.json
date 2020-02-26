@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1288,
+  "entry_id": "séh_35b0b0bd-4cdf-4e50-a69e-0effa539fc07",
+  "bibliography": "",
+  "date": "2019-12-15T22:54:36Z",
+  "date_modified": "2019-12-15T22:55:54Z",
+  "headword": "séh",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ʃɛh",
+  "sense": {
+    "f2847c3c-5ffc-4f1d-a41f-879104f67293": {
+      "pos": "intj",
+      "gloss": {
+        "en": "?",
+        "pt": "ué!"
+      },
+      "def": {
+        "en": "?",
+        "pt": "ué!"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃɛh"
+}

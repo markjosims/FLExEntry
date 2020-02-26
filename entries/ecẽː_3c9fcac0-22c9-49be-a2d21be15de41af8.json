@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 877,
   "entry_id": "ecẽ:_3c9fcac0-22c9-49be-a2d21be15de41af8",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ecẽ:",
   "morph_type": "stem",
-  "pronunciation": "ecẽ:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'etsẽẽ'}",
+  "pronunciation": "ecẽ:",
   "sense": {
     "c182021e-4e21-4bef-8a36-872fd3dfca47": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'etsʹẽẽ_4cc08e25-0d5f-42c1-ad63-075b211df095': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'etsẽẽ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ecẽ:"
 }

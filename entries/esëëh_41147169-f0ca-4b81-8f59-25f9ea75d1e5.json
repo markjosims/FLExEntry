@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 197,
   "entry_id": "esëëh_41147169-f0ca-4b81-8f59-25f9ea75d1e5",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T00:12:23Z",
+  "date_modified": "",
   "headword": "esëëh",
   "morph_type": "stem",
-  "pronunciation": "ʔeˈʃǝ:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeˈʃǝ:h",
   "sense": {
     "a14e86f8-3666-4562-9285-69f3cb6616c1": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T00:12:23Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "eʃə:h"
 }

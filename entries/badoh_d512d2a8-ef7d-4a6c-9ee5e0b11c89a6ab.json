@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1176,
   "entry_id": "badoh_d512d2a8-ef7d-4a6c-9ee5e0b11c89a6ab",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "badoh",
   "morph_type": "stem",
-  "pronunciation": "badoh",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'badoh'}",
+  "pronunciation": "badoh",
   "sense": {
     "27dd22f2-e058-4027-8ca4-434506629029": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'badoh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "badoh"
 }

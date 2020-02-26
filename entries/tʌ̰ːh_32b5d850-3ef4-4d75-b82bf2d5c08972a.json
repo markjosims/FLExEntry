@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 854,
   "entry_id": "tʌ̰:h_32b5d850-3ef4-4d75-b82bf2d5c08972a",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "tʌ̰:h",
   "morph_type": "stem",
-  "pronunciation": "tʌ̰:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'tʌ̰ːh'}",
+  "pronunciation": "tʌ̰:h",
   "sense": {
     "1bb8c657-ebc7-4baf-a2af-7a84d04bf789": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'tʌ̰ːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tʌ̰:h"
 }

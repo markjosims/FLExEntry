@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 43,
   "entry_id": "karejã däk_0b44949c-3fa9-411c-8692-741072299109",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T18:28:24Z",
+  "date_modified": "",
   "headword": "karejã däk",
   "morph_type": "phrase",
-  "pronunciation": "kareʔˈjã dǝk˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kareʔˈjã dǝk˺",
   "sense": {
     "5e00ef76-a98a-4519-b41f-43937d925e04": {
       "pos": "adj?",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T18:28:24Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "karejã dʌk"
 }

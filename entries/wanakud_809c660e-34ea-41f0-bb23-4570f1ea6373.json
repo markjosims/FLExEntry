@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 375,
   "entry_id": "wanakud_809c660e-34ea-41f0-bb23-4570f1ea6373",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-06T19:28:21Z",
+  "date_modified": "",
   "headword": "wanakud",
   "morph_type": "stem",
-  "pronunciation": "wanaˈkud˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "wanaˈkud˺",
   "sense": {
     "765ef189-3688-4d30-b84d-d69ba2715694": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-06T19:28:21Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "wanakud"
 }

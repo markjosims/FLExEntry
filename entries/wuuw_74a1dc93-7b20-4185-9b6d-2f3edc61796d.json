@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1355,
+  "entry_id": "wuuw_74a1dc93-7b20-4185-9b6d-2f3edc61796d",
+  "bibliography": "",
+  "date": "2019-11-06T14:42:33Z",
+  "date_modified": "2019-11-06T14:44:00Z",
+  "headword": "wuuw",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "wu:w",
+  "sense": {
+    "90491304-b959-40d0-9b48-e7d6d0e4485a": {
+      "pos": "onom",
+      "gloss": {
+        "en": "ONOM.appear",
+        "pt": "ONOM.aparecer"
+      },
+      "def": {
+        "en": "sound when something appears suddenly",
+        "pt": "som de quando algo aparece de repente"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wu:w"
+}

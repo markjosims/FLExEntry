@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1476,
+  "entry_id": "mỹỹj_dfe6e587-6395-4e95-992c-85a4d3e70bac",
+  "bibliography": "",
+  "date": "2019-11-15T21:21:51Z",
+  "date_modified": "2019-11-15T21:23:35Z",
+  "headword": "mỹỹj",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "mɨ̃:j",
+  "sense": {
+    "aeee4bcb-7560-4420-bd87-0cc178d16e1b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "temporary.camp",
+        "pt": "acampamento.temporário"
+      },
+      "def": {
+        "en": "temporary camp",
+        "pt": "acampamento.temporário"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "mɨ̃:j"
+}

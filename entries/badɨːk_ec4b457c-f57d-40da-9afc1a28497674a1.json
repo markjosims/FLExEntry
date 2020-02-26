@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1215,
   "entry_id": "badɨ:k_ec4b457c-f57d-40da-9afc1a28497674a1",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "badɨ:k",
   "morph_type": "stem",
-  "pronunciation": "badɨ:k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'badɯːk'}",
+  "pronunciation": "badɨ:k",
   "sense": {
     "dbc3000b-d9ac-4f5e-9d81-e67c404f95cc": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'badɯːk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "badɨ:k"
 }

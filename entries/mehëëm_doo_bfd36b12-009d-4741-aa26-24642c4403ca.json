@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 571,
   "entry_id": "mehëëm doo_bfd36b12-009d-4741-aa26-24642c4403ca",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "mehëëm doo",
   "morph_type": "phrase",
-  "pronunciation": "mẽhə:bm do:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mẽhə:bm do:ʔ",
   "sense": {
     "1b3de5e7-5978-487c-9201-aad5e9e3d093": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "mehə:m do:"
 }

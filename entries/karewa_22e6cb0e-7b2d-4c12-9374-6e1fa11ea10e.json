@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 112,
   "entry_id": "karewa_22e6cb0e-7b2d-4c12-9374-6e1fa11ea10e",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:30:23Z",
+  "date_modified": "",
   "headword": "karewa",
   "morph_type": "stem",
-  "pronunciation": "kareʔˈwaʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "kareʔˈwaʔ",
   "sense": {
     "9b56016f-db2a-4a00-bf9e-6b98f74cc95b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:30:23Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "karewa"
 }

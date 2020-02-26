@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1023,
   "entry_id": "wʌ:_8959362b-3825-4848-9eba1c72cb36d5d5",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "wʌ:",
   "morph_type": "stem",
-  "pronunciation": "wʌ:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'wʌːʔ'}",
+  "pronunciation": "wʌ:",
   "sense": {
     "16d89732-ae85-46d9-b82d-a50ad6dd899d": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'wʌːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wʌ:"
 }

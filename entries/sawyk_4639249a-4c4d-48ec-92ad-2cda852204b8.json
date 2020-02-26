@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 216,
   "entry_id": "sawyk_4639249a-4c4d-48ec-92ad-2cda852204b8",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-04T00:14:42Z",
+  "date_modified": "",
   "headword": "sawyk",
   "morph_type": "root",
-  "pronunciation": "ʃaˈwɨk˺",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'ʃawɯk'}",
+  "pronunciation": "ʃaˈwɨk˺",
   "sense": {
     "06828f55-93eb-4a3a-9427-3a116cbdfc2b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:14:42Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ʃawɯk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃawɨk"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 840,
   "entry_id": "nag_2beee218-2c56-4926-8789ec8a1e7f34dd",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "nag",
   "morph_type": "stem",
-  "pronunciation": "nag",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'nag'}",
+  "pronunciation": "nag",
   "sense": {
     "bc02741a-4853-4647-b4a2-14fc32e4e4ee": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'nag'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "nag"
 }

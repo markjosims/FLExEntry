@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1389,
+  "entry_id": "bëëh_962a8de8-7f65-4e60-b8a4-c16d27943a32",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-20T19:40:38Z",
+  "headword": "bëëh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011"
+  },
+  "other_sources": "{'Barbosa': 'taba̰ːh'}",
+  "pronunciation": "bə:h",
+  "sense": {
+    "b0f67bb0-4d54-42df-9b69-fb3dfe73d1c1": {
+      "pos": "n op",
+      "gloss": {
+        "pt": "suco"
+      },
+      "def": {
+        "pt": "suco; liquido"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "bə:h"
+}

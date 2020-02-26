@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1037,
   "entry_id": "tə̰:n_8ed3ef95-47fe-4b11-84da14d3e25614cb",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "tə̰:n",
   "morph_type": "stem",
-  "pronunciation": "tə̰:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tʹëën'}",
+  "pronunciation": "tə̰:n",
   "sense": {
     "31af3140-0dd6-4e76-b1d8-cf9a320aab07": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tʹëën'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tə̰:n"
 }

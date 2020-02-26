@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1129,
   "entry_id": "kawə̰:g_b88a3875-3619-4304-b62c9646b1161138",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "kawə̰:g",
   "morph_type": "stem",
-  "pronunciation": "kawə̰:g",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'kawɤ̰ːg'}",
+  "pronunciation": "kawə̰:g",
   "sense": {
     "4f37f451-f9c7-46e5-9bf2-20ea07bb94fd": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'kawɤ̰ːg'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kawə̰:g"
 }

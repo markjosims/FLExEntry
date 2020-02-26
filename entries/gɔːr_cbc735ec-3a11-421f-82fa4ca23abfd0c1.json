@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1160,
   "entry_id": "gɔ:r_cbc735ec-3a11-421f-82fa4ca23abfd0c1",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "gɔ:r",
   "morph_type": "stem",
-  "pronunciation": "gɔ:r",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'gɔːɾ'}",
+  "pronunciation": "gɔ:r",
   "sense": {
     "82ba11fe-452a-41e7-8d84-7dcba9c76fcd": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'gɔːɾ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gɔ:r"
 }

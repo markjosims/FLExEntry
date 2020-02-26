@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1133,
   "entry_id": "hɨ̰: gaẽ:ɲ_ba2b5a64-2e14-4e6d-98668002f7689343",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hɨ̰: gaẽ:ɲ",
   "morph_type": "stem",
-  "pronunciation": "hɨ̰: gaẽ:ɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'hʹyy gaẽẽnh'}",
+  "pronunciation": "hɨ̰: gaẽ:ɲ",
   "sense": {
     "d4cc9505-c2a9-4ed8-b7e7-6bc0acefbcbc": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'hʹyy gaʹẽẽnh_6757fa7a-e3a0-4c5c-bd31-9cf0544a16c6': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'hʹyy gaẽẽj_ba147749-703a-4649-96cf-c1cd7d24052e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'hʹyy gaẽẽnh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hɨ̰: gaẽ:ɲ"
 }

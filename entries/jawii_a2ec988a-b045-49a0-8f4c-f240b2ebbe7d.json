@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 480,
   "entry_id": "jawii_a2ec988a-b045-49a0-8f4c-f240b2ebbe7d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-22T21:33:43Z",
+  "date_modified": "",
   "headword": "jawii",
   "morph_type": "stem",
-  "pronunciation": "jaʔˈwi:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "jaʔˈwi:ʔ",
   "sense": {
     "25e8d112-6ab9-4a75-ad19-cf3922cb1bea": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-22T21:33:43Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jawi:"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 538,
   "entry_id": "hehud_b82a47dc-46f1-456c-8ef2-a60b69edde18",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:42:03Z",
+  "date_modified": "",
   "headword": "hehud",
   "morph_type": "stem",
-  "pronunciation": "heʔˈhud˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "heʔˈhud˺",
   "sense": {
     "9894851c-dd8d-47d6-854a-48143a4dd300": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:42:03Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hehud"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1372,
+  "entry_id": "naëënh_8604bf25-763e-4f74-9f62-1229dc8c1305",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-30T14:02:49Z",
+  "headword": "naëënh",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "naə:ɲ",
+  "sense": {
+    "194b2515-9d18-4079-a9d9-9d90c46fc9f5": {
+      "pos": "v",
+      "gloss": {
+        "en": "call",
+        "pt": "chamar"
+      },
+      "def": {
+        "en": "call",
+        "pt": "chamar"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'naëëj_d9ca85c7-ea29-47cc-9bf8-0624e99f4f92': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "naə:ɲ"
+}

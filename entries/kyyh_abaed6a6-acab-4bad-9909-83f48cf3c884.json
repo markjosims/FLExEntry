@@ -1,0 +1,102 @@
+{
+  "Unnamed: 0": 1416,
+  "entry_id": "kyyh_abaed6a6-acab-4bad-9909-83f48cf3c884",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-06T14:29:12Z",
+  "headword": "kyyh",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; fieldnotes 2019, encontrado em cartilha 4; lições 5 e 13"
+  },
+  "other_sources": "{}",
+  "pronunciation": "kɨ:h",
+  "sense": {
+    "c20b16fb-880d-4de4-aa1c-8ecbe9fd00d1": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "speech",
+        "pt": "fala"
+      },
+      "def": {
+        "en": "speech",
+        "pt": "fala"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "c1d26ba4-f676-4570-91e7-ad789f0e373d": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "language",
+        "pt": "língua"
+      },
+      "def": {
+        "en": "language",
+        "pt": "língua"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "kyy_59de41e9-b105-4c69-a886-a5bb65ba9afd": {
+      "Unnamed: 0": 1323,
+      "bibliography": "",
+      "date": "2019-11-06T15:24:44Z",
+      "date_modified": "2019-11-06T15:24:44Z",
+      "headword": "kyy",
+      "morph_type": "root",
+      "note": null,
+      "other_sources": "{'Sil Dict 2011': 'heen nʹaa'}",
+      "pronunciation": "",
+      "sense": null,
+      "these_vars": {},
+      "ipa": "kɨ:",
+      "var_type": {
+        "type": "_component-lexeme",
+        "variant-type": "Unspecified Variant"
+      }
+    },
+    "gadoo_9dc76677-06be-4cce-aace-6032dbaa3765": {
+      "Unnamed: 0": 1399,
+      "bibliography": "",
+      "date": "2019-11-06T15:01:34Z",
+      "date_modified": "2019-11-06T15:02:32Z",
+      "headword": "gadoo",
+      "morph_type": "stem",
+      "note": {
+        "bibliography": "Epps/Obert; fieldnotes 2019"
+      },
+      "other_sources": "{}",
+      "pronunciation": "k'ado:",
+      "sense": {
+        "28973668-89ef-4c73-8e07-ae0e7f14136d": {
+          "pos": "Verb",
+          "gloss": {
+            "en": "get",
+            "pt": "receber"
+          },
+          "def": {
+            "en": "get",
+            "pt": "receber"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "gado:",
+      "var_type": {
+        "type": "_component-lexeme",
+        "is-primary": "true",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "kɨ:h"
+}

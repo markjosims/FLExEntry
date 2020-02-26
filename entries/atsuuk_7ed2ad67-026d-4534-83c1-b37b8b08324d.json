@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 371,
   "entry_id": "atsuuk_7ed2ad67-026d-4534-83c1-b37b8b08324d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:43:02Z",
+  "date_modified": "",
   "headword": "atsuuk",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈtʃ’u:k˺",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'ɟuːk'}",
+  "pronunciation": "ʔaˈtʃ’u:k˺",
   "sense": {
     "03a706b5-ef04-420c-8fb2-379d85310c4d": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:43:02Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ɟuːk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "acu:k"
 }

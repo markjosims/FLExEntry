@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1141,
   "entry_id": "mata:p_bdf299b5-88bf-4c21-b8e8ab6aa7c846e4",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "mata:p",
   "morph_type": "stem",
-  "pronunciation": "mata:p",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'mataːp'}",
+  "pronunciation": "mata:p",
   "sense": {
     "af47ead9-1537-49b3-a0b4-d279ae0651dc": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'mataːp'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "mata:p"
 }

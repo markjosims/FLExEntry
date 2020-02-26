@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 93,
   "entry_id": "dawëës_1caff4ef-befb-494d-8908-4f41cc5f4d0d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:24:06Z",
+  "date_modified": "",
   "headword": "dawëës",
   "morph_type": "stem",
-  "pronunciation": "daˈwǝ:ʃ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "daˈwǝ:ʃ",
   "sense": {
     "34330419-dc42-43bc-ab6b-d5dc2d38c9f4": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:24:06Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "dawə:ʃ"
 }

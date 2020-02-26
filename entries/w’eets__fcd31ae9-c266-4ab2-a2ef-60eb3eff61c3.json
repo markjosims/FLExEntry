@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 743,
   "entry_id": "w’eets _fcd31ae9-c266-4ab2-a2ef-60eb3eff61c3",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T22:38:40Z",
+  "date_modified": "",
   "headword": "w’eets",
   "morph_type": "stem",
-  "pronunciation": "",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Sil Dict 2011': 'wʹeets', 'Barbosa': 'wɛːɟ'}",
+  "pronunciation": "",
   "sense": {
     "85b71c4a-063f-43d5-9d1e-4a54c6553fde": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T22:38:40Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'wʹeets', 'Barbosa': 'wɛːɟ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wḛ:c"
 }

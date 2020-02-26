@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 912,
   "entry_id": "piʃ_524d6575-0649-4173-b87cf1864f9b813a",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "piʃ",
   "morph_type": "stem",
-  "pronunciation": "piʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'piʃ'}",
+  "pronunciation": "piʃ",
   "sense": {
     "b229711f-8858-496c-a6c3-b7de9e7610de": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'piʃ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "piʃ"
 }

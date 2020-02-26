@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1377,
+  "entry_id": "man&apos;uuts_898ee1a2-ed1e-4b76-ae8d-ab5b1600b6d1",
+  "bibliography": "",
+  "date": "2020-01-08T15:53:25Z",
+  "date_modified": "2020-01-08T15:55:12Z",
+  "headword": "man'uuts",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Martins': 'jɔ̃ːp'}",
+  "pronunciation": "manuʔuɟ",
+  "sense": {
+    "517f0534-8e6c-4f3d-8c22-58479664ec5b": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "uneiuxi.river",
+        "pt": "rio.uneiuxi"
+      },
+      "def": {
+        "en": "Uneiuxi river",
+        "pt": "Rio Uneiuxi"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "manṵ:c"
+}

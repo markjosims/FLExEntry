@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1078,
   "entry_id": "edo̰:_9d49d8be-1c00-44f7-aebd6bc58199553e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "edo̰:",
   "morph_type": "stem",
-  "pronunciation": "edo̰:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'edʹoo'}",
+  "pronunciation": "edo̰:",
   "sense": {
     "738bfde9-8123-4d10-80aa-c6d22cac9bdd": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'redʹoo_b006437b-912f-4b7b-a643-0be0f56b7cab': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'edʹoo'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "edo̰:"
 }

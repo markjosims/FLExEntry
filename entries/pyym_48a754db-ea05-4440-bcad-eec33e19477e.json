@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1305,
+  "entry_id": "pyym_48a754db-ea05-4440-bcad-eec33e19477e",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-20T21:21:43Z",
+  "headword": "pyym",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{'Sil Dict 2011': 'nä'}",
+  "pronunciation": "pɨ:m",
+  "sense": {
+    "e08317a8-6964-4524-981c-ee61e958a38a": {
+      "pos": "n",
+      "gloss": {
+        "en": "snake.poison",
+        "pt": "veneno.cobra"
+      },
+      "def": {
+        "en": "snake poison",
+        "pt": "veneno de cobra"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "pɨ:m"
+}

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 243,
   "entry_id": "matug_4ea45a05-e572-439d-a59d-3e3dd960ec0f",
+  "bibliography": "Fieldnotes Epps/Obert; 2018z",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "matug",
   "morph_type": "stem",
-  "pronunciation": "maˈtug˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "maˈtug˺",
   "sense": {
     "d85f760c-86aa-4633-8737-4733b853423f": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018z",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "matug"
 }

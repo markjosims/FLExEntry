@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1351,
+  "entry_id": "waw&apos;oos_713c2e49-683d-4b4c-b21a-cb6fbd07c005",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-18T21:20:57Z",
+  "headword": "waw'oos",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011"
+  },
+  "other_sources": "{'Weir': 'txõom'}",
+  "pronunciation": "wawo̰:ʃ",
+  "sense": {
+    "16cb708c-838d-49e0-8f4f-fa9b6c847124": {
+      "pos": "n",
+      "gloss": {
+        "pt": "caba.sp"
+      },
+      "def": {
+        "pt": "esp. de caba"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wawo̰:ʃ"
+}

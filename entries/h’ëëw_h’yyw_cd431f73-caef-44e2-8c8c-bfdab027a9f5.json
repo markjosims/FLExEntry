@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 624,
   "entry_id": "h’ëëw/h’yyw_cd431f73-caef-44e2-8c8c-bfdab027a9f5",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "h’ÿÿw",
   "morph_type": "stem",
-  "pronunciation": "həʔəw hɨʔɨw",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "həʔəw hɨʔɨw",
   "sense": {
     "de38ba2f-aa3c-4b27-a236-b9137128a31a": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "h?̰:w"
 }

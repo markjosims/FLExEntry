@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1325,
+  "entry_id": "tä_5ea024ce-8d5b-461c-ae96-97daffe5dbb0",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-21T20:47:34Z",
+  "headword": "tä",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "tʌ",
+  "sense": {
+    "71a959cb-ec10-4807-9737-5effea2f547c": {
+      "pos": "n",
+      "gloss": {
+        "en": "food",
+        "pt": "comida"
+      },
+      "def": {
+        "en": "food (meat or fish)",
+        "pt": "comida (carne ou peixe)"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tʌ"
+}

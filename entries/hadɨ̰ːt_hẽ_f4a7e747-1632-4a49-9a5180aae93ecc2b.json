@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1227,
   "entry_id": "hadɨ̰:t hẽ_f4a7e747-1632-4a49-9a5180aae93ecc2b",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hadɨ̰:t hẽ",
   "morph_type": "phrase",
-  "pronunciation": "hadɨ̰:t hẽ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'hadʹyyt hẽ'}",
+  "pronunciation": "hadɨ̰:t hẽ",
   "sense": {
     "5270d80a-4139-4e17-8951-c397a91cb703": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'hadʹyyt hẽ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hadɨ̰:t hẽ"
 }

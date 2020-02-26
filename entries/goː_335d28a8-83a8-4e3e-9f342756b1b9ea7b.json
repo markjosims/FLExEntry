@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 856,
   "entry_id": "go:_335d28a8-83a8-4e3e-9f342756b1b9ea7b",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "go:",
   "morph_type": "stem",
-  "pronunciation": "go:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'goːʔ'}",
+  "pronunciation": "go:",
   "sense": {
     "bea45299-150a-4803-a691-dec03ee04a56": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'goːʔ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "go:"
 }

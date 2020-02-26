@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 677,
   "entry_id": "bagä_e27bf773-9778-44d5-936b-d75996aaef64",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "bagä",
   "morph_type": "stem",
-  "pronunciation": "baʔˈk’ǝʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "baʔˈk’ǝʔ",
   "sense": {
     "d7b4dcc9-b1f5-4cf8-83bc-9c62e88d5739": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "bagʌ"
 }

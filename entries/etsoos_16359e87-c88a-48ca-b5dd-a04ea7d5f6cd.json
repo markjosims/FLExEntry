@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 69,
   "entry_id": "etsoos_16359e87-c88a-48ca-b5dd-a04ea7d5f6cd",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:07:33Z",
+  "date_modified": "",
   "headword": "etsoos",
   "morph_type": "stem",
-  "pronunciation": "ʔeˈɉ’o:ʃ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeˈɉ’o:ʃ",
   "sense": {
     "9cefa735-d18d-434b-bde0-61102d140d37": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:07:33Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "eco:ʃ"
 }

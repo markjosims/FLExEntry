@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1277,
+  "entry_id": "wooh_26bc7f23-fb0b-4d30-93e4-da9a7933066d",
+  "bibliography": "",
+  "date": "2020-01-08T15:56:00Z",
+  "date_modified": "2020-01-08T15:56:29Z",
+  "headword": "wooh",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "wo:h",
+  "sense": {
+    "d26a30d1-8ec7-493b-83ff-fd7475c88a43": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "?",
+        "pt": "sapo.da.noite"
+      },
+      "def": {
+        "en": "?",
+        "pt": "sapo da noite"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wo:h"
+}

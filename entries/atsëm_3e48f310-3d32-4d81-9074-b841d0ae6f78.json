@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 187,
   "entry_id": "atsëm_3e48f310-3d32-4d81-9074-b841d0ae6f78",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "atsëm",
   "morph_type": "stem",
-  "pronunciation": "ʔaˈtʃ’ǝbm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔaˈtʃ’ǝbm",
   "sense": {
     "6477dcb2-a559-4f61-96b5-a8d8a8772f12": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "acəm"
 }

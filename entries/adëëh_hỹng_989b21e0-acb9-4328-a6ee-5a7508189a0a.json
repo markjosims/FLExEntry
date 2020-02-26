@@ -1,31 +1,16 @@
 {
+  "Unnamed: 0": 446,
   "entry_id": "adëëh hỹng_989b21e0-acb9-4328-a6ee-5a7508189a0a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "adëëh hỹng",
   "morph_type": "phrase",
-  "pronunciation": "ʔaˈdǝ:h hɨ̃ŋ",
-  "variant_of": {},
-  "these_vars": {
-    "hyng_db4ae79c-798a-4209-b026-517e5edf7160": {
-      "headword": "hyng",
-      "morph_type": "phrase",
-      "pronunciation": "hɨŋ",
-      "these_vars": null,
-      "note": {
-        "Note": "found in cartilha 4; lição 10; given in Weir 1990 as (nɨng) 'go.downriver'"
-      },
-      "sense": null,
-      "date": "2018-03-28T01:58:07Z",
-      "bibliography": "encontrado na cartilha 4; lição 10; tem em Weir 1990 como (nɨng) 'baixar.rio'",
-      "other_sources": "",
-      "var_type": {
-        "type": "_component-lexeme",
-        "variant-type": "Unspecified Variant"
-      }
-    }
-  },
   "note": {
     "Note": "hỹng necessary?"
   },
+  "other_sources": "",
+  "pronunciation": "ʔaˈdǝ:h hɨ̃ŋ",
   "sense": {
     "d0ea0e92-b63d-499e-a71b-8d214de7f646": {
       "pos": "v",
@@ -42,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "adə:h hɨ̃ŋ"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1386,
+  "entry_id": "hadoo_91228118-6e36-4bb1-8876-c6ca8cf2491d",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-05T20:24:56Z",
+  "headword": "hadoo",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "hado:",
+  "sense": {
+    "5394f9cf-abdc-4e3e-a300-29ef95af4cd3": {
+      "pos": "?",
+      "gloss": {
+        "en": "like.this",
+        "pt": "assim"
+      },
+      "def": {
+        "en": "like.this",
+        "pt": "assim"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'hedoo_50710311-5077-4000-ba6a-e9122b2a1290': {'type': '_component-lexeme', 'variant-type': 'Plural'}, 'hado_e38efbe1-2b31-4b13-8f02-ffda0c1b3ff7': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "hado:"
+}

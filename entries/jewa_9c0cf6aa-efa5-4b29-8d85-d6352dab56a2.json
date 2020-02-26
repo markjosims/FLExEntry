@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 455,
   "entry_id": "jewa_9c0cf6aa-efa5-4b29-8d85-d6352dab56a2",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-09T13:47:11Z",
+  "date_modified": "",
   "headword": "jewa",
   "morph_type": "stem",
-  "pronunciation": "jeʔˈwaʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "jeʔˈwaʔ",
   "sense": {
     "10bef4c5-594e-483b-87a7-dfbe9a7b3d95": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-09T13:47:11Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jewa"
 }

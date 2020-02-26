@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 703,
   "entry_id": "jëëpits_eb704e72-9f60-4593-a8e4-b26a718a0183",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:08:06Z",
+  "date_modified": "",
   "headword": "jëëpits",
   "morph_type": "stem",
-  "pronunciation": "jǝ:piɉ˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "problem: jǝ:piɉ˺ or jǝ:pǝ:ɉ˺"
   },
+  "other_sources": "",
+  "pronunciation": "jǝ:piɉ˺",
   "sense": {
     "a18af3d6-d2b1-4fc0-aa21-f677209d5d19": {
       "pos": "adj?",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:08:06Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jə:pic"
 }

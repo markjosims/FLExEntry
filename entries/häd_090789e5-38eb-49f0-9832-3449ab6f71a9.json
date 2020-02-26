@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 33,
   "entry_id": "häd_090789e5-38eb-49f0-9832-3449ab6f71a9",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T17:36:29Z",
+  "date_modified": "",
   "headword": "häd",
   "morph_type": "stem",
-  "pronunciation": "hʌd˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "hʌd˺",
   "sense": {
     "28976492-decb-410a-aac6-75cd5b7073ae": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T17:36:29Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hʌd"
 }

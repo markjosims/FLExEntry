@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1056,
   "entry_id": "karõɲ_95ddf4af-ee8c-44db-bddf51f729601921",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "karõɲ",
   "morph_type": "stem",
-  "pronunciation": "karõɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'karõnh'}",
+  "pronunciation": "karõɲ",
   "sense": {
     "81276a1e-afb6-45ec-a799-463577b96f9b": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'karõnh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "karõɲ"
 }

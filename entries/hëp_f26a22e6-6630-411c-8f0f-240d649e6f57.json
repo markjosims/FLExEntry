@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 720,
   "entry_id": "hëp_f26a22e6-6630-411c-8f0f-240d649e6f57",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "hëp",
   "morph_type": "phrase",
-  "pronunciation": "həp",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "həp",
   "sense": {
     "450e5b32-0196-4d6e-869a-fef32594922f": {
       "pos": "",
@@ -16,7 +19,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "həp"
 }

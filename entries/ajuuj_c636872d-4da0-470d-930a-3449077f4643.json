@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 601,
   "entry_id": "ajuuj_c636872d-4da0-470d-930a-3449077f4643",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T20:24:06Z",
+  "date_modified": "",
   "headword": "ajuuj",
   "morph_type": "stem",
-  "pronunciation": "aˈju:j",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "aˈju:j",
   "sense": {
     "abf4734a-c5e3-4c9b-b4bf-daef551444aa": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T20:24:06Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "aju:j"
 }

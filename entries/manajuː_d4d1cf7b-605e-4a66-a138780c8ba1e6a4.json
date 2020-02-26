@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1175,
   "entry_id": "manaju:_d4d1cf7b-605e-4a66-a138780c8ba1e6a4",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "manaju:",
   "morph_type": "stem",
-  "pronunciation": "manaju:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'manajuu'}",
+  "pronunciation": "manaju:",
   "sense": {
     "0772cbfe-c186-4e20-b850-0a252ccde07d": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'manajuu'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "manaju:"
 }

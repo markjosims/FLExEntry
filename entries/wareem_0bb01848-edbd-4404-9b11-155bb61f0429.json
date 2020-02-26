@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 44,
   "entry_id": "wareem_0bb01848-edbd-4404-9b11-155bb61f0429",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:34:43Z",
+  "date_modified": "",
   "headword": "wareem",
   "morph_type": "stem",
-  "pronunciation": "waˈɾe:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "waˈɾe:bm",
   "sense": {
     "09b33e05-02c4-48be-a02b-c4ecfe355f80": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:34:43Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ware:m"
 }

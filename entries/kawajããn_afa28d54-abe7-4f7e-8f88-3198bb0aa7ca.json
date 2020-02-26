@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1421,
+  "entry_id": "kawajããn_afa28d54-abe7-4f7e-8f88-3198bb0aa7ca",
+  "bibliography": "",
+  "date": "2019-11-15T22:16:56Z",
+  "date_modified": "2019-11-15T22:18:18Z",
+  "headword": "kawajããn",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ka'wa'ja:n",
+  "sense": {
+    "c834b3ed-196e-4f8f-b5a5-d85d48259104": {
+      "pos": "adj?",
+      "gloss": {
+        "en": "be.angry",
+        "pt": "ser.bravo"
+      },
+      "def": {
+        "en": "be.angry",
+        "pt": "ser.bravo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "kawajã:n"
+}

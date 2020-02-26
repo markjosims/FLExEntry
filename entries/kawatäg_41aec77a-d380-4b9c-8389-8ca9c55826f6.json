@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 200,
   "entry_id": "kawatäg_41aec77a-d380-4b9c-8389-8ca9c55826f6",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kawatäg",
   "morph_type": "stem",
-  "pronunciation": "kawatʌg̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "kawatʌg̚",
   "sense": {
     "657465a3-bc4a-4209-974c-7a28d5cadc63": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kawatʌg"
 }

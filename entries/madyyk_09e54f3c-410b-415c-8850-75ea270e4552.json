@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 35,
   "entry_id": "madyyk_09e54f3c-410b-415c-8850-75ea270e4552",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "madyyk",
   "morph_type": "stem",
-  "pronunciation": "maˈdɨ:k˺",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'madɯːk', 'Barbosa': 'madiːk'}",
+  "pronunciation": "maˈdɨ:k˺",
   "sense": {
     "9b92b2cb-bb24-4ffd-bb03-3b21acf80bd0": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'madɯːk', 'Barbosa': 'madiːk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "madɨ:k"
 }

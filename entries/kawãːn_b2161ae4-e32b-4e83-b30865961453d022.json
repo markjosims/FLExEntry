@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1112,
   "entry_id": "kawã:n_b2161ae4-e32b-4e83-b30865961453d022",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "kawã:n",
   "morph_type": "stem",
-  "pronunciation": "kawã:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'kawãːn'}",
+  "pronunciation": "kawã:n",
   "sense": {
     "c6120db9-862e-4614-b399-ac4043c65814": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'kawãːn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kawã:n"
 }

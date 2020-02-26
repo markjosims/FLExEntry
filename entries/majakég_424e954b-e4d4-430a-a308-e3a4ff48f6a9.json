@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 204,
   "entry_id": "majakég_424e954b-e4d4-430a-a308-e3a4ff48f6a9",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "majakég",
   "morph_type": "stem",
-  "pronunciation": "mãjakɛg̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mãjakɛg̚",
   "sense": {
     "40d6fa03-71b8-4dc8-8b0e-48637f1caa20": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "majakɛg"
 }

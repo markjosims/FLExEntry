@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1075,
   "entry_id": "tɔ̰̃:p_9cceec82-ec11-4fd0-9417c81d9b1b5b72",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "tɔ̰̃:p",
   "morph_type": "stem",
-  "pronunciation": "tɔ̰̃:p",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source undef."
   },
+  "other_sources": "{'undef': 'tɔ̰̃ːp'}",
+  "pronunciation": "tɔ̰̃:p",
   "sense": {
     "a666ad75-f16d-4256-a561-377b5438bd63": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "",
-  "other_sources": "{'undef': 'tɔ̰̃ːp'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "tɔ̰̃:p"
 }

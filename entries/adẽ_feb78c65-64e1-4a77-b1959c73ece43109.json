@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1239,
   "entry_id": "adẽ_feb78c65-64e1-4a77-b1959c73ece43109",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "adẽ",
   "morph_type": "stem",
-  "pronunciation": "adẽ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'adẽ'}",
+  "pronunciation": "adẽ",
   "sense": {
     "43f96be7-1ea9-44dd-93fd-c547fd72a028": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'adẽ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "adẽ"
 }

@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1436,
+  "entry_id": "ej_bb32a683-82cb-4f58-9c43-4bf0196986e9",
+  "bibliography": "",
+  "date": "2019-11-05T14:30:09Z",
+  "date_modified": "2019-11-05T14:31:19Z",
+  "headword": "ej",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "",
+  "sense": {
+    "8a5cf3f8-e05d-4bc2-b1ac-297efa2f2bf5": {
+      "pos": "intj",
+      "gloss": {
+        "en": "all.right",
+        "pt": "tudo.bem"
+      },
+      "def": {
+        "en": "all right",
+        "pt": "tudo bem"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "a0848547-2f34-4640-bbb3-534668f9d38b": {
+      "pos": "intj",
+      "gloss": {
+        "en": "yes",
+        "pt": "sim"
+      },
+      "def": {
+        "en": "yes",
+        "pt": "sim"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ej"
+}

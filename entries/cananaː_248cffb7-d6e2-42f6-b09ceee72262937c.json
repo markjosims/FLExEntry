@@ -1,28 +1,33 @@
 {
+  "Unnamed: 0": 831,
   "entry_id": "canana:_248cffb7-d6e2-42f6-b09ceee72262937c",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "canana:",
   "morph_type": "stem",
-  "pronunciation": "canana:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tsananaa'}",
+  "pronunciation": "canana:",
   "sense": {
     "b71f8e84-f4a4-49b2-8f8b-e4e22f4e5fc6": {
       "pos": "n",
       "gloss": {
-        "pt": "lambe.olhos"
+        "en": "?",
+        "pt": "lambe.olho"
       },
       "def": {
-        "pt": "esp. de inseto (lambe-olhos)"
+        "en": "?",
+        "pt": "esp. de inseto (lambe-olho)"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tsananaa'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "canana:"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 267,
   "entry_id": "jëm_5c2a82e1-ebb7-4287-90df-d3a28ccaa053",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "jëm",
   "morph_type": "stem",
-  "pronunciation": "jəbm",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "jəbm",
   "sense": {
     "ba7b6925-c9c9-4031-898a-f9f0253621bd": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "jəm"
 }

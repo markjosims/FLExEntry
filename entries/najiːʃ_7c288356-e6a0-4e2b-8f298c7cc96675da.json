@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 994,
   "entry_id": "naji:ʃ_7c288356-e6a0-4e2b-8f298c7cc96675da",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "naji:ʃ",
   "morph_type": "stem",
-  "pronunciation": "naji:ʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'najiis'}",
+  "pronunciation": "naji:ʃ",
   "sense": {
     "e288c784-25c6-4c91-990a-7e62b6229a0f": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'najiis'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "naji:ʃ"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 252,
   "entry_id": "t&apos;aah_53b37a98-9c06-4c23-b5d8-447f89451984",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "t'aah",
   "morph_type": "stem",
-  "pronunciation": "taʔah",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'tʹaah', 'Weir': 'txaah', 'Martins': 'ta̰ːh'}",
+  "pronunciation": "taʔah",
   "sense": {
     "5f8fb53b-57f7-4eb9-b4d3-6037870b574e": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'tʹaah', 'Weir': 'txaah', 'Martins': 'ta̰ːh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ta̰:h"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1380,
+  "entry_id": "soo1_8d4ce206-887a-448d-a7db-8239d7cbeccf",
+  "bibliography": "",
+  "date": "2018-03-21T15:10:53Z",
+  "date_modified": "2019-12-15T22:58:39Z",
+  "headword": "soo",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ʃo:",
+  "sense": {
+    "10c3e729-69b1-41ac-b7bb-5c81a0eee289": {
+      "pos": "n",
+      "gloss": {
+        "en": "woodpecker",
+        "pt": "pica-pau"
+      },
+      "def": {
+        "en": "woodpecker",
+        "pt": "pica-pau"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃo:"
+}

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 494,
   "entry_id": "eëëk_a6772535-05f5-4859-8007-ff6a89c86664",
+  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "eëëk",
   "morph_type": "stem",
-  "pronunciation": "ʔeʔˈǝ:k",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "problem: ʔeʔˈǝ:k or ʔeʔˈɨ:k"
   },
+  "other_sources": "",
+  "pronunciation": "ʔeʔˈǝ:k",
   "sense": {
     "b6b2eacc-3cd5-4627-aa03-efc2d1cb0ae0": {
       "pos": "v",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011; Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "eə:k"
 }

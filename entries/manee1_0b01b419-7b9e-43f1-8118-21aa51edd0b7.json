@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 41,
   "entry_id": "manee1_0b01b419-7b9e-43f1-8118-21aa51edd0b7",
+  "bibliography": "Fieldnotes Epps/Obert; 2018z",
+  "date": "2018-09-04T00:04:27Z",
+  "date_modified": "",
   "headword": "manee",
   "morph_type": "root",
-  "pronunciation": "mãnẽ:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "mãnẽ:ʔ",
   "sense": {
     "ccb1c736-e479-487d-aa05-d74fb2f3f1cc": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-04T00:04:27Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018z",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "mane:"
 }

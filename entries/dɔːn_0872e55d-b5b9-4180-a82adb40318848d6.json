@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 781,
   "entry_id": "dɔ:n_0872e55d-b5b9-4180-a82adb40318848d6",
+  "bibliography": "Weir 1986",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "dɔ:n",
   "morph_type": "stem",
-  "pronunciation": "dɔ:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'dóón'}",
+  "pronunciation": "dɔ:n",
   "sense": {
     "daa9b5d2-cb3b-43ed-9e12-bc80b1f2e5ae": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1986",
-  "other_sources": "{'Weir': 'dóón'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "dɔ:n"
 }

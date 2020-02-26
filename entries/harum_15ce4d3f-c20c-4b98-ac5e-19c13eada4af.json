@@ -1,11 +1,16 @@
 {
+  "Unnamed: 0": 1258,
   "entry_id": "harum_15ce4d3f-c20c-4b98-ac5e-19c13eada4af",
+  "bibliography": "",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "2019-12-15T22:51:12Z",
   "headword": "harum",
   "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; FIeldnotes 2019"
+  },
+  "other_sources": "{}",
   "pronunciation": "haɾubm",
-  "variant_of": {},
-  "these_vars": {},
-  "note": null,
   "sense": {
     "74a76c65-88dd-4672-be6c-418ece822d56": {
       "pos": "Noun",
@@ -22,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'haɾum', 'Barbosa': 'haɾũm'}"
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "harum"
 }

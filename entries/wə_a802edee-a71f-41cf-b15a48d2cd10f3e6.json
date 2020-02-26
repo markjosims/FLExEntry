@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1092,
   "entry_id": "wə_a802edee-a71f-41cf-b15a48d2cd10f3e6",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "wə",
   "morph_type": "stem",
-  "pronunciation": "wə",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'wë'}",
+  "pronunciation": "wə",
   "sense": {
     "a1a1325f-1b03-4a86-938d-7881f4f9e5f8": {
       "pos": "adv op",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'wë'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wə"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 908,
   "entry_id": "pɔ̰̃:n_4efe0b96-672b-40ed-9e9749828ac4667d",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "pɔ̰̃:n",
   "morph_type": "stem",
-  "pronunciation": "pɔ̰̃:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source undef."
   },
+  "other_sources": "{'undef': 'pɔ̰̃ːn'}",
+  "pronunciation": "pɔ̰̃:n",
   "sense": {
     "2000adc5-6d7d-4ad3-9ec7-835b21fa5112": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "",
-  "other_sources": "{'undef': 'pɔ̰̃ːn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "pɔ̰̃:n"
 }

@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1249,
+  "entry_id": "jé_0bcc2712-1745-411a-9f09-c2770f3ee441",
+  "bibliography": "",
+  "date": "2019-12-04T23:35:50Z",
+  "date_modified": "2019-12-04T23:36:41Z",
+  "headword": "jé",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "jɛ",
+  "sense": {
+    "111c47c8-a05e-4228-ad66-8094a1c36839": {
+      "pos": "Subordinating connective",
+      "gloss": {
+        "en": "where.REL",
+        "pt": "onde.REL"
+      },
+      "def": {
+        "en": "where",
+        "pt": "onde"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "jɛ"
+}

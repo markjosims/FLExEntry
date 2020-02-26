@@ -1,0 +1,69 @@
+{
+  "Unnamed: 0": 1477,
+  "entry_id": "heen n&apos;aa_e00ea0a4-a593-43c3-b339-f3933a66bdca",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2020-01-08T17:43:52Z",
+  "headword": "heen n'aa",
+  "morph_type": "phrase",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{'Sil Dict 2011': 'ỹỹm'}",
+  "pronunciation": "he:n na̰:",
+  "sense": {
+    "77db2bd4-1f14-40e7-b733-18dd3814ef63": {
+      "pos": "n op",
+      "gloss": {
+        "en": "picture",
+        "pt": "foto"
+      },
+      "def": {
+        "en": "picture; foto",
+        "pt": "foto; representação"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {
+    "taheen n&apos;aa getsa doo_e91e270e-f253-4f7d-97e7-501f7659b3a0": {
+      "Unnamed: 0": 1489,
+      "bibliography": "",
+      "date": "2019-11-21T21:49:50Z",
+      "date_modified": "2020-01-08T17:07:06Z",
+      "headword": "taheen n'aa getsa doo",
+      "morph_type": "phrase",
+      "note": {
+        "restrictions": "Epps/Obert; Fieldnotes 2019"
+      },
+      "other_sources": "{}",
+      "pronunciation": "tahe:dn naʔa k'eɟa do:",
+      "sense": {
+        "1946b36d-50da-4858-a28c-6768740e6a91": {
+          "pos": "Noun",
+          "gloss": {
+            "en": "stamp",
+            "pt": "selo"
+          },
+          "def": {
+            "en": "stamp",
+            "pt": "selo"
+          },
+          "reverse": "",
+          "note": "",
+          "these_vars": ""
+        }
+      },
+      "these_vars": {},
+      "ipa": "tahe:n na̰: geca do:",
+      "var_type": {
+        "type": "_component-lexeme",
+        "complex-form-type": "Unspecified Complex Form"
+      }
+    }
+  },
+  "variant_of": null,
+  "ipa": "he:n na̰:"
+}

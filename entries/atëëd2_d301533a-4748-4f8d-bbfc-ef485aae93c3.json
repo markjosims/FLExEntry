@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 635,
   "entry_id": "atëëd2_d301533a-4748-4f8d-bbfc-ef485aae93c3",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "atëëd",
   "morph_type": "stem",
-  "pronunciation": "ʔatə:d̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'atëëd'}",
+  "pronunciation": "ʔatə:d̚",
   "sense": {
     "ecea21e5-7367-4762-bd5c-6881a835e7d5": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'atëëd'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "atə:d"
 }

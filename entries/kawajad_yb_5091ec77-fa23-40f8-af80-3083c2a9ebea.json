@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 248,
   "entry_id": "kawajad yb_5091ec77-fa23-40f8-af80-3083c2a9ebea",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "kawajad yb",
   "morph_type": "phrase",
-  "pronunciation": "kawajad̚ ʔɨb̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": {
     "Note": "lit. veado-pai"
   },
+  "other_sources": "",
+  "pronunciation": "kawajad̚ ʔɨb̚",
   "sense": {
     "11943bf0-f2ef-4470-8902-485d421ff84a": {
       "pos": "Noun",
@@ -24,7 +27,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "kawajad ɨb"
 }

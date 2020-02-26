@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1015,
   "entry_id": "ra:b_844bc49d-15ff-46f9-9bbc334bd10da621",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "ra:b",
   "morph_type": "stem",
-  "pronunciation": "ra:b",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ɾaːb'}",
+  "pronunciation": "ra:b",
   "sense": {
     "53cc9f67-9981-46dd-8f52-4fc06b3699df": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ɾaːb'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ra:b"
 }

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1213,
   "entry_id": "gõ̰:h_eb41f0ed-d6f9-4d6e-85b336781b9f4841",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "gõ̰:h",
   "morph_type": "stem",
-  "pronunciation": "gõ̰:h",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'gʹõõh'}",
+  "pronunciation": "gõ̰:h",
   "sense": {
     "fb8a364a-20b0-4a9d-89a7-a2aec9e384b4": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'gʹõõh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gõ̰:h"
 }

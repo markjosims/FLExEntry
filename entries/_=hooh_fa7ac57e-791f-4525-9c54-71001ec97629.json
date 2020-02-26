@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 738,
   "entry_id": " =hooh_fa7ac57e-791f-4525-9c54-71001ec97629",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-07T14:43:30Z",
+  "date_modified": "",
   "headword": " =hooh",
   "morph_type": "stem",
-  "pronunciation": "hɔ:h",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "hɔ:h",
   "sense": {
     "6b2ff4fa-cb5b-4d7a-92b1-0c0446cfdfc6": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-07T14:43:30Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "  ho:h"
 }

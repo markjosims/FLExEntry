@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 164,
   "entry_id": "gatoj tëëg_34050e72-0ab9-4e5a-a79b-8d004e06888d",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-09-03T23:40:00Z",
+  "date_modified": "",
   "headword": "gatoj tëëg",
   "morph_type": "phrase",
-  "pronunciation": "k’aˈtoj",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "k’aˈtoj",
   "sense": {
     "81cd25b1-644e-410e-99c6-b16a0bf88e44": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-09-03T23:40:00Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "gatoj tə:g"
 }

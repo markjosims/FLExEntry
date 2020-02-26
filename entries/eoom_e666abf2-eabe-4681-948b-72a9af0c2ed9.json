@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 694,
   "entry_id": "eoom_e666abf2-eabe-4681-948b-72a9af0c2ed9",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T13:12:30Z",
+  "date_modified": "",
   "headword": "eoom",
   "morph_type": "stem",
-  "pronunciation": "ʔeˈʔo:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeˈʔo:bm",
   "sense": {
     "d53098d4-b052-402e-9be3-46b003f67c0a": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T13:12:30Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "eo:m"
 }

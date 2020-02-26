@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1295,
+  "entry_id": "nas&apos;aa_3bd6ffae-4a8e-497c-88a9-cf04245cbc73",
+  "bibliography": "",
+  "date": "2020-01-08T19:28:52Z",
+  "date_modified": "2020-01-08T19:30:16Z",
+  "headword": "nas'aa",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "na'ʃaʔa",
+  "sense": {
+    "d921346a-df43-4907-a4f4-94bddd17bb92": {
+      "pos": "v?",
+      "gloss": {
+        "en": "ugly",
+        "pt": "feio"
+      },
+      "def": {
+        "en": "ugly",
+        "pt": "feio"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "naʃa̰:"
+}

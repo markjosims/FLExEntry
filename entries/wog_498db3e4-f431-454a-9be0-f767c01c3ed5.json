@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 225,
   "entry_id": "wog_498db3e4-f431-454a-9be0-f767c01c3ed5",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "wog",
   "morph_type": "stem",
-  "pronunciation": "wog˺",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Martins': 'ʔawog'}",
+  "pronunciation": "wog˺",
   "sense": {
     "41600425-e2dd-4ad8-98e7-8451ffe4dde6": {
       "pos": "v?",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'ʔawog'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wog"
 }

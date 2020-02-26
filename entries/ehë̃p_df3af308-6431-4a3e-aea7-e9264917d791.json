@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 673,
   "entry_id": "ehë̃p_df3af308-6431-4a3e-aea7-e9264917d791",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "ehë̃p",
   "morph_type": "stem",
-  "pronunciation": "ʔehə̃p̚",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Martins': 'hɯ̃p'}",
+  "pronunciation": "ʔehə̃p̚",
   "sense": {
     "4778e212-2f81-4496-b99d-294b71d6a3fa": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Martins': 'hɯ̃p'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ehə̃p"
 }

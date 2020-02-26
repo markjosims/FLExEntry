@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 773,
   "entry_id": "baroʃ_075922fd-9874-48ce-8813f6705117c88e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "baroʃ",
   "morph_type": "stem",
-  "pronunciation": "baroʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'baros'}",
+  "pronunciation": "baroʃ",
   "sense": {
     "8e4c82e7-7bad-4968-96c6-675114c274a2": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'barots_0fd1f641-6e7a-4918-b8d4-849ef14f2105': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'baros'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "baroʃ"
 }

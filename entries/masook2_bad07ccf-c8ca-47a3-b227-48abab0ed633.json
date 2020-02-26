@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 549,
   "entry_id": "masook2_bad07ccf-c8ca-47a3-b227-48abab0ed633",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "masook",
   "morph_type": "stem",
-  "pronunciation": "mãʃo:k̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "mãʃo:k̚",
   "sense": {
     "9f5d15a5-51ae-43d8-9199-e28dfde91a2b": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "maʃo:k"
 }

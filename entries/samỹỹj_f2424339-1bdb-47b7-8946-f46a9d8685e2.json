@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 719,
   "entry_id": "samỹỹj_f2424339-1bdb-47b7-8946-f46a9d8685e2",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "samỹỹj",
   "morph_type": "stem",
-  "pronunciation": "ʃabmɨ̃:j",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Weir': 'ʃamɨːj'}",
+  "pronunciation": "ʃabmɨ̃:j",
   "sense": {
     "f774eb9b-d3b4-4be6-b75c-62eb83c2bd23": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'ʃamɨːj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ʃamɨ̃:j"
 }

@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 376,
   "entry_id": "awa_81084abe-5872-41b3-bb65-8b687a3b00a1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "awa",
   "morph_type": "stem",
-  "pronunciation": "awa",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "awa",
   "sense": {
     "69e7fa0a-9e80-485b-b1e1-85464f8b716e": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "awa"
 }

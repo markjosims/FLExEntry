@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1378,
+  "entry_id": "né hẽ_8b6c97f9-bff4-4755-a9b1-3d71dbc9938e",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-21T21:27:03Z",
+  "headword": "né hẽ",
+  "morph_type": "phrase",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019, SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "nɛ hɛ̃",
+  "sense": {
+    "8ec1dc6a-55f8-4841-83c9-2a234566d43a": {
+      "pos": "par",
+      "gloss": {
+        "en": "really.like.this",
+        "pt": "assim.mesmo"
+      },
+      "def": {
+        "en": "really like this",
+        "pt": "assim mesmo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "9281defd-b7dd-47a2-a0d2-f382d56a9aa8": {
+      "pos": "par",
+      "gloss": {
+        "en": "EMPH",
+        "pt": "EMPH"
+      },
+      "def": {
+        "en": "EMPH",
+        "pt": "EMPH"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "nɛ hẽ"
+}

@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 900,
   "entry_id": "ro̰:d_4acc9cdb-de0b-4f94-b9e3ebe14eadfa08",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ro̰:d",
   "morph_type": "stem",
-  "pronunciation": "ro̰:d",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Martins': 'ɾo̰:d', 'Weir': 'lxood', 'Sil Dict 2011': 'rʹood'}",
+  "pronunciation": "ro̰:d",
   "sense": {
     "cb5a288a-7be4-4c63-b65b-7763c235b6d4": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'terʹood_65ad6eee-f8b9-44d1-8184-e611ee027971': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Martins': 'ɾo̰:d', 'Weir': 'lxood', 'Sil Dict 2011': 'rʹood'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ro̰:d"
 }

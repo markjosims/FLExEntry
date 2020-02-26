@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 930,
   "entry_id": "manɨh_59b15e4a-d1a6-4c95-a8b54554b63a4cf9",
+  "bibliography": "Weir 1994",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "manɨh",
   "morph_type": "stem",
-  "pronunciation": "manɨh",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Weir."
   },
+  "other_sources": "{'Weir': 'manɨh'}",
+  "pronunciation": "manɨh",
   "sense": {
     "0ac6008a-f953-448f-ade2-b00e79a69d60": {
       "pos": "manɨh",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Weir 1994",
-  "other_sources": "{'Weir': 'manɨh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "manɨh"
 }

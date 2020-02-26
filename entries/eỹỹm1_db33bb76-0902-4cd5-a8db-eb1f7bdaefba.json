@@ -1,0 +1,41 @@
+{
+  "Unnamed: 0": 1472,
+  "entry_id": "eỹỹm1_db33bb76-0902-4cd5-a8db-eb1f7bdaefba",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "2019-11-11T00:31:59Z",
+  "headword": "eỹỹm",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Fieldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ʔeˈʔɨ̃:m",
+  "sense": {
+    "9681fbe7-274e-4fa3-b556-45e7f319a185": {
+      "pos": "v",
+      "gloss": {
+        "en": "fear",
+        "pt": "ter.medo"
+      },
+      "def": {
+        "en": "fear",
+        "pt": "ter medo"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": "{'eỹm_e0157363-f854-42f4-acfa-dedc5b175515': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
+    },
+    "67c688ee-3388-429c-906f-fc98099453ad": {
+      "pos": "v",
+      "gloss": null,
+      "def": null,
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "eɨ̃:m"
+}

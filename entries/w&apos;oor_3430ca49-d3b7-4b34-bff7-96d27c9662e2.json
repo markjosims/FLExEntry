@@ -1,0 +1,33 @@
+{
+  "Unnamed: 0": 1286,
+  "entry_id": "w&apos;oor_3430ca49-d3b7-4b34-bff7-96d27c9662e2",
+  "bibliography": "",
+  "date": "2018-07-27T20:27:33Z",
+  "date_modified": "2020-01-08T16:30:51Z",
+  "headword": "w'oor",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "FIeldnotes Epps/Obert; 2018"
+  },
+  "other_sources": "{}",
+  "pronunciation": "woʔoɾ",
+  "sense": {
+    "c36bb89d-00db-425c-b65e-c38171ca9e29": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "owl",
+        "pt": "coruja"
+      },
+      "def": {
+        "en": "owl",
+        "pt": "coruja"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "wo̰:r"
+}

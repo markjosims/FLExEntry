@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 730,
   "entry_id": " =dab_f62551f3-a0a5-4ba4-93d1-54fcd72b4088",
+  "bibliography": "SIL 2011;  Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": " =dab",
   "morph_type": "stem",
-  "pronunciation": "dab˺",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Weir': 'dab'}",
+  "pronunciation": "dab˺",
   "sense": {
     "8c804958-f401-4cb4-834d-f68b70f4021d": {
       "pos": "n op",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL 2011;  Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Weir': 'dab'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "  dab"
 }

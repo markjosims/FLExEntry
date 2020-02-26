@@ -1,28 +1,31 @@
 {
+  "Unnamed: 0": 8,
   "entry_id": "h’ëëd_025fec92-6af8-4d61-8544-bdb0e0362545",
+  "bibliography": "Fiednotes Epps/Obert; 2018",
+  "date": "2018-07-11T00:00:38Z",
+  "date_modified": "",
   "headword": "h’ëëd",
   "morph_type": "stem",
-  "pronunciation": "hǝʔǝd˺",
-  "variant_of": {},
-  "these_vars": {},
   "note": {},
+  "other_sources": "{'Sil Dict 2011': 'hʹëëd'}",
+  "pronunciation": "hǝʔǝd˺",
   "sense": {
     "82d7231c-5f51-4860-90b3-f2da90deba51": {
       "pos": "Question particle",
       "gloss": {
         "en": "what",
-        "pt": "que"
+        "pt": "o que"
       },
       "def": {
         "en": "what",
-        "pt": "que"
+        "pt": "o que"
       },
       "reverse": "",
       "note": "",
       "these_vars": ""
     }
   },
-  "date": "2018-07-11T00:00:38Z",
-  "bibliography": "Fiednotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'hʹëëd'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hə̰:d"
 }

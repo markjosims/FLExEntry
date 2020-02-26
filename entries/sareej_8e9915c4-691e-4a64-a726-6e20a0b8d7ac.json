@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1382,
+  "entry_id": "sareej_8e9915c4-691e-4a64-a726-6e20a0b8d7ac",
+  "bibliography": "",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "2019-12-18T16:01:29Z",
+  "headword": "sareej",
+  "morph_type": "stem",
+  "note": null,
+  "other_sources": "{'Sil Dict 2011': 'naga hẽ'}",
+  "pronunciation": "ʃaɾe:j",
+  "sense": {
+    "617557b8-29c1-4488-98bf-1dddca00a2d6": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "pot",
+        "pt": "panela"
+      },
+      "def": {
+        "en": "pot",
+        "pt": "panela; vasilha"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃare:j"
+}

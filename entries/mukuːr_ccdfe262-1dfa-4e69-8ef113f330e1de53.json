@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1163,
   "entry_id": "muku:r_ccdfe262-1dfa-4e69-8ef113f330e1de53",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "muku:r",
   "morph_type": "stem",
-  "pronunciation": "muku:r",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'mukuːɾ'}",
+  "pronunciation": "muku:r",
   "sense": {
     "01262f0b-5755-4740-aa2d-6fd7316cd433": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'mukuːɾ'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "muku:r"
 }

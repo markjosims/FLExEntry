@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1002,
   "entry_id": "hɔ̃k_7ee84e60-c92c-46bb-bfdb1ba24ed847f5",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "hɔ̃k",
   "morph_type": "stem",
-  "pronunciation": "hɔ̃k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'hɔ̃k'}",
+  "pronunciation": "hɔ̃k",
   "sense": {
     "1b5d7c5a-a3da-44fb-a0ba-579d735ebc99": {
       "pos": "Verb",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'hɔ̃k'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hɔ̃k"
 }

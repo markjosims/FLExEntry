@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 556,
   "entry_id": "pëëw_bc51e1f0-68ce-4051-b925-7b7eef2ce693",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "pëëw",
   "morph_type": "stem",
-  "pronunciation": "pə:w",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "pə:w",
   "sense": {
     "4b0fb19d-e66c-483b-9ab8-4dc75471caf3": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "pə:w"
 }

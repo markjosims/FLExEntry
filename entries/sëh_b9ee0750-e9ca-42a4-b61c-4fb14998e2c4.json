@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 545,
   "entry_id": "sëh_b9ee0750-e9ca-42a4-b61c-4fb14998e2c4",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "sëh",
   "morph_type": "stem",
-  "pronunciation": "ʃəh",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʃəh",
   "sense": {
     "844c36b7-77dd-4af0-8a80-7040735b8893": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃəh"
 }

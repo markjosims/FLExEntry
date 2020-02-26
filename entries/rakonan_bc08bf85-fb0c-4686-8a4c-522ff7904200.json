@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 555,
   "entry_id": "rakonan_bc08bf85-fb0c-4686-8a4c-522ff7904200",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "rakonan",
   "morph_type": "stem",
-  "pronunciation": "ɾakonan",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ɾakonan",
   "sense": {
     "0cb0fc95-2e15-4b30-9087-5a30543ef0ac": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "rakonan"
 }

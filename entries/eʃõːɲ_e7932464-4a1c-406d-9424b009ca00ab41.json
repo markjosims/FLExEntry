@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1205,
   "entry_id": "eʃõ:ɲ_e7932464-4a1c-406d-9424b009ca00ab41",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "eʃõ:ɲ",
   "morph_type": "stem",
-  "pronunciation": "eʃõ:ɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'esõõnh'}",
+  "pronunciation": "eʃõ:ɲ",
   "sense": {
     "237b528b-7ef8-44c8-9738-2355398685e4": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'hesʹõõnh_300d2f0c-dd62-4b9d-a43b-5e8f7747620d': {'type': '_component-lexeme', 'variant-type': 'Habitual'}, 'esʹõõj_47398d7b-e389-44c6-af78-714635f7215e': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'esõõnh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "eʃõ:ɲ"
 }

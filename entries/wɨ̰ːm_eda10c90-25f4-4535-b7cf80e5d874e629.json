@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1216,
   "entry_id": "wɨ̰:m_eda10c90-25f4-4535-b7cf80e5d874e629",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "wɨ̰:m",
   "morph_type": "stem",
-  "pronunciation": "wɨ̰:m",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'wʹyym'}",
+  "pronunciation": "wɨ̰:m",
   "sense": {
     "f6d03cbb-8a93-4ec0-befa-69694151d7ea": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'wʹyym'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "wɨ̰:m"
 }

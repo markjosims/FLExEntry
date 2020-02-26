@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1103,
   "entry_id": "kawaju_ae0b82e4-6370-4005-8fc5a9af47f703c2",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "kawaju",
   "morph_type": "stem",
-  "pronunciation": "kawaju",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'kawaju'}",
+  "pronunciation": "kawaju",
   "sense": {
     "0dcf1d83-0e4a-4003-aa0c-b9d0076e306d": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'kawaju'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kawaju"
 }

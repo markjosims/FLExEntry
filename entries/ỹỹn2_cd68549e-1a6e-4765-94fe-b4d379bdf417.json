@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 625,
   "entry_id": "ỹỹn2_cd68549e-1a6e-4765-94fe-b4d379bdf417",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "ỹỹn",
   "morph_type": "stem",
-  "pronunciation": "ʔɨ̃:n",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'ỹỹn', 'Weir': 'ʔɨ̃ːn', 'Barbosa': 'ʔɨ̃ːn'}",
+  "pronunciation": "ʔɨ̃:n",
   "sense": {
     "5a55c287-aeca-4488-8237-2c9306007e96": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'ỹỹn', 'Weir': 'ʔɨ̃ːn', 'Barbosa': 'ʔɨ̃ːn'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ɨ̃:n"
 }

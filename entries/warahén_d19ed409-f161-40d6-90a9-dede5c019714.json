@@ -1,0 +1,47 @@
+{
+  "Unnamed: 0": 1465,
+  "entry_id": "warahén_d19ed409-f161-40d6-90a9-dede5c019714",
+  "bibliography": "",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "2019-11-25T16:08:26Z",
+  "headword": "warahén",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "waɾahɛdn",
+  "sense": {
+    "9de05edf-3436-4895-a298-a5d92b776e23": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "policeman",
+        "pt": "policía"
+      },
+      "def": {
+        "en": "policeman",
+        "pt": "policía"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "e762760e-0782-4de6-be0a-c897c52a136d": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "soldier",
+        "pt": "soldado"
+      },
+      "def": {
+        "en": "soldier",
+        "pt": "soldado"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "warahɛn"
+}

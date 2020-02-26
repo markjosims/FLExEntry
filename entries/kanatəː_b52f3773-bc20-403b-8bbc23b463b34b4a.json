@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1122,
   "entry_id": "kanatə:_b52f3773-bc20-403b-8bbc23b463b34b4a",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "kanatə:",
   "morph_type": "stem",
-  "pronunciation": "kanatə:",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'kanatëë'}",
+  "pronunciation": "kanatə:",
   "sense": {
     "0e7142ba-03dd-499a-91f1-97b7c47f5d72": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'kanatëë'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "kanatə:"
 }

@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1260,
+  "entry_id": "panʹaa_167b4818-2852-44f2-aef7-66c8c4ba3c2d",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-12-15T22:41:28Z",
+  "headword": "panʹaa",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011"
+  },
+  "other_sources": "{'Barbosa': 'maɾaka(ː)w'}",
+  "pronunciation": "pana̰:",
+  "sense": {
+    "125852b9-9c3d-49dc-ac87-02e3bdbc19a7": {
+      "pos": "par",
+      "gloss": {
+        "pt": "para"
+      },
+      "def": {
+        "pt": "para; vai ser"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "pana̰:"
+}

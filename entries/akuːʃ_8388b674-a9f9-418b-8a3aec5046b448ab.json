@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1014,
   "entry_id": "aku:ʃ_8388b674-a9f9-418b-8a3aec5046b448ab",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:52Z",
+  "date_modified": "",
   "headword": "aku:ʃ",
   "morph_type": "stem",
-  "pronunciation": "aku:ʃ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'akuus'}",
+  "pronunciation": "aku:ʃ",
   "sense": {
     "b4be0a8d-cf7e-494d-8e8e-8d6bb5d7e987": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'akus_532675cd-55f8-4daf-91ac-6fb60478016d': {'type': '_component-lexeme', 'variant-type': 'Unspecified Variant'}, 'akʹuuts_c9e21d27-da30-451c-b986-8b1d12530f77': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:52Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'akuus'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "aku:ʃ"
 }

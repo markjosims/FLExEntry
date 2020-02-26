@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1001,
   "entry_id": "gaje:ɲ_7ed65294-18c4-4aec-a788637cd21a6b3b",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "gaje:ɲ",
   "morph_type": "stem",
-  "pronunciation": "gaje:ɲ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'gajeenh'}",
+  "pronunciation": "gaje:ɲ",
   "sense": {
     "f7801daa-0d39-48f9-9f63-f852c4125e16": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'gajʹeej_0370d9a3-7912-458c-bb70-6097fb5de782': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'gajénh_dd695d2b-de3a-48cb-8d65-cc1432ed82da': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'gajeenh'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "gaje:ɲ"
 }

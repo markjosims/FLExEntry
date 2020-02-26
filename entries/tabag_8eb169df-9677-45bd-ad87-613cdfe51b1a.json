@@ -1,0 +1,61 @@
+{
+  "Unnamed: 0": 1383,
+  "entry_id": "tabag_8eb169df-9677-45bd-ad87-613cdfe51b1a",
+  "bibliography": "",
+  "date": "2019-11-15T22:39:43Z",
+  "date_modified": "2019-12-21T20:48:55Z",
+  "headword": "tabag",
+  "morph_type": "root",
+  "note": {
+    "bibliography": "Epps/Obert; Fieldnotes 2019"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ta'bag",
+  "sense": {
+    "5c73305e-5a0b-414f-b4fc-bbea5d3f6dd0": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "light",
+        "pt": "luz"
+      },
+      "def": {
+        "en": "light",
+        "pt": "luz"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "c5a37451-bea2-4238-a7cc-e9defecbe59c": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "flashlight",
+        "pt": "lanterna"
+      },
+      "def": {
+        "en": "flashlight",
+        "pt": "lanterna"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    },
+    "201421e1-cfc5-4111-8cce-243c23c7c251": {
+      "pos": "Noun",
+      "gloss": {
+        "en": "generator",
+        "pt": "gerador"
+      },
+      "def": {
+        "en": "generator",
+        "pt": "gerador"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "tabag"
+}

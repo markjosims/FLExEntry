@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1155,
   "entry_id": "aru:m_c6fbd4fe-be1a-4ff5-ab9be9f863abcef0",
+  "bibliography": "Martins",
+  "date": "2018-06-20T05:09:53Z",
+  "date_modified": "",
   "headword": "aru:m",
   "morph_type": "stem",
-  "pronunciation": "aru:m",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Martins."
   },
+  "other_sources": "{'Martins': 'ʔaɾuːm'}",
+  "pronunciation": "aru:m",
   "sense": {
     "19bc5a1a-3b46-4f15-908d-f339ff07508e": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:53Z",
-  "bibliography": "Martins",
-  "other_sources": "{'Martins': 'ʔaɾuːm'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "aru:m"
 }

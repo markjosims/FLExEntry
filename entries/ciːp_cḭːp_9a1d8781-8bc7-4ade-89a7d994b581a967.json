@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1068,
   "entry_id": "ci:p/cḭ:p_9a1d8781-8bc7-4ade-89a7d994b581a967",
+  "bibliography": "",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "ci:p/cḭ:p",
   "morph_type": "stem",
-  "pronunciation": "ci:p/cḭ:p",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source undef."
   },
+  "other_sources": "{'undef': 'ɟiːp/ɟḭːp'}",
+  "pronunciation": "ci:p/cḭ:p",
   "sense": {
     "8e895438-847a-412d-822f-0afad834b149": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "",
-  "other_sources": "{'undef': 'ɟiːp/ɟḭːp'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ci:p/cḭ:p"
 }

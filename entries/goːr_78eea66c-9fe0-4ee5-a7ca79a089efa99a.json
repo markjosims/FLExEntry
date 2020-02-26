@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 986,
   "entry_id": "go:r_78eea66c-9fe0-4ee5-a7ca79a089efa99a",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "go:r",
   "morph_type": "stem",
-  "pronunciation": "go:r",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'goor'}",
+  "pronunciation": "go:r",
   "sense": {
     "33719b6a-86d7-408c-b28a-13af6994d7f1": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'goor'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "go:r"
 }

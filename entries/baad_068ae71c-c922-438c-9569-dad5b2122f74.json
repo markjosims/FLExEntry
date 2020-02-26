@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 25,
   "entry_id": "baad_068ae71c-c922-438c-9569-dad5b2122f74",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "baad",
   "morph_type": "stem",
-  "pronunciation": "ba:d˺",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ba:d˺",
   "sense": {
     "783a338a-818d-4a66-9784-aae54e3af35a": {
       "pos": "adv",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ba:d"
 }

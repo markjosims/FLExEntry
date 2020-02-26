@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 1081,
   "entry_id": "co̰:g_9e1ed034-5c26-4a40-a9ed6952de801cd3",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "co̰:g",
   "morph_type": "stem",
-  "pronunciation": "co̰:g",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'tsʹoog'}",
+  "pronunciation": "co̰:g",
   "sense": {
     "4dda01e3-4cc8-4051-809a-ec2534727c54": {
       "pos": "n",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'tsʹoog'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "co̰:g"
 }

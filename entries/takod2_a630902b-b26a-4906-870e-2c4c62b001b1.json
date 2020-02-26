@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 491,
   "entry_id": "takod2_a630902b-b26a-4906-870e-2c4c62b001b1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "takod",
   "morph_type": "stem",
-  "pronunciation": "takod̚",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "takod̚",
   "sense": {
     "211f702c-327a-4edb-ad92-3b10980b1502": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "takod"
 }

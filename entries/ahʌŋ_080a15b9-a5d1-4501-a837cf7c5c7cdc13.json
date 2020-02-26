@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 777,
   "entry_id": "ahʌŋ_080a15b9-a5d1-4501-a837cf7c5c7cdc13",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "ahʌŋ",
   "morph_type": "stem",
-  "pronunciation": "ahʌŋ",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Cartilhas': 'häng', 'Sil Dict 2011': 'ahäng'}",
+  "pronunciation": "ahʌŋ",
   "sense": {
     "8ac899b5-87a0-4f40-8381-223334c53938": {
       "pos": "v",
@@ -22,7 +25,7 @@
       "these_vars": "{'dahäng_8ab640ce-f06d-48f7-bdac-ab47cd48ff0a': {'type': '_component-lexeme', 'variant-type': 'Causativo'}, 'ahëë_c341ea39-5565-4c4d-9307-015889a92233': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}, 'ahëëh_f552375d-10e3-4742-a485-933874754632': {'type': '_component-lexeme', 'variant-type': 'Não indicativo'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Cartilhas': 'häng', 'Sil Dict 2011': 'ahäng'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "ahʌŋ"
 }

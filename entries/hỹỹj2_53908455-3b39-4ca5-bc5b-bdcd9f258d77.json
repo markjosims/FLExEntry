@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 251,
   "entry_id": "hỹỹj2_53908455-3b39-4ca5-bc5b-bdcd9f258d77",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:56Z",
+  "date_modified": "",
   "headword": "hỹỹj",
   "morph_type": "stem",
-  "pronunciation": "hɨ̃:j",
-  "variant_of": {},
-  "these_vars": {},
   "note": null,
+  "other_sources": "{'Sil Dict 2011': 'hỹỹj'}",
+  "pronunciation": "hɨ̃:j",
   "sense": {
     "9f8200d9-d9fb-4bea-995b-b9e7c94d3725": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:56Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": "{'Sil Dict 2011': 'hỹỹj'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "hɨ̃:j"
 }

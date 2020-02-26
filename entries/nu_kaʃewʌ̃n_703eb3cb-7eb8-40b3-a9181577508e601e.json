@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 972,
   "entry_id": "nu kaʃewʌ̃n_703eb3cb-7eb8-40b3-a9181577508e601e",
+  "bibliography": "SIL Dict 2011",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "",
   "headword": "nu kaʃewʌ̃n",
   "morph_type": "phrase",
-  "pronunciation": "nu kaʃewʌ̃n",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Sil Dict 2011."
   },
+  "other_sources": "{'Sil Dict 2011': 'nu kasewä̃n'}",
+  "pronunciation": "nu kaʃewʌ̃n",
   "sense": {
     "55d7c82e-f85a-4179-960d-a5f463c4a251": {
       "pos": "v",
@@ -15,14 +18,14 @@
         "pt": "sacudir.cabeça"
       },
       "def": {
-        "pt": "sacudir a cabeça depois de omar banho; esquivar-se"
+        "pt": "sacudir a cabeça depois de tomar banho; esquivar-se"
       },
       "reverse": "",
       "note": "",
       "these_vars": "{'nu kasewʹỹỹn_905727be-2f8d-48b1-ab46-01a0aeb93aa7': {'type': '_component-lexeme', 'variant-type': 'Habitual'}}"
     }
   },
-  "date": "2018-03-08T07:17:53Z",
-  "bibliography": "SIL Dict 2011",
-  "other_sources": "{'Sil Dict 2011': 'nu kasewä̃n'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "nu kaʃewʌ̃n"
 }

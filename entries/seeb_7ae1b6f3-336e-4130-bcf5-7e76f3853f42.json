@@ -1,0 +1,31 @@
+{
+  "Unnamed: 0": 1357,
+  "entry_id": "seeb_7ae1b6f3-336e-4130-bcf5-7e76f3853f42",
+  "bibliography": "",
+  "date": "2018-03-08T07:17:53Z",
+  "date_modified": "2019-11-05T20:05:18Z",
+  "headword": "seeb",
+  "morph_type": "stem",
+  "note": {
+    "bibliography": "SIL 2011"
+  },
+  "other_sources": "{}",
+  "pronunciation": "ʃe:b",
+  "sense": {
+    "fd97e6ad-10cc-4398-b747-938462021688": {
+      "pos": "adv op",
+      "gloss": {
+        "pt": "outro"
+      },
+      "def": {
+        "pt": "um; outro"
+      },
+      "reverse": "",
+      "note": "",
+      "these_vars": ""
+    }
+  },
+  "these_vars": {},
+  "variant_of": null,
+  "ipa": "ʃe:b"
+}

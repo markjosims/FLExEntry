@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 519,
   "entry_id": "hyb n’aa newëë_b19ae730-3f6e-42da-b0b5-1354d9e044d1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-10T23:20:27Z",
+  "date_modified": "",
   "headword": "hyb n’aa newëë",
   "morph_type": "phrase",
-  "pronunciation": "hɨb˺ naʔaʔ neʔˈwǝ:ʔ",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "hɨb˺ naʔaʔ neʔˈwǝ:ʔ",
   "sense": {
     "85ac41ac-e911-4d6d-8c0d-c3e7cd8fde16": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-10T23:20:27Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "hɨb na̰: newə:"
 }

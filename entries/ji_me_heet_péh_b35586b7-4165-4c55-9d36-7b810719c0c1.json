@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 526,
   "entry_id": "ji me heet péh_b35586b7-4165-4c55-9d36-7b810719c0c1",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-27T19:45:33Z",
+  "date_modified": "",
   "headword": "ji me heet péh",
   "morph_type": "phrase",
-  "pronunciation": "ji meʔ ˈhe:t˺ ˈpɛh",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ji meʔ ˈhe:t˺ ˈpɛh",
   "sense": {
     "d3f3789f-497c-46fc-851e-869de94cdfee": {
       "pos": "",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-27T19:45:33Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ji me he:t pɛh"
 }

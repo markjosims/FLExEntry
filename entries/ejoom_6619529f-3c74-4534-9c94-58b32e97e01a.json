@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 292,
   "entry_id": "ejoom_6619529f-3c74-4534-9c94-58b32e97e01a",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2018-07-15T21:39:43Z",
+  "date_modified": "",
   "headword": "ejoom",
   "morph_type": "stem",
-  "pronunciation": "ʔeʔjo:bm",
-  "variant_of": {},
-  "these_vars": null,
   "note": {},
+  "other_sources": "",
+  "pronunciation": "ʔeʔjo:bm",
   "sense": {
     "9b21b6d8-442d-409d-bc46-ae2c18f0cd84": {
       "pos": "Verb",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-07-15T21:39:43Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ejo:m"
 }

@@ -11,7 +11,6 @@ import pandas as pd
 from ast import literal_eval
 from datetime import datetime
 from GenerateLexDir import main as gld
-#from PandasExcel import remove_bom, add_bom
 
 master = 'flexicon.csv'
 martins_file = 'MartinsDatabase.csv'

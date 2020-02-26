@@ -1,13 +1,16 @@
 {
+  "Unnamed: 0": 950,
   "entry_id": "jara:k_67892484-cc37-4642-b7d8f72b736f6255",
+  "bibliography": "Barbosa",
+  "date": "2018-06-20T05:09:54Z",
+  "date_modified": "",
   "headword": "jara:k",
   "morph_type": "stem",
-  "pronunciation": "jara:k",
-  "variant_of": {},
-  "these_vars": {},
   "note": {
     "Note": "Predicted phonemic form from source Barbosa."
   },
+  "other_sources": "{'Barbosa': 'jaɾaːk'}",
+  "pronunciation": "jara:k",
   "sense": {
     "d5618481-3a56-45bc-803c-b8a4de30bd81": {
       "pos": "Noun",
@@ -20,7 +23,7 @@
       "these_vars": ""
     }
   },
-  "date": "2018-06-20T05:09:54Z",
-  "bibliography": "Barbosa",
-  "other_sources": "{'Barbosa': 'jaɾaːk'}"
+  "these_vars": {},
+  "variant_of": {},
+  "ipa": "jara:k"
 }

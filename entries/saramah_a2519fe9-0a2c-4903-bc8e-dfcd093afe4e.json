@@ -1,11 +1,14 @@
 {
+  "Unnamed: 0": 475,
   "entry_id": "saramah?_a2519fe9-0a2c-4903-bc8e-dfcd093afe4e",
+  "bibliography": "Fieldnotes Epps/Obert; 2018",
+  "date": "2019-01-14T03:46:55Z",
+  "date_modified": "",
   "headword": "saramah?",
   "morph_type": "stem",
-  "pronunciation": "ʃaɾabmãh",
-  "variant_of": {},
-  "these_vars": null,
   "note": null,
+  "other_sources": "",
+  "pronunciation": "ʃaɾabmãh",
   "sense": {
     "79383229-00b4-4a3d-9e07-12b9c9180b6c": {
       "pos": "Noun",
@@ -22,7 +25,7 @@
       "these_vars": ""
     }
   },
-  "date": "2019-01-14T03:46:55Z",
-  "bibliography": "Fieldnotes Epps/Obert; 2018",
-  "other_sources": ""
+  "these_vars": null,
+  "variant_of": {},
+  "ipa": "ʃaramah"
 }
