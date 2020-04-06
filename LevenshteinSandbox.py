@@ -43,6 +43,8 @@ class SmartLevenshtein(object):
     def get_distance(self, s, t, ratio_calc=False):
         
         # Initialize matrix of zeros
+        assert type(s) is str, s
+        assert type(t) is str, t
         rows = len(s)+1
         cols = len(t)+1
         distance = np.zeros((rows,cols),dtype = float)
@@ -95,9 +97,9 @@ class SmartLevenshtein(object):
             # print(distance)
             return Ratio
         else:
-            print(distance) # Uncomment if you want to see the matrix showing how the algorithm computes the cost of deletions,
+            # print(distance) # Uncomment if you want to see the matrix showing how the algorithm computes the cost of deletions,
             # insertions and/or substitutions
             # This is the minimum number of edits needed to convert string a to string b
-            return "The strings are {} edits away".format(distance[rows-1][cols-1])
+            return distance[rows-1][cols-1]
             
 lev = SmartLevenshtein()

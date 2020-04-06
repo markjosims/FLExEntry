@@ -89,7 +89,7 @@ def read_entry(r, id_only=False):
                         entry_data[key] = data
                 break
         else:
-            assert line == '</entry>', entry_data
+            assert line == '</entry>', line + ' ' + str(entry_data)
             break
         
         line, line_bytes = r_d_bytes(r)

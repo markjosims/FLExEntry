@@ -16,11 +16,13 @@ def tag_globals():
     global entry_tags, sense_tags
     entry_tags = {
                   'lexical-unit':write_lu,
+                  'citation_form':write_cit,
                   'pronunciation':write_pronunc,
                   'note':write_note,
                   'variant_of':write_var,
                   'sense':write_sense,
-                  'other_sources':write_custom
+                  'other_sources':write_custom,
+                  'bibliography':write_bib
                  }
     sense_tags = {
                   'grammatical-info':write_pos,
@@ -39,7 +41,7 @@ def write_entry(row, root):
              }
     entry = ET.SubElement(root, 'entry', attrib)
     
-    for tag, funct in entry_tags.items():
+    for _, funct in entry_tags.items():
         funct(row, entry)
 
 def write_lu(row, entry):
@@ -47,7 +49,15 @@ def write_lu(row, entry):
     lu = ET.SubElement(entry, 'lexical-unit')
     form = ET.SubElement(lu, 'form', lang=doc_lang)
     ET.SubElement(form, 'text').text = hdwrd
-    
+
+def write_cit(row, entry):
+    cit_form = row['citation_form']
+    if not cit_form:
+        return
+    cit = ET.SubElement(entry, 'citation')
+    form = ET.SubElement(cit, 'form', lang=doc_lang)
+    ET.SubElement(form, 'text').text = cit_form
+
 def write_pronunc(row, entry):
     phonet = row['pronunciation']
     pronunc = ET.SubElement(entry, 'pronunciation')
@@ -58,6 +68,8 @@ def write_note(row, entry):
     note_dict = row['note']
     if not note_dict:
         return
+    if 'bibliography' in row and row['bibliography']:
+        note_dict['bibliography'] = row['bibliography']
     for k, v in note_dict.items():
         if type(v) is str:
             pass
@@ -72,20 +84,22 @@ def write_note(row, entry):
             note = ET.SubElement(entry, 'note', type=k)
         form = ET.SubElement(note, 'form', lang=analys_lang[0])
         ET.SubElement(form, 'text').text = v
-        
+
 def write_var(row, entry):
     var_dict = row['variant_of']
     if not var_dict:
         return
     
     for k, v in var_dict.items():
+        if not k or k.startswith('null'):
+            continue
         assert type(v) is dict
         
         attr = {'ref':k}
         v_type = v.pop('type')
         if not v_type.startswith('null'):
             attr['type'] = v_type
-        relation = ET.SubElement(entry, 'relation')
+        relation = ET.SubElement(entry, 'relation', attrib=attr)
         summ = v.pop('summary') if 'summary' in v else None
         
         for sub_k, sub_v in v.items():
@@ -106,7 +120,10 @@ def write_custom(row, entry):
         field = ET.SubElement(entry, 'field', type=k)
         form = ET.SubElement(field, 'form', lang=analys_lang[0])
         ET.SubElement(form, 'text').text = v
-            
+
+def write_bib(row, entry):
+    pass
+           
 def write_sense(row, entry):
     senses = row['sense']
     if not senses:
@@ -115,7 +132,7 @@ def write_sense(row, entry):
         sense = ET.SubElement(entry, 'sense', id=sense_id)
         sense_row = senses_df.loc[sense_id]
         
-        for tag, funct in sense_tags.items():
+        for _, funct in sense_tags.items():
             funct(sense_row, sense)
             
 def write_pos(row, sense):

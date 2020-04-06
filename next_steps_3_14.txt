@@ -1,0 +1,6 @@
+* make citation form field
+    - for verbs, should be form w/o a/e prefix
+* make another LIFT export
+    - find all entries that have been created since last export
+    - find all entries that have been modified since last export
+    - actually, let's wait until Karol says she won't be modifying FLEx for a day or two

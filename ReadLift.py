@@ -10,9 +10,9 @@ from GenerateLexDir import generate_lex_dir
 from time import time
 import pandas as pd
 
-in_file = 'export.lift'
-out_file = 'flexicon.csv'
-senses_file = 'flex_senses.csv'
+in_file = 'Flexport_3_17//Flexport_3_17.lift'
+out_file = 'Flexport_3_17//new_flexicon'
+senses_file = 'Flexport_3_17//new_senses'
 
 global run_lex_dir
 run_lex_dir = False

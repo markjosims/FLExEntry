@@ -1,0 +1,28 @@
+péh - Weir gives this word as "a one", and SIL as "membro da classe de X".
+	It doesn't appear as an independent lexeme in our fieldnotes, but it
+	does appear in the words for 4 (ji ma poo oow péh) and 5 (ji me heet
+	péh). Do we want to make an entry for this from our fieldnotes?
+rʼoot - this is the root for the verb to speak. Our FLEx database, however,
+	had entries for erʼoot, berʼoot, nerʼoo't and herʼoot. How many entries
+	do we want to keep? Should we just keep the root rʼoot (with lexeme form
+	erʼoot, as per convention?)
+béak - Listed as PFX.ter.fruta. cf. (e)aak (ter.fruta). Do we want this as a 
+	separate entry, or just delete it?
+gãã - it was glossed as "ver," but so is "hegʼããs." I went ahead and made
+	two entries, but just want to confirm - these are BOTH valid verbs
+	attested in our fieldnotes?
+tim - "tim" was defined in FLEx as "então", but so is "ti" - are these
+	two synonyms?
+näng - defined as "ser" in FLEx, but it isn't glossed in any examples I can
+	find, and it's meaning isn't clear to me from context. 
+tahawëënh - this entry was defined as "descer." I noticed there was a
+	starred entry (from the SIL dictionary) that was awә:ɲ* and glossed
+	as "descer.para.rio," so I changed awә:ɲ* to (a)wëënh, put the bibliography
+	as Fieldnotes Epps/Obert 2019. I figured the prefixes ta-h- shouldn't be
+	included in the entry. Do you think this was the right call?
+wëët - this entry was defined as "andar." Should we make it a variant of
+	(a)wät?
+päh - defined as "ver." Do we want to make "hapäh" a variant of this?
+gʼããs - ditto. Do we want to make "hegʼããs" a variant of this?
+nä - defined as "vir." "na" (sem puntinhos) is also defined as "vir." Is one of
+	these a typo?

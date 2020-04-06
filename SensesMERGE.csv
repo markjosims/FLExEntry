@@ -34,7 +34,7 @@ baa0255c-d216-40c6-9314-c2b8ae598c65,,"{'en': 'burn.big.fire', 'pt': 'queimar.fo
 67813880-b0ef-4e72-8cc0-55dda9bf5e6f,Verb,"{'en': 'yawn', 'pt': 'bocejar'}","{'en': 'yawn', 'pt': 'bocejar'}",,,
 49d89e7e-ca3b-4eaf-970c-5112be5fc622,v,"{'en': 'sit', 'pt': 'sentar'}","{'en': 'sit', 'pt': 'sentar'}",,,
 9590b51f-1870-494d-872b-0b8ee8932571,?,{'pt': '?'},{'pt': '?'},,,
-a0099690-e26e-4ccf-9c51-05f474045139,Verb,{'en': 'be.scarred'},,,,
+a0099690-e26e-4ccf-9c51-05f474045139,Verb,{'en': 'be.scared'},,,,
 93710c4c-822f-4475-9c65-0f1886aa7db0,,{'pt': 'sozinho'},,,,
 b717cb48-a126-4b12-8c82-feec7dd8c359,n,{'pt': 'banana.sp'},{'pt': 'esp. de banana'},,,
 b76b93ca-1032-4a40-9a95-1031ce3ca8d9,,"{'en': 'NMRL:1', 'pt': 'NMRL:1'}","{'en': 'one', 'pt': 'um'}",,,

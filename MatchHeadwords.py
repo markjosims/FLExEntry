@@ -2,13 +2,7 @@
 """
 Created on Fri Nov 29 12:13:52 2019
 
-This program is O(n^2) for a file with 13k lines
-Not to mention that each word is divided into syllables,
-and that the edit_distance algorithm is run on every
-substring compared.
-So it's like O( ((s^3)*13,000)^2 ),
-where s is the length of a string from a row in in_file.
-Don't run it if you expect results in less than an hour.
+O(thicc)
 
 @author: Mark
 """
@@ -29,13 +23,13 @@ def time_exec(f):
 
 # configure string comparison object
 lev = SmartLevenshtein()
-lev.set_weight('ʔh\u0303\u0330:', 0.5)
+lev.set_weight('ʔh\u0303\u0330:', 0.25)
 sim_strs = ('ʔh', 'mw', 'mb', 'pb', 'td', 'dn', 'kg', 'gŋ', 'ŋh', 'ʃc', 'ɲj'\
             'ou', 'oɔ', 'ɨi', 'eɛ', 'əɨ', 'aəʌ')
 for ss in sim_strs:
     # chars identified as being "phonologically close" are considered half as
     # far compared to non-similar chars
-    lev.set_similar(ss, 1)
+    lev.set_similar(ss, 0.25)
 
 in_file = "ipa_conv_output.csv"
 out_file = "headword_matches.csv"
@@ -71,16 +65,19 @@ def ignore_null(f):
 # looks for matches for each substring
 # returns list of all unique matches
 @ignore_null
+@time_exec
 def get_matches(broad, df, this_id):
+    #print(f"matches for: {broad}")
     matches = {}
     for index, row in df.iterrows():
         ipa = row['ipa']
+        #print(ipa)
         headword = row['headword']
         if index == this_id:
             continue
-        score = lev.get_distance(broad, ipa, True)
-        if score > 0.85:
-            matches[index] = (headword, score)
+        edits = lev.get_distance(broad, ipa, False)
+        if edits < 1.0:
+            matches[index] = (headword, edits)
 
     return matches
 

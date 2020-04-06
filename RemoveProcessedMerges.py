@@ -1,22 +1,22 @@
 import pandas as pd
 from GenerateLexDir import literal_eval_col
 
-in_file = 'merge_matches.csv'
+in_file = 'merge_matches3_1.csv'
 
 def main():
     df = pd.read_csv(in_file, keep_default_na=False, index_col='entry_id')
-    df.to_csv('merge_matchesOLD.csv')
-    literal_eval_col(df, 'matches')
+    df.to_csv('merge_matches3_1OLD.csv')
     print(len(df))
     
-    processed = ['merge' in x for x in df['status']]
-    unprocessed = [not x for x in processed]
-    processed = df[processed]
+    merge = [x=='merge' for x in df['status']]
+    ignore = [x=='ignore' for x in df['status']]
+    unprocessed = [not x for x in df['status']]
+
+    merge = df[merge]
+    ignore = df[ignore]
     unprocessed = df[unprocessed]
 
-    processed_ids = list(processed.index)
-    for m in processed['matches']:
-        processed_ids.extend( m.keys() )
+    processed_ids = list(merge.index) + list(merge['match_id'])
     
     for id in processed_ids:
         if id in unprocessed.index:

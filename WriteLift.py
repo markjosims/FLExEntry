@@ -11,8 +11,8 @@ import lxml.etree as etree
 import WriteLiftTags as wlt
 from ast import literal_eval
 
-in_file = 'flexiconHDWRDS.csv'
-senses_file = 'flex_senses.csv'
+in_file = 'flexicon-3-20.csv'
+senses_file = 'senses_3_3-FORMATTED.csv'
 lit_cols_flexicon = (
                      'variant_of',
                      'these_vars',
@@ -44,7 +44,7 @@ def main():
     header = ET.parse('header.xml').getroot()
     root.append(header)
     
-    for index, row in flexicon.iterrows():
+    for _, row in flexicon.iterrows():
         wlt.write_entry(row, root)
     
     tree = ET.ElementTree(root)

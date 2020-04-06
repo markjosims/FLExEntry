@@ -1,16 +1,25 @@
-* All matches in the FLEx data have been removed or have notes indicating any issues w/ them in merge_matches.csv OR in new_matches.csv
-* Still need to "condense" variants
+* All matches in the FLEx data have been removed or have notes indicating any issues w/ them in merge_matches.csv OR in new_matches.csv ## ACTUALLY TRUE NOW ##
+* Still need to "condense" variants ## DONE ##
 	- morphological variants (e.g. "taah pl. of t'aah") should all be in one str in Bibliographic Field
 	- first step to do this is to print out a set of all unique variant types so I can know what I'm dealing w/
 * Also question of linking roots to entries that are clearly PFX + root
 	- use list of prefixes and match algorithm, tweak distance parameter to only accept e.g. >=0.95 (no sense overloading
 	ourselves w/ false positives)
-* Remove variant fields that reference records that have been deleted.
-* Enforce consistent formatting in bibliography column
+	- let's do this later, when we actually understand the prefixes
+* Remove variant fields that reference records that have been deleted. ## NO LONGER NEEDED ##
+* Enforce consistent formatting in bibliography column ## DONE ##
 	- also, remove bibliography key from notes column wherever present
-* Enforce consistent formatting in PoS field
-* Enforce consistent usage of apostrophes
-* Prepend asterisk to hypothetical records
-* Re-match these_vars and other_sources to right guid's cuz they somehow got shuffled #FIXED#
-* Resolve all instances of %OR% in FlexiconMERGE.csv
+* Enforce consistent formatting in PoS field ## DONE ##
+* Enforce consistent usage of apostrophes ## DONESKI ##
+* Prepend asterisk to hypothetical records ## DONE ##
+* Re-match these_vars and other_sources to right guid's cuz they somehow got shuffled ## FIXED ##
+* Resolve all instances of %OR% in FlexiconMERGE.csv ## GO OVER REST W KAROL ##
 * Remove number before guid when not needed
+* NOTE: deleted variant "daari" of "daar" b/c it looked like a mistake
+
+* Add this row back in:
+pëëw_bc51e1f0-68ce-4051-b925-7b7eef2ce693	Fieldnotes Epps/Obert; 2018	2019-01-14T03:46:55Z		pëëw	stem			pə:w	[{'pos': 'Noun', 'gloss': {'en': 'loincloth', 'pt': 'tanga'}, 'def': {'en': 'loincloth', 'pt': 'tanga; tapa-sexo'}, 'reverse': '', 'note': '', 'these_vars': ''}]
+- maybe make variant of ỹỹn?
+ëën_fe7eb662-ab08-4960-beed-46e3474784d5	Epps/Obert Fieldnotes 2019	2020-01-08T19:25:42Z	2020-01-08T19:26:50Z	ëën	root	{'bibliography': 'Epps/Obert; Fieldnotes 2019'}	{}	ǝ:n	[{'pos': 'Noun', 'gloss': {'en': 'mother.Voc', 'pt': 'mãe.Voc'}, 'def': {'en': 'mother vocativo', 'pt': 'mãe vocativo'}, 'reverse': '', 'note': '', 'these_vars': ''}]
+tɨ:_e4e003b3-b87d-4e64-853a137ee8f53b30	Weir 1990	2018-06-20T05:09:54Z		tɨ:	stem	{'Note': 'Predicted phonemic form from source Weir.'}	{'Weir': 'tɨɨ'}	tɨ:	[{'pos': 'Verb', 'gloss': {'en': 'fish'}, 'def': None, 'reverse': '', 'note': '', 'these_vars': ''}]	{'tɨɨ_e4e003b3-b87d-4e64-853a-137ee8f53b2f': {'type': '_component-lexeme', 'variant-type': 'Weir 1990'}}
+

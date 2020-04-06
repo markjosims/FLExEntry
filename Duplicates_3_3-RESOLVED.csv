@@ -1,0 +1,31 @@
+entry_id,bibliography,date,date_modified,headword,morph_type,note,other_sources,pronunciation,sense,these_vars,variant_of
+ër_139ca9bb-450f-4124-8497-3fa5f304fa62,Epps/Obert Fieldnotes 2018,2018-07-10T23:50:09Z,2020-01-08T19:26:05Z,ër %OR% ëër,stem,{'bibliography': 'Fieldnotes Epps/Obert; 2018'},{},ʔǝɾǝ,['2ead3007-e5a6-45a3-bafa-401642bb2ba8'],{},
+,,,,,,,,,,,
+seeh_1cfd2a36-ecf9-42a1-8bdc-2975ec83305d,Epps/Obert Fieldnotes 2018,2018-07-07T17:55:36Z,2019-11-05T20:05:12Z,seeh,phrase,{'bibliography': 'Fieldnotes Epps/Obert; 2018'},{},ʃe:h,['1df41774-55b8-4973-9205-89e0e4227579'],{},"{'null': {'type': '_component-lexeme', 'complex-form-type': 'Unspecified Complex Form'}}"
+,,,,,,,,,,,
+jaah_73c5535f-972b-4711-b80a-904d9c468a08,Fieldnotes Epps/Obert; 2018,2018-07-11T00:07:32Z,,jaah,stem,{},,ja:h,['c9f767f7-b1b3-4859-b9bf-21721018cdf4'],,{}
+,,,,,,,,,,,
+nuu k’ëë_740bd66c-bce6-41f0-b0db-badc43e94128,Epps/Obert Fieldnotes 2018,2018-07-07T17:41:08Z,2020-01-08T16:20:15Z,nuu k’ëë %OR% nu k’ëë ,phrase,"{'bibliography': 'Fieldnotes Epps/Obert; 2018', 'Note': 'problem: nũ kǝʔeʔ or  nũ kɨʔɨʔ'}",{},nũ: kǝʔeʔ,['60ce194c-de53-425d-94f3-03645fc7df79'],{},"{'nuuh_98b2fa13-5514-4958-bbe6-86001f73c6a4': {'type': '_component-lexeme', 'is-primary': 'true', 'complex-form-type': 'Unspecified Complex Form'}, 'k’ëë_33265ec6-c2f0-40d5-a1eb-edc43610b9ea': {'type': '_component-lexeme', 'complex-form-type': 'Unspecified Complex Form'}}"
+,,,,,,,,,,,
+maj’ëeh_7d9b566b-8897-43aa-aa2c-44c3136b2409,Epps/Obert Fieldnotes 2018,2018-07-27T22:55:14Z,2019-11-11T00:28:04Z,maj’ëeh %OR% maj’ëe,stem,{'bibliography': 'Fieldotes Epps/Obert; 2018'},{},majəʔəh,['f69a73c7-5733-40ea-9196-3004f374dfc5'],{},
+,,,,,,,,,,,
+sog_80913b3d-28ba-4da4-8c82-93874db73850,Epps/Obert Fieldnotes 2019,2019-01-14T03:46:56Z,2019-12-15T23:29:00Z,sog,phrase,{'bibliography': 'Epps/Obert; Fieldnotes 2019'},{},ʃog̚,['80811e83-be04-40fd-95f2-a220bf016501'],{},
+,,,,,,,,,,,
+p&apos;ëëts hẽ_861f321d-8e0a-420b-ade0-944ee4181915,Epps/Obert Fieldnotes 2019,2018-07-07T17:37:39Z,2020-01-08T02:14:53Z,p'ëëts hẽ %OR% p’eets hẽ ,phrase,{'bibliography': 'Epps/Obert; Fieldnotes 2019'},{'Sil Dict 2011': 'pʹeets hẽ'},peʔeɉ hẽʔ],"['91dcc3b9-cc81-41c9-b099-8363fbeba894', 'b4de4d74-e91d-4833-b897-de1c99703bd9']",{},
+,,,,,,,,,,,
+yt_cd8fb829-67d8-4a04-a238-3aded439a29f,Epps/Obert Fieldnotes 2019,2018-03-22T23:04:27Z,2020-01-08T17:30:46Z,yt %OR% yt hẽ,phrase,{'bibliography': 'Fieldnotes Epps/Obert; 2019'},{},ʔɨt,['2b454b15-5a77-4d53-aee2-445bd573d43d'],{},
+,,,,,,,,,,,
+tëëg hõõ_d8c36eed-f9d1-43ea-a049-1b237a789149,,2019-01-14T03:46:55Z,2020-01-08T18:50:24Z,tëëg hõõ %OR% tëëg hood,phrase,,{},tə:g̚ hõ:,['8963adbf-1acf-429a-afcc-f6eaa0aff567'],{},
+,,,,,,,,,,,
+jeti_07ed138d-ebf1-48c5-989e-c0786f993fff,Epps/Obert Fieldnotes 2019,2018-03-08T07:17:52Z,2019-11-25T02:16:17Z,jeti,stem,{'bibliography': 'Epps/Obert; Fieldnotes 2019'},"{'Barbosa': 'jatiʔ', 'Sil Dict 2011': 'jati'}",jeti,['5d24971c-7fce-49dc-9988-bb1f09205e3c'],"{'jatiʔ_0b1cceca-d60b-4282-966e-c4c7872762fe': {'type': '_component-lexeme', 'variant-type': 'Barbosa'}}",
+,,,,,,,,,,,
+mame_1a267230-fb27-4cf5-b2e1-0ba438da4a70,Epps/Obert Fieldnotes 2019,2018-03-08T07:17:53Z,2019-12-29T02:27:08Z,mame %OR% mamets,stem,{'bibliography': 'Epps/Obert; Fieldnotes 2019'},{'Sil Dict 2011': 'mamets'},mame,['227bbe98-e800-43d7-9785-c7cc771c892c'],{},
+,,,,,,,,,,,
+tḭ̃: hẽɲ_524e8f28-14f9-4dc9-a0907da114fd7c8a,SIL Dict 2011,2018-03-08T07:17:53Z,,tḭ̃: hẽɲ,phrase,{'Note': 'Predicted phonemic form from source Sil Dict 2011.'},{'Sil Dict 2011': 'tʹĩĩ hẽnh'},tḭ̃: hẽɲ,['55b7cce4-4891-4d38-86f2-55b14b2c805c'],"{'tʹĩĩ hẽnh_524e8f28-14f9-4dc9-a090-7da114fd7c89': {'type': '_component-lexeme', 'variant-type': 'SIL Dict 2011'}}",{}
+tĩĩnh_524e8f28-14f9-4dc9-a090-7da114fd7c89,Epps/Obert Fieldnotes 2019,2018-03-08T07:17:53Z,2019-12-31T13:36:34Z,tĩĩnh,phrase,{'bibliography': 'Epps/Obert; Fieldnotes 2019'},{'Sil Dict 2011': 'tʹĩĩ hẽnh'},tĩ:hɛ̃ɲ,['55b7cce4-4891-4d38-86f2-55b14b2c805c'],{},
+,,,,,,,,,,,
+seeb_7ae1b6f3-336e-4130-bcf5-7e76f3853f42,SIL Dict 2011,2018-03-08T07:17:53Z,2019-11-05T20:05:18Z,seeb %OR% seeh,stem,{'bibliography': 'SIL 2011'},{'Sil Dict 2011': 'seeh'},ʃe:b,['fd97e6ad-10cc-4398-b747-938462021688'],{},
+,,,,,,,,,,,
+wëëm_990d5cb5-98be-420d-9662-a39d1662fc24,Epps/Obert Fieldnotes 2019,2018-06-20T05:09:54Z,2019-12-20T19:43:23Z,wëëm %OR% wëm ,stem,{'bibliography': 'Epps/Obert; Fieldnotes 2019'},{'Barbosa': 'wəm/wɨːm'},wə:bm,['832045c5-8729-4d05-abcf-7b9fd60d538b'],{},
+,,,,,,,,,,,
+eỹỹm2_b7f8608c-1aaa-4014-b04d-968cde2f7f87,Epps/Obert Fieldnotes 2019,2018-03-08T07:17:53Z,2019-11-11T00:32:55Z,eỹỹm,stem,"{'bibliography': 'Epps/Obert; fieldnotes 2019, SIL 2011'}","{'SIL Dict 2011': 'eỹỹm, Não indicativo: eỹm'}",eɨ̃:m,['b3209c8e-3460-48bd-8ce6-2ecd3acfb90d'],{},
